@@ -1,0 +1,47 @@
+{"op":"mcm","clk":"11767145955","pt":1722616920617,"mc":[{"id":"1.231371358","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33462952","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"2_INNING_10_OVR_LINE","marketTime":"2024-08-04T09:00:00.000Z","suspendTime":"2024-08-04T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-04T09:00:00.000Z","version":6051728076,"name":"2nd Innings 10 Overs Line","eventName":"Sri Lanka v India"}}]}
+{"op":"mcm","clk":"11780381367","pt":1722762057538,"mc":[{"id":"1.231371358","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33462952","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"2_INNING_10_OVR_LINE","marketTime":"2024-08-04T09:00:00.000Z","suspendTime":"2024-08-04T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-04T09:00:00.000Z","version":6056012714,"name":"2nd Innings 10 Overs Line","eventName":"Sri Lanka v India"}}]}
+{"op":"mcm","clk":"11781763453","pt":1722775497205,"mc":[{"id":"1.231371358","rc":[{"ltp":58.5,"id":15316}]}]}
+{"op":"mcm","clk":"11781792533","pt":1722775737579,"mc":[{"id":"1.231371358","rc":[{"ltp":59.5,"id":15316}]}]}
+{"op":"mcm","clk":"11781811092","pt":1722775917562,"mc":[{"id":"1.231371358","rc":[{"ltp":57.5,"id":15316}]}]}
+{"op":"mcm","clk":"11781817159","pt":1722775977452,"mc":[{"id":"1.231371358","rc":[{"ltp":58.5,"id":15316}]}]}
+{"op":"mcm","clk":"11781828331","pt":1722776097597,"mc":[{"id":"1.231371358","rc":[{"ltp":59.5,"id":15316}]}]}
+{"op":"mcm","clk":"11781835207","pt":1722776157348,"mc":[{"id":"1.231371358","rc":[{"ltp":58.5,"id":15316}]}]}
+{"op":"mcm","clk":"11781847940","pt":1722776277572,"mc":[{"id":"1.231371358","rc":[{"ltp":57.5,"id":15316}]}]}
+{"op":"mcm","clk":"11781854548","pt":1722776337551,"mc":[{"id":"1.231371358","rc":[{"ltp":56.5,"id":15316}]}]}
+{"op":"mcm","clk":"11781860824","pt":1722776397463,"mc":[{"id":"1.231371358","rc":[{"ltp":57.5,"id":15316}]}]}
+{"op":"mcm","clk":"11781907684","pt":1722776757421,"mc":[{"id":"1.231371358","rc":[{"ltp":56.5,"id":15316}]}]}
+{"op":"mcm","clk":"11781915567","pt":1722776816887,"mc":[{"id":"1.231371358","rc":[{"ltp":57.5,"id":15316}]}]}
+{"op":"mcm","clk":"11781923186","pt":1722776873331,"mc":[{"id":"1.231371358","rc":[{"ltp":56.5,"id":15316}]}]}
+{"op":"mcm","clk":"11781931392","pt":1722776932987,"mc":[{"id":"1.231371358","rc":[{"ltp":57.5,"id":15316}]}]}
+{"op":"mcm","clk":"11781948340","pt":1722777056558,"mc":[{"id":"1.231371358","rc":[{"ltp":58.5,"id":15316}]}]}
+{"op":"mcm","clk":"11781972965","pt":1722777237483,"mc":[{"id":"1.231371358","rc":[{"ltp":57.5,"id":15316}]}]}
+{"op":"mcm","clk":"11781991135","pt":1722777357417,"mc":[{"id":"1.231371358","rc":[{"ltp":54.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782018047","pt":1722777537580,"mc":[{"id":"1.231371358","rc":[{"ltp":55.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782026880","pt":1722777597549,"mc":[{"id":"1.231371358","rc":[{"ltp":54.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782043720","pt":1722777717393,"mc":[{"id":"1.231371358","rc":[{"ltp":53.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782060533","pt":1722777837583,"mc":[{"id":"1.231371358","rc":[{"ltp":51.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782075731","pt":1722777957505,"mc":[{"id":"1.231371358","rc":[{"ltp":53.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782083870","pt":1722778017565,"mc":[{"id":"1.231371358","rc":[{"ltp":55.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782091292","pt":1722778077538,"mc":[{"id":"1.231371358","rc":[{"ltp":57.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782099096","pt":1722778137392,"mc":[{"id":"1.231371358","rc":[{"ltp":58.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782106673","pt":1722778197469,"mc":[{"id":"1.231371358","rc":[{"ltp":57.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782123255","pt":1722778317577,"mc":[{"id":"1.231371358","rc":[{"ltp":58.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782139738","pt":1722778437511,"mc":[{"id":"1.231371358","rc":[{"ltp":59.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782147609","pt":1722778497553,"mc":[{"id":"1.231371358","rc":[{"ltp":62.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782155488","pt":1722778557430,"mc":[{"id":"1.231371358","rc":[{"ltp":64.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782172440","pt":1722778677543,"mc":[{"id":"1.231371358","rc":[{"ltp":63.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782181222","pt":1722778737529,"mc":[{"id":"1.231371358","rc":[{"ltp":66.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782198849","pt":1722778857546,"mc":[{"id":"1.231371358","rc":[{"ltp":70.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782206589","pt":1722778917497,"mc":[{"id":"1.231371358","rc":[{"ltp":69.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782223605","pt":1722778977562,"mc":[{"id":"1.231371358","rc":[{"ltp":70.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782231638","pt":1722779037533,"mc":[{"id":"1.231371358","rc":[{"ltp":68.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782239103","pt":1722779097537,"mc":[{"id":"1.231371358","rc":[{"ltp":67.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782246808","pt":1722779157517,"mc":[{"id":"1.231371358","rc":[{"ltp":72.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782254269","pt":1722779217588,"mc":[{"id":"1.231371358","rc":[{"ltp":71.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782262002","pt":1722779277545,"mc":[{"id":"1.231371358","rc":[{"ltp":70.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782269401","pt":1722779337526,"mc":[{"id":"1.231371358","rc":[{"ltp":72.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782275838","pt":1722779397321,"mc":[{"id":"1.231371358","rc":[{"ltp":73.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782282838","pt":1722779457482,"mc":[{"id":"1.231371358","rc":[{"ltp":70.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782290313","pt":1722779517542,"mc":[{"id":"1.231371358","rc":[{"ltp":75.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782311364","pt":1722779697179,"mc":[{"id":"1.231371358","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33462952","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"2_INNING_10_OVR_LINE","marketTime":"2024-08-04T09:00:00.000Z","suspendTime":"2024-08-04T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-04T09:00:00.000Z","version":6056613441,"name":"2nd Innings 10 Overs Line","eventName":"Sri Lanka v India"}}]}
+{"op":"mcm","clk":"11782334188","pt":1722779876879,"mc":[{"id":"1.231371358","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33462952","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"2_INNING_10_OVR_LINE","marketTime":"2024-08-04T09:00:00.000Z","suspendTime":"2024-08-04T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-04T13:57:08.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-04T09:00:00.000Z","version":6056621009,"name":"2nd Innings 10 Overs Line","eventName":"Sri Lanka v India"}}]}

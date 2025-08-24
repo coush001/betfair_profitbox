@@ -1,0 +1,47 @@
+{"op":"mcm","clk":"11889084567","pt":1724168486196,"mc":[{"id":"1.232056656","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33511969","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_6_OVR_LINE","marketTime":"2024-08-23T18:00:00.000Z","suspendTime":"2024-08-23T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-23T18:00:00.000Z","version":6087680313,"name":"1st Innings 6 Overs Line","eventName":"Netherlands v Canada"}}]}
+{"op":"mcm","clk":"11889105251","pt":1724168726975,"mc":[{"id":"1.232056656","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33511969","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_6_OVR_LINE","marketTime":"2024-08-23T14:00:00.000Z","suspendTime":"2024-08-23T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-23T14:00:00.000Z","version":6087683662,"name":"1st Innings 6 Overs Line","eventName":"Netherlands v Canada"}}]}
+{"op":"mcm","clk":"11907632256","pt":1724398662221,"mc":[{"id":"1.232056656","rc":[{"ltp":66.5,"id":15316}]}]}
+{"op":"mcm","clk":"11907986666","pt":1724404186501,"mc":[{"id":"1.232056656","rc":[{"ltp":28.5,"id":15316}]}]}
+{"op":"mcm","clk":"11908332730","pt":1724408625664,"mc":[{"id":"1.232056656","rc":[{"ltp":38.5,"id":15316}]}]}
+{"op":"mcm","clk":"11908881484","pt":1724414243639,"mc":[{"id":"1.232056656","rc":[{"ltp":42.5,"id":15316}]}]}
+{"op":"mcm","clk":"11908886629","pt":1724414302614,"mc":[{"id":"1.232056656","rc":[{"ltp":39.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909270908","pt":1724417993193,"mc":[{"id":"1.232056656","rc":[{"ltp":43.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909314341","pt":1724418433672,"mc":[{"id":"1.232056656","rc":[{"ltp":41.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909445282","pt":1724419755657,"mc":[{"id":"1.232056656","rc":[{"ltp":42.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909485137","pt":1724420121470,"mc":[{"id":"1.232056656","rc":[{"ltp":43.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909570136","pt":1724420842939,"mc":[{"id":"1.232056656","rc":[{"ltp":38.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909592359","pt":1724421055083,"mc":[{"id":"1.232056656","rc":[{"ltp":40.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909608084","pt":1724421204155,"mc":[{"id":"1.232056656","rc":[{"ltp":39.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909633418","pt":1724421442480,"mc":[{"id":"1.232056656","rc":[{"ltp":38.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909650797","pt":1724421624068,"mc":[{"id":"1.232056656","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33511969","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_6_OVR_LINE","marketTime":"2024-08-23T14:00:00.000Z","suspendTime":"2024-08-23T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-23T14:00:00.000Z","version":6092295561,"name":"1st Innings 6 Overs Line","eventName":"Netherlands v Canada"}}]}
+{"op":"mcm","clk":"11909656316","pt":1724421683920,"mc":[{"id":"1.232056656","rc":[{"ltp":40.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909661744","pt":1724421744125,"mc":[{"id":"1.232056656","rc":[{"ltp":39.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909667497","pt":1724421804175,"mc":[{"id":"1.232056656","rc":[{"ltp":42.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909673341","pt":1724421864046,"mc":[{"id":"1.232056656","rc":[{"ltp":43.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909679558","pt":1724421924143,"mc":[{"id":"1.232056656","rc":[{"ltp":45.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909691630","pt":1724422044116,"mc":[{"id":"1.232056656","rc":[{"ltp":44.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909697719","pt":1724422103999,"mc":[{"id":"1.232056656","rc":[{"ltp":42.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909709999","pt":1724422223915,"mc":[{"id":"1.232056656","rc":[{"ltp":40.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909715608","pt":1724422284163,"mc":[{"id":"1.232056656","rc":[{"ltp":42.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909721367","pt":1724422344160,"mc":[{"id":"1.232056656","rc":[{"ltp":41.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909727174","pt":1724422404014,"mc":[{"id":"1.232056656","rc":[{"ltp":42.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909732637","pt":1724422464115,"mc":[{"id":"1.232056656","rc":[{"ltp":43.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909737952","pt":1724422524162,"mc":[{"id":"1.232056656","rc":[{"ltp":41.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909743581","pt":1724422584096,"mc":[{"id":"1.232056656","rc":[{"ltp":43.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909749079","pt":1724422644064,"mc":[{"id":"1.232056656","rc":[{"ltp":41.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909754180","pt":1724422704096,"mc":[{"id":"1.232056656","rc":[{"ltp":38.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909759239","pt":1724422764093,"mc":[{"id":"1.232056656","rc":[{"ltp":39.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909764561","pt":1724422824074,"mc":[{"id":"1.232056656","rc":[{"ltp":38.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909776518","pt":1724422944077,"mc":[{"id":"1.232056656","rc":[{"ltp":39.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909781906","pt":1724423003785,"mc":[{"id":"1.232056656","rc":[{"ltp":42.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909787554","pt":1724423063877,"mc":[{"id":"1.232056656","rc":[{"ltp":43.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909798876","pt":1724423184098,"mc":[{"id":"1.232056656","rc":[{"ltp":45.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909804723","pt":1724423244160,"mc":[{"id":"1.232056656","rc":[{"ltp":44.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909817439","pt":1724423364115,"mc":[{"id":"1.232056656","rc":[{"ltp":43.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909824284","pt":1724423424084,"mc":[{"id":"1.232056656","rc":[{"ltp":40.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909837414","pt":1724423544081,"mc":[{"id":"1.232056656","rc":[{"ltp":39.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909843438","pt":1724423604058,"mc":[{"id":"1.232056656","rc":[{"ltp":41.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909849622","pt":1724423664164,"mc":[{"id":"1.232056656","rc":[{"ltp":40.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909855926","pt":1724423724133,"mc":[{"id":"1.232056656","rc":[{"ltp":41.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909862111","pt":1724423784066,"mc":[{"id":"1.232056656","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33511969","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_6_OVR_LINE","marketTime":"2024-08-23T14:00:00.000Z","suspendTime":"2024-08-23T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-23T14:00:00.000Z","version":6092314986,"name":"1st Innings 6 Overs Line","eventName":"Netherlands v Canada"}}]}
+{"op":"mcm","clk":"11909880440","pt":1724423963859,"mc":[{"id":"1.232056656","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33511969","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_6_OVR_LINE","marketTime":"2024-08-23T14:00:00.000Z","suspendTime":"2024-08-23T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-23T14:38:34.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-23T14:00:00.000Z","version":6092317233,"name":"1st Innings 6 Overs Line","eventName":"Netherlands v Canada"}}]}

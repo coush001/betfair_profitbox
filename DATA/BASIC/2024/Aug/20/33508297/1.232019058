@@ -1,0 +1,67 @@
+{"op":"mcm","clk":"11883939523","pt":1724078119824,"mc":[{"id":"1.232019058","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33508297","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-20T18:00:00.000Z","suspendTime":"2024-08-20T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-20T18:00:00.000Z","version":6086446836,"name":"Tied Match","eventName":"Caribbean Giants v Boca Raton Trailblazers"}}]}
+{"op":"mcm","clk":"11886495083","pt":1724112937529,"mc":[{"id":"1.232019058","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33508297","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-20T18:30:00.000Z","suspendTime":"2024-08-20T18:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-20T18:30:00.000Z","version":6087177600,"name":"Tied Match","eventName":"Caribbean Giants v Boca Raton Trailblazers"}}]}
+{"op":"mcm","clk":"11888492637","pt":1724159375179,"mc":[{"id":"1.232019058","rc":[{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11889199077","pt":1724169761630,"mc":[{"id":"1.232019058","rc":[{"ltp":80.0,"id":37302}]}]}
+{"op":"mcm","clk":"11889833416","pt":1724175677569,"mc":[{"id":"1.232019058","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11889841490","pt":1724175737716,"mc":[{"id":"1.232019058","rc":[{"ltp":50.0,"id":37302}]}]}
+{"op":"mcm","clk":"11889912583","pt":1724176277488,"mc":[{"id":"1.232019058","rc":[{"ltp":90.0,"id":37302}]}]}
+{"op":"mcm","clk":"11890109231","pt":1724177596931,"mc":[{"id":"1.232019058","rc":[{"ltp":60.0,"id":37302}]}]}
+{"op":"mcm","clk":"11890129330","pt":1724177717749,"mc":[{"id":"1.232019058","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33508297","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-20T18:30:00.000Z","suspendTime":"2024-08-20T18:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-20T18:30:00.000Z","version":6088015458,"name":"Tied Match","eventName":"Caribbean Giants v Boca Raton Trailblazers"}}]}
+{"op":"mcm","clk":"11890158093","pt":1724177897125,"mc":[{"id":"1.232019058","rc":[{"ltp":90.0,"id":37302}]}]}
+{"op":"mcm","clk":"11890175702","pt":1724178017067,"mc":[{"id":"1.232019058","rc":[{"ltp":60.0,"id":37302}]}]}
+{"op":"mcm","clk":"11890260080","pt":1724178645558,"mc":[{"id":"1.232019058","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33508297","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-20T18:30:00.000Z","suspendTime":"2024-08-20T18:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-20T18:30:00.000Z","version":6088055529,"name":"Tied Match","eventName":"Caribbean Giants v Boca Raton Trailblazers"}}]}
+{"op":"mcm","clk":"11890299686","pt":1724178917770,"mc":[{"id":"1.232019058","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33508297","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-20T18:30:00.000Z","suspendTime":"2024-08-20T18:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-20T18:30:00.000Z","version":6088063529,"name":"Tied Match","eventName":"Caribbean Giants v Boca Raton Trailblazers"}}]}
+{"op":"mcm","clk":"11890345032","pt":1724179217426,"mc":[{"id":"1.232019058","rc":[{"ltp":65.0,"id":37302}]}]}
+{"op":"mcm","clk":"11890363521","pt":1724179337820,"mc":[{"id":"1.232019058","rc":[{"ltp":85.0,"id":37302}]}]}
+{"op":"mcm","clk":"11890471117","pt":1724179937083,"mc":[{"id":"1.232019058","rc":[{"ltp":65.0,"id":37302}]}]}
+{"op":"mcm","clk":"11890573142","pt":1724180477805,"mc":[{"id":"1.232019058","rc":[{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11890594861","pt":1724180597425,"mc":[{"id":"1.232019058","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11890664649","pt":1724180953598,"mc":[{"id":"1.232019058","rc":[{"ltp":50.0,"id":37302}]}]}
+{"op":"mcm","clk":"11890688854","pt":1724181077666,"mc":[{"id":"1.232019058","rc":[{"ltp":40.0,"id":37302}]}]}
+{"op":"mcm","clk":"11890700554","pt":1724181137437,"mc":[{"id":"1.232019058","rc":[{"ltp":50.0,"id":37302}]}]}
+{"op":"mcm","clk":"11890724282","pt":1724181257666,"mc":[{"id":"1.232019058","rc":[{"ltp":44.0,"id":37302}]}]}
+{"op":"mcm","clk":"11890748656","pt":1724181377491,"mc":[{"id":"1.232019058","rc":[{"ltp":48.0,"id":37302}]}]}
+{"op":"mcm","clk":"11890759835","pt":1724181437775,"mc":[{"id":"1.232019058","rc":[{"ltp":44.0,"id":37302},{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11890794058","pt":1724181617818,"mc":[{"id":"1.232019058","rc":[{"ltp":40.0,"id":37302}]}]}
+{"op":"mcm","clk":"11890805745","pt":1724181677689,"mc":[{"id":"1.232019058","rc":[{"ltp":34.0,"id":37302}]}]}
+{"op":"mcm","clk":"11890827900","pt":1724181796834,"mc":[{"id":"1.232019058","rc":[{"ltp":46.0,"id":37302}]}]}
+{"op":"mcm","clk":"11890839420","pt":1724181857644,"mc":[{"id":"1.232019058","rc":[{"ltp":38.0,"id":37302}]}]}
+{"op":"mcm","clk":"11890860850","pt":1724181977104,"mc":[{"id":"1.232019058","rc":[{"ltp":44.0,"id":37302}]}]}
+{"op":"mcm","clk":"11890903852","pt":1724182217810,"mc":[{"id":"1.232019058","rc":[{"ltp":40.0,"id":37302}]}]}
+{"op":"mcm","clk":"11890914785","pt":1724182277667,"mc":[{"id":"1.232019058","rc":[{"ltp":46.0,"id":37302}]}]}
+{"op":"mcm","clk":"11890924859","pt":1724182337752,"mc":[{"id":"1.232019058","rc":[{"ltp":36.0,"id":37302}]}]}
+{"op":"mcm","clk":"11890953068","pt":1724182517429,"mc":[{"id":"1.232019058","rc":[{"ltp":40.0,"id":37302}]}]}
+{"op":"mcm","clk":"11890980802","pt":1724182697783,"mc":[{"id":"1.232019058","rc":[{"ltp":34.0,"id":37302}]}]}
+{"op":"mcm","clk":"11890990492","pt":1724182757749,"mc":[{"id":"1.232019058","rc":[{"ltp":40.0,"id":37302}]}]}
+{"op":"mcm","clk":"11891009475","pt":1724182877719,"mc":[{"id":"1.232019058","rc":[{"ltp":48.0,"id":37302},{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11891018129","pt":1724182937750,"mc":[{"id":"1.232019058","rc":[{"ltp":36.0,"id":37302},{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11891037115","pt":1724182997796,"mc":[{"id":"1.232019058","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11891046345","pt":1724183057696,"mc":[{"id":"1.232019058","rc":[{"ltp":100.0,"id":37302},{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11891073035","pt":1724183237764,"mc":[{"id":"1.232019058","rc":[{"ltp":38.0,"id":37302}]}]}
+{"op":"mcm","clk":"11891081160","pt":1724183297109,"mc":[{"id":"1.232019058","rc":[{"ltp":44.0,"id":37302},{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11891100571","pt":1724183417784,"mc":[{"id":"1.232019058","rc":[{"ltp":36.0,"id":37302}]}]}
+{"op":"mcm","clk":"11891110533","pt":1724183477578,"mc":[{"id":"1.232019058","rc":[{"ltp":50.0,"id":37302}]}]}
+{"op":"mcm","clk":"11891120855","pt":1724183537558,"mc":[{"id":"1.232019058","rc":[{"ltp":38.0,"id":37302}]}]}
+{"op":"mcm","clk":"11891130525","pt":1724183597529,"mc":[{"id":"1.232019058","rc":[{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11891160552","pt":1724183777630,"mc":[{"id":"1.232019058","rc":[{"ltp":23.0,"id":37302},{"ltp":1.04,"id":37303}]}]}
+{"op":"mcm","clk":"11891170414","pt":1724183837756,"mc":[{"id":"1.232019058","rc":[{"ltp":26.0,"id":37302}]}]}
+{"op":"mcm","clk":"11891190928","pt":1724183957781,"mc":[{"id":"1.232019058","rc":[{"ltp":23.0,"id":37302}]}]}
+{"op":"mcm","clk":"11891209286","pt":1724184074906,"mc":[{"id":"1.232019058","rc":[{"ltp":24.0,"id":37302}]}]}
+{"op":"mcm","clk":"11891219621","pt":1724184137710,"mc":[{"id":"1.232019058","rc":[{"ltp":1.05,"id":37303}]}]}
+{"op":"mcm","clk":"11891238834","pt":1724184256809,"mc":[{"id":"1.232019058","rc":[{"ltp":25.0,"id":37302}]}]}
+{"op":"mcm","clk":"11891248542","pt":1724184317588,"mc":[{"id":"1.232019058","rc":[{"ltp":22.0,"id":37302}]}]}
+{"op":"mcm","clk":"11891257722","pt":1724184377770,"mc":[{"id":"1.232019058","rc":[{"ltp":50.0,"id":37302},{"ltp":1.04,"id":37303}]}]}
+{"op":"mcm","clk":"11891267167","pt":1724184437749,"mc":[{"id":"1.232019058","rc":[{"ltp":32.0,"id":37302},{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11891286025","pt":1724184557785,"mc":[{"id":"1.232019058","rc":[{"ltp":20.0,"id":37302},{"ltp":1.05,"id":37303}]}]}
+{"op":"mcm","clk":"11891295148","pt":1724184617717,"mc":[{"id":"1.232019058","rc":[{"ltp":21.0,"id":37302}]}]}
+{"op":"mcm","clk":"11891304479","pt":1724184677689,"mc":[{"id":"1.232019058","rc":[{"ltp":20.0,"id":37302}]}]}
+{"op":"mcm","clk":"11891334561","pt":1724184857729,"mc":[{"id":"1.232019058","rc":[{"ltp":26.0,"id":37302},{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11891344297","pt":1724184917480,"mc":[{"id":"1.232019058","rc":[{"ltp":1.04,"id":37303}]}]}
+{"op":"mcm","clk":"11891372870","pt":1724185097755,"mc":[{"id":"1.232019058","rc":[{"ltp":21.0,"id":37302},{"ltp":1.05,"id":37303}]}]}
+{"op":"mcm","clk":"11891392288","pt":1724185217720,"mc":[{"id":"1.232019058","rc":[{"ltp":17.5,"id":37302},{"ltp":1.06,"id":37303}]}]}
+{"op":"mcm","clk":"11891402189","pt":1724185277747,"mc":[{"id":"1.232019058","rc":[{"ltp":13.5,"id":37302},{"ltp":1.08,"id":37303}]}]}
+{"op":"mcm","clk":"11891411426","pt":1724185337749,"mc":[{"id":"1.232019058","rc":[{"ltp":8.8,"id":37302},{"ltp":1.15,"id":37303}]}]}
+{"op":"mcm","clk":"11891420519","pt":1724185397734,"mc":[{"id":"1.232019058","rc":[{"ltp":8.2,"id":37302},{"ltp":1.13,"id":37303}]}]}
+{"op":"mcm","clk":"11891428990","pt":1724185457111,"mc":[{"id":"1.232019058","rc":[{"ltp":100.0,"id":37302},{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11891436144","pt":1724185511558,"mc":[{"id":"1.232019058","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33508297","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-20T18:30:00.000Z","suspendTime":"2024-08-20T18:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-20T18:30:00.000Z","version":6088394169,"name":"Tied Match","eventName":"Caribbean Giants v Boca Raton Trailblazers"}}]}
+{"op":"mcm","clk":"11891449639","pt":1724185618952,"mc":[{"id":"1.232019058","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33508297","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-20T18:30:00.000Z","suspendTime":"2024-08-20T18:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2024-08-20T20:26:55.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":37302,"name":"Yes"},{"status":"WINNER","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-20T18:30:00.000Z","version":6088400838,"name":"Tied Match","eventName":"Caribbean Giants v Boca Raton Trailblazers"}}]}

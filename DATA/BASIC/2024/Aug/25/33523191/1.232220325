@@ -1,0 +1,34 @@
+{"op":"mcm","clk":"11908131905","pt":1724494829161,"mc":[{"id":"1.232220325","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33523191","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_6_OVR_LINE","marketTime":"2024-08-25T14:00:00.000Z","suspendTime":"2024-08-25T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-25T14:00:00.000Z","version":6094283545,"name":"1st Innings 6 Overs Line","eventName":"Netherlands v USA"}}]}
+{"op":"mcm","clk":"11919237602","pt":1724590346696,"mc":[{"id":"1.232220325","rc":[{"ltp":43.5,"id":15316}]}]}
+{"op":"mcm","clk":"11919267938","pt":1724590585635,"mc":[{"id":"1.232220325","rc":[{"ltp":42.5,"id":15316}]}]}
+{"op":"mcm","clk":"11919721706","pt":1724593405777,"mc":[{"id":"1.232220325","rc":[{"ltp":43.5,"id":15316}]}]}
+{"op":"mcm","clk":"11919730350","pt":1724593465770,"mc":[{"id":"1.232220325","rc":[{"ltp":44.5,"id":15316}]}]}
+{"op":"mcm","clk":"11919765354","pt":1724593705716,"mc":[{"id":"1.232220325","rc":[{"ltp":43.5,"id":15316}]}]}
+{"op":"mcm","clk":"11919773210","pt":1724593765223,"mc":[{"id":"1.232220325","rc":[{"ltp":44.5,"id":15316}]}]}
+{"op":"mcm","clk":"11919831493","pt":1724594244511,"mc":[{"id":"1.232220325","rc":[{"ltp":43.5,"id":15316}]}]}
+{"op":"mcm","clk":"11919853954","pt":1724594426871,"mc":[{"id":"1.232220325","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33523191","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_6_OVR_LINE","marketTime":"2024-08-25T14:00:00.000Z","suspendTime":"2024-08-25T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-25T14:00:00.000Z","version":6099047169,"name":"1st Innings 6 Overs Line","eventName":"Netherlands v USA"},"rc":[{"ltp":45.5,"id":15316}]}]}
+{"op":"mcm","clk":"11919862433","pt":1724594487131,"mc":[{"id":"1.232220325","rc":[{"ltp":49.5,"id":15316}]}]}
+{"op":"mcm","clk":"11919870541","pt":1724594547142,"mc":[{"id":"1.232220325","rc":[{"ltp":46.5,"id":15316}]}]}
+{"op":"mcm","clk":"11919878926","pt":1724594607069,"mc":[{"id":"1.232220325","rc":[{"ltp":50.5,"id":15316}]}]}
+{"op":"mcm","clk":"11919887885","pt":1724594667133,"mc":[{"id":"1.232220325","rc":[{"ltp":52.5,"id":15316}]}]}
+{"op":"mcm","clk":"11919896504","pt":1724594727128,"mc":[{"id":"1.232220325","rc":[{"ltp":54.5,"id":15316}]}]}
+{"op":"mcm","clk":"11919905961","pt":1724594787133,"mc":[{"id":"1.232220325","rc":[{"ltp":58.5,"id":15316}]}]}
+{"op":"mcm","clk":"11919915876","pt":1724594847113,"mc":[{"id":"1.232220325","rc":[{"ltp":60.5,"id":15316}]}]}
+{"op":"mcm","clk":"11919925670","pt":1724594907130,"mc":[{"id":"1.232220325","rc":[{"ltp":62.5,"id":15316}]}]}
+{"op":"mcm","clk":"11919936140","pt":1724594966916,"mc":[{"id":"1.232220325","rc":[{"ltp":60.5,"id":15316}]}]}
+{"op":"mcm","clk":"11919946926","pt":1724595026989,"mc":[{"id":"1.232220325","rc":[{"ltp":59.5,"id":15316}]}]}
+{"op":"mcm","clk":"11919967579","pt":1724595147069,"mc":[{"id":"1.232220325","rc":[{"ltp":63.5,"id":15316}]}]}
+{"op":"mcm","clk":"11919978080","pt":1724595207107,"mc":[{"id":"1.232220325","rc":[{"ltp":69.5,"id":15316}]}]}
+{"op":"mcm","clk":"11919988475","pt":1724595267130,"mc":[{"id":"1.232220325","rc":[{"ltp":71.5,"id":15316}]}]}
+{"op":"mcm","clk":"11920009636","pt":1724595387026,"mc":[{"id":"1.232220325","rc":[{"ltp":77.5,"id":15316}]}]}
+{"op":"mcm","clk":"11920020429","pt":1724595447096,"mc":[{"id":"1.232220325","rc":[{"ltp":80.5,"id":15316}]}]}
+{"op":"mcm","clk":"11920031250","pt":1724595506969,"mc":[{"id":"1.232220325","rc":[{"ltp":82.5,"id":15316}]}]}
+{"op":"mcm","clk":"11920042334","pt":1724595567092,"mc":[{"id":"1.232220325","rc":[{"ltp":85.5,"id":15316}]}]}
+{"op":"mcm","clk":"11920063547","pt":1724595687152,"mc":[{"id":"1.232220325","rc":[{"ltp":82.5,"id":15316}]}]}
+{"op":"mcm","clk":"11920073764","pt":1724595747032,"mc":[{"id":"1.232220325","rc":[{"ltp":85.5,"id":15316}]}]}
+{"op":"mcm","clk":"11920084205","pt":1724595807030,"mc":[{"id":"1.232220325","rc":[{"ltp":86.5,"id":15316}]}]}
+{"op":"mcm","clk":"11920094343","pt":1724595867076,"mc":[{"id":"1.232220325","rc":[{"ltp":82.5,"id":15316}]}]}
+{"op":"mcm","clk":"11920104694","pt":1724595927151,"mc":[{"id":"1.232220325","rc":[{"ltp":81.5,"id":15316}]}]}
+{"op":"mcm","clk":"11920125300","pt":1724596046984,"mc":[{"id":"1.232220325","rc":[{"ltp":78.5,"id":15316}]}]}
+{"op":"mcm","clk":"11920135187","pt":1724596107106,"mc":[{"id":"1.232220325","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33523191","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_6_OVR_LINE","marketTime":"2024-08-25T14:00:00.000Z","suspendTime":"2024-08-25T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-25T14:00:00.000Z","version":6099150888,"name":"1st Innings 6 Overs Line","eventName":"Netherlands v USA"},"rc":[{"ltp":77.5,"id":15316}]}]}
+{"op":"mcm","clk":"11920165020","pt":1724596287066,"mc":[{"id":"1.232220325","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33523191","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_6_OVR_LINE","marketTime":"2024-08-25T14:00:00.000Z","suspendTime":"2024-08-25T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-25T14:31:09.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-25T14:00:00.000Z","version":6099162654,"name":"1st Innings 6 Overs Line","eventName":"Netherlands v USA"}}]}

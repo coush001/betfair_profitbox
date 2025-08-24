@@ -1,0 +1,35 @@
+{"op":"mcm","clk":"11809375131","pt":1723299036900,"mc":[{"id":"1.231661439","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33483444","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_50_BALL_LINE","marketTime":"2024-08-12T17:30:00.000Z","suspendTime":"2024-08-12T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-12T17:30:00.000Z","version":6066264783,"name":"1st Innings 50 Balls Runs Line","eventName":"Birmingham Phoenix v Trent Rockets"}}]}
+{"op":"mcm","clk":"11824877787","pt":1723471399269,"mc":[{"id":"1.231661439","rc":[{"ltp":65.5,"id":15316}]}]}
+{"op":"mcm","clk":"11825858117","pt":1723480713939,"mc":[{"id":"1.231661439","rc":[{"ltp":69.5,"id":15316}]}]}
+{"op":"mcm","clk":"11826136073","pt":1723482515714,"mc":[{"id":"1.231661439","rc":[{"ltp":68.5,"id":15316}]}]}
+{"op":"mcm","clk":"11826181615","pt":1723482755837,"mc":[{"id":"1.231661439","rc":[{"ltp":67.5,"id":15316}]}]}
+{"op":"mcm","clk":"11826217121","pt":1723482935391,"mc":[{"id":"1.231661439","rc":[{"ltp":65.5,"id":15316}]}]}
+{"op":"mcm","clk":"11826349328","pt":1723483655748,"mc":[{"id":"1.231661439","rc":[{"ltp":67.5,"id":15316}]}]}
+{"op":"mcm","clk":"11826383056","pt":1723483835750,"mc":[{"id":"1.231661439","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33483444","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_50_BALL_LINE","marketTime":"2024-08-12T17:30:00.000Z","suspendTime":"2024-08-12T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-12T17:30:00.000Z","version":6071962346,"name":"1st Innings 50 Balls Runs Line","eventName":"Birmingham Phoenix v Trent Rockets"}}]}
+{"op":"mcm","clk":"11826394620","pt":1723483895724,"mc":[{"id":"1.231661439","rc":[{"ltp":62.5,"id":15316}]}]}
+{"op":"mcm","clk":"11826405792","pt":1723483955807,"mc":[{"id":"1.231661439","rc":[{"ltp":59.5,"id":15316}]}]}
+{"op":"mcm","clk":"11826429060","pt":1723484075735,"mc":[{"id":"1.231661439","rc":[{"ltp":63.5,"id":15316}]}]}
+{"op":"mcm","clk":"11826440996","pt":1723484135810,"mc":[{"id":"1.231661439","rc":[{"ltp":61.5,"id":15316}]}]}
+{"op":"mcm","clk":"11826453305","pt":1723484195758,"mc":[{"id":"1.231661439","rc":[{"ltp":58.5,"id":15316}]}]}
+{"op":"mcm","clk":"11826465457","pt":1723484255823,"mc":[{"id":"1.231661439","rc":[{"ltp":59.5,"id":15316}]}]}
+{"op":"mcm","clk":"11826476991","pt":1723484315782,"mc":[{"id":"1.231661439","rc":[{"ltp":56.5,"id":15316}]}]}
+{"op":"mcm","clk":"11826488435","pt":1723484375753,"mc":[{"id":"1.231661439","rc":[{"ltp":57.5,"id":15316}]}]}
+{"op":"mcm","clk":"11826500288","pt":1723484435795,"mc":[{"id":"1.231661439","rc":[{"ltp":53.5,"id":15316}]}]}
+{"op":"mcm","clk":"11826523221","pt":1723484555769,"mc":[{"id":"1.231661439","rc":[{"ltp":52.5,"id":15316}]}]}
+{"op":"mcm","clk":"11826553695","pt":1723484675838,"mc":[{"id":"1.231661439","rc":[{"ltp":51.5,"id":15316}]}]}
+{"op":"mcm","clk":"11826564169","pt":1723484735846,"mc":[{"id":"1.231661439","rc":[{"ltp":50.5,"id":15316}]}]}
+{"op":"mcm","clk":"11826574202","pt":1723484795807,"mc":[{"id":"1.231661439","rc":[{"ltp":48.5,"id":15316}]}]}
+{"op":"mcm","clk":"11826583917","pt":1723484855804,"mc":[{"id":"1.231661439","rc":[{"ltp":42.5,"id":15316}]}]}
+{"op":"mcm","clk":"11826593943","pt":1723484915790,"mc":[{"id":"1.231661439","rc":[{"ltp":45.5,"id":15316}]}]}
+{"op":"mcm","clk":"11826611625","pt":1723485035834,"mc":[{"id":"1.231661439","rc":[{"ltp":48.5,"id":15316}]}]}
+{"op":"mcm","clk":"11826621241","pt":1723485095827,"mc":[{"id":"1.231661439","rc":[{"ltp":47.5,"id":15316}]}]}
+{"op":"mcm","clk":"11826630357","pt":1723485155830,"mc":[{"id":"1.231661439","rc":[{"ltp":41.5,"id":15316}]}]}
+{"op":"mcm","clk":"11826646966","pt":1723485275750,"mc":[{"id":"1.231661439","rc":[{"ltp":38.5,"id":15316}]}]}
+{"op":"mcm","clk":"11826663931","pt":1723485395796,"mc":[{"id":"1.231661439","rc":[{"ltp":41.5,"id":15316}]}]}
+{"op":"mcm","clk":"11826672045","pt":1723485455786,"mc":[{"id":"1.231661439","rc":[{"ltp":40.5,"id":15316}]}]}
+{"op":"mcm","clk":"11826680551","pt":1723485515755,"mc":[{"id":"1.231661439","rc":[{"ltp":43.5,"id":15316}]}]}
+{"op":"mcm","clk":"11826706522","pt":1723485695769,"mc":[{"id":"1.231661439","rc":[{"ltp":42.5,"id":15316}]}]}
+{"op":"mcm","clk":"11826728082","pt":1723485815778,"mc":[{"id":"1.231661439","rc":[{"ltp":47.5,"id":15316}]}]}
+{"op":"mcm","clk":"11826751015","pt":1723485935830,"mc":[{"id":"1.231661439","rc":[{"ltp":46.5,"id":15316}]}]}
+{"op":"mcm","clk":"11826762113","pt":1723485995711,"mc":[{"id":"1.231661439","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33483444","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_50_BALL_LINE","marketTime":"2024-08-12T17:30:00.000Z","suspendTime":"2024-08-12T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-12T17:30:00.000Z","version":6072029572,"name":"1st Innings 50 Balls Runs Line","eventName":"Birmingham Phoenix v Trent Rockets"}}]}
+{"op":"mcm","clk":"11826785381","pt":1723486115832,"mc":[{"id":"1.231661439","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33483444","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_50_BALL_LINE","marketTime":"2024-08-12T17:30:00.000Z","suspendTime":"2024-08-12T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-12T18:08:05.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-12T17:30:00.000Z","version":6072030191,"name":"1st Innings 50 Balls Runs Line","eventName":"Birmingham Phoenix v Trent Rockets"}}]}

@@ -1,0 +1,52 @@
+{"op":"mcm","clk":"11814166236","pt":1723325407404,"mc":[{"id":"1.231679054","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33484467","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-11T16:00:00.000Z","suspendTime":"2024-08-11T16:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-11T16:00:00.000Z","version":6068162685,"name":"Tied Match","eventName":"Montreal Tigers v Toronto Nationals"}}]}
+{"op":"mcm","clk":"11817285922","pt":1723375204518,"mc":[{"id":"1.231679054","rc":[{"ltp":26.0,"id":37302},{"ltp":1.04,"id":37303}]}]}
+{"op":"mcm","clk":"11819102572","pt":1723389320363,"mc":[{"id":"1.231679054","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11819467639","pt":1723392055877,"mc":[{"id":"1.231679054","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33484467","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-11T16:00:00.000Z","suspendTime":"2024-08-11T16:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-11T16:00:00.000Z","version":6070030040,"name":"Tied Match","eventName":"Montreal Tigers v Toronto Nationals"}}]}
+{"op":"mcm","clk":"11820303104","pt":1723397574470,"mc":[{"id":"1.231679054","rc":[{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11820340256","pt":1723397824018,"mc":[{"id":"1.231679054","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11820704357","pt":1723400161602,"mc":[{"id":"1.231679054","rc":[{"ltp":40.0,"id":37302}]}]}
+{"op":"mcm","clk":"11820800380","pt":1723400764882,"mc":[{"id":"1.231679054","rc":[{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11820980283","pt":1723401905163,"mc":[{"id":"1.231679054","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11821011406","pt":1723402085368,"mc":[{"id":"1.231679054","rc":[{"ltp":36.0,"id":37302}]}]}
+{"op":"mcm","clk":"11821020869","pt":1723402145115,"mc":[{"id":"1.231679054","rc":[{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11821082733","pt":1723402624898,"mc":[{"id":"1.231679054","rc":[{"ltp":44.0,"id":37302}]}]}
+{"op":"mcm","clk":"11821103190","pt":1723402805120,"mc":[{"id":"1.231679054","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11821112150","pt":1723402865362,"mc":[{"id":"1.231679054","rc":[{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11821187098","pt":1723403345324,"mc":[{"id":"1.231679054","rc":[{"ltp":60.0,"id":37302}]}]}
+{"op":"mcm","clk":"11821235018","pt":1723403582189,"mc":[{"id":"1.231679054","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11821338476","pt":1723404185095,"mc":[{"id":"1.231679054","rc":[{"ltp":65.0,"id":37302}]}]}
+{"op":"mcm","clk":"11821437675","pt":1723404785083,"mc":[{"id":"1.231679054","rc":[{"ltp":60.0,"id":37302}]}]}
+{"op":"mcm","clk":"11821509655","pt":1723405205326,"mc":[{"id":"1.231679054","rc":[{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11821596478","pt":1723405745108,"mc":[{"id":"1.231679054","rc":[{"ltp":34.0,"id":37302}]}]}
+{"op":"mcm","clk":"11821635850","pt":1723406045238,"mc":[{"id":"1.231679054","rc":[{"ltp":42.0,"id":37302}]}]}
+{"op":"mcm","clk":"11821643876","pt":1723406105210,"mc":[{"id":"1.231679054","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11821651608","pt":1723406165369,"mc":[{"id":"1.231679054","rc":[{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11821667856","pt":1723406285348,"mc":[{"id":"1.231679054","rc":[{"ltp":46.0,"id":37302}]}]}
+{"op":"mcm","clk":"11821683331","pt":1723406405387,"mc":[{"id":"1.231679054","rc":[{"ltp":60.0,"id":37302},{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11821698636","pt":1723406525068,"mc":[{"id":"1.231679054","rc":[{"ltp":65.0,"id":37302}]}]}
+{"op":"mcm","clk":"11821737533","pt":1723406822224,"mc":[{"id":"1.231679054","rc":[{"ltp":80.0,"id":37302}]}]}
+{"op":"mcm","clk":"11821750705","pt":1723406936439,"mc":[{"id":"1.231679054","rc":[{"ltp":55.0,"id":37302}]}]}
+{"op":"mcm","clk":"11821783634","pt":1723407185314,"mc":[{"id":"1.231679054","rc":[{"ltp":65.0,"id":37302}]}]}
+{"op":"mcm","clk":"11821836694","pt":1723407545320,"mc":[{"id":"1.231679054","rc":[{"ltp":50.0,"id":37302}]}]}
+{"op":"mcm","clk":"11821868886","pt":1723407785186,"mc":[{"id":"1.231679054","rc":[{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11821876804","pt":1723407845261,"mc":[{"id":"1.231679054","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11821884908","pt":1723407905203,"mc":[{"id":"1.231679054","rc":[{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11821893103","pt":1723407965393,"mc":[{"id":"1.231679054","rc":[{"ltp":42.0,"id":37302}]}]}
+{"op":"mcm","clk":"11821900936","pt":1723408025126,"mc":[{"id":"1.231679054","rc":[{"ltp":55.0,"id":37302},{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11821908783","pt":1723408085106,"mc":[{"id":"1.231679054","rc":[{"ltp":50.0,"id":37302}]}]}
+{"op":"mcm","clk":"11821916318","pt":1723408145162,"mc":[{"id":"1.231679054","rc":[{"ltp":42.0,"id":37302},{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11821948428","pt":1723408385355,"mc":[{"id":"1.231679054","rc":[{"ltp":44.0,"id":37302}]}]}
+{"op":"mcm","clk":"11821957255","pt":1723408444828,"mc":[{"id":"1.231679054","rc":[{"ltp":50.0,"id":37302}]}]}
+{"op":"mcm","clk":"11821980569","pt":1723408625393,"mc":[{"id":"1.231679054","rc":[{"ltp":55.0,"id":37302}]}]}
+{"op":"mcm","clk":"11821996189","pt":1723408745215,"mc":[{"id":"1.231679054","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11822018280","pt":1723408925192,"mc":[{"id":"1.231679054","rc":[{"ltp":65.0,"id":37302},{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11822041914","pt":1723409045123,"mc":[{"id":"1.231679054","rc":[{"ltp":80.0,"id":37302},{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11822063786","pt":1723409222676,"mc":[{"id":"1.231679054","rc":[{"ltp":70.0,"id":37302}]}]}
+{"op":"mcm","clk":"11822070475","pt":1723409285360,"mc":[{"id":"1.231679054","rc":[{"ltp":80.0,"id":37302}]}]}
+{"op":"mcm","clk":"11822076407","pt":1723409344921,"mc":[{"id":"1.231679054","rc":[{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11822104382","pt":1723409645169,"mc":[{"id":"1.231679054","rc":[{"ltp":85.0,"id":37302}]}]}
+{"op":"mcm","clk":"11822109509","pt":1723409705116,"mc":[{"id":"1.231679054","rc":[{"ltp":100.0,"id":37302}]}]}
+{"op":"mcm","clk":"11822143964","pt":1723410124818,"mc":[{"id":"1.231679054","rc":[{"ltp":110.0,"id":37302}]}]}
+{"op":"mcm","clk":"11822228637","pt":1723411262938,"mc":[{"id":"1.231679054","rc":[{"ltp":1000.0,"id":37302}]}]}
+{"op":"mcm","clk":"11822236332","pt":1723411374024,"mc":[{"id":"1.231679054","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33484467","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-11T16:00:00.000Z","suspendTime":"2024-08-11T16:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-11T16:00:00.000Z","version":6071198162,"name":"Tied Match","eventName":"Montreal Tigers v Toronto Nationals"}}]}
+{"op":"mcm","clk":"11822240381","pt":1723411433584,"mc":[{"id":"1.231679054","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33484467","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-11T16:00:00.000Z","suspendTime":"2024-08-11T16:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2024-08-11T21:23:51.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":37302,"name":"Yes"},{"status":"WINNER","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-11T16:00:00.000Z","version":6071199602,"name":"Tied Match","eventName":"Montreal Tigers v Toronto Nationals"}}]}

@@ -1,0 +1,37 @@
+{"op":"mcm","clk":"11865889074","pt":1723455674614,"mc":[{"id":"1.231730284","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33488414","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_50_BALL_LINE","marketTime":"2024-08-14T17:30:00.000Z","suspendTime":"2024-08-14T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-14T17:30:00.000Z","version":6071650715,"name":"1st Innings 50 Balls Runs Line","eventName":"Trent Rockets v Oval Invincibles"}}]}
+{"op":"mcm","clk":"11877673867","pt":1723655292292,"mc":[{"id":"1.231730284","rc":[{"ltp":66.5,"id":15316}]}]}
+{"op":"mcm","clk":"11877720665","pt":1723655652361,"mc":[{"id":"1.231730284","rc":[{"ltp":63.5,"id":15316}]}]}
+{"op":"mcm","clk":"11877738164","pt":1723655832334,"mc":[{"id":"1.231730284","rc":[{"ltp":62.5,"id":15316}]}]}
+{"op":"mcm","clk":"11877750829","pt":1723655951753,"mc":[{"id":"1.231730284","rc":[{"ltp":61.5,"id":15316}]}]}
+{"op":"mcm","clk":"11877775973","pt":1723656191521,"mc":[{"id":"1.231730284","rc":[{"ltp":62.5,"id":15316}]}]}
+{"op":"mcm","clk":"11877820488","pt":1723656612544,"mc":[{"id":"1.231730284","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33488414","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_50_BALL_LINE","marketTime":"2024-08-14T17:30:00.000Z","suspendTime":"2024-08-14T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-14T17:30:00.000Z","version":6074687211,"name":"1st Innings 50 Balls Runs Line","eventName":"Trent Rockets v Oval Invincibles"},"rc":[{"ltp":65.5,"id":15316}]}]}
+{"op":"mcm","clk":"11877827531","pt":1723656672543,"mc":[{"id":"1.231730284","rc":[{"ltp":62.5,"id":15316}]}]}
+{"op":"mcm","clk":"11877835053","pt":1723656732519,"mc":[{"id":"1.231730284","rc":[{"ltp":64.5,"id":15316}]}]}
+{"op":"mcm","clk":"11877842488","pt":1723656792565,"mc":[{"id":"1.231730284","rc":[{"ltp":63.5,"id":15316}]}]}
+{"op":"mcm","clk":"11877850595","pt":1723656852540,"mc":[{"id":"1.231730284","rc":[{"ltp":62.5,"id":15316}]}]}
+{"op":"mcm","clk":"11877858338","pt":1723656912558,"mc":[{"id":"1.231730284","rc":[{"ltp":60.5,"id":15316}]}]}
+{"op":"mcm","clk":"11877874337","pt":1723657032552,"mc":[{"id":"1.231730284","rc":[{"ltp":65.5,"id":15316}]}]}
+{"op":"mcm","clk":"11877898175","pt":1723657212599,"mc":[{"id":"1.231730284","rc":[{"ltp":73.5,"id":15316}]}]}
+{"op":"mcm","clk":"11877913177","pt":1723657332508,"mc":[{"id":"1.231730284","rc":[{"ltp":75.5,"id":15316}]}]}
+{"op":"mcm","clk":"11877919656","pt":1723657392582,"mc":[{"id":"1.231730284","rc":[{"ltp":88.5,"id":15316}]}]}
+{"op":"mcm","clk":"11877926793","pt":1723657452542,"mc":[{"id":"1.231730284","rc":[{"ltp":79.5,"id":15316}]}]}
+{"op":"mcm","clk":"11877934306","pt":1723657512512,"mc":[{"id":"1.231730284","rc":[{"ltp":72.5,"id":15316}]}]}
+{"op":"mcm","clk":"11877941958","pt":1723657572510,"mc":[{"id":"1.231730284","rc":[{"ltp":71.5,"id":15316}]}]}
+{"op":"mcm","clk":"11877948652","pt":1723657632589,"mc":[{"id":"1.231730284","rc":[{"ltp":73.5,"id":15316}]}]}
+{"op":"mcm","clk":"11877955895","pt":1723657692560,"mc":[{"id":"1.231730284","rc":[{"ltp":72.5,"id":15316}]}]}
+{"op":"mcm","clk":"11877962611","pt":1723657752543,"mc":[{"id":"1.231730284","rc":[{"ltp":73.5,"id":15316}]}]}
+{"op":"mcm","clk":"11877969386","pt":1723657812472,"mc":[{"id":"1.231730284","rc":[{"ltp":72.5,"id":15316}]}]}
+{"op":"mcm","clk":"11877976484","pt":1723657872543,"mc":[{"id":"1.231730284","rc":[{"ltp":69.5,"id":15316}]}]}
+{"op":"mcm","clk":"11877983552","pt":1723657932576,"mc":[{"id":"1.231730284","rc":[{"ltp":68.5,"id":15316}]}]}
+{"op":"mcm","clk":"11877996377","pt":1723658052603,"mc":[{"id":"1.231730284","rc":[{"ltp":66.5,"id":15316}]}]}
+{"op":"mcm","clk":"11878002280","pt":1723658112582,"mc":[{"id":"1.231730284","rc":[{"ltp":65.5,"id":15316}]}]}
+{"op":"mcm","clk":"11878008605","pt":1723658172513,"mc":[{"id":"1.231730284","rc":[{"ltp":66.5,"id":15316}]}]}
+{"op":"mcm","clk":"11878014413","pt":1723658232511,"mc":[{"id":"1.231730284","rc":[{"ltp":67.5,"id":15316}]}]}
+{"op":"mcm","clk":"11878020739","pt":1723658292591,"mc":[{"id":"1.231730284","rc":[{"ltp":66.5,"id":15316}]}]}
+{"op":"mcm","clk":"11878027266","pt":1723658352542,"mc":[{"id":"1.231730284","rc":[{"ltp":65.5,"id":15316}]}]}
+{"op":"mcm","clk":"11878032990","pt":1723658412476,"mc":[{"id":"1.231730284","rc":[{"ltp":64.5,"id":15316}]}]}
+{"op":"mcm","clk":"11878039327","pt":1723658472554,"mc":[{"id":"1.231730284","rc":[{"ltp":60.5,"id":15316}]}]}
+{"op":"mcm","clk":"11878045821","pt":1723658532557,"mc":[{"id":"1.231730284","rc":[{"ltp":59.5,"id":15316}]}]}
+{"op":"mcm","clk":"11878051969","pt":1723658592517,"mc":[{"id":"1.231730284","rc":[{"ltp":60.5,"id":15316}]}]}
+{"op":"mcm","clk":"11878067013","pt":1723658712591,"mc":[{"id":"1.231730284","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33488414","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_50_BALL_LINE","marketTime":"2024-08-14T17:30:00.000Z","suspendTime":"2024-08-14T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-14T17:30:00.000Z","version":6074768024,"name":"1st Innings 50 Balls Runs Line","eventName":"Trent Rockets v Oval Invincibles"}}]}
+{"op":"mcm","clk":"11878073924","pt":1723658772576,"mc":[{"id":"1.231730284","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33488414","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_50_BALL_LINE","marketTime":"2024-08-14T17:30:00.000Z","suspendTime":"2024-08-14T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-14T18:06:04.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-14T17:30:00.000Z","version":6074773202,"name":"1st Innings 50 Balls Runs Line","eventName":"Trent Rockets v Oval Invincibles"}}]}

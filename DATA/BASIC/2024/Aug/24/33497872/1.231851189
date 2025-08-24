@@ -1,0 +1,165 @@
+{"op":"mcm","clk":"11852657955","pt":1723735992519,"mc":[{"id":"1.231851189","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33497872","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"DRAW_NO_BET","marketTime":"2024-08-21T10:00:00.000Z","suspendTime":"2024-08-21T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10301,"name":"England"},{"status":"ACTIVE","sortPriority":2,"id":7337,"name":"Sri Lanka"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-21T10:00:00.000Z","version":6075659394,"name":"Match Odds  Draw No Bet","eventName":"England v Sri Lanka"}}]}
+{"op":"mcm","clk":"11857132984","pt":1723804448233,"mc":[{"id":"1.231851189","rc":[{"ltp":1.16,"id":10301}]}]}
+{"op":"mcm","clk":"11857851305","pt":1723813869001,"mc":[{"id":"1.231851189","rc":[{"ltp":1.13,"id":10301}]}]}
+{"op":"mcm","clk":"11861431372","pt":1723840988418,"mc":[{"id":"1.231851189","rc":[{"ltp":9.2,"id":7337}]}]}
+{"op":"mcm","clk":"11865329797","pt":1723892400079,"mc":[{"id":"1.231851189","rc":[{"ltp":9.0,"id":7337}]}]}
+{"op":"mcm","clk":"11869005244","pt":1723909515491,"mc":[{"id":"1.231851189","rc":[{"ltp":8.0,"id":7337}]}]}
+{"op":"mcm","clk":"11872718942","pt":1723931163351,"mc":[{"id":"1.231851189","rc":[{"ltp":1.1,"id":10301}]}]}
+{"op":"mcm","clk":"11872729719","pt":1723931280923,"mc":[{"id":"1.231851189","rc":[{"ltp":1.12,"id":10301}]}]}
+{"op":"mcm","clk":"11873198516","pt":1723937936526,"mc":[{"id":"1.231851189","rc":[{"ltp":9.2,"id":7337}]}]}
+{"op":"mcm","clk":"11874730575","pt":1723963744597,"mc":[{"id":"1.231851189","rc":[{"ltp":1.11,"id":10301}]}]}
+{"op":"mcm","clk":"11875146880","pt":1723972090401,"mc":[{"id":"1.231851189","rc":[{"ltp":1.1,"id":10301}]}]}
+{"op":"mcm","clk":"11878714322","pt":1723999914534,"mc":[{"id":"1.231851189","rc":[{"ltp":1.12,"id":10301}]}]}
+{"op":"mcm","clk":"11878870988","pt":1724000977788,"mc":[{"id":"1.231851189","rc":[{"ltp":9.6,"id":7337}]}]}
+{"op":"mcm","clk":"11880830411","pt":1724011789443,"mc":[{"id":"1.231851189","rc":[{"ltp":1.11,"id":10301}]}]}
+{"op":"mcm","clk":"11882476133","pt":1724035988490,"mc":[{"id":"1.231851189","rc":[{"ltp":10.0,"id":7337}]}]}
+{"op":"mcm","clk":"11882684104","pt":1724044148677,"mc":[{"id":"1.231851189","rc":[{"ltp":1.1,"id":10301}]}]}
+{"op":"mcm","clk":"11882896264","pt":1724052544160,"mc":[{"id":"1.231851189","rc":[{"ltp":1.11,"id":10301}]}]}
+{"op":"mcm","clk":"11888286025","pt":1724154970433,"mc":[{"id":"1.231851189","rc":[{"ltp":9.8,"id":7337}]}]}
+{"op":"mcm","clk":"11888562432","pt":1724160669682,"mc":[{"id":"1.231851189","rc":[{"ltp":10.0,"id":7337}]}]}
+{"op":"mcm","clk":"11888566741","pt":1724160755220,"mc":[{"id":"1.231851189","rc":[{"ltp":1.12,"id":10301}]}]}
+{"op":"mcm","clk":"11889028567","pt":1724167863536,"mc":[{"id":"1.231851189","rc":[{"ltp":1.11,"id":10301}]}]}
+{"op":"mcm","clk":"11890220814","pt":1724178351277,"mc":[{"id":"1.231851189","rc":[{"ltp":9.6,"id":7337}]}]}
+{"op":"mcm","clk":"11891361651","pt":1724185026598,"mc":[{"id":"1.231851189","rc":[{"ltp":8.6,"id":7337}]}]}
+{"op":"mcm","clk":"11891853740","pt":1724191563037,"mc":[{"id":"1.231851189","rc":[{"ltp":9.4,"id":7337}]}]}
+{"op":"mcm","clk":"11891971575","pt":1724193969179,"mc":[{"id":"1.231851189","rc":[{"ltp":9.6,"id":7337}]}]}
+{"op":"mcm","clk":"11893361057","pt":1724220783495,"mc":[{"id":"1.231851189","rc":[{"ltp":1.12,"id":10301}]}]}
+{"op":"mcm","clk":"11893448221","pt":1724222576545,"mc":[{"id":"1.231851189","rc":[{"ltp":8.8,"id":7337}]}]}
+{"op":"mcm","clk":"11893976637","pt":1724232730438,"mc":[{"id":"1.231851189","rc":[{"ltp":1.13,"id":10301}]}]}
+{"op":"mcm","clk":"11893995835","pt":1724233029928,"mc":[{"id":"1.231851189","rc":[{"ltp":8.6,"id":7337}]}]}
+{"op":"mcm","clk":"11894076030","pt":1724234170091,"mc":[{"id":"1.231851189","rc":[{"ltp":1.18,"id":10301}]}]}
+{"op":"mcm","clk":"11894095283","pt":1724234410290,"mc":[{"id":"1.231851189","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33497872","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"DRAW_NO_BET","marketTime":"2024-08-21T10:00:00.000Z","suspendTime":"2024-08-21T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10301,"name":"England"},{"status":"ACTIVE","sortPriority":2,"id":7337,"name":"Sri Lanka"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-21T10:00:00.000Z","version":6088939807,"name":"Match Odds  Draw No Bet","eventName":"England v Sri Lanka"}}]}
+{"op":"mcm","clk":"11894126411","pt":1724234770462,"mc":[{"id":"1.231851189","rc":[{"ltp":1.15,"id":10301},{"ltp":7.6,"id":7337}]}]}
+{"op":"mcm","clk":"11894137979","pt":1724234890331,"mc":[{"id":"1.231851189","rc":[{"ltp":1.17,"id":10301}]}]}
+{"op":"mcm","clk":"11894169354","pt":1724235250323,"mc":[{"id":"1.231851189","rc":[{"ltp":6.0,"id":7337}]}]}
+{"op":"mcm","clk":"11894233449","pt":1724235910377,"mc":[{"id":"1.231851189","rc":[{"ltp":8.0,"id":7337}]}]}
+{"op":"mcm","clk":"11894246234","pt":1724236030404,"mc":[{"id":"1.231851189","rc":[{"ltp":1.14,"id":10301}]}]}
+{"op":"mcm","clk":"11894257543","pt":1724236150359,"mc":[{"id":"1.231851189","rc":[{"ltp":1.1,"id":10301}]}]}
+{"op":"mcm","clk":"11894263423","pt":1724236210178,"mc":[{"id":"1.231851189","rc":[{"ltp":1.11,"id":10301}]}]}
+{"op":"mcm","clk":"11894280206","pt":1724236390322,"mc":[{"id":"1.231851189","rc":[{"ltp":1.08,"id":10301}]}]}
+{"op":"mcm","clk":"11894294677","pt":1724236570119,"mc":[{"id":"1.231851189","rc":[{"ltp":12.5,"id":7337}]}]}
+{"op":"mcm","clk":"11894304768","pt":1724236690488,"mc":[{"id":"1.231851189","rc":[{"ltp":12.0,"id":7337}]}]}
+{"op":"mcm","clk":"11894309815","pt":1724236749753,"mc":[{"id":"1.231851189","rc":[{"ltp":1.07,"id":10301}]}]}
+{"op":"mcm","clk":"11894319944","pt":1724236870277,"mc":[{"id":"1.231851189","rc":[{"ltp":1.08,"id":10301}]}]}
+{"op":"mcm","clk":"11894488455","pt":1724238670241,"mc":[{"id":"1.231851189","rc":[{"ltp":8.0,"id":7337}]}]}
+{"op":"mcm","clk":"11894565642","pt":1724239449301,"mc":[{"id":"1.231851189","rc":[{"ltp":1.12,"id":10301}]}]}
+{"op":"mcm","clk":"11894764297","pt":1724241669742,"mc":[{"id":"1.231851189","rc":[{"ltp":1.09,"id":10301}]}]}
+{"op":"mcm","clk":"11894800849","pt":1724242205951,"mc":[{"id":"1.231851189","rc":[{"ltp":1.08,"id":10301}]}]}
+{"op":"mcm","clk":"11895345256","pt":1724249949910,"mc":[{"id":"1.231851189","rc":[{"ltp":10.0,"id":7337}]}]}
+{"op":"mcm","clk":"11895360023","pt":1724250130435,"mc":[{"id":"1.231851189","rc":[{"ltp":12.0,"id":7337}]}]}
+{"op":"mcm","clk":"11896386751","pt":1724257990321,"mc":[{"id":"1.231851189","rc":[{"ltp":1.15,"id":10301}]}]}
+{"op":"mcm","clk":"11896407193","pt":1724258109782,"mc":[{"id":"1.231851189","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33497872","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"DRAW_NO_BET","marketTime":"2024-08-22T10:00:00.000Z","suspendTime":"2024-08-22T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10301,"name":"England"},{"status":"ACTIVE","sortPriority":2,"id":7337,"name":"Sri Lanka"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-22T10:00:00.000Z","version":6089384010,"name":"Match Odds  Draw No Bet","eventName":"England v Sri Lanka"}}]}
+{"op":"mcm","clk":"11896488275","pt":1724258529465,"mc":[{"id":"1.231851189","rc":[{"ltp":1.14,"id":10301}]}]}
+{"op":"mcm","clk":"11896531785","pt":1724258710239,"mc":[{"id":"1.231851189","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33497872","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"DRAW_NO_BET","marketTime":"2024-08-21T10:00:00.000Z","suspendTime":"2024-08-21T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10301,"name":"England"},{"status":"ACTIVE","sortPriority":2,"id":7337,"name":"Sri Lanka"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-21T10:00:00.000Z","version":6089412161,"name":"Match Odds  Draw No Bet","eventName":"England v Sri Lanka"}}]}
+{"op":"mcm","clk":"11896703085","pt":1724259730375,"mc":[{"id":"1.231851189","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33497872","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"DRAW_NO_BET","marketTime":"2024-08-22T10:00:00.000Z","suspendTime":"2024-08-22T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10301,"name":"England"},{"status":"ACTIVE","sortPriority":2,"id":7337,"name":"Sri Lanka"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-22T10:00:00.000Z","version":6089475236,"name":"Match Odds  Draw No Bet","eventName":"England v Sri Lanka"}}]}
+{"op":"mcm","clk":"11896744005","pt":1724259966428,"mc":[{"id":"1.231851189","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33497872","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"DRAW_NO_BET","marketTime":"2024-08-22T10:00:00.000Z","suspendTime":"2024-08-22T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10301,"name":"England"},{"status":"ACTIVE","sortPriority":2,"id":7337,"name":"Sri Lanka"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-22T10:00:00.000Z","version":6089487907,"name":"Match Odds  Draw No Bet","eventName":"England v Sri Lanka"}}]}
+{"op":"mcm","clk":"11897302115","pt":1724263505543,"mc":[{"id":"1.231851189","rc":[{"ltp":1.13,"id":10301}]}]}
+{"op":"mcm","clk":"11898420362","pt":1724270646111,"mc":[{"id":"1.231851189","rc":[{"ltp":8.8,"id":7337}]}]}
+{"op":"mcm","clk":"11898649164","pt":1724273454027,"mc":[{"id":"1.231851189","rc":[{"ltp":1.12,"id":10301}]}]}
+{"op":"mcm","clk":"11898654552","pt":1724273548989,"mc":[{"id":"1.231851189","rc":[{"ltp":9.2,"id":7337}]}]}
+{"op":"mcm","clk":"11898701803","pt":1724274478152,"mc":[{"id":"1.231851189","rc":[{"ltp":9.0,"id":7337}]}]}
+{"op":"mcm","clk":"11899358367","pt":1724286960177,"mc":[{"id":"1.231851189","rc":[{"ltp":1.13,"id":10301}]}]}
+{"op":"mcm","clk":"11900109681","pt":1724305849328,"mc":[{"id":"1.231851189","rc":[{"ltp":1.14,"id":10301}]}]}
+{"op":"mcm","clk":"11900233637","pt":1724309521113,"mc":[{"id":"1.231851189","rc":[{"ltp":1.12,"id":10301}]}]}
+{"op":"mcm","clk":"11900712401","pt":1724318589356,"mc":[{"id":"1.231851189","rc":[{"ltp":1.13,"id":10301}]}]}
+{"op":"mcm","clk":"11900886634","pt":1724320810473,"mc":[{"id":"1.231851189","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33497872","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"DRAW_NO_BET","marketTime":"2024-08-22T10:00:00.000Z","suspendTime":"2024-08-22T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10301,"name":"England"},{"status":"ACTIVE","sortPriority":2,"id":7337,"name":"Sri Lanka"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-22T10:00:00.000Z","version":6090703745,"name":"Match Odds  Draw No Bet","eventName":"England v Sri Lanka"}}]}
+{"op":"mcm","clk":"11901073055","pt":1724322965404,"mc":[{"id":"1.231851189","rc":[{"ltp":1.14,"id":10301}]}]}
+{"op":"mcm","clk":"11901779597","pt":1724330530173,"mc":[{"id":"1.231851189","rc":[{"ltp":1.2,"id":10301}]}]}
+{"op":"mcm","clk":"11901935502","pt":1724332570412,"mc":[{"id":"1.231851189","rc":[{"ltp":1.25,"id":10301}]}]}
+{"op":"mcm","clk":"11902839133","pt":1724343490027,"mc":[{"id":"1.231851189","rc":[{"ltp":1.14,"id":10301}]}]}
+{"op":"mcm","clk":"11903509986","pt":1724347863259,"mc":[{"id":"1.231851189","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33497872","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"DRAW_NO_BET","marketTime":"2024-08-23T10:00:00.000Z","suspendTime":"2024-08-23T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10301,"name":"England"},{"status":"ACTIVE","sortPriority":2,"id":7337,"name":"Sri Lanka"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-23T10:00:00.000Z","version":6091149896,"name":"Match Odds  Draw No Bet","eventName":"England v Sri Lanka"}}]}
+{"op":"mcm","clk":"11903675675","pt":1724348821198,"mc":[{"id":"1.231851189","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33497872","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"DRAW_NO_BET","marketTime":"2024-08-23T10:00:00.000Z","suspendTime":"2024-08-23T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10301,"name":"England"},{"status":"ACTIVE","sortPriority":2,"id":7337,"name":"Sri Lanka"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-23T10:00:00.000Z","version":6091191186,"name":"Match Odds  Draw No Bet","eventName":"England v Sri Lanka"}}]}
+{"op":"mcm","clk":"11904097107","pt":1724351339694,"mc":[{"id":"1.231851189","rc":[{"ltp":7.8,"id":7337}]}]}
+{"op":"mcm","clk":"11906214739","pt":1724376303023,"mc":[{"id":"1.231851189","rc":[{"ltp":1.13,"id":10301}]}]}
+{"op":"mcm","clk":"11906769133","pt":1724384832826,"mc":[{"id":"1.231851189","rc":[{"ltp":1.14,"id":10301}]}]}
+{"op":"mcm","clk":"11908055160","pt":1724405034763,"mc":[{"id":"1.231851189","rc":[{"ltp":1.12,"id":10301}]}]}
+{"op":"mcm","clk":"11908211483","pt":1724407209363,"mc":[{"id":"1.231851189","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33497872","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"DRAW_NO_BET","marketTime":"2024-08-23T10:00:00.000Z","suspendTime":"2024-08-23T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10301,"name":"England"},{"status":"ACTIVE","sortPriority":2,"id":7337,"name":"Sri Lanka"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-23T10:00:00.000Z","version":6092047354,"name":"Match Odds  Draw No Bet","eventName":"England v Sri Lanka"}}]}
+{"op":"mcm","clk":"11908946493","pt":1724414830320,"mc":[{"id":"1.231851189","rc":[{"ltp":1.08,"id":10301}]}]}
+{"op":"mcm","clk":"11909011367","pt":1724415310291,"mc":[{"id":"1.231851189","rc":[{"ltp":1.07,"id":10301}]}]}
+{"op":"mcm","clk":"11909017052","pt":1724415370475,"mc":[{"id":"1.231851189","rc":[{"ltp":1.06,"id":10301}]}]}
+{"op":"mcm","clk":"11909593899","pt":1724421069401,"mc":[{"id":"1.231851189","rc":[{"ltp":13.0,"id":7337}]}]}
+{"op":"mcm","clk":"11909655061","pt":1724421670124,"mc":[{"id":"1.231851189","rc":[{"ltp":1.1,"id":10301}]}]}
+{"op":"mcm","clk":"11909665905","pt":1724421790188,"mc":[{"id":"1.231851189","rc":[{"ltp":1.09,"id":10301}]}]}
+{"op":"mcm","clk":"11909860755","pt":1724423770340,"mc":[{"id":"1.231851189","rc":[{"ltp":1.1,"id":10301}]}]}
+{"op":"mcm","clk":"11909989851","pt":1724425089800,"mc":[{"id":"1.231851189","rc":[{"ltp":1.04,"id":10301}]}]}
+{"op":"mcm","clk":"11910947348","pt":1724431389528,"mc":[{"id":"1.231851189","rc":[{"ltp":1.1,"id":10301}]}]}
+{"op":"mcm","clk":"11911979647","pt":1724436425774,"mc":[{"id":"1.231851189","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33497872","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"DRAW_NO_BET","marketTime":"2024-08-24T10:00:00.000Z","suspendTime":"2024-08-24T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10301,"name":"England"},{"status":"ACTIVE","sortPriority":2,"id":7337,"name":"Sri Lanka"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-24T10:00:00.000Z","version":6092872817,"name":"Match Odds  Draw No Bet","eventName":"England v Sri Lanka"}}]}
+{"op":"mcm","clk":"11912116166","pt":1724436843013,"mc":[{"id":"1.231851189","rc":[{"ltp":1.09,"id":10301}]}]}
+{"op":"mcm","clk":"11913803286","pt":1724443570227,"mc":[{"id":"1.231851189","rc":[{"ltp":1.12,"id":10301}]}]}
+{"op":"mcm","clk":"11914367396","pt":1724451953856,"mc":[{"id":"1.231851189","rc":[{"ltp":8.8,"id":7337}]}]}
+{"op":"mcm","clk":"11914446809","pt":1724453529460,"mc":[{"id":"1.231851189","rc":[{"ltp":1.13,"id":10301}]}]}
+{"op":"mcm","clk":"11914449510","pt":1724453590041,"mc":[{"id":"1.231851189","rc":[{"ltp":1.12,"id":10301}]}]}
+{"op":"mcm","clk":"11914555193","pt":1724455431694,"mc":[{"id":"1.231851189","rc":[{"ltp":9.0,"id":7337}]}]}
+{"op":"mcm","clk":"11914684685","pt":1724457421597,"mc":[{"id":"1.231851189","rc":[{"ltp":8.8,"id":7337}]}]}
+{"op":"mcm","clk":"11914924199","pt":1724460487114,"mc":[{"id":"1.231851189","rc":[{"ltp":1.13,"id":10301}]}]}
+{"op":"mcm","clk":"11915759072","pt":1724469960618,"mc":[{"id":"1.231851189","rc":[{"ltp":9.6,"id":7337}]}]}
+{"op":"mcm","clk":"11916316622","pt":1724477046952,"mc":[{"id":"1.231851189","rc":[{"ltp":9.2,"id":7337}]}]}
+{"op":"mcm","clk":"11916448539","pt":1724478790094,"mc":[{"id":"1.231851189","rc":[{"ltp":1.11,"id":10301}]}]}
+{"op":"mcm","clk":"11916891093","pt":1724485145935,"mc":[{"id":"1.231851189","rc":[{"ltp":1.12,"id":10301}]}]}
+{"op":"mcm","clk":"11917230121","pt":1724489468540,"mc":[{"id":"1.231851189","rc":[{"ltp":1.11,"id":10301}]}]}
+{"op":"mcm","clk":"11917255452","pt":1724489830435,"mc":[{"id":"1.231851189","rc":[{"ltp":1.12,"id":10301}]}]}
+{"op":"mcm","clk":"11917366235","pt":1724490789706,"mc":[{"id":"1.231851189","rc":[{"ltp":1.11,"id":10301}]}]}
+{"op":"mcm","clk":"11917379473","pt":1724490906875,"mc":[{"id":"1.231851189","rc":[{"ltp":9.4,"id":7337}]}]}
+{"op":"mcm","clk":"11917419208","pt":1724491268778,"mc":[{"id":"1.231851189","rc":[{"ltp":9.0,"id":7337}]}]}
+{"op":"mcm","clk":"11917624903","pt":1724493010349,"mc":[{"id":"1.231851189","rc":[{"ltp":1.13,"id":10301},{"ltp":8.6,"id":7337}]}]}
+{"op":"mcm","clk":"11917668728","pt":1724493430416,"mc":[{"id":"1.231851189","rc":[{"ltp":8.8,"id":7337}]}]}
+{"op":"mcm","clk":"11917675282","pt":1724493490416,"mc":[{"id":"1.231851189","rc":[{"ltp":9.0,"id":7337}]}]}
+{"op":"mcm","clk":"11917689080","pt":1724493608776,"mc":[{"id":"1.231851189","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33497872","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"DRAW_NO_BET","marketTime":"2024-08-24T10:00:00.000Z","suspendTime":"2024-08-24T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10301,"name":"England"},{"status":"ACTIVE","sortPriority":2,"id":7337,"name":"Sri Lanka"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-24T10:00:00.000Z","version":6094211574,"name":"Match Odds  Draw No Bet","eventName":"England v Sri Lanka"}}]}
+{"op":"mcm","clk":"11917824215","pt":1724494510224,"mc":[{"id":"1.231851189","rc":[{"ltp":7.4,"id":7337}]}]}
+{"op":"mcm","clk":"11917834594","pt":1724494570064,"mc":[{"id":"1.231851189","rc":[{"ltp":7.6,"id":7337}]}]}
+{"op":"mcm","clk":"11917854633","pt":1724494690491,"mc":[{"id":"1.231851189","rc":[{"ltp":1.14,"id":10301}]}]}
+{"op":"mcm","clk":"11917904254","pt":1724494990206,"mc":[{"id":"1.231851189","rc":[{"ltp":1.18,"id":10301}]}]}
+{"op":"mcm","clk":"11917923483","pt":1724495110463,"mc":[{"id":"1.231851189","rc":[{"ltp":1.19,"id":10301}]}]}
+{"op":"mcm","clk":"11917933738","pt":1724495170145,"mc":[{"id":"1.231851189","rc":[{"ltp":6.0,"id":7337}]}]}
+{"op":"mcm","clk":"11917943852","pt":1724495230426,"mc":[{"id":"1.231851189","rc":[{"ltp":1.2,"id":10301}]}]}
+{"op":"mcm","clk":"11917965461","pt":1724495349981,"mc":[{"id":"1.231851189","rc":[{"ltp":1.21,"id":10301}]}]}
+{"op":"mcm","clk":"11918048983","pt":1724495830395,"mc":[{"id":"1.231851189","rc":[{"ltp":1.23,"id":10301}]}]}
+{"op":"mcm","clk":"11918059015","pt":1724495890447,"mc":[{"id":"1.231851189","rc":[{"ltp":1.26,"id":10301}]}]}
+{"op":"mcm","clk":"11918100448","pt":1724496130327,"mc":[{"id":"1.231851189","rc":[{"ltp":1.24,"id":10301}]}]}
+{"op":"mcm","clk":"11918190090","pt":1724496550406,"mc":[{"id":"1.231851189","rc":[{"ltp":1.25,"id":10301}]}]}
+{"op":"mcm","clk":"11918271231","pt":1724497150455,"mc":[{"id":"1.231851189","rc":[{"ltp":1.27,"id":10301}]}]}
+{"op":"mcm","clk":"11918365356","pt":1724497750450,"mc":[{"id":"1.231851189","rc":[{"ltp":4.8,"id":7337}]}]}
+{"op":"mcm","clk":"11918385457","pt":1724497870427,"mc":[{"id":"1.231851189","rc":[{"ltp":1.28,"id":10301}]}]}
+{"op":"mcm","clk":"11918395974","pt":1724497930424,"mc":[{"id":"1.231851189","rc":[{"ltp":1.3,"id":10301}]}]}
+{"op":"mcm","clk":"11918416718","pt":1724498050342,"mc":[{"id":"1.231851189","rc":[{"ltp":1.31,"id":10301}]}]}
+{"op":"mcm","clk":"11918438094","pt":1724498170052,"mc":[{"id":"1.231851189","rc":[{"ltp":1.34,"id":10301}]}]}
+{"op":"mcm","clk":"11918534819","pt":1724498710416,"mc":[{"id":"1.231851189","rc":[{"ltp":1.36,"id":10301}]}]}
+{"op":"mcm","clk":"11918607346","pt":1724499130467,"mc":[{"id":"1.231851189","rc":[{"ltp":1.33,"id":10301}]}]}
+{"op":"mcm","clk":"11918618363","pt":1724499189830,"mc":[{"id":"1.231851189","rc":[{"ltp":1.31,"id":10301}]}]}
+{"op":"mcm","clk":"11918697472","pt":1724499609003,"mc":[{"id":"1.231851189","rc":[{"ltp":4.0,"id":7337}]}]}
+{"op":"mcm","clk":"11919005656","pt":1724501350249,"mc":[{"id":"1.231851189","rc":[{"ltp":1.34,"id":10301}]}]}
+{"op":"mcm","clk":"11919028807","pt":1724501470142,"mc":[{"id":"1.231851189","rc":[{"ltp":1.33,"id":10301}]}]}
+{"op":"mcm","clk":"11919040707","pt":1724501529054,"mc":[{"id":"1.231851189","rc":[{"ltp":1.34,"id":10301}]}]}
+{"op":"mcm","clk":"11919094190","pt":1724501710211,"mc":[{"id":"1.231851189","rc":[{"ltp":1.35,"id":10301}]}]}
+{"op":"mcm","clk":"11919117714","pt":1724501829121,"mc":[{"id":"1.231851189","rc":[{"ltp":1.36,"id":10301}]}]}
+{"op":"mcm","clk":"11919129157","pt":1724501890340,"mc":[{"id":"1.231851189","rc":[{"ltp":1.38,"id":10301}]}]}
+{"op":"mcm","clk":"11919140229","pt":1724501950410,"mc":[{"id":"1.231851189","rc":[{"ltp":1.41,"id":10301}]}]}
+{"op":"mcm","clk":"11919253403","pt":1724502550417,"mc":[{"id":"1.231851189","rc":[{"ltp":1.35,"id":10301}]}]}
+{"op":"mcm","clk":"11919583279","pt":1724504349966,"mc":[{"id":"1.231851189","rc":[{"ltp":1.37,"id":10301}]}]}
+{"op":"mcm","clk":"11919627924","pt":1724504590406,"mc":[{"id":"1.231851189","rc":[{"ltp":1.48,"id":10301}]}]}
+{"op":"mcm","clk":"11919641025","pt":1724504650480,"mc":[{"id":"1.231851189","rc":[{"ltp":1.49,"id":10301}]}]}
+{"op":"mcm","clk":"11919695849","pt":1724504890430,"mc":[{"id":"1.231851189","rc":[{"ltp":1.43,"id":10301}]}]}
+{"op":"mcm","clk":"11919795384","pt":1724505310448,"mc":[{"id":"1.231851189","rc":[{"ltp":1.37,"id":10301}]}]}
+{"op":"mcm","clk":"11919984558","pt":1724506150417,"mc":[{"id":"1.231851189","rc":[{"ltp":1.26,"id":10301}]}]}
+{"op":"mcm","clk":"11919997426","pt":1724506210420,"mc":[{"id":"1.231851189","rc":[{"ltp":1.27,"id":10301}]}]}
+{"op":"mcm","clk":"11920025567","pt":1724506330449,"mc":[{"id":"1.231851189","rc":[{"ltp":1.19,"id":10301}]}]}
+{"op":"mcm","clk":"11920158736","pt":1724506930438,"mc":[{"id":"1.231851189","rc":[{"ltp":1.18,"id":10301}]}]}
+{"op":"mcm","clk":"11920523032","pt":1724508429636,"mc":[{"id":"1.231851189","rc":[{"ltp":8.8,"id":7337}]}]}
+{"op":"mcm","clk":"11920543330","pt":1724508490263,"mc":[{"id":"1.231851189","rc":[{"ltp":1.11,"id":10301}]}]}
+{"op":"mcm","clk":"11920584599","pt":1724508610349,"mc":[{"id":"1.231851189","rc":[{"ltp":1.08,"id":10301}]}]}
+{"op":"mcm","clk":"11920690951","pt":1724508910253,"mc":[{"id":"1.231851189","rc":[{"ltp":1.16,"id":10301}]}]}
+{"op":"mcm","clk":"11921297713","pt":1724510530382,"mc":[{"id":"1.231851189","rc":[{"ltp":1.09,"id":10301}]}]}
+{"op":"mcm","clk":"11921569311","pt":1724511489721,"mc":[{"id":"1.231851189","rc":[{"ltp":8.6,"id":7337}]}]}
+{"op":"mcm","clk":"11921597536","pt":1724511610197,"mc":[{"id":"1.231851189","rc":[{"ltp":1.3,"id":10301}]}]}
+{"op":"mcm","clk":"11921778361","pt":1724512150473,"mc":[{"id":"1.231851189","rc":[{"ltp":1.22,"id":10301}]}]}
+{"op":"mcm","clk":"11921801429","pt":1724512210226,"mc":[{"id":"1.231851189","rc":[{"ltp":1.2,"id":10301}]}]}
+{"op":"mcm","clk":"11921885324","pt":1724512389349,"mc":[{"id":"1.231851189","rc":[{"ltp":1.22,"id":10301}]}]}
+{"op":"mcm","clk":"11922048694","pt":1724512810222,"mc":[{"id":"1.231851189","rc":[{"ltp":1.2,"id":10301}]}]}
+{"op":"mcm","clk":"11922208882","pt":1724513230286,"mc":[{"id":"1.231851189","rc":[{"ltp":1.21,"id":10301}]}]}
+{"op":"mcm","clk":"11922371644","pt":1724513859337,"mc":[{"id":"1.231851189","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33497872","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"DRAW_NO_BET","marketTime":"2024-08-24T10:00:00.000Z","suspendTime":"2024-08-24T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":10301,"name":"England"},{"status":"ACTIVE","sortPriority":2,"id":7337,"name":"Sri Lanka"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-24T10:00:00.000Z","version":6095771410,"name":"Match Odds  Draw No Bet","eventName":"England v Sri Lanka"}}]}
+{"op":"mcm","clk":"11922403556","pt":1724517329505,"mc":[{"id":"1.231851189","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33497872","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"DRAW_NO_BET","marketTime":"2024-08-24T10:00:00.000Z","suspendTime":"2024-08-24T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10301,"name":"England"},{"status":"ACTIVE","sortPriority":2,"id":7337,"name":"Sri Lanka"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-24T10:00:00.000Z","version":6096108901,"name":"Match Odds  Draw No Bet","eventName":"England v Sri Lanka"}}]}
+{"op":"mcm","clk":"11922714420","pt":1724518810123,"mc":[{"id":"1.231851189","rc":[{"ltp":11.5,"id":7337}]}]}
+{"op":"mcm","clk":"11923407917","pt":1724522709906,"mc":[{"id":"1.231851189","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33497872","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"DRAW_NO_BET","marketTime":"2024-08-25T10:00:00.000Z","suspendTime":"2024-08-25T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10301,"name":"England"},{"status":"ACTIVE","sortPriority":2,"id":7337,"name":"Sri Lanka"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-25T10:00:00.000Z","version":6096571174,"name":"Match Odds  Draw No Bet","eventName":"England v Sri Lanka"}}]}
+{"op":"mcm","clk":"11923501892","pt":1724523183384,"mc":[{"id":"1.231851189","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33497872","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"DRAW_NO_BET","marketTime":"2024-08-24T19:14:00.000Z","suspendTime":"2024-08-24T19:14:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":10301,"name":"England"},{"status":"ACTIVE","sortPriority":2,"id":7337,"name":"Sri Lanka"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-24T19:14:00.000Z","version":6096620842,"name":"Match Odds  Draw No Bet","eventName":"England v Sri Lanka"}}]}
+{"op":"mcm","clk":"11923554318","pt":1724523484232,"mc":[{"id":"1.231851189","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33497872","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"DRAW_NO_BET","marketTime":"2024-08-24T19:14:00.000Z","suspendTime":"2024-08-24T19:14:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":10301,"name":"England"},{"status":"ACTIVE","sortPriority":2,"id":7337,"name":"Sri Lanka"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-24T19:14:00.000Z","version":6096640220,"name":"Match Odds  Draw No Bet","eventName":"England v Sri Lanka"}}]}
+{"op":"mcm","clk":"11923583526","pt":1724523656652,"mc":[{"id":"1.231851189","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33497872","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"DRAW_NO_BET","marketTime":"2024-08-24T19:14:00.000Z","suspendTime":"2024-08-24T17:14:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2024-08-24T18:20:49.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":10301,"name":"England"},{"status":"LOSER","sortPriority":2,"id":7337,"name":"Sri Lanka"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-24T19:14:00.000Z","version":6096651574,"name":"Match Odds  Draw No Bet","eventName":"England v Sri Lanka"}}]}

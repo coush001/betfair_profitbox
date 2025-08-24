@@ -1,0 +1,51 @@
+{"op":"mcm","clk":"11906221890","pt":1724473691966,"mc":[{"id":"1.232215496","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33522474","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-24T18:30:00.000Z","suspendTime":"2024-08-24T18:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-24T18:30:00.000Z","version":6093990034,"name":"Tied Match","eventName":"Grand Cayman Stingrays v New York Strikers"}}]}
+{"op":"mcm","clk":"11912765900","pt":1724521149164,"mc":[{"id":"1.232215496","rc":[{"ltp":50.0,"id":37302},{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11913274393","pt":1724524209799,"mc":[{"id":"1.232215496","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33522474","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-24T18:30:00.000Z","suspendTime":"2024-08-24T18:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-24T18:30:00.000Z","version":6096678222,"name":"Tied Match","eventName":"Grand Cayman Stingrays v New York Strikers"}}]}
+{"op":"mcm","clk":"11913287262","pt":1724524269883,"mc":[{"id":"1.232215496","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33522474","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-24T18:30:00.000Z","suspendTime":"2024-08-24T18:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-24T18:30:00.000Z","version":6096678243,"name":"Tied Match","eventName":"Grand Cayman Stingrays v New York Strikers"}}]}
+{"op":"mcm","clk":"11913300298","pt":1724524329715,"mc":[{"id":"1.232215496","rc":[{"ltp":40.0,"id":37302}]}]}
+{"op":"mcm","clk":"11913354104","pt":1724524569812,"mc":[{"id":"1.232215496","rc":[{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11913366954","pt":1724524629856,"mc":[{"id":"1.232215496","rc":[{"ltp":85.0,"id":37302},{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11913406941","pt":1724524809464,"mc":[{"id":"1.232215496","rc":[{"ltp":50.0,"id":37302}]}]}
+{"op":"mcm","clk":"11913528858","pt":1724525349931,"mc":[{"id":"1.232215496","rc":[{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11913539050","pt":1724525409681,"mc":[{"id":"1.232215496","rc":[{"ltp":40.0,"id":37302}]}]}
+{"op":"mcm","clk":"11913559410","pt":1724525529561,"mc":[{"id":"1.232215496","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11913601365","pt":1724525769559,"mc":[{"id":"1.232215496","rc":[{"ltp":42.0,"id":37302}]}]}
+{"op":"mcm","clk":"11913668305","pt":1724526129958,"mc":[{"id":"1.232215496","rc":[{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11913779940","pt":1724526669659,"mc":[{"id":"1.232215496","rc":[{"ltp":48.0,"id":37302},{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11913843013","pt":1724526909794,"mc":[{"id":"1.232215496","rc":[{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11913894005","pt":1724527149773,"mc":[{"id":"1.232215496","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11913917931","pt":1724527269644,"mc":[{"id":"1.232215496","rc":[{"ltp":50.0,"id":37302}]}]}
+{"op":"mcm","clk":"11913929594","pt":1724527329706,"mc":[{"id":"1.232215496","rc":[{"ltp":48.0,"id":37302}]}]}
+{"op":"mcm","clk":"11913976462","pt":1724527569586,"mc":[{"id":"1.232215496","rc":[{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11914019093","pt":1724527809821,"mc":[{"id":"1.232215496","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11914042332","pt":1724527929883,"mc":[{"id":"1.232215496","rc":[{"ltp":55.0,"id":37302}]}]}
+{"op":"mcm","clk":"11914054419","pt":1724527989891,"mc":[{"id":"1.232215496","rc":[{"ltp":48.0,"id":37302},{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11914079215","pt":1724528109800,"mc":[{"id":"1.232215496","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11914091353","pt":1724528169857,"mc":[{"id":"1.232215496","rc":[{"ltp":50.0,"id":37302},{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11914102837","pt":1724528229922,"mc":[{"id":"1.232215496","rc":[{"ltp":48.0,"id":37302}]}]}
+{"op":"mcm","clk":"11914126333","pt":1724528349787,"mc":[{"id":"1.232215496","rc":[{"ltp":42.0,"id":37302},{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11914138112","pt":1724528409875,"mc":[{"id":"1.232215496","rc":[{"ltp":40.0,"id":37302},{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11914160219","pt":1724528529855,"mc":[{"id":"1.232215496","rc":[{"ltp":42.0,"id":37302}]}]}
+{"op":"mcm","clk":"11914171319","pt":1724528589883,"mc":[{"id":"1.232215496","rc":[{"ltp":36.0,"id":37302}]}]}
+{"op":"mcm","clk":"11914182258","pt":1724528649947,"mc":[{"id":"1.232215496","rc":[{"ltp":38.0,"id":37302}]}]}
+{"op":"mcm","clk":"11914258053","pt":1724529069661,"mc":[{"id":"1.232215496","rc":[{"ltp":44.0,"id":37302}]}]}
+{"op":"mcm","clk":"11914268547","pt":1724529129915,"mc":[{"id":"1.232215496","rc":[{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11914278856","pt":1724529189864,"mc":[{"id":"1.232215496","rc":[{"ltp":60.0,"id":37302}]}]}
+{"op":"mcm","clk":"11914289362","pt":1724529249922,"mc":[{"id":"1.232215496","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11914308976","pt":1724529369488,"mc":[{"id":"1.232215496","rc":[{"ltp":70.0,"id":37302}]}]}
+{"op":"mcm","clk":"11914329034","pt":1724529489874,"mc":[{"id":"1.232215496","rc":[{"ltp":60.0,"id":37302}]}]}
+{"op":"mcm","clk":"11914338650","pt":1724529549816,"mc":[{"id":"1.232215496","rc":[{"ltp":55.0,"id":37302},{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11914347610","pt":1724529609896,"mc":[{"id":"1.232215496","rc":[{"ltp":40.0,"id":37302}]}]}
+{"op":"mcm","clk":"11914357445","pt":1724529669881,"mc":[{"id":"1.232215496","rc":[{"ltp":50.0,"id":37302}]}]}
+{"op":"mcm","clk":"11914366837","pt":1724529729953,"mc":[{"id":"1.232215496","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11914406027","pt":1724529969695,"mc":[{"id":"1.232215496","rc":[{"ltp":60.0,"id":37302}]}]}
+{"op":"mcm","clk":"11914417084","pt":1724530029926,"mc":[{"id":"1.232215496","rc":[{"ltp":50.0,"id":37302}]}]}
+{"op":"mcm","clk":"11914428429","pt":1724530089892,"mc":[{"id":"1.232215496","rc":[{"ltp":55.0,"id":37302}]}]}
+{"op":"mcm","clk":"11914439542","pt":1724530149565,"mc":[{"id":"1.232215496","rc":[{"ltp":40.0,"id":37302},{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11914462495","pt":1724530269802,"mc":[{"id":"1.232215496","rc":[{"ltp":36.0,"id":37302}]}]}
+{"op":"mcm","clk":"11914472970","pt":1724530329896,"mc":[{"id":"1.232215496","rc":[{"ltp":1.04,"id":37303}]}]}
+{"op":"mcm","clk":"11914483258","pt":1724530389923,"mc":[{"id":"1.232215496","rc":[{"ltp":30.0,"id":37302},{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11914493534","pt":1724530449915,"mc":[{"id":"1.232215496","rc":[{"ltp":34.0,"id":37302}]}]}
+{"op":"mcm","clk":"11914504444","pt":1724530509881,"mc":[{"id":"1.232215496","rc":[{"ltp":100.0,"id":37302},{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11914523939","pt":1724530628039,"mc":[{"id":"1.232215496","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33522474","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-24T18:30:00.000Z","suspendTime":"2024-08-24T18:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-24T18:30:00.000Z","version":6097144420,"name":"Tied Match","eventName":"Grand Cayman Stingrays v New York Strikers"}}]}
+{"op":"mcm","clk":"11914540472","pt":1724530748001,"mc":[{"id":"1.232215496","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33522474","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-24T18:30:00.000Z","suspendTime":"2024-08-24T18:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2024-08-24T20:19:05.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":37302,"name":"Yes"},{"status":"WINNER","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-24T18:30:00.000Z","version":6097153411,"name":"Tied Match","eventName":"Grand Cayman Stingrays v New York Strikers"}}]}

@@ -1,0 +1,52 @@
+{"op":"mcm","clk":"11784068154","pt":1722941343242,"mc":[{"id":"1.231501849","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33472590","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_50_BALL_LINE","marketTime":"2024-08-08T14:00:00.000Z","suspendTime":"2024-08-08T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-08T14:00:00.000Z","version":6059505746,"name":"1st Innings 50 Balls Runs Line","eventName":"Oval Invincibles Women v Southern Brave Women"}}]}
+{"op":"mcm","clk":"11795986556","pt":1723125241068,"mc":[{"id":"1.231501849","rc":[{"ltp":61.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796004101","pt":1723125600110,"mc":[{"id":"1.231501849","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33472590","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_50_BALL_LINE","marketTime":"2024-08-08T14:00:00.000Z","suspendTime":"2024-08-08T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-08T14:00:00.000Z","version":6061823917,"name":"1st Innings 50 Balls Runs Line","eventName":"Oval Invincibles Women v Southern Brave Women"}}]}
+{"op":"mcm","clk":"11796022739","pt":1723125901205,"mc":[{"id":"1.231501849","rc":[{"ltp":52.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796029341","pt":1723126021131,"mc":[{"id":"1.231501849","rc":[{"ltp":57.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796032613","pt":1723126081160,"mc":[{"id":"1.231501849","rc":[{"ltp":54.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796039399","pt":1723126201171,"mc":[{"id":"1.231501849","rc":[{"ltp":48.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796042849","pt":1723126261225,"mc":[{"id":"1.231501849","rc":[{"ltp":47.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796049595","pt":1723126381049,"mc":[{"id":"1.231501849","rc":[{"ltp":49.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796053343","pt":1723126441136,"mc":[{"id":"1.231501849","rc":[{"ltp":50.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796057277","pt":1723126501202,"mc":[{"id":"1.231501849","rc":[{"ltp":49.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796061331","pt":1723126561170,"mc":[{"id":"1.231501849","rc":[{"ltp":50.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796064787","pt":1723126621134,"mc":[{"id":"1.231501849","rc":[{"ltp":52.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796068351","pt":1723126681159,"mc":[{"id":"1.231501849","rc":[{"ltp":53.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796071991","pt":1723126741138,"mc":[{"id":"1.231501849","rc":[{"ltp":52.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796075154","pt":1723126801170,"mc":[{"id":"1.231501849","rc":[{"ltp":48.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796078204","pt":1723126861160,"mc":[{"id":"1.231501849","rc":[{"ltp":51.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796084612","pt":1723126981192,"mc":[{"id":"1.231501849","rc":[{"ltp":52.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796087887","pt":1723127041138,"mc":[{"id":"1.231501849","rc":[{"ltp":55.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796094476","pt":1723127161167,"mc":[{"id":"1.231501849","rc":[{"ltp":54.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796098350","pt":1723127221135,"mc":[{"id":"1.231501849","rc":[{"ltp":55.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796101603","pt":1723127281225,"mc":[{"id":"1.231501849","rc":[{"ltp":56.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796104695","pt":1723127341169,"mc":[{"id":"1.231501849","rc":[{"ltp":57.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796107727","pt":1723127401030,"mc":[{"id":"1.231501849","rc":[{"ltp":56.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796114376","pt":1723127520727,"mc":[{"id":"1.231501849","rc":[{"ltp":57.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796117921","pt":1723127581085,"mc":[{"id":"1.231501849","rc":[{"ltp":58.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796125070","pt":1723127701089,"mc":[{"id":"1.231501849","rc":[{"ltp":57.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796132467","pt":1723127819536,"mc":[{"id":"1.231501849","rc":[{"ltp":58.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796149683","pt":1723128118454,"mc":[{"id":"1.231501849","rc":[{"ltp":57.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796171243","pt":1723128301025,"mc":[{"id":"1.231501849","rc":[{"ltp":58.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796177040","pt":1723128419123,"mc":[{"id":"1.231501849","rc":[{"ltp":57.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796207812","pt":1723129019662,"mc":[{"id":"1.231501849","rc":[{"ltp":58.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796289789","pt":1723130217482,"mc":[{"id":"1.231501849","rc":[{"ltp":57.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796293940","pt":1723130279380,"mc":[{"id":"1.231501849","rc":[{"ltp":58.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796309430","pt":1723130519699,"mc":[{"id":"1.231501849","rc":[{"ltp":59.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796402960","pt":1723131779183,"mc":[{"id":"1.231501849","rc":[{"ltp":60.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796407567","pt":1723131835354,"mc":[{"id":"1.231501849","rc":[{"ltp":59.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796412080","pt":1723131892476,"mc":[{"id":"1.231501849","rc":[{"ltp":60.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796426277","pt":1723132080064,"mc":[{"id":"1.231501849","rc":[{"ltp":59.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796444612","pt":1723132320444,"mc":[{"id":"1.231501849","rc":[{"ltp":58.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796449351","pt":1723132379968,"mc":[{"id":"1.231501849","rc":[{"ltp":57.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796453760","pt":1723132441130,"mc":[{"id":"1.231501849","rc":[{"ltp":60.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796457939","pt":1723132501212,"mc":[{"id":"1.231501849","rc":[{"ltp":61.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796462613","pt":1723132561167,"mc":[{"id":"1.231501849","rc":[{"ltp":63.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796471721","pt":1723132680874,"mc":[{"id":"1.231501849","rc":[{"ltp":60.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796476374","pt":1723132741144,"mc":[{"id":"1.231501849","rc":[{"ltp":57.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796486443","pt":1723132861156,"mc":[{"id":"1.231501849","rc":[{"ltp":55.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796491674","pt":1723132921100,"mc":[{"id":"1.231501849","rc":[{"ltp":52.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796503604","pt":1723133041159,"mc":[{"id":"1.231501849","rc":[{"ltp":51.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796509357","pt":1723133101187,"mc":[{"id":"1.231501849","rc":[{"ltp":52.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796520347","pt":1723133221202,"mc":[{"id":"1.231501849","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33472590","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_50_BALL_LINE","marketTime":"2024-08-08T14:00:00.000Z","suspendTime":"2024-08-08T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-08T14:00:00.000Z","version":6061933769,"name":"1st Innings 50 Balls Runs Line","eventName":"Oval Invincibles Women v Southern Brave Women"}}]}
+{"op":"mcm","clk":"11796525932","pt":1723133281158,"mc":[{"id":"1.231501849","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33472590","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_50_BALL_LINE","marketTime":"2024-08-08T14:00:00.000Z","suspendTime":"2024-08-08T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-08T16:07:24.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-08T14:00:00.000Z","version":6061934983,"name":"1st Innings 50 Balls Runs Line","eventName":"Oval Invincibles Women v Southern Brave Women"}}]}

@@ -1,0 +1,31 @@
+{"op":"mcm","clk":"11780531271","pt":1722763756307,"mc":[{"id":"1.231431444","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33467053","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"2_INN_50_BALL_LINE","marketTime":"2024-08-06T10:30:00.000Z","suspendTime":"2024-08-06T10:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-06T10:30:00.000Z","version":6056056669,"name":"2nd Innings 50 Balls Runs Line","eventName":"Manchester Originals W v Oval Invincibles W"}}]}
+{"op":"mcm","clk":"11793022832","pt":1722940212378,"mc":[{"id":"1.231431444","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33467053","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"2_INN_50_BALL_LINE","marketTime":"2024-08-06T10:30:00.000Z","suspendTime":"2024-08-06T10:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-06T10:30:00.000Z","version":6059497521,"name":"2nd Innings 50 Balls Runs Line","eventName":"Manchester Originals W v Oval Invincibles W"}}]}
+{"op":"mcm","clk":"11793361251","pt":1722944712768,"mc":[{"id":"1.231431444","rc":[{"ltp":58.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793385585","pt":1722945013221,"mc":[{"id":"1.231431444","rc":[{"ltp":57.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793390634","pt":1722945073173,"mc":[{"id":"1.231431444","rc":[{"ltp":58.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793399502","pt":1722945192725,"mc":[{"id":"1.231431444","rc":[{"ltp":57.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793411878","pt":1722945373214,"mc":[{"id":"1.231431444","rc":[{"ltp":56.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793415894","pt":1722945433219,"mc":[{"id":"1.231431444","rc":[{"ltp":54.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793419849","pt":1722945493198,"mc":[{"id":"1.231431444","rc":[{"ltp":55.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793423655","pt":1722945553168,"mc":[{"id":"1.231431444","rc":[{"ltp":56.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793431241","pt":1722945673252,"mc":[{"id":"1.231431444","rc":[{"ltp":60.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793434976","pt":1722945733292,"mc":[{"id":"1.231431444","rc":[{"ltp":57.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793438474","pt":1722945793294,"mc":[{"id":"1.231431444","rc":[{"ltp":56.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793446382","pt":1722945913226,"mc":[{"id":"1.231431444","rc":[{"ltp":53.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793454502","pt":1722946033267,"mc":[{"id":"1.231431444","rc":[{"ltp":59.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793469777","pt":1722946273292,"mc":[{"id":"1.231431444","rc":[{"ltp":60.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793473970","pt":1722946333240,"mc":[{"id":"1.231431444","rc":[{"ltp":58.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793488175","pt":1722946453249,"mc":[{"id":"1.231431444","rc":[{"ltp":57.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793495254","pt":1722946573219,"mc":[{"id":"1.231431444","rc":[{"ltp":56.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793498760","pt":1722946633173,"mc":[{"id":"1.231431444","rc":[{"ltp":58.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793502292","pt":1722946693269,"mc":[{"id":"1.231431444","rc":[{"ltp":57.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793505620","pt":1722946753119,"mc":[{"id":"1.231431444","rc":[{"ltp":58.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793512305","pt":1722946873259,"mc":[{"id":"1.231431444","rc":[{"ltp":56.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793523383","pt":1722947053222,"mc":[{"id":"1.231431444","rc":[{"ltp":57.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793527161","pt":1722947113291,"mc":[{"id":"1.231431444","rc":[{"ltp":55.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793531224","pt":1722947173262,"mc":[{"id":"1.231431444","rc":[{"ltp":54.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793534874","pt":1722947233220,"mc":[{"id":"1.231431444","rc":[{"ltp":55.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793538628","pt":1722947293285,"mc":[{"id":"1.231431444","rc":[{"ltp":54.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793546432","pt":1722947413242,"mc":[{"id":"1.231431444","rc":[{"ltp":53.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793550678","pt":1722947473271,"mc":[{"id":"1.231431444","rc":[{"ltp":52.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793555127","pt":1722947533283,"mc":[{"id":"1.231431444","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33467053","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"2_INN_50_BALL_LINE","marketTime":"2024-08-06T10:30:00.000Z","suspendTime":"2024-08-06T10:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-06T12:31:58.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-06T10:30:00.000Z","version":6059558955,"name":"2nd Innings 50 Balls Runs Line","eventName":"Manchester Originals W v Oval Invincibles W"}}]}

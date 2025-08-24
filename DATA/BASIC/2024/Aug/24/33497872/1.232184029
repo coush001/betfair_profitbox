@@ -1,0 +1,15 @@
+{"op":"mcm","clk":"11920118923","pt":1724506749432,"mc":[{"id":"1.232184029","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33497872","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"A_2_INN_15_OVR_LINE","marketTime":"2024-08-24T10:00:00.000Z","suspendTime":"2024-08-24T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-24T10:00:00.000Z","version":6094994283,"name":"England 2nd Innings 15 Over Line","eventName":"England v Sri Lanka"}}]}
+{"op":"mcm","clk":"11921100589","pt":1724509989983,"mc":[{"id":"1.232184029","rc":[{"ltp":70.5,"id":15316}]}]}
+{"op":"mcm","clk":"11921121933","pt":1724510050207,"mc":[{"id":"1.232184029","rc":[{"ltp":68.5,"id":15316}]}]}
+{"op":"mcm","clk":"11921144645","pt":1724510110488,"mc":[{"id":"1.232184029","rc":[{"ltp":67.5,"id":15316}]}]}
+{"op":"mcm","clk":"11921167568","pt":1724510170395,"mc":[{"id":"1.232184029","rc":[{"ltp":66.5,"id":15316}]}]}
+{"op":"mcm","clk":"11921255790","pt":1724510409386,"mc":[{"id":"1.232184029","rc":[{"ltp":67.5,"id":15316}]}]}
+{"op":"mcm","clk":"11921276663","pt":1724510470326,"mc":[{"id":"1.232184029","rc":[{"ltp":66.5,"id":15316}]}]}
+{"op":"mcm","clk":"11921319070","pt":1724510589751,"mc":[{"id":"1.232184029","rc":[{"ltp":65.5,"id":15316}]}]}
+{"op":"mcm","clk":"11921362502","pt":1724510710192,"mc":[{"id":"1.232184029","rc":[{"ltp":67.5,"id":15316}]}]}
+{"op":"mcm","clk":"11921384208","pt":1724510770400,"mc":[{"id":"1.232184029","rc":[{"ltp":64.5,"id":15316}]}]}
+{"op":"mcm","clk":"11921404393","pt":1724510830367,"mc":[{"id":"1.232184029","rc":[{"ltp":65.5,"id":15316}]}]}
+{"op":"mcm","clk":"11921440317","pt":1724510950123,"mc":[{"id":"1.232184029","rc":[{"ltp":63.5,"id":15316}]}]}
+{"op":"mcm","clk":"11921472832","pt":1724511070108,"mc":[{"id":"1.232184029","rc":[{"ltp":64.5,"id":15316}]}]}
+{"op":"mcm","clk":"11921514567","pt":1724511250252,"mc":[{"id":"1.232184029","rc":[{"ltp":65.5,"id":15316}]}]}
+{"op":"mcm","clk":"11921569311","pt":1724511489721,"mc":[{"id":"1.232184029","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33497872","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"A_2_INN_15_OVR_LINE","marketTime":"2024-08-24T10:00:00.000Z","suspendTime":"2024-08-24T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-24T14:57:14.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-24T10:00:00.000Z","version":6095524137,"name":"England 2nd Innings 15 Over Line","eventName":"England v Sri Lanka"}}]}

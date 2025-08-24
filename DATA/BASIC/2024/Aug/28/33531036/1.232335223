@@ -1,0 +1,47 @@
+{"op":"mcm","clk":"11932745784","pt":1724750372905,"mc":[{"id":"1.232335223","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33531036","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS_LO_TIE","marketTime":"2024-08-28T12:00:00.000Z","suspendTime":"2024-08-28T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":3,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":228749,"name":"Netherlands"},{"status":"ACTIVE","sortPriority":2,"id":891555,"name":"USA"},{"status":"ACTIVE","sortPriority":3,"id":2312392,"name":"Tie"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-28T12:00:00.000Z","version":6103009673,"name":"Match Odds Including Tie","eventName":"Netherlands v USA"}}]}
+{"op":"mcm","clk":"11935569703","pt":1724780262088,"mc":[{"id":"1.232335223","rc":[{"ltp":11.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11935585227","pt":1724780366729,"mc":[{"id":"1.232335223","rc":[{"ltp":3.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11935870986","pt":1724782289622,"mc":[{"id":"1.232335223","rc":[{"ltp":2.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11936100577","pt":1724783602695,"mc":[{"id":"1.232335223","rc":[{"ltp":2.1,"id":2312392}]}]}
+{"op":"mcm","clk":"11936122788","pt":1724783723831,"mc":[{"id":"1.232335223","rc":[{"ltp":1.03,"id":2312392}]}]}
+{"op":"mcm","clk":"11936128957","pt":1724783758781,"mc":[{"id":"1.232335223","rc":[{"ltp":1.1,"id":2312392}]}]}
+{"op":"mcm","clk":"11936143991","pt":1724783840699,"mc":[{"id":"1.232335223","rc":[{"ltp":1.13,"id":2312392}]}]}
+{"op":"mcm","clk":"11936155176","pt":1724783900877,"mc":[{"id":"1.232335223","rc":[{"ltp":2.12,"id":2312392}]}]}
+{"op":"mcm","clk":"11936799838","pt":1724787569391,"mc":[{"id":"1.232335223","rc":[{"ltp":1.89,"id":228749},{"ltp":2.54,"id":891555}]}]}
+{"op":"mcm","clk":"11936802713","pt":1724787585830,"mc":[{"id":"1.232335223","rc":[{"ltp":15.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11939961526","pt":1724846429775,"mc":[{"id":"1.232335223","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33531036","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS_LO_TIE","marketTime":"2024-08-28T12:00:00.000Z","suspendTime":"2024-08-28T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":3,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":228749,"name":"Netherlands"},{"status":"ACTIVE","sortPriority":2,"id":891555,"name":"USA"},{"status":"ACTIVE","sortPriority":3,"id":2312392,"name":"Tie"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-28T12:00:00.000Z","version":6104709480,"name":"Match Odds Including Tie","eventName":"Netherlands v USA"}}]}
+{"op":"mcm","clk":"11940219575","pt":1724849369858,"mc":[{"id":"1.232335223","rc":[{"ltp":1.35,"id":891555}]}]}
+{"op":"mcm","clk":"11940230583","pt":1724849489683,"mc":[{"id":"1.232335223","rc":[{"ltp":1.31,"id":891555}]}]}
+{"op":"mcm","clk":"11940500252","pt":1724852129849,"mc":[{"id":"1.232335223","rc":[{"ltp":1.44,"id":891555},{"ltp":50.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11940531982","pt":1724852489831,"mc":[{"id":"1.232335223","rc":[{"ltp":60.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11940536922","pt":1724852549418,"mc":[{"id":"1.232335223","rc":[{"ltp":3.35,"id":228749}]}]}
+{"op":"mcm","clk":"11940584223","pt":1724853029846,"mc":[{"id":"1.232335223","rc":[{"ltp":5.0,"id":228749}]}]}
+{"op":"mcm","clk":"11940621297","pt":1724853449851,"mc":[{"id":"1.232335223","rc":[{"ltp":4.3,"id":228749}]}]}
+{"op":"mcm","clk":"11940643082","pt":1724853689758,"mc":[{"id":"1.232335223","rc":[{"ltp":65.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11940648289","pt":1724853749814,"mc":[{"id":"1.232335223","rc":[{"ltp":6.0,"id":228749}]}]}
+{"op":"mcm","clk":"11940699073","pt":1724854289757,"mc":[{"id":"1.232335223","rc":[{"ltp":7.8,"id":228749}]}]}
+{"op":"mcm","clk":"11940716998","pt":1724854469889,"mc":[{"id":"1.232335223","rc":[{"ltp":1.12,"id":891555}]}]}
+{"op":"mcm","clk":"11940729732","pt":1724854589837,"mc":[{"id":"1.232335223","rc":[{"ltp":60.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11940784491","pt":1724855189782,"mc":[{"id":"1.232335223","rc":[{"ltp":10.0,"id":228749},{"ltp":40.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11940796082","pt":1724855309797,"mc":[{"id":"1.232335223","rc":[{"ltp":6.0,"id":228749}]}]}
+{"op":"mcm","clk":"11940856969","pt":1724855849808,"mc":[{"id":"1.232335223","rc":[{"ltp":3.9,"id":228749}]}]}
+{"op":"mcm","clk":"11940864044","pt":1724855909803,"mc":[{"id":"1.232335223","rc":[{"ltp":1.37,"id":891555}]}]}
+{"op":"mcm","clk":"11940878815","pt":1724856029812,"mc":[{"id":"1.232335223","rc":[{"ltp":7.6,"id":228749}]}]}
+{"op":"mcm","clk":"11940918398","pt":1724856269804,"mc":[{"id":"1.232335223","rc":[{"ltp":44.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11940926271","pt":1724856329883,"mc":[{"id":"1.232335223","rc":[{"ltp":5.0,"id":228749}]}]}
+{"op":"mcm","clk":"11940942880","pt":1724856449840,"mc":[{"id":"1.232335223","rc":[{"ltp":3.5,"id":228749}]}]}
+{"op":"mcm","clk":"11940973907","pt":1724856689854,"mc":[{"id":"1.232335223","rc":[{"ltp":34.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11940989189","pt":1724856809826,"mc":[{"id":"1.232335223","rc":[{"ltp":2.3,"id":891555},{"ltp":24.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11940996232","pt":1724856869793,"mc":[{"id":"1.232335223","rc":[{"ltp":2.5,"id":891555},{"ltp":26.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11941003894","pt":1724856929853,"mc":[{"id":"1.232335223","rc":[{"ltp":2.12,"id":891555}]}]}
+{"op":"mcm","clk":"11941010989","pt":1724856989852,"mc":[{"id":"1.232335223","rc":[{"ltp":2.0,"id":891555}]}]}
+{"op":"mcm","clk":"11941018944","pt":1724857049822,"mc":[{"id":"1.232335223","rc":[{"ltp":2.08,"id":228749},{"ltp":22.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11941032873","pt":1724857169857,"mc":[{"id":"1.232335223","rc":[{"ltp":21.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11941048302","pt":1724857289849,"mc":[{"id":"1.232335223","rc":[{"ltp":1.34,"id":891555},{"ltp":26.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11941071207","pt":1724857469760,"mc":[{"id":"1.232335223","rc":[{"ltp":7.2,"id":228749}]}]}
+{"op":"mcm","clk":"11941079597","pt":1724857529851,"mc":[{"id":"1.232335223","rc":[{"ltp":21.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11941095774","pt":1724857649864,"mc":[{"id":"1.232335223","rc":[{"ltp":2.28,"id":228749}]}]}
+{"op":"mcm","clk":"11941103401","pt":1724857709867,"mc":[{"id":"1.232335223","rc":[{"ltp":2.02,"id":891555},{"ltp":13.5,"id":2312392}]}]}
+{"op":"mcm","clk":"11941126185","pt":1724857889806,"mc":[{"id":"1.232335223","rc":[{"ltp":1.02,"id":228749}]}]}
+{"op":"mcm","clk":"11941133973","pt":1724857949659,"mc":[{"id":"1.232335223","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33531036","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS_LO_TIE","marketTime":"2024-08-28T12:00:00.000Z","suspendTime":"2024-08-28T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":3,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":228749,"name":"Netherlands"},{"status":"ACTIVE","sortPriority":2,"id":891555,"name":"USA"},{"status":"ACTIVE","sortPriority":3,"id":2312392,"name":"Tie"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-28T12:00:00.000Z","version":6104891326,"name":"Match Odds Including Tie","eventName":"Netherlands v USA"}}]}
+{"op":"mcm","clk":"11941163285","pt":1724858165647,"mc":[{"id":"1.232335223","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33531036","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS_LO_TIE","marketTime":"2024-08-28T12:00:00.000Z","suspendTime":"2024-08-28T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2024-08-28T15:15:59.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":228749,"name":"Netherlands"},{"status":"LOSER","sortPriority":2,"id":891555,"name":"USA"},{"status":"LOSER","sortPriority":3,"id":2312392,"name":"Tie"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-28T12:00:00.000Z","version":6104896703,"name":"Match Odds Including Tie","eventName":"Netherlands v USA"}}]}

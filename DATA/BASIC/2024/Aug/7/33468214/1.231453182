@@ -1,0 +1,34 @@
+{"op":"mcm","clk":"11784360437","pt":1722792447795,"mc":[{"id":"1.231453182","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33468214","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_30_OVR_LINE","marketTime":"2024-08-07T09:00:00.000Z","suspendTime":"2024-08-07T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-07T09:00:00.000Z","version":6057248051,"name":"1st Innings 30 Overs Line","eventName":"Sri Lanka v India"}}]}
+{"op":"mcm","clk":"11796886292","pt":1723013007240,"mc":[{"id":"1.231453182","rc":[{"ltp":10.5,"id":15316}]}]}
+{"op":"mcm","clk":"11797208031","pt":1723021229405,"mc":[{"id":"1.231453182","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33468214","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_30_OVR_LINE","marketTime":"2024-08-07T09:00:00.000Z","suspendTime":"2024-08-07T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-07T09:00:00.000Z","version":6060453755,"name":"1st Innings 30 Overs Line","eventName":"Sri Lanka v India"}}]}
+{"op":"mcm","clk":"11797408914","pt":1723024229412,"mc":[{"id":"1.231453182","rc":[{"ltp":128.5,"id":15316}]}]}
+{"op":"mcm","clk":"11797421652","pt":1723024409456,"mc":[{"id":"1.231453182","rc":[{"ltp":138.5,"id":15316}]}]}
+{"op":"mcm","clk":"11797431687","pt":1723024529415,"mc":[{"id":"1.231453182","rc":[{"ltp":135.5,"id":15316}]}]}
+{"op":"mcm","clk":"11797449153","pt":1723024709376,"mc":[{"id":"1.231453182","rc":[{"ltp":142.5,"id":15316}]}]}
+{"op":"mcm","clk":"11797473937","pt":1723024949469,"mc":[{"id":"1.231453182","rc":[{"ltp":138.5,"id":15316}]}]}
+{"op":"mcm","clk":"11797485830","pt":1723025069449,"mc":[{"id":"1.231453182","rc":[{"ltp":157.5,"id":15316}]}]}
+{"op":"mcm","clk":"11797496369","pt":1723025188725,"mc":[{"id":"1.231453182","rc":[{"ltp":141.5,"id":15316}]}]}
+{"op":"mcm","clk":"11797526877","pt":1723025549401,"mc":[{"id":"1.231453182","rc":[{"ltp":134.5,"id":15316}]}]}
+{"op":"mcm","clk":"11797537924","pt":1723025669416,"mc":[{"id":"1.231453182","rc":[{"ltp":132.5,"id":15316}]}]}
+{"op":"mcm","clk":"11797548997","pt":1723025789163,"mc":[{"id":"1.231453182","rc":[{"ltp":131.5,"id":15316}]}]}
+{"op":"mcm","clk":"11797554925","pt":1723025849435,"mc":[{"id":"1.231453182","rc":[{"ltp":130.5,"id":15316}]}]}
+{"op":"mcm","clk":"11797566343","pt":1723025969395,"mc":[{"id":"1.231453182","rc":[{"ltp":129.5,"id":15316}]}]}
+{"op":"mcm","clk":"11797577388","pt":1723026089407,"mc":[{"id":"1.231453182","rc":[{"ltp":127.5,"id":15316}]}]}
+{"op":"mcm","clk":"11797587507","pt":1723026209307,"mc":[{"id":"1.231453182","rc":[{"ltp":126.5,"id":15316}]}]}
+{"op":"mcm","clk":"11797592445","pt":1723026269413,"mc":[{"id":"1.231453182","rc":[{"ltp":127.5,"id":15316}]}]}
+{"op":"mcm","clk":"11797597705","pt":1723026329452,"mc":[{"id":"1.231453182","rc":[{"ltp":130.5,"id":15316}]}]}
+{"op":"mcm","clk":"11797602818","pt":1723026389348,"mc":[{"id":"1.231453182","rc":[{"ltp":129.5,"id":15316}]}]}
+{"op":"mcm","clk":"11797607778","pt":1723026449375,"mc":[{"id":"1.231453182","rc":[{"ltp":130.5,"id":15316}]}]}
+{"op":"mcm","clk":"11797624462","pt":1723026629438,"mc":[{"id":"1.231453182","rc":[{"ltp":131.5,"id":15316}]}]}
+{"op":"mcm","clk":"11797630473","pt":1723026689446,"mc":[{"id":"1.231453182","rc":[{"ltp":130.5,"id":15316}]}]}
+{"op":"mcm","clk":"11797642848","pt":1723026809330,"mc":[{"id":"1.231453182","rc":[{"ltp":129.5,"id":15316}]}]}
+{"op":"mcm","clk":"11797649061","pt":1723026869429,"mc":[{"id":"1.231453182","rc":[{"ltp":128.5,"id":15316}]}]}
+{"op":"mcm","clk":"11797654524","pt":1723026929483,"mc":[{"id":"1.231453182","rc":[{"ltp":129.5,"id":15316}]}]}
+{"op":"mcm","clk":"11797666413","pt":1723027049468,"mc":[{"id":"1.231453182","rc":[{"ltp":130.5,"id":15316}]}]}
+{"op":"mcm","clk":"11797672812","pt":1723027109294,"mc":[{"id":"1.231453182","rc":[{"ltp":131.5,"id":15316}]}]}
+{"op":"mcm","clk":"11797684671","pt":1723027229471,"mc":[{"id":"1.231453182","rc":[{"ltp":133.5,"id":15316}]}]}
+{"op":"mcm","clk":"11797696057","pt":1723027349348,"mc":[{"id":"1.231453182","rc":[{"ltp":139.5,"id":15316}]}]}
+{"op":"mcm","clk":"11797708909","pt":1723027409472,"mc":[{"id":"1.231453182","rc":[{"ltp":144.5,"id":15316}]}]}
+{"op":"mcm","clk":"11797725813","pt":1723027589394,"mc":[{"id":"1.231453182","rc":[{"ltp":143.5,"id":15316}]}]}
+{"op":"mcm","clk":"11797731258","pt":1723027647825,"mc":[{"id":"1.231453182","rc":[{"ltp":142.5,"id":15316}]}]}
+{"op":"mcm","clk":"11797737311","pt":1723027709227,"mc":[{"id":"1.231453182","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33468214","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_30_OVR_LINE","marketTime":"2024-08-07T09:00:00.000Z","suspendTime":"2024-08-07T09:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-07T10:48:23.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-07T09:00:00.000Z","version":6060539591,"name":"1st Innings 30 Overs Line","eventName":"Sri Lanka v India"}}]}

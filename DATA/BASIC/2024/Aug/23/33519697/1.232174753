@@ -1,0 +1,37 @@
+{"op":"mcm","clk":"11905870542","pt":1724370071645,"mc":[{"id":"1.232174753","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33519697","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-23T18:30:00.000Z","suspendTime":"2024-08-23T18:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-23T18:30:00.000Z","version":6091712291,"name":"Tied Match","eventName":"Miami Lions v Grand Cayman Stingrays"}}]}
+{"op":"mcm","clk":"11910786164","pt":1724430636701,"mc":[{"id":"1.232174753","rc":[{"ltp":34.0,"id":37302},{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11911681177","pt":1724435108202,"mc":[{"id":"1.232174753","rc":[{"ltp":36.0,"id":37302}]}]}
+{"op":"mcm","clk":"11912067598","pt":1724436741940,"mc":[{"id":"1.232174753","rc":[{"ltp":50.0,"id":37302},{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11912381074","pt":1724437809534,"mc":[{"id":"1.232174753","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33519697","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-23T18:30:00.000Z","suspendTime":"2024-08-23T18:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-23T18:30:00.000Z","version":6092996570,"name":"Tied Match","eventName":"Miami Lions v Grand Cayman Stingrays"}}]}
+{"op":"mcm","clk":"11912484042","pt":1724438169549,"mc":[{"id":"1.232174753","rc":[{"ltp":36.0,"id":37302}]}]}
+{"op":"mcm","clk":"11912522479","pt":1724438289594,"mc":[{"id":"1.232174753","rc":[{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11912592159","pt":1724438529572,"mc":[{"id":"1.232174753","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11912626976","pt":1724438649565,"mc":[{"id":"1.232174753","rc":[{"ltp":50.0,"id":37302}]}]}
+{"op":"mcm","clk":"11912681426","pt":1724438829607,"mc":[{"id":"1.232174753","rc":[{"ltp":60.0,"id":37302}]}]}
+{"op":"mcm","clk":"11912752275","pt":1724439069283,"mc":[{"id":"1.232174753","rc":[{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11912877867","pt":1724439549285,"mc":[{"id":"1.232174753","rc":[{"ltp":65.0,"id":37302}]}]}
+{"op":"mcm","clk":"11913023576","pt":1724440089353,"mc":[{"id":"1.232174753","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11913157185","pt":1724440569467,"mc":[{"id":"1.232174753","rc":[{"ltp":80.0,"id":37302}]}]}
+{"op":"mcm","clk":"11913173683","pt":1724440629511,"mc":[{"id":"1.232174753","rc":[{"ltp":65.0,"id":37302}]}]}
+{"op":"mcm","clk":"11913221717","pt":1724440808958,"mc":[{"id":"1.232174753","rc":[{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11913253760","pt":1724440929571,"mc":[{"id":"1.232174753","rc":[{"ltp":70.0,"id":37302}]}]}
+{"op":"mcm","clk":"11913419840","pt":1724441589594,"mc":[{"id":"1.232174753","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11913433903","pt":1724441648675,"mc":[{"id":"1.232174753","rc":[{"ltp":75.0,"id":37302}]}]}
+{"op":"mcm","clk":"11913448322","pt":1724441709635,"mc":[{"id":"1.232174753","rc":[{"ltp":95.0,"id":37302}]}]}
+{"op":"mcm","clk":"11913513253","pt":1724442009459,"mc":[{"id":"1.232174753","rc":[{"ltp":50.0,"id":37302}]}]}
+{"op":"mcm","clk":"11913525793","pt":1724442069598,"mc":[{"id":"1.232174753","rc":[{"ltp":100.0,"id":37302}]}]}
+{"op":"mcm","clk":"11913581695","pt":1724442249553,"mc":[{"id":"1.232174753","rc":[{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11913604198","pt":1724442369343,"mc":[{"id":"1.232174753","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11913614910","pt":1724442429489,"mc":[{"id":"1.232174753","rc":[{"ltp":50.0,"id":37302}]}]}
+{"op":"mcm","clk":"11913656874","pt":1724442669609,"mc":[{"id":"1.232174753","rc":[{"ltp":100.0,"id":37302},{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11913666711","pt":1724442723530,"mc":[{"id":"1.232174753","rc":[{"ltp":110.0,"id":37302}]}]}
+{"op":"mcm","clk":"11913677793","pt":1724442789528,"mc":[{"id":"1.232174753","rc":[{"ltp":120.0,"id":37302}]}]}
+{"op":"mcm","clk":"11913686154","pt":1724442840740,"mc":[{"id":"1.232174753","rc":[{"ltp":110.0,"id":37302}]}]}
+{"op":"mcm","clk":"11913736847","pt":1724443149632,"mc":[{"id":"1.232174753","rc":[{"ltp":75.0,"id":37302}]}]}
+{"op":"mcm","clk":"11913765539","pt":1724443329327,"mc":[{"id":"1.232174753","rc":[{"ltp":55.0,"id":37302}]}]}
+{"op":"mcm","clk":"11913774771","pt":1724443389600,"mc":[{"id":"1.232174753","rc":[{"ltp":85.0,"id":37302}]}]}
+{"op":"mcm","clk":"11913783944","pt":1724443449385,"mc":[{"id":"1.232174753","rc":[{"ltp":120.0,"id":37302}]}]}
+{"op":"mcm","clk":"11913793509","pt":1724443509444,"mc":[{"id":"1.232174753","rc":[{"ltp":200.0,"id":37302}]}]}
+{"op":"mcm","clk":"11913803054","pt":1724443568510,"mc":[{"id":"1.232174753","rc":[{"ltp":100.0,"id":37302}]}]}
+{"op":"mcm","clk":"11913859273","pt":1724443924689,"mc":[{"id":"1.232174753","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33519697","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-23T18:30:00.000Z","suspendTime":"2024-08-23T18:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-23T18:30:00.000Z","version":6093521776,"name":"Tied Match","eventName":"Miami Lions v Grand Cayman Stingrays"}}]}
+{"op":"mcm","clk":"11913877514","pt":1724444037098,"mc":[{"id":"1.232174753","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33519697","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-23T18:30:00.000Z","suspendTime":"2024-08-23T18:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2024-08-23T20:13:40.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":37302,"name":"Yes"},{"status":"WINNER","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-23T18:30:00.000Z","version":6093523696,"name":"Tied Match","eventName":"Miami Lions v Grand Cayman Stingrays"}}]}

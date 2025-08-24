@@ -1,0 +1,29 @@
+{"op":"mcm","clk":"11848710449","pt":1723294205919,"mc":[{"id":"1.231659757","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33483335","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_25_BALL_LINE","marketTime":"2024-08-14T14:00:00.000Z","suspendTime":"2024-08-14T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-14T14:00:00.000Z","version":6065804985,"name":"1st Innings 25 Balls Runs Line","eventName":"Southern Brave v Welsh Fire"}}]}
+{"op":"mcm","clk":"11875996329","pt":1723631513936,"mc":[{"id":"1.231659757","rc":[{"ltp":35.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876022714","pt":1723632065177,"mc":[{"id":"1.231659757","rc":[{"ltp":33.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876355762","pt":1723638722239,"mc":[{"id":"1.231659757","rc":[{"ltp":34.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876531055","pt":1723642502806,"mc":[{"id":"1.231659757","rc":[{"ltp":33.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876537191","pt":1723642622832,"mc":[{"id":"1.231659757","rc":[{"ltp":32.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876543235","pt":1723642742557,"mc":[{"id":"1.231659757","rc":[{"ltp":31.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876556400","pt":1723642981979,"mc":[{"id":"1.231659757","rc":[{"ltp":30.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876563947","pt":1723643102283,"mc":[{"id":"1.231659757","rc":[{"ltp":31.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876571825","pt":1723643222834,"mc":[{"id":"1.231659757","rc":[{"ltp":30.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876610174","pt":1723643942439,"mc":[{"id":"1.231659757","rc":[{"ltp":29.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876613498","pt":1723644002790,"mc":[{"id":"1.231659757","rc":[{"ltp":30.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876616934","pt":1723644062873,"mc":[{"id":"1.231659757","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33483335","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_25_BALL_LINE","marketTime":"2024-08-14T14:00:00.000Z","suspendTime":"2024-08-14T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-14T14:00:00.000Z","version":6074325153,"name":"1st Innings 25 Balls Runs Line","eventName":"Southern Brave v Welsh Fire"},"rc":[{"ltp":29.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876620368","pt":1723644122868,"mc":[{"id":"1.231659757","rc":[{"ltp":32.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876624419","pt":1723644182819,"mc":[{"id":"1.231659757","rc":[{"ltp":28.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876633925","pt":1723644302889,"mc":[{"id":"1.231659757","rc":[{"ltp":34.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876638689","pt":1723644362853,"mc":[{"id":"1.231659757","rc":[{"ltp":36.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876643461","pt":1723644422815,"mc":[{"id":"1.231659757","rc":[{"ltp":33.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876647429","pt":1723644482890,"mc":[{"id":"1.231659757","rc":[{"ltp":38.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876651666","pt":1723644542853,"mc":[{"id":"1.231659757","rc":[{"ltp":36.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876656215","pt":1723644602838,"mc":[{"id":"1.231659757","rc":[{"ltp":37.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876660882","pt":1723644662894,"mc":[{"id":"1.231659757","rc":[{"ltp":45.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876677975","pt":1723644782838,"mc":[{"id":"1.231659757","rc":[{"ltp":44.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876682404","pt":1723644842837,"mc":[{"id":"1.231659757","rc":[{"ltp":43.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876690884","pt":1723644962871,"mc":[{"id":"1.231659757","rc":[{"ltp":39.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876695179","pt":1723645022868,"mc":[{"id":"1.231659757","rc":[{"ltp":38.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876699540","pt":1723645082845,"mc":[{"id":"1.231659757","rc":[{"ltp":39.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876704041","pt":1723645142880,"mc":[{"id":"1.231659757","rc":[{"ltp":43.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876708671","pt":1723645202896,"mc":[{"id":"1.231659757","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33483335","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_25_BALL_LINE","marketTime":"2024-08-14T14:00:00.000Z","suspendTime":"2024-08-14T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-14T14:19:55.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-14T14:00:00.000Z","version":6074338447,"name":"1st Innings 25 Balls Runs Line","eventName":"Southern Brave v Welsh Fire"}}]}

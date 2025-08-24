@@ -1,0 +1,28 @@
+{"op":"mcm","clk":"11780531271","pt":1722763756307,"mc":[{"id":"1.231431382","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33467053","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_25_BALL_LINE","marketTime":"2024-08-06T10:30:00.000Z","suspendTime":"2024-08-06T10:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-06T10:30:00.000Z","version":6056056657,"name":"1st Innings 25 Balls Runs Line","eventName":"Manchester Originals W v Oval Invincibles W"}}]}
+{"op":"mcm","clk":"11792512093","pt":1722927217030,"mc":[{"id":"1.231431382","rc":[{"ltp":30.5,"id":15316}]}]}
+{"op":"mcm","clk":"11792931690","pt":1722938828900,"mc":[{"id":"1.231431382","rc":[{"ltp":29.5,"id":15316}]}]}
+{"op":"mcm","clk":"11792941848","pt":1722939012635,"mc":[{"id":"1.231431382","rc":[{"ltp":28.5,"id":15316}]}]}
+{"op":"mcm","clk":"11792948119","pt":1722939132659,"mc":[{"id":"1.231431382","rc":[{"ltp":29.5,"id":15316}]}]}
+{"op":"mcm","clk":"11792955311","pt":1722939252982,"mc":[{"id":"1.231431382","rc":[{"ltp":28.5,"id":15316}]}]}
+{"op":"mcm","clk":"11792959494","pt":1722939313075,"mc":[{"id":"1.231431382","rc":[{"ltp":29.5,"id":15316}]}]}
+{"op":"mcm","clk":"11792972077","pt":1722939493070,"mc":[{"id":"1.231431382","rc":[{"ltp":30.5,"id":15316}]}]}
+{"op":"mcm","clk":"11792980297","pt":1722939612863,"mc":[{"id":"1.231431382","rc":[{"ltp":29.5,"id":15316}]}]}
+{"op":"mcm","clk":"11792988287","pt":1722939732793,"mc":[{"id":"1.231431382","rc":[{"ltp":28.5,"id":15316}]}]}
+{"op":"mcm","clk":"11792992831","pt":1722939792978,"mc":[{"id":"1.231431382","rc":[{"ltp":29.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793001756","pt":1722939913109,"mc":[{"id":"1.231431382","rc":[{"ltp":28.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793006478","pt":1722939973212,"mc":[{"id":"1.231431382","rc":[{"ltp":29.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793014714","pt":1722940092739,"mc":[{"id":"1.231431382","rc":[{"ltp":30.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793022832","pt":1722940212378,"mc":[{"id":"1.231431382","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33467053","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_25_BALL_LINE","marketTime":"2024-08-06T10:30:00.000Z","suspendTime":"2024-08-06T10:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-06T10:30:00.000Z","version":6059497441,"name":"1st Innings 25 Balls Runs Line","eventName":"Manchester Originals W v Oval Invincibles W"}}]}
+{"op":"mcm","clk":"11793026914","pt":1722940273151,"mc":[{"id":"1.231431382","rc":[{"ltp":29.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793034941","pt":1722940393209,"mc":[{"id":"1.231431382","rc":[{"ltp":28.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793039004","pt":1722940453036,"mc":[{"id":"1.231431382","rc":[{"ltp":26.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793047166","pt":1722940573192,"mc":[{"id":"1.231431382","rc":[{"ltp":25.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793051939","pt":1722940633202,"mc":[{"id":"1.231431382","rc":[{"ltp":23.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793056105","pt":1722940693176,"mc":[{"id":"1.231431382","rc":[{"ltp":22.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793065120","pt":1722940813194,"mc":[{"id":"1.231431382","rc":[{"ltp":24.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793069748","pt":1722940873293,"mc":[{"id":"1.231431382","rc":[{"ltp":23.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793074095","pt":1722940933262,"mc":[{"id":"1.231431382","rc":[{"ltp":26.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793089183","pt":1722941053278,"mc":[{"id":"1.231431382","rc":[{"ltp":28.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793094006","pt":1722941113039,"mc":[{"id":"1.231431382","rc":[{"ltp":26.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793098675","pt":1722941173274,"mc":[{"id":"1.231431382","rc":[{"ltp":25.5,"id":15316}]}]}
+{"op":"mcm","clk":"11793107661","pt":1722941293273,"mc":[{"id":"1.231431382","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33467053","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_25_BALL_LINE","marketTime":"2024-08-06T10:30:00.000Z","suspendTime":"2024-08-06T10:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-06T10:47:57.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-06T10:30:00.000Z","version":6059505423,"name":"1st Innings 25 Balls Runs Line","eventName":"Manchester Originals W v Oval Invincibles W"}}]}

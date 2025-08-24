@@ -1,0 +1,35 @@
+{"op":"mcm","clk":"11833623590","pt":1723117225019,"mc":[{"id":"1.231583570","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33477704","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"2_INN_100_BALL_LINE","marketTime":"2024-08-10T10:00:00.000Z","suspendTime":"2024-08-10T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-10T10:00:00.000Z","version":6061759543,"name":"2nd Innings 100 Balls Runs Line","eventName":"Southern Brave Women v Trent Rockets Women"}}]}
+{"op":"mcm","clk":"11847057312","pt":1723284080976,"mc":[{"id":"1.231583570","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33477704","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"2_INN_100_BALL_LINE","marketTime":"2024-08-10T10:00:00.000Z","suspendTime":"2024-08-10T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-10T10:00:00.000Z","version":6065178182,"name":"2nd Innings 100 Balls Runs Line","eventName":"Southern Brave Women v Trent Rockets Women"}}]}
+{"op":"mcm","clk":"11847514189","pt":1723287440980,"mc":[{"id":"1.231583570","rc":[{"ltp":145.5,"id":15316}]}]}
+{"op":"mcm","clk":"11847717496","pt":1723288700902,"mc":[{"id":"1.231583570","rc":[{"ltp":143.5,"id":15316}]}]}
+{"op":"mcm","clk":"11847786324","pt":1723289180972,"mc":[{"id":"1.231583570","rc":[{"ltp":144.5,"id":15316}]}]}
+{"op":"mcm","clk":"11847802388","pt":1723289300933,"mc":[{"id":"1.231583570","rc":[{"ltp":143.5,"id":15316}]}]}
+{"op":"mcm","clk":"11847964102","pt":1723290320953,"mc":[{"id":"1.231583570","rc":[{"ltp":138.5,"id":15316}]}]}
+{"op":"mcm","clk":"11848042785","pt":1723290860934,"mc":[{"id":"1.231583570","rc":[{"ltp":137.5,"id":15316}]}]}
+{"op":"mcm","clk":"11848104514","pt":1723291280594,"mc":[{"id":"1.231583570","rc":[{"ltp":106.5,"id":15316}]}]}
+{"op":"mcm","clk":"11848115288","pt":1723291340998,"mc":[{"id":"1.231583570","rc":[{"ltp":111.5,"id":15316}]}]}
+{"op":"mcm","clk":"11848185879","pt":1723291700982,"mc":[{"id":"1.231583570","rc":[{"ltp":128.5,"id":15316}]}]}
+{"op":"mcm","clk":"11848224452","pt":1723291880941,"mc":[{"id":"1.231583570","rc":[{"ltp":122.5,"id":15316}]}]}
+{"op":"mcm","clk":"11848236911","pt":1723291937652,"mc":[{"id":"1.231583570","rc":[{"ltp":126.5,"id":15316}]}]}
+{"op":"mcm","clk":"11848249883","pt":1723292000644,"mc":[{"id":"1.231583570","rc":[{"ltp":125.5,"id":15316}]}]}
+{"op":"mcm","clk":"11848261330","pt":1723292055607,"mc":[{"id":"1.231583570","rc":[{"ltp":119.5,"id":15316}]}]}
+{"op":"mcm","clk":"11848275655","pt":1723292120944,"mc":[{"id":"1.231583570","rc":[{"ltp":124.5,"id":15316}]}]}
+{"op":"mcm","clk":"11848287387","pt":1723292179292,"mc":[{"id":"1.231583570","rc":[{"ltp":120.5,"id":15316}]}]}
+{"op":"mcm","clk":"11848299325","pt":1723292240547,"mc":[{"id":"1.231583570","rc":[{"ltp":115.5,"id":15316}]}]}
+{"op":"mcm","clk":"11848310417","pt":1723292298016,"mc":[{"id":"1.231583570","rc":[{"ltp":108.5,"id":15316}]}]}
+{"op":"mcm","clk":"11848323105","pt":1723292359368,"mc":[{"id":"1.231583570","rc":[{"ltp":110.5,"id":15316}]}]}
+{"op":"mcm","clk":"11848335162","pt":1723292420416,"mc":[{"id":"1.231583570","rc":[{"ltp":117.5,"id":15316}]}]}
+{"op":"mcm","clk":"11848347172","pt":1723292480865,"mc":[{"id":"1.231583570","rc":[{"ltp":120.5,"id":15316}]}]}
+{"op":"mcm","clk":"11848359184","pt":1723292540748,"mc":[{"id":"1.231583570","rc":[{"ltp":123.5,"id":15316}]}]}
+{"op":"mcm","clk":"11848371300","pt":1723292601004,"mc":[{"id":"1.231583570","rc":[{"ltp":124.5,"id":15316}]}]}
+{"op":"mcm","clk":"11848382937","pt":1723292660958,"mc":[{"id":"1.231583570","rc":[{"ltp":121.5,"id":15316}]}]}
+{"op":"mcm","clk":"11848394925","pt":1723292719353,"mc":[{"id":"1.231583570","rc":[{"ltp":122.5,"id":15316}]}]}
+{"op":"mcm","clk":"11848407387","pt":1723292780646,"mc":[{"id":"1.231583570","rc":[{"ltp":124.5,"id":15316}]}]}
+{"op":"mcm","clk":"11848419248","pt":1723292840691,"mc":[{"id":"1.231583570","rc":[{"ltp":122.5,"id":15316}]}]}
+{"op":"mcm","clk":"11848431389","pt":1723292900891,"mc":[{"id":"1.231583570","rc":[{"ltp":123.5,"id":15316}]}]}
+{"op":"mcm","clk":"11848455201","pt":1723293020723,"mc":[{"id":"1.231583570","rc":[{"ltp":127.5,"id":15316}]}]}
+{"op":"mcm","clk":"11848467793","pt":1723293080890,"mc":[{"id":"1.231583570","rc":[{"ltp":133.5,"id":15316}]}]}
+{"op":"mcm","clk":"11848479311","pt":1723293139948,"mc":[{"id":"1.231583570","rc":[{"ltp":132.5,"id":15316}]}]}
+{"op":"mcm","clk":"11848503476","pt":1723293258422,"mc":[{"id":"1.231583570","rc":[{"ltp":130.5,"id":15316}]}]}
+{"op":"mcm","clk":"11848524708","pt":1723293362589,"mc":[{"id":"1.231583570","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33477704","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"2_INN_100_BALL_LINE","marketTime":"2024-08-10T10:00:00.000Z","suspendTime":"2024-08-10T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-10T10:00:00.000Z","version":6065759128,"name":"2nd Innings 100 Balls Runs Line","eventName":"Southern Brave Women v Trent Rockets Women"}}]}
+{"op":"mcm","clk":"11848564056","pt":1723293549828,"mc":[{"id":"1.231583570","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33477704","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"2_INN_100_BALL_LINE","marketTime":"2024-08-10T10:00:00.000Z","suspendTime":"2024-08-10T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-10T12:39:01.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-10T10:00:00.000Z","version":6065765034,"name":"2nd Innings 100 Balls Runs Line","eventName":"Southern Brave Women v Trent Rockets Women"}}]}

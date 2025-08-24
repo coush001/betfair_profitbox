@@ -1,0 +1,33 @@
+{"op":"mcm","clk":"11773246809","pt":1722690232936,"mc":[{"id":"1.231402493","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33465427","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"2_INN_100_BALL_LINE","marketTime":"2024-08-05T17:30:00.000Z","suspendTime":"2024-08-05T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-05T17:30:00.000Z","version":6053420644,"name":"2nd Innings 100 Balls Runs Line","eventName":"Welsh Fire v Southern Brave"}}]}
+{"op":"mcm","clk":"11790045604","pt":1722879051825,"mc":[{"id":"1.231402493","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33465427","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"2_INN_100_BALL_LINE","marketTime":"2024-08-05T17:30:00.000Z","suspendTime":"2024-08-05T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-05T17:30:00.000Z","version":6058791546,"name":"2nd Innings 100 Balls Runs Line","eventName":"Welsh Fire v Southern Brave"}}]}
+{"op":"mcm","clk":"11790380220","pt":1722881991850,"mc":[{"id":"1.231402493","rc":[{"ltp":156.5,"id":15316}]}]}
+{"op":"mcm","clk":"11790418670","pt":1722882291882,"mc":[{"id":"1.231402493","rc":[{"ltp":141.5,"id":15316}]}]}
+{"op":"mcm","clk":"11790426408","pt":1722882351862,"mc":[{"id":"1.231402493","rc":[{"ltp":140.5,"id":15316}]}]}
+{"op":"mcm","clk":"11790433770","pt":1722882411892,"mc":[{"id":"1.231402493","rc":[{"ltp":139.5,"id":15316}]}]}
+{"op":"mcm","clk":"11790512797","pt":1722883071892,"mc":[{"id":"1.231402493","rc":[{"ltp":147.5,"id":15316}]}]}
+{"op":"mcm","clk":"11790596467","pt":1722883791822,"mc":[{"id":"1.231402493","rc":[{"ltp":134.5,"id":15316}]}]}
+{"op":"mcm","clk":"11790603055","pt":1722883851680,"mc":[{"id":"1.231402493","rc":[{"ltp":135.5,"id":15316}]}]}
+{"op":"mcm","clk":"11790652475","pt":1722884330888,"mc":[{"id":"1.231402493","rc":[{"ltp":130.5,"id":15316}]}]}
+{"op":"mcm","clk":"11790810349","pt":1722885951843,"mc":[{"id":"1.231402493","rc":[{"ltp":136.5,"id":15316}]}]}
+{"op":"mcm","clk":"11790848471","pt":1722886367952,"mc":[{"id":"1.231402493","rc":[{"ltp":128.5,"id":15316}]}]}
+{"op":"mcm","clk":"11790874224","pt":1722886671886,"mc":[{"id":"1.231402493","rc":[{"ltp":125.5,"id":15316}]}]}
+{"op":"mcm","clk":"11790884382","pt":1722886791840,"mc":[{"id":"1.231402493","rc":[{"ltp":120.5,"id":15316}]}]}
+{"op":"mcm","clk":"11790889651","pt":1722886851911,"mc":[{"id":"1.231402493","rc":[{"ltp":110.5,"id":15316}]}]}
+{"op":"mcm","clk":"11790894562","pt":1722886909090,"mc":[{"id":"1.231402493","rc":[{"ltp":114.5,"id":15316}]}]}
+{"op":"mcm","clk":"11790921732","pt":1722887151759,"mc":[{"id":"1.231402493","rc":[{"ltp":104.5,"id":15316}]}]}
+{"op":"mcm","clk":"11790927267","pt":1722887211923,"mc":[{"id":"1.231402493","rc":[{"ltp":103.5,"id":15316}]}]}
+{"op":"mcm","clk":"11790938116","pt":1722887331875,"mc":[{"id":"1.231402493","rc":[{"ltp":105.5,"id":15316}]}]}
+{"op":"mcm","clk":"11790953036","pt":1722887511870,"mc":[{"id":"1.231402493","rc":[{"ltp":111.5,"id":15316}]}]}
+{"op":"mcm","clk":"11790957874","pt":1722887571635,"mc":[{"id":"1.231402493","rc":[{"ltp":115.5,"id":15316}]}]}
+{"op":"mcm","clk":"11790985024","pt":1722887931725,"mc":[{"id":"1.231402493","rc":[{"ltp":97.5,"id":15316}]}]}
+{"op":"mcm","clk":"11790993804","pt":1722888051737,"mc":[{"id":"1.231402493","rc":[{"ltp":102.5,"id":15316}]}]}
+{"op":"mcm","clk":"11790998624","pt":1722888111828,"mc":[{"id":"1.231402493","rc":[{"ltp":106.5,"id":15316}]}]}
+{"op":"mcm","clk":"11791003492","pt":1722888171847,"mc":[{"id":"1.231402493","rc":[{"ltp":104.5,"id":15316}]}]}
+{"op":"mcm","clk":"11791011918","pt":1722888291866,"mc":[{"id":"1.231402493","rc":[{"ltp":98.5,"id":15316}]}]}
+{"op":"mcm","clk":"11791015823","pt":1722888351568,"mc":[{"id":"1.231402493","rc":[{"ltp":99.5,"id":15316}]}]}
+{"op":"mcm","clk":"11791023756","pt":1722888468978,"mc":[{"id":"1.231402493","rc":[{"ltp":100.5,"id":15316}]}]}
+{"op":"mcm","clk":"11791027364","pt":1722888520452,"mc":[{"id":"1.231402493","rc":[{"ltp":104.5,"id":15316}]}]}
+{"op":"mcm","clk":"11791035367","pt":1722888645186,"mc":[{"id":"1.231402493","rc":[{"ltp":103.5,"id":15316}]}]}
+{"op":"mcm","clk":"11791046002","pt":1722888831358,"mc":[{"id":"1.231402493","rc":[{"ltp":102.5,"id":15316}]}]}
+{"op":"mcm","clk":"11791049330","pt":1722888888900,"mc":[{"id":"1.231402493","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33465427","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"2_INN_100_BALL_LINE","marketTime":"2024-08-05T17:30:00.000Z","suspendTime":"2024-08-05T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-05T17:30:00.000Z","version":6059031996,"name":"2nd Innings 100 Balls Runs Line","eventName":"Welsh Fire v Southern Brave"},"rc":[{"ltp":99.5,"id":15316}]}]}
+{"op":"mcm","clk":"11791064265","pt":1722889119162,"mc":[{"id":"1.231402493","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33465427","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"2_INN_100_BALL_LINE","marketTime":"2024-08-05T17:30:00.000Z","suspendTime":"2024-08-05T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-05T20:18:35.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-05T17:30:00.000Z","version":6059035406,"name":"2nd Innings 100 Balls Runs Line","eventName":"Welsh Fire v Southern Brave"}}]}

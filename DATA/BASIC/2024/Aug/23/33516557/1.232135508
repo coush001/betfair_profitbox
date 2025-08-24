@@ -1,0 +1,53 @@
+{"op":"mcm","clk":"11934290521","pt":1724327332773,"mc":[{"id":"1.232135508","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33516557","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-22T23:00:00.000Z","suspendTime":"2024-08-22T23:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-22T23:00:00.000Z","version":6090771171,"name":"Tied Match","eventName":"Trinidad Knight Riders W v Barbados Royals W"}}]}
+{"op":"mcm","clk":"11937372608","pt":1724356068400,"mc":[{"id":"1.232135508","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11937968251","pt":1724365307477,"mc":[{"id":"1.232135508","rc":[{"ltp":50.0,"id":37302}]}]}
+{"op":"mcm","clk":"11938050341","pt":1724366869263,"mc":[{"id":"1.232135508","rc":[{"ltp":30.0,"id":37302},{"ltp":1.04,"id":37303}]}]}
+{"op":"mcm","clk":"11938093204","pt":1724367649502,"mc":[{"id":"1.232135508","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33516557","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-22T23:00:00.000Z","suspendTime":"2024-08-22T23:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-22T23:00:00.000Z","version":6091684027,"name":"Tied Match","eventName":"Trinidad Knight Riders W v Barbados Royals W"}}]}
+{"op":"mcm","clk":"11938102776","pt":1724367829578,"mc":[{"id":"1.232135508","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11938113054","pt":1724368009649,"mc":[{"id":"1.232135508","rc":[{"ltp":1.04,"id":37303}]}]}
+{"op":"mcm","clk":"11938173815","pt":1724368849658,"mc":[{"id":"1.232135508","rc":[{"ltp":40.0,"id":37302}]}]}
+{"op":"mcm","clk":"11938187534","pt":1724369089656,"mc":[{"id":"1.232135508","rc":[{"ltp":36.0,"id":37302},{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11938191215","pt":1724369149703,"mc":[{"id":"1.232135508","rc":[{"ltp":34.0,"id":37302}]}]}
+{"op":"mcm","clk":"11938194605","pt":1724369209575,"mc":[{"id":"1.232135508","rc":[{"ltp":36.0,"id":37302}]}]}
+{"op":"mcm","clk":"11938198272","pt":1724369269740,"mc":[{"id":"1.232135508","rc":[{"ltp":34.0,"id":37302}]}]}
+{"op":"mcm","clk":"11938201650","pt":1724369329715,"mc":[{"id":"1.232135508","rc":[{"ltp":36.0,"id":37302}]}]}
+{"op":"mcm","clk":"11938208320","pt":1724369449675,"mc":[{"id":"1.232135508","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11938214689","pt":1724369569690,"mc":[{"id":"1.232135508","rc":[{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11938225093","pt":1724369748895,"mc":[{"id":"1.232135508","rc":[{"ltp":38.0,"id":37302}]}]}
+{"op":"mcm","clk":"11938231565","pt":1724369869115,"mc":[{"id":"1.232135508","rc":[{"ltp":42.0,"id":37302}]}]}
+{"op":"mcm","clk":"11938238784","pt":1724369989346,"mc":[{"id":"1.232135508","rc":[{"ltp":60.0,"id":37302},{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11938262795","pt":1724370409620,"mc":[{"id":"1.232135508","rc":[{"ltp":40.0,"id":37302}]}]}
+{"op":"mcm","clk":"11938294702","pt":1724370949730,"mc":[{"id":"1.232135508","rc":[{"ltp":50.0,"id":37302}]}]}
+{"op":"mcm","clk":"11938302274","pt":1724371069294,"mc":[{"id":"1.232135508","rc":[{"ltp":80.0,"id":37302}]}]}
+{"op":"mcm","clk":"11938317181","pt":1724371309366,"mc":[{"id":"1.232135508","rc":[{"ltp":70.0,"id":37302}]}]}
+{"op":"mcm","clk":"11938332935","pt":1724371549655,"mc":[{"id":"1.232135508","rc":[{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11938402788","pt":1724372449137,"mc":[{"id":"1.232135508","rc":[{"ltp":30.0,"id":37302},{"ltp":1.04,"id":37303}]}]}
+{"op":"mcm","clk":"11938412492","pt":1724372569081,"mc":[{"id":"1.232135508","rc":[{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11938436707","pt":1724372869590,"mc":[{"id":"1.232135508","rc":[{"ltp":48.0,"id":37302}]}]}
+{"op":"mcm","clk":"11938446874","pt":1724372989734,"mc":[{"id":"1.232135508","rc":[{"ltp":38.0,"id":37302}]}]}
+{"op":"mcm","clk":"11938456123","pt":1724373109384,"mc":[{"id":"1.232135508","rc":[{"ltp":48.0,"id":37302}]}]}
+{"op":"mcm","clk":"11938465808","pt":1724373229310,"mc":[{"id":"1.232135508","rc":[{"ltp":46.0,"id":37302}]}]}
+{"op":"mcm","clk":"11938488536","pt":1724373522687,"mc":[{"id":"1.232135508","rc":[{"ltp":34.0,"id":37302}]}]}
+{"op":"mcm","clk":"11938501174","pt":1724373708991,"mc":[{"id":"1.232135508","rc":[{"ltp":30.0,"id":37302},{"ltp":1.04,"id":37303}]}]}
+{"op":"mcm","clk":"11938542970","pt":1724374129026,"mc":[{"id":"1.232135508","rc":[{"ltp":34.0,"id":37302},{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11938583132","pt":1724374849755,"mc":[{"id":"1.232135508","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11938586337","pt":1724374909686,"mc":[{"id":"1.232135508","rc":[{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11938631562","pt":1724375689197,"mc":[{"id":"1.232135508","rc":[{"ltp":32.0,"id":37302},{"ltp":1.04,"id":37303}]}]}
+{"op":"mcm","clk":"11938638129","pt":1724375809504,"mc":[{"id":"1.232135508","rc":[{"ltp":36.0,"id":37302},{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11938641421","pt":1724375869676,"mc":[{"id":"1.232135508","rc":[{"ltp":32.0,"id":37302},{"ltp":1.04,"id":37303}]}]}
+{"op":"mcm","clk":"11938644940","pt":1724375929748,"mc":[{"id":"1.232135508","rc":[{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11938651576","pt":1724376049368,"mc":[{"id":"1.232135508","rc":[{"ltp":36.0,"id":37302}]}]}
+{"op":"mcm","clk":"11938664851","pt":1724376289476,"mc":[{"id":"1.232135508","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11938668342","pt":1724376349555,"mc":[{"id":"1.232135508","rc":[{"ltp":55.0,"id":37302},{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11938674615","pt":1724376469734,"mc":[{"id":"1.232135508","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11938677766","pt":1724376529594,"mc":[{"id":"1.232135508","rc":[{"ltp":38.0,"id":37302},{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11938687226","pt":1724376709692,"mc":[{"id":"1.232135508","rc":[{"ltp":55.0,"id":37302},{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11938690355","pt":1724376769754,"mc":[{"id":"1.232135508","rc":[{"ltp":65.0,"id":37302}]}]}
+{"op":"mcm","clk":"11938702661","pt":1724377009141,"mc":[{"id":"1.232135508","rc":[{"ltp":55.0,"id":37302}]}]}
+{"op":"mcm","clk":"11938719784","pt":1724377369235,"mc":[{"id":"1.232135508","rc":[{"ltp":75.0,"id":37302}]}]}
+{"op":"mcm","clk":"11938728408","pt":1724377549659,"mc":[{"id":"1.232135508","rc":[{"ltp":55.0,"id":37302}]}]}
+{"op":"mcm","clk":"11938744017","pt":1724377909676,"mc":[{"id":"1.232135508","rc":[{"ltp":90.0,"id":37302},{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11938760809","pt":1724378449671,"mc":[{"id":"1.232135508","rc":[{"ltp":36.0,"id":37302},{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11938762243","pt":1724378508963,"mc":[{"id":"1.232135508","rc":[{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11938798110","pt":1724379216731,"mc":[{"id":"1.232135508","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33516557","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-22T23:00:00.000Z","suspendTime":"2024-08-22T23:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-22T23:00:00.000Z","version":6091847420,"name":"Tied Match","eventName":"Trinidad Knight Riders W v Barbados Royals W"}}]}
+{"op":"mcm","clk":"11938802019","pt":1724379338104,"mc":[{"id":"1.232135508","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33516557","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-22T23:00:00.000Z","suspendTime":"2024-08-22T23:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2024-08-23T02:15:17.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":37302,"name":"Yes"},{"status":"WINNER","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-22T23:00:00.000Z","version":6091848694,"name":"Tied Match","eventName":"Trinidad Knight Riders W v Barbados Royals W"}}]}

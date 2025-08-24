@@ -1,0 +1,43 @@
+{"op":"mcm","clk":"11935354363","pt":1724665592881,"mc":[{"id":"1.232298778","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33528205","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_20_OVR_LINE","marketTime":"2024-08-27T02:30:00.000Z","suspendTime":"2024-08-27T02:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-27T02:30:00.000Z","version":6101149503,"name":"1st Innings 20 Overs Line","eventName":"Kuwait v Hong Kong"}}]}
+{"op":"mcm","clk":"11941147293","pt":1724724149016,"mc":[{"id":"1.232298778","rc":[{"ltp":123.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941231615","pt":1724725770784,"mc":[{"id":"1.232298778","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33528205","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_20_OVR_LINE","marketTime":"2024-08-27T02:30:00.000Z","suspendTime":"2024-08-27T02:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-27T02:30:00.000Z","version":6102822727,"name":"1st Innings 20 Overs Line","eventName":"Kuwait v Hong Kong"}}]}
+{"op":"mcm","clk":"11941241368","pt":1724725950481,"mc":[{"id":"1.232298778","rc":[{"ltp":155.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941244912","pt":1724726010870,"mc":[{"id":"1.232298778","rc":[{"ltp":135.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941260406","pt":1724726310735,"mc":[{"id":"1.232298778","rc":[{"ltp":146.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941275265","pt":1724726609929,"mc":[{"id":"1.232298778","rc":[{"ltp":154.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941280510","pt":1724726729504,"mc":[{"id":"1.232298778","rc":[{"ltp":146.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941290169","pt":1724726910787,"mc":[{"id":"1.232298778","rc":[{"ltp":141.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941299923","pt":1724727090797,"mc":[{"id":"1.232298778","rc":[{"ltp":156.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941309220","pt":1724727270526,"mc":[{"id":"1.232298778","rc":[{"ltp":159.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941315264","pt":1724727390681,"mc":[{"id":"1.232298778","rc":[{"ltp":157.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941318332","pt":1724727450645,"mc":[{"id":"1.232298778","rc":[{"ltp":156.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941321115","pt":1724727510714,"mc":[{"id":"1.232298778","rc":[{"ltp":163.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941329202","pt":1724727690678,"mc":[{"id":"1.232298778","rc":[{"ltp":161.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941331921","pt":1724727749339,"mc":[{"id":"1.232298778","rc":[{"ltp":168.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941335011","pt":1724727810676,"mc":[{"id":"1.232298778","rc":[{"ltp":160.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941343180","pt":1724727990789,"mc":[{"id":"1.232298778","rc":[{"ltp":158.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941349059","pt":1724728110161,"mc":[{"id":"1.232298778","rc":[{"ltp":154.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941357005","pt":1724728290145,"mc":[{"id":"1.232298778","rc":[{"ltp":156.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941359670","pt":1724728350764,"mc":[{"id":"1.232298778","rc":[{"ltp":159.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941371853","pt":1724728409343,"mc":[{"id":"1.232298778","rc":[{"ltp":163.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941374158","pt":1724728470716,"mc":[{"id":"1.232298778","rc":[{"ltp":159.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941376492","pt":1724728530049,"mc":[{"id":"1.232298778","rc":[{"ltp":161.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941378623","pt":1724728590760,"mc":[{"id":"1.232298778","rc":[{"ltp":163.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941382516","pt":1724728710187,"mc":[{"id":"1.232298778","rc":[{"ltp":170.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941384355","pt":1724728770876,"mc":[{"id":"1.232298778","rc":[{"ltp":173.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941386566","pt":1724728830533,"mc":[{"id":"1.232298778","rc":[{"ltp":171.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941397903","pt":1724729130795,"mc":[{"id":"1.232298778","rc":[{"ltp":160.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941402992","pt":1724729250450,"mc":[{"id":"1.232298778","rc":[{"ltp":158.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941405047","pt":1724729307450,"mc":[{"id":"1.232298778","rc":[{"ltp":164.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941413902","pt":1724729549918,"mc":[{"id":"1.232298778","rc":[{"ltp":157.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941419159","pt":1724729670732,"mc":[{"id":"1.232298778","rc":[{"ltp":160.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941424191","pt":1724729790667,"mc":[{"id":"1.232298778","rc":[{"ltp":158.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941431174","pt":1724729970592,"mc":[{"id":"1.232298778","rc":[{"ltp":153.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941439046","pt":1724730143307,"mc":[{"id":"1.232298778","rc":[{"ltp":144.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941442239","pt":1724730210663,"mc":[{"id":"1.232298778","rc":[{"ltp":145.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941454328","pt":1724730510653,"mc":[{"id":"1.232298778","rc":[{"ltp":151.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941460508","pt":1724730690592,"mc":[{"id":"1.232298778","rc":[{"ltp":149.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941462947","pt":1724730750756,"mc":[{"id":"1.232298778","rc":[{"ltp":146.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941464722","pt":1724730810620,"mc":[{"id":"1.232298778","rc":[{"ltp":144.5,"id":15316}]}]}
+{"op":"mcm","clk":"11941474217","pt":1724731110338,"mc":[{"id":"1.232298778","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33528205","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_20_OVR_LINE","marketTime":"2024-08-27T02:30:00.000Z","suspendTime":"2024-08-27T02:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-27T02:30:00.000Z","version":6102890075,"name":"1st Innings 20 Overs Line","eventName":"Kuwait v Hong Kong"}}]}
+{"op":"mcm","clk":"11941476444","pt":1724731169633,"mc":[{"id":"1.232298778","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33528205","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_20_OVR_LINE","marketTime":"2024-08-27T02:30:00.000Z","suspendTime":"2024-08-27T02:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-27T03:58:41.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-27T02:30:00.000Z","version":6102890487,"name":"1st Innings 20 Overs Line","eventName":"Kuwait v Hong Kong"}}]}

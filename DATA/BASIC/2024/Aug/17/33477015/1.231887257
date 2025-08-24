@@ -1,0 +1,16 @@
+{"op":"mcm","clk":"11848388937","pt":1723818127419,"mc":[{"id":"1.231887257","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33477015","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"B_2_INN_25_OVR_LINE","marketTime":"2024-08-16T14:00:00.000Z","suspendTime":"2024-08-16T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-16T14:00:00.000Z","version":6076903750,"name":"South Africa 2nd Innings 25 Over Line","eventName":"West Indies v South Africa"}}]}
+{"op":"mcm","clk":"11850000948","pt":1723829766847,"mc":[{"id":"1.231887257","rc":[{"ltp":97.5,"id":15316}]}]}
+{"op":"mcm","clk":"11850030016","pt":1723829887428,"mc":[{"id":"1.231887257","rc":[{"ltp":98.5,"id":15316}]}]}
+{"op":"mcm","clk":"11850044295","pt":1723829947281,"mc":[{"id":"1.231887257","rc":[{"ltp":93.5,"id":15316}]}]}
+{"op":"mcm","clk":"11850073557","pt":1723830067429,"mc":[{"id":"1.231887257","rc":[{"ltp":90.5,"id":15316}]}]}
+{"op":"mcm","clk":"11850087770","pt":1723830127595,"mc":[{"id":"1.231887257","rc":[{"ltp":89.5,"id":15316}]}]}
+{"op":"mcm","clk":"11850117747","pt":1723830187044,"mc":[{"id":"1.231887257","rc":[{"ltp":90.5,"id":15316}]}]}
+{"op":"mcm","clk":"11850132090","pt":1723830247409,"mc":[{"id":"1.231887257","rc":[{"ltp":88.5,"id":15316}]}]}
+{"op":"mcm","clk":"11850158000","pt":1723830366708,"mc":[{"id":"1.231887257","rc":[{"ltp":87.5,"id":15316}]}]}
+{"op":"mcm","clk":"11850193636","pt":1723830547406,"mc":[{"id":"1.231887257","rc":[{"ltp":88.5,"id":15316}]}]}
+{"op":"mcm","clk":"11850205114","pt":1723830607356,"mc":[{"id":"1.231887257","rc":[{"ltp":87.5,"id":15316}]}]}
+{"op":"mcm","clk":"11850227529","pt":1723830727264,"mc":[{"id":"1.231887257","rc":[{"ltp":86.5,"id":15316}]}]}
+{"op":"mcm","clk":"11850236681","pt":1723830786243,"mc":[{"id":"1.231887257","rc":[{"ltp":88.5,"id":15316}]}]}
+{"op":"mcm","clk":"11850245581","pt":1723830847401,"mc":[{"id":"1.231887257","rc":[{"ltp":86.5,"id":15316}]}]}
+{"op":"mcm","clk":"11850269707","pt":1723831025471,"mc":[{"id":"1.231887257","rc":[{"ltp":85.5,"id":15316}]}]}
+{"op":"mcm","clk":"11850293702","pt":1723831207140,"mc":[{"id":"1.231887257","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33477015","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"B_2_INN_25_OVR_LINE","marketTime":"2024-08-16T14:00:00.000Z","suspendTime":"2024-08-16T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-16T18:00:03.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-16T14:00:00.000Z","version":6077420226,"name":"South Africa 2nd Innings 25 Over Line","eventName":"West Indies v South Africa"}}]}
