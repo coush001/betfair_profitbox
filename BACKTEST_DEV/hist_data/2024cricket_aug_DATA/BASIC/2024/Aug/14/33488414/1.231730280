@@ -1,0 +1,51 @@
+{"op":"mcm","clk":"11865889074","pt":1723455674614,"mc":[{"id":"1.231730280","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33488414","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS_LO_TIE","marketTime":"2024-08-14T17:30:00.000Z","suspendTime":"2024-08-14T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":3,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":26354925,"name":"Trent Rockets"},{"status":"ACTIVE","sortPriority":2,"id":26354923,"name":"Oval Invincibles"},{"status":"ACTIVE","sortPriority":3,"id":2312392,"name":"Tie"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-14T17:30:00.000Z","version":6071650671,"name":"Match Odds Including Tie","eventName":"Trent Rockets v Oval Invincibles"}}]}
+{"op":"mcm","clk":"11875602023","pt":1723622712500,"mc":[{"id":"1.231730280","rc":[{"ltp":1.86,"id":26354923},{"ltp":2.28,"id":26354925}]}]}
+{"op":"mcm","clk":"11875784854","pt":1723626849584,"mc":[{"id":"1.231730280","rc":[{"ltp":1.84,"id":26354923},{"ltp":36.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11876222883","pt":1723635949313,"mc":[{"id":"1.231730280","rc":[{"ltp":1.85,"id":26354923},{"ltp":2.3,"id":26354925}]}]}
+{"op":"mcm","clk":"11876227548","pt":1723636026652,"mc":[{"id":"1.231730280","rc":[{"ltp":48.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11876740292","pt":1723645563562,"mc":[{"id":"1.231730280","rc":[{"ltp":1.83,"id":26354923}]}]}
+{"op":"mcm","clk":"11877422134","pt":1723652862617,"mc":[{"id":"1.231730280","rc":[{"ltp":1.82,"id":26354923}]}]}
+{"op":"mcm","clk":"11877442596","pt":1723653070873,"mc":[{"id":"1.231730280","rc":[{"ltp":1.8,"id":26354923}]}]}
+{"op":"mcm","clk":"11877516742","pt":1723653792014,"mc":[{"id":"1.231730280","rc":[{"ltp":1.79,"id":26354923},{"ltp":2.38,"id":26354925}]}]}
+{"op":"mcm","clk":"11877578398","pt":1723654450914,"mc":[{"id":"1.231730280","rc":[{"ltp":2.32,"id":26354925}]}]}
+{"op":"mcm","clk":"11877584671","pt":1723654511267,"mc":[{"id":"1.231730280","rc":[{"ltp":1.81,"id":26354923}]}]}
+{"op":"mcm","clk":"11877590426","pt":1723654565861,"mc":[{"id":"1.231730280","rc":[{"ltp":1.8,"id":26354923}]}]}
+{"op":"mcm","clk":"11877596976","pt":1723654632540,"mc":[{"id":"1.231730280","rc":[{"ltp":1.78,"id":26354923}]}]}
+{"op":"mcm","clk":"11877608742","pt":1723654751977,"mc":[{"id":"1.231730280","rc":[{"ltp":1.76,"id":26354923}]}]}
+{"op":"mcm","clk":"11877637437","pt":1723654992538,"mc":[{"id":"1.231730280","rc":[{"ltp":1.84,"id":26354923},{"ltp":2.3,"id":26354925}]}]}
+{"op":"mcm","clk":"11877644736","pt":1723655052201,"mc":[{"id":"1.231730280","rc":[{"ltp":2.24,"id":26354925}]}]}
+{"op":"mcm","clk":"11877651915","pt":1723655112368,"mc":[{"id":"1.231730280","rc":[{"ltp":1.83,"id":26354923},{"ltp":2.28,"id":26354925}]}]}
+{"op":"mcm","clk":"11877659010","pt":1723655171627,"mc":[{"id":"1.231730280","rc":[{"ltp":1.85,"id":26354923},{"ltp":2.24,"id":26354925}]}]}
+{"op":"mcm","clk":"11877666340","pt":1723655232298,"mc":[{"id":"1.231730280","rc":[{"ltp":2.2,"id":26354925}]}]}
+{"op":"mcm","clk":"11877680370","pt":1723655352366,"mc":[{"id":"1.231730280","rc":[{"ltp":1.86,"id":26354923},{"ltp":2.22,"id":26354925}]}]}
+{"op":"mcm","clk":"11877686869","pt":1723655412306,"mc":[{"id":"1.231730280","rc":[{"ltp":2.24,"id":26354925},{"ltp":46.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11877693142","pt":1723655472270,"mc":[{"id":"1.231730280","rc":[{"ltp":1.9,"id":26354923},{"ltp":2.22,"id":26354925}]}]}
+{"op":"mcm","clk":"11877726352","pt":1723655712309,"mc":[{"id":"1.231730280","rc":[{"ltp":1.91,"id":26354923}]}]}
+{"op":"mcm","clk":"11877732557","pt":1723655772486,"mc":[{"id":"1.231730280","rc":[{"ltp":1.92,"id":26354923},{"ltp":2.14,"id":26354925}]}]}
+{"op":"mcm","clk":"11877744351","pt":1723655891479,"mc":[{"id":"1.231730280","rc":[{"ltp":2.16,"id":26354925}]}]}
+{"op":"mcm","clk":"11877820488","pt":1723656612544,"mc":[{"id":"1.231730280","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33488414","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS_LO_TIE","marketTime":"2024-08-14T17:30:00.000Z","suspendTime":"2024-08-14T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":3,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":26354925,"name":"Trent Rockets"},{"status":"ACTIVE","sortPriority":2,"id":26354923,"name":"Oval Invincibles"},{"status":"ACTIVE","sortPriority":3,"id":2312392,"name":"Tie"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-14T17:30:00.000Z","version":6074687257,"name":"Match Odds Including Tie","eventName":"Trent Rockets v Oval Invincibles"}}]}
+{"op":"mcm","clk":"11877882250","pt":1723657092540,"mc":[{"id":"1.231730280","rc":[{"ltp":1.72,"id":26354923}]}]}
+{"op":"mcm","clk":"11877948652","pt":1723657632589,"mc":[{"id":"1.231730280","rc":[{"ltp":50.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11878316583","pt":1723660812499,"mc":[{"id":"1.231730280","rc":[{"ltp":2.78,"id":26354925}]}]}
+{"op":"mcm","clk":"11878332342","pt":1723660932575,"mc":[{"id":"1.231730280","rc":[{"ltp":2.7,"id":26354925}]}]}
+{"op":"mcm","clk":"11878348797","pt":1723660992447,"mc":[{"id":"1.231730280","rc":[{"ltp":2.78,"id":26354925}]}]}
+{"op":"mcm","clk":"11878356398","pt":1723661052491,"mc":[{"id":"1.231730280","rc":[{"ltp":2.72,"id":26354925}]}]}
+{"op":"mcm","clk":"11878363477","pt":1723661112261,"mc":[{"id":"1.231730280","rc":[{"ltp":1.64,"id":26354923},{"ltp":2.7,"id":26354925}]}]}
+{"op":"mcm","clk":"11878438934","pt":1723661832574,"mc":[{"id":"1.231730280","rc":[{"ltp":1.4,"id":26354923},{"ltp":3.65,"id":26354925}]}]}
+{"op":"mcm","clk":"11878449964","pt":1723661952575,"mc":[{"id":"1.231730280","rc":[{"ltp":2.84,"id":26354925}]}]}
+{"op":"mcm","clk":"11878611090","pt":1723663452578,"mc":[{"id":"1.231730280","rc":[{"ltp":1.3,"id":26354923}]}]}
+{"op":"mcm","clk":"11878632862","pt":1723663692558,"mc":[{"id":"1.231730280","rc":[{"ltp":1.2,"id":26354923}]}]}
+{"op":"mcm","clk":"11878654680","pt":1723663932561,"mc":[{"id":"1.231730280","rc":[{"ltp":65.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11878702244","pt":1723664412574,"mc":[{"id":"1.231730280","rc":[{"ltp":34.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11878761302","pt":1723665072507,"mc":[{"id":"1.231730280","rc":[{"ltp":1.78,"id":26354923}]}]}
+{"op":"mcm","clk":"11878766818","pt":1723665132537,"mc":[{"id":"1.231730280","rc":[{"ltp":2.0,"id":26354925}]}]}
+{"op":"mcm","clk":"11878781255","pt":1723665312537,"mc":[{"id":"1.231730280","rc":[{"ltp":1.47,"id":26354925},{"ltp":28.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11878786115","pt":1723665372512,"mc":[{"id":"1.231730280","rc":[{"ltp":1.3,"id":26354925},{"ltp":26.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11878791245","pt":1723665432591,"mc":[{"id":"1.231730280","rc":[{"ltp":4.8,"id":26354923}]}]}
+{"op":"mcm","clk":"11878795927","pt":1723665492527,"mc":[{"id":"1.231730280","rc":[{"ltp":24.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11878806073","pt":1723665612544,"mc":[{"id":"1.231730280","rc":[{"ltp":3.85,"id":26354923}]}]}
+{"op":"mcm","clk":"11878810656","pt":1723665672507,"mc":[{"id":"1.231730280","rc":[{"ltp":3.6,"id":26354923},{"ltp":1.2,"id":26354925}]}]}
+{"op":"mcm","clk":"11878822869","pt":1723665852518,"mc":[{"id":"1.231730280","rc":[{"ltp":1.1,"id":26354925}]}]}
+{"op":"mcm","clk":"11878827046","pt":1723665912562,"mc":[{"id":"1.231730280","rc":[{"ltp":1.05,"id":26354925}]}]}
+{"op":"mcm","clk":"11878854770","pt":1723666271934,"mc":[{"id":"1.231730280","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33488414","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS_LO_TIE","marketTime":"2024-08-14T17:30:00.000Z","suspendTime":"2024-08-14T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":3,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":26354925,"name":"Trent Rockets"},{"status":"ACTIVE","sortPriority":2,"id":26354923,"name":"Oval Invincibles"},{"status":"ACTIVE","sortPriority":3,"id":2312392,"name":"Tie"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-14T17:30:00.000Z","version":6075003807,"name":"Match Odds Including Tie","eventName":"Trent Rockets v Oval Invincibles"}}]}
+{"op":"mcm","clk":"11878859710","pt":1723666346224,"mc":[{"id":"1.231730280","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33488414","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS_LO_TIE","marketTime":"2024-08-14T17:30:00.000Z","suspendTime":"2024-08-14T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2024-08-14T20:12:20.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":26354925,"name":"Trent Rockets"},{"status":"LOSER","sortPriority":2,"id":26354923,"name":"Oval Invincibles"},{"status":"LOSER","sortPriority":3,"id":2312392,"name":"Tie"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-14T17:30:00.000Z","version":6075004973,"name":"Match Odds Including Tie","eventName":"Trent Rockets v Oval Invincibles"}}]}

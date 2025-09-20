@@ -1,0 +1,57 @@
+{"op":"mcm","clk":"11860362955","pt":1723833969644,"mc":[{"id":"1.231895772","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33501073","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_50_OVR_LINE","marketTime":"2024-08-18T10:00:00.000Z","suspendTime":"2024-08-18T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-18T10:00:00.000Z","version":6077632519,"name":"1st Innings 50 Overs Line","eventName":"Somerset v Leicestershire"}}]}
+{"op":"mcm","clk":"11875428243","pt":1723975266590,"mc":[{"id":"1.231895772","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33501073","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_50_OVR_LINE","marketTime":"2024-08-18T10:00:00.000Z","suspendTime":"2024-08-18T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-18T10:00:00.000Z","version":6083158520,"name":"1st Innings 50 Overs Line","eventName":"Somerset v Leicestershire"}}]}
+{"op":"mcm","clk":"11875447379","pt":1723975506576,"mc":[{"id":"1.231895772","rc":[{"ltp":281.5,"id":15316}]}]}
+{"op":"mcm","clk":"11875463965","pt":1723975683116,"mc":[{"id":"1.231895772","rc":[{"ltp":280.5,"id":15316}]}]}
+{"op":"mcm","clk":"11875476113","pt":1723975805406,"mc":[{"id":"1.231895772","rc":[{"ltp":260.5,"id":15316}]}]}
+{"op":"mcm","clk":"11875488224","pt":1723975925868,"mc":[{"id":"1.231895772","rc":[{"ltp":284.5,"id":15316}]}]}
+{"op":"mcm","clk":"11875591152","pt":1723977005938,"mc":[{"id":"1.231895772","rc":[{"ltp":298.5,"id":15316}]}]}
+{"op":"mcm","clk":"11875615997","pt":1723977243465,"mc":[{"id":"1.231895772","rc":[{"ltp":297.5,"id":15316}]}]}
+{"op":"mcm","clk":"11875633733","pt":1723977421861,"mc":[{"id":"1.231895772","rc":[{"ltp":289.5,"id":15316}]}]}
+{"op":"mcm","clk":"11875693997","pt":1723977905147,"mc":[{"id":"1.231895772","rc":[{"ltp":298.5,"id":15316}]}]}
+{"op":"mcm","clk":"11875722390","pt":1723978206450,"mc":[{"id":"1.231895772","rc":[{"ltp":301.5,"id":15316}]}]}
+{"op":"mcm","clk":"11875737249","pt":1723978383337,"mc":[{"id":"1.231895772","rc":[{"ltp":298.5,"id":15316}]}]}
+{"op":"mcm","clk":"11875750478","pt":1723978562769,"mc":[{"id":"1.231895772","rc":[{"ltp":302.5,"id":15316}]}]}
+{"op":"mcm","clk":"11875754976","pt":1723978626133,"mc":[{"id":"1.231895772","rc":[{"ltp":298.5,"id":15316}]}]}
+{"op":"mcm","clk":"11875763807","pt":1723978744954,"mc":[{"id":"1.231895772","rc":[{"ltp":300.5,"id":15316}]}]}
+{"op":"mcm","clk":"11875790076","pt":1723979102018,"mc":[{"id":"1.231895772","rc":[{"ltp":309.5,"id":15316}]}]}
+{"op":"mcm","clk":"11875816792","pt":1723979406324,"mc":[{"id":"1.231895772","rc":[{"ltp":310.5,"id":15316}]}]}
+{"op":"mcm","clk":"11875868620","pt":1723979946539,"mc":[{"id":"1.231895772","rc":[{"ltp":303.5,"id":15316}]}]}
+{"op":"mcm","clk":"11875919215","pt":1723980485616,"mc":[{"id":"1.231895772","rc":[{"ltp":284.5,"id":15316}]}]}
+{"op":"mcm","clk":"11875952088","pt":1723980783165,"mc":[{"id":"1.231895772","rc":[{"ltp":294.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876003912","pt":1723981206546,"mc":[{"id":"1.231895772","rc":[{"ltp":279.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876032887","pt":1723981446419,"mc":[{"id":"1.231895772","rc":[{"ltp":282.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876046974","pt":1723981565934,"mc":[{"id":"1.231895772","rc":[{"ltp":279.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876074086","pt":1723981806198,"mc":[{"id":"1.231895772","rc":[{"ltp":283.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876080746","pt":1723981866450,"mc":[{"id":"1.231895772","rc":[{"ltp":282.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876115988","pt":1723982225738,"mc":[{"id":"1.231895772","rc":[{"ltp":279.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876127145","pt":1723982343231,"mc":[{"id":"1.231895772","rc":[{"ltp":283.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876144023","pt":1723982525760,"mc":[{"id":"1.231895772","rc":[{"ltp":282.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876177680","pt":1723982825979,"mc":[{"id":"1.231895772","rc":[{"ltp":289.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876198161","pt":1723983006501,"mc":[{"id":"1.231895772","rc":[{"ltp":290.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876259184","pt":1723983425995,"mc":[{"id":"1.231895772","rc":[{"ltp":300.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876325156","pt":1723984026589,"mc":[{"id":"1.231895772","rc":[{"ltp":303.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876350703","pt":1723984266522,"mc":[{"id":"1.231895772","rc":[{"ltp":300.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876357983","pt":1723984326458,"mc":[{"id":"1.231895772","rc":[{"ltp":310.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876364490","pt":1723984383517,"mc":[{"id":"1.231895772","rc":[{"ltp":312.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876429347","pt":1723984864596,"mc":[{"id":"1.231895772","rc":[{"ltp":314.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876437432","pt":1723984926451,"mc":[{"id":"1.231895772","rc":[{"ltp":320.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876462703","pt":1723985106353,"mc":[{"id":"1.231895772","rc":[{"ltp":332.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876479681","pt":1723985226213,"mc":[{"id":"1.231895772","rc":[{"ltp":322.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876519150","pt":1723985526349,"mc":[{"id":"1.231895772","rc":[{"ltp":319.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876535435","pt":1723985646215,"mc":[{"id":"1.231895772","rc":[{"ltp":321.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876543674","pt":1723985704471,"mc":[{"id":"1.231895772","rc":[{"ltp":324.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876552928","pt":1723985766121,"mc":[{"id":"1.231895772","rc":[{"ltp":326.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876570108","pt":1723985886280,"mc":[{"id":"1.231895772","rc":[{"ltp":322.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876585399","pt":1723986006518,"mc":[{"id":"1.231895772","rc":[{"ltp":329.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876622853","pt":1723986245938,"mc":[{"id":"1.231895772","rc":[{"ltp":330.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876652030","pt":1723986422632,"mc":[{"id":"1.231895772","rc":[{"ltp":331.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876671875","pt":1723986544640,"mc":[{"id":"1.231895772","rc":[{"ltp":329.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876682448","pt":1723986604944,"mc":[{"id":"1.231895772","rc":[{"ltp":328.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876693696","pt":1723986665750,"mc":[{"id":"1.231895772","rc":[{"ltp":327.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876704713","pt":1723986725062,"mc":[{"id":"1.231895772","rc":[{"ltp":325.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876716141","pt":1723986785830,"mc":[{"id":"1.231895772","rc":[{"ltp":321.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876738421","pt":1723986906121,"mc":[{"id":"1.231895772","rc":[{"ltp":325.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876748808","pt":1723986964303,"mc":[{"id":"1.231895772","rc":[{"ltp":328.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876759098","pt":1723987026525,"mc":[{"id":"1.231895772","rc":[{"ltp":331.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876982041","pt":1723988465530,"mc":[{"id":"1.231895772","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33501073","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_50_OVR_LINE","marketTime":"2024-08-18T10:00:00.000Z","suspendTime":"2024-08-18T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-18T10:00:00.000Z","version":6083744790,"name":"1st Innings 50 Overs Line","eventName":"Somerset v Leicestershire"}}]}
+{"op":"mcm","clk":"11876991268","pt":1723988525850,"mc":[{"id":"1.231895772","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33501073","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_50_OVR_LINE","marketTime":"2024-08-18T10:00:00.000Z","suspendTime":"2024-08-18T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-18T13:41:51.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-18T10:00:00.000Z","version":6083746820,"name":"1st Innings 50 Overs Line","eventName":"Somerset v Leicestershire"}}]}

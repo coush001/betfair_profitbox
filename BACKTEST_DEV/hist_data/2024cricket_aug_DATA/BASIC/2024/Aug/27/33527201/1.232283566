@@ -1,0 +1,35 @@
+{"op":"mcm","clk":"11966283338","pt":1724620977056,"mc":[{"id":"1.232283566","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33527201","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_10_OVR_LINE","marketTime":"2024-08-27T12:00:00.000Z","suspendTime":"2024-08-27T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-27T12:00:00.000Z","version":6100616158,"name":"1st Innings 10 Overs Line","eventName":"USA v Canada"}}]}
+{"op":"mcm","clk":"11974827964","pt":1724758076161,"mc":[{"id":"1.232283566","rc":[{"ltp":63.5,"id":15316}]}]}
+{"op":"mcm","clk":"11974913905","pt":1724759461267,"mc":[{"id":"1.232283566","rc":[{"ltp":70.5,"id":15316}]}]}
+{"op":"mcm","clk":"11974948285","pt":1724760001807,"mc":[{"id":"1.232283566","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33527201","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_10_OVR_LINE","marketTime":"2024-08-27T12:00:00.000Z","suspendTime":"2024-08-27T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-27T12:00:00.000Z","version":6103129647,"name":"1st Innings 10 Overs Line","eventName":"USA v Canada"}}]}
+{"op":"mcm","clk":"11974963858","pt":1724760181545,"mc":[{"id":"1.232283566","rc":[{"ltp":73.5,"id":15316}]}]}
+{"op":"mcm","clk":"11974968450","pt":1724760241624,"mc":[{"id":"1.232283566","rc":[{"ltp":68.5,"id":15316}]}]}
+{"op":"mcm","clk":"11974973109","pt":1724760301719,"mc":[{"id":"1.232283566","rc":[{"ltp":74.5,"id":15316}]}]}
+{"op":"mcm","clk":"11974978039","pt":1724760361766,"mc":[{"id":"1.232283566","rc":[{"ltp":69.5,"id":15316}]}]}
+{"op":"mcm","clk":"11974983212","pt":1724760421801,"mc":[{"id":"1.232283566","rc":[{"ltp":68.5,"id":15316}]}]}
+{"op":"mcm","clk":"11974988304","pt":1724760481731,"mc":[{"id":"1.232283566","rc":[{"ltp":71.5,"id":15316}]}]}
+{"op":"mcm","clk":"11974993144","pt":1724760541807,"mc":[{"id":"1.232283566","rc":[{"ltp":76.5,"id":15316}]}]}
+{"op":"mcm","clk":"11974997810","pt":1724760601785,"mc":[{"id":"1.232283566","rc":[{"ltp":73.5,"id":15316}]}]}
+{"op":"mcm","clk":"11975002800","pt":1724760661768,"mc":[{"id":"1.232283566","rc":[{"ltp":74.5,"id":15316}]}]}
+{"op":"mcm","clk":"11975007423","pt":1724760721773,"mc":[{"id":"1.232283566","rc":[{"ltp":78.5,"id":15316}]}]}
+{"op":"mcm","clk":"11975016847","pt":1724760841811,"mc":[{"id":"1.232283566","rc":[{"ltp":81.5,"id":15316}]}]}
+{"op":"mcm","clk":"11975058011","pt":1724761381768,"mc":[{"id":"1.232283566","rc":[{"ltp":93.5,"id":15316}]}]}
+{"op":"mcm","clk":"11975082697","pt":1724761681828,"mc":[{"id":"1.232283566","rc":[{"ltp":86.5,"id":15316}]}]}
+{"op":"mcm","clk":"11975088131","pt":1724761741697,"mc":[{"id":"1.232283566","rc":[{"ltp":85.5,"id":15316}]}]}
+{"op":"mcm","clk":"11975093057","pt":1724761801813,"mc":[{"id":"1.232283566","rc":[{"ltp":87.5,"id":15316}]}]}
+{"op":"mcm","clk":"11975097988","pt":1724761861801,"mc":[{"id":"1.232283566","rc":[{"ltp":84.5,"id":15316}]}]}
+{"op":"mcm","clk":"11975103092","pt":1724761921744,"mc":[{"id":"1.232283566","rc":[{"ltp":81.5,"id":15316}]}]}
+{"op":"mcm","clk":"11975112391","pt":1724762041520,"mc":[{"id":"1.232283566","rc":[{"ltp":80.5,"id":15316}]}]}
+{"op":"mcm","clk":"11975116586","pt":1724762101616,"mc":[{"id":"1.232283566","rc":[{"ltp":79.5,"id":15316}]}]}
+{"op":"mcm","clk":"11975121289","pt":1724762161763,"mc":[{"id":"1.232283566","rc":[{"ltp":80.5,"id":15316}]}]}
+{"op":"mcm","clk":"11975125717","pt":1724762221605,"mc":[{"id":"1.232283566","rc":[{"ltp":81.5,"id":15316}]}]}
+{"op":"mcm","clk":"11975130227","pt":1724762281677,"mc":[{"id":"1.232283566","rc":[{"ltp":83.5,"id":15316}]}]}
+{"op":"mcm","clk":"11975135128","pt":1724762341731,"mc":[{"id":"1.232283566","rc":[{"ltp":88.5,"id":15316}]}]}
+{"op":"mcm","clk":"11975139857","pt":1724762401486,"mc":[{"id":"1.232283566","rc":[{"ltp":89.5,"id":15316}]}]}
+{"op":"mcm","clk":"11975144071","pt":1724762461447,"mc":[{"id":"1.232283566","rc":[{"ltp":88.5,"id":15316}]}]}
+{"op":"mcm","clk":"11975148596","pt":1724762521826,"mc":[{"id":"1.232283566","rc":[{"ltp":87.5,"id":15316}]}]}
+{"op":"mcm","clk":"11975167637","pt":1724762641783,"mc":[{"id":"1.232283566","rc":[{"ltp":88.5,"id":15316}]}]}
+{"op":"mcm","clk":"11975172281","pt":1724762701750,"mc":[{"id":"1.232283566","rc":[{"ltp":91.5,"id":15316}]}]}
+{"op":"mcm","clk":"11975176753","pt":1724762761799,"mc":[{"id":"1.232283566","rc":[{"ltp":90.5,"id":15316}]}]}
+{"op":"mcm","clk":"11975185945","pt":1724762881567,"mc":[{"id":"1.232283566","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33527201","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_10_OVR_LINE","marketTime":"2024-08-27T12:00:00.000Z","suspendTime":"2024-08-27T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-27T12:00:00.000Z","version":6103176464,"name":"1st Innings 10 Overs Line","eventName":"USA v Canada"}}]}
+{"op":"mcm","clk":"11975189695","pt":1724762941355,"mc":[{"id":"1.232283566","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33527201","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_10_OVR_LINE","marketTime":"2024-08-27T12:00:00.000Z","suspendTime":"2024-08-27T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-27T12:48:21.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-27T12:00:00.000Z","version":6103176742,"name":"1st Innings 10 Overs Line","eventName":"USA v Canada"}}]}

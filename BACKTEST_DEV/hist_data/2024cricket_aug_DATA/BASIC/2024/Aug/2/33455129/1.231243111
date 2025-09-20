@@ -1,0 +1,59 @@
+{"op":"mcm","clk":"11777158713","pt":1722333538282,"mc":[{"id":"1.231243111","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33455129","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-02T14:00:00.000Z","suspendTime":"2024-08-02T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-02T14:00:00.000Z","version":6047222331,"name":"Tied Match","eventName":"Oval Invincibles W v Northern Superchargers W"}}]}
+{"op":"mcm","clk":"11777175698","pt":1722333720636,"mc":[{"id":"1.231243111","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33455129","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-02T12:00:00.000Z","suspendTime":"2024-08-02T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-02T12:00:00.000Z","version":6047223147,"name":"Tied Match","eventName":"Oval Invincibles W v Northern Superchargers W"}}]}
+{"op":"mcm","clk":"11792906267","pt":1722543337058,"mc":[{"id":"1.231243111","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11792948835","pt":1722544269002,"mc":[{"id":"1.231243111","rc":[{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11793405996","pt":1722554986379,"mc":[{"id":"1.231243111","rc":[{"ltp":55.0,"id":37302},{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11795419204","pt":1722597399183,"mc":[{"id":"1.231243111","rc":[{"ltp":50.0,"id":37302}]}]}
+{"op":"mcm","clk":"11795428478","pt":1722597529322,"mc":[{"id":"1.231243111","rc":[{"ltp":55.0,"id":37302}]}]}
+{"op":"mcm","clk":"11795433825","pt":1722597605907,"mc":[{"id":"1.231243111","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33455129","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-02T14:00:00.000Z","suspendTime":"2024-08-02T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-02T14:00:00.000Z","version":6051332986,"name":"Tied Match","eventName":"Oval Invincibles W v Northern Superchargers W"}}]}
+{"op":"mcm","clk":"11795554143","pt":1722599155971,"mc":[{"id":"1.231243111","rc":[{"ltp":50.0,"id":37302}]}]}
+{"op":"mcm","clk":"11795663338","pt":1722600470897,"mc":[{"id":"1.231243111","rc":[{"ltp":55.0,"id":37302}]}]}
+{"op":"mcm","clk":"11795905679","pt":1722603411590,"mc":[{"id":"1.231243111","rc":[{"ltp":50.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796083639","pt":1722605755104,"mc":[{"id":"1.231243111","rc":[{"ltp":55.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796142982","pt":1722606595951,"mc":[{"id":"1.231243111","rc":[{"ltp":50.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796163713","pt":1722606895749,"mc":[{"id":"1.231243111","rc":[{"ltp":60.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796167069","pt":1722606953108,"mc":[{"id":"1.231243111","rc":[{"ltp":55.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796170741","pt":1722607005949,"mc":[{"id":"1.231243111","rc":[{"ltp":60.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796188889","pt":1722607256145,"mc":[{"id":"1.231243111","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33455129","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-02T14:00:00.000Z","suspendTime":"2024-08-02T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-02T14:00:00.000Z","version":6051504360,"name":"Tied Match","eventName":"Oval Invincibles W v Northern Superchargers W"}}]}
+{"op":"mcm","clk":"11796319231","pt":1722608756240,"mc":[{"id":"1.231243111","rc":[{"ltp":50.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796338937","pt":1722608996162,"mc":[{"id":"1.231243111","rc":[{"ltp":55.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796371989","pt":1722609416187,"mc":[{"id":"1.231243111","rc":[{"ltp":50.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796395957","pt":1722609776227,"mc":[{"id":"1.231243111","rc":[{"ltp":48.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796403570","pt":1722609896195,"mc":[{"id":"1.231243111","rc":[{"ltp":44.0,"id":37302},{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11796433919","pt":1722610316069,"mc":[{"id":"1.231243111","rc":[{"ltp":46.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796442466","pt":1722610436190,"mc":[{"id":"1.231243111","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11796446757","pt":1722610496246,"mc":[{"id":"1.231243111","rc":[{"ltp":50.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796463578","pt":1722610736176,"mc":[{"id":"1.231243111","rc":[{"ltp":46.0,"id":37302},{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11796481729","pt":1722610976227,"mc":[{"id":"1.231243111","rc":[{"ltp":44.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796485912","pt":1722611036210,"mc":[{"id":"1.231243111","rc":[{"ltp":46.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796490837","pt":1722611096260,"mc":[{"id":"1.231243111","rc":[{"ltp":50.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796495594","pt":1722611156270,"mc":[{"id":"1.231243111","rc":[{"ltp":46.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796499860","pt":1722611216209,"mc":[{"id":"1.231243111","rc":[{"ltp":48.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796508144","pt":1722611336163,"mc":[{"id":"1.231243111","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11796511994","pt":1722611396250,"mc":[{"id":"1.231243111","rc":[{"ltp":46.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796519863","pt":1722611516195,"mc":[{"id":"1.231243111","rc":[{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11796536816","pt":1722611756257,"mc":[{"id":"1.231243111","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11796540588","pt":1722611816128,"mc":[{"id":"1.231243111","rc":[{"ltp":50.0,"id":37302},{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11796544435","pt":1722611876042,"mc":[{"id":"1.231243111","rc":[{"ltp":48.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796564932","pt":1722612176175,"mc":[{"id":"1.231243111","rc":[{"ltp":46.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796569256","pt":1722612236279,"mc":[{"id":"1.231243111","rc":[{"ltp":44.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796587883","pt":1722612476237,"mc":[{"id":"1.231243111","rc":[{"ltp":46.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796606652","pt":1722612716186,"mc":[{"id":"1.231243111","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11796611410","pt":1722612776228,"mc":[{"id":"1.231243111","rc":[{"ltp":44.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796621008","pt":1722612896209,"mc":[{"id":"1.231243111","rc":[{"ltp":40.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796633967","pt":1722613076235,"mc":[{"id":"1.231243111","rc":[{"ltp":50.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796643384","pt":1722613196176,"mc":[{"id":"1.231243111","rc":[{"ltp":55.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796652198","pt":1722613316195,"mc":[{"id":"1.231243111","rc":[{"ltp":60.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796673590","pt":1722613436277,"mc":[{"id":"1.231243111","rc":[{"ltp":85.0,"id":37302},{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11796677926","pt":1722613496218,"mc":[{"id":"1.231243111","rc":[{"ltp":120.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796692354","pt":1722613676180,"mc":[{"id":"1.231243111","rc":[{"ltp":130.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796696984","pt":1722613736230,"mc":[{"id":"1.231243111","rc":[{"ltp":180.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796707192","pt":1722613856153,"mc":[{"id":"1.231243111","rc":[{"ltp":220.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796722668","pt":1722614036216,"mc":[{"id":"1.231243111","rc":[{"ltp":340.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796732831","pt":1722614156191,"mc":[{"id":"1.231243111","rc":[{"ltp":180.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796747294","pt":1722614336208,"mc":[{"id":"1.231243111","rc":[{"ltp":120.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796764719","pt":1722614516133,"mc":[{"id":"1.231243111","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11796771968","pt":1722614576202,"mc":[{"id":"1.231243111","rc":[{"ltp":100.0,"id":37302},{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11796832222","pt":1722615056253,"mc":[{"id":"1.231243111","rc":[{"ltp":260.0,"id":37302}]}]}
+{"op":"mcm","clk":"11796873289","pt":1722615412588,"mc":[{"id":"1.231243111","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33455129","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-02T14:00:00.000Z","suspendTime":"2024-08-02T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-02T14:00:00.000Z","version":6051675622,"name":"Tied Match","eventName":"Oval Invincibles Women v Northern Superchargers Wo"}}]}
+{"op":"mcm","clk":"11796890357","pt":1722615555117,"mc":[{"id":"1.231243111","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33455129","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-02T14:00:00.000Z","suspendTime":"2024-08-02T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2024-08-02T16:19:11.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":37302,"name":"Yes"},{"status":"WINNER","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-02T14:00:00.000Z","version":6051683250,"name":"Tied Match","eventName":"Oval Invincibles Women v Northern Superchargers Wo"}}]}

@@ -1,0 +1,34 @@
+{"op":"mcm","clk":"11749081282","pt":1722332111293,"mc":[{"id":"1.231242815","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33455059","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_50_OVR_LINE","marketTime":"2024-08-02T10:00:00.000Z","suspendTime":"2024-08-02T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-02T10:00:00.000Z","version":6047208076,"name":"1st Innings 50 Overs Line","eventName":"Warwickshire v Surrey"}}]}
+{"op":"mcm","clk":"11765715108","pt":1722588246650,"mc":[{"id":"1.231242815","rc":[{"ltp":298.5,"id":15316}]}]}
+{"op":"mcm","clk":"11765824833","pt":1722591782020,"mc":[{"id":"1.231242815","rc":[{"ltp":297.5,"id":15316}]}]}
+{"op":"mcm","clk":"11765838982","pt":1722592206981,"mc":[{"id":"1.231242815","rc":[{"ltp":298.5,"id":15316}]}]}
+{"op":"mcm","clk":"11765854610","pt":1722592687077,"mc":[{"id":"1.231242815","rc":[{"ltp":301.5,"id":15316}]}]}
+{"op":"mcm","clk":"11765859222","pt":1722592805218,"mc":[{"id":"1.231242815","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33455059","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_50_OVR_LINE","marketTime":"2024-08-02T10:00:00.000Z","suspendTime":"2024-08-02T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-02T10:00:00.000Z","version":6051278715,"name":"1st Innings 50 Overs Line","eventName":"Warwickshire v Surrey"},"rc":[{"ltp":290.5,"id":15316}]}]}
+{"op":"mcm","clk":"11765880322","pt":1722593226673,"mc":[{"id":"1.231242815","rc":[{"ltp":299.5,"id":15316}]}]}
+{"op":"mcm","clk":"11765888361","pt":1722593405708,"mc":[{"id":"1.231242815","rc":[{"ltp":314.5,"id":15316}]}]}
+{"op":"mcm","clk":"11765909243","pt":1722594006818,"mc":[{"id":"1.231242815","rc":[{"ltp":298.5,"id":15316}]}]}
+{"op":"mcm","clk":"11765991080","pt":1722595986890,"mc":[{"id":"1.231242815","rc":[{"ltp":292.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766046217","pt":1722597423628,"mc":[{"id":"1.231242815","rc":[{"ltp":310.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766174525","pt":1722601027250,"mc":[{"id":"1.231242815","rc":[{"ltp":278.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766176693","pt":1722601086927,"mc":[{"id":"1.231242815","rc":[{"ltp":298.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766179004","pt":1722601146080,"mc":[{"id":"1.231242815","rc":[{"ltp":286.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766200583","pt":1722601807178,"mc":[{"id":"1.231242815","rc":[{"ltp":298.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766206182","pt":1722601986222,"mc":[{"id":"1.231242815","rc":[{"ltp":306.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766218121","pt":1722602286588,"mc":[{"id":"1.231242815","rc":[{"ltp":310.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766220321","pt":1722602346143,"mc":[{"id":"1.231242815","rc":[{"ltp":313.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766227130","pt":1722602525848,"mc":[{"id":"1.231242815","rc":[{"ltp":317.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766228822","pt":1722602586607,"mc":[{"id":"1.231242815","rc":[{"ltp":306.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766231703","pt":1722602706977,"mc":[{"id":"1.231242815","rc":[{"ltp":305.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766234989","pt":1722602827107,"mc":[{"id":"1.231242815","rc":[{"ltp":317.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766240241","pt":1722603005205,"mc":[{"id":"1.231242815","rc":[{"ltp":319.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766244463","pt":1722603125340,"mc":[{"id":"1.231242815","rc":[{"ltp":321.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766251613","pt":1722603304054,"mc":[{"id":"1.231242815","rc":[{"ltp":324.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766260065","pt":1722603486853,"mc":[{"id":"1.231242815","rc":[{"ltp":322.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766267517","pt":1722603667037,"mc":[{"id":"1.231242815","rc":[{"ltp":327.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766271876","pt":1722603785979,"mc":[{"id":"1.231242815","rc":[{"ltp":313.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766283956","pt":1722604082116,"mc":[{"id":"1.231242815","rc":[{"ltp":308.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766286472","pt":1722604147209,"mc":[{"id":"1.231242815","rc":[{"ltp":313.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766300330","pt":1722604506169,"mc":[{"id":"1.231242815","rc":[{"ltp":308.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766304731","pt":1722604626959,"mc":[{"id":"1.231242815","rc":[{"ltp":314.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766311561","pt":1722604806027,"mc":[{"id":"1.231242815","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33455059","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_50_OVR_LINE","marketTime":"2024-08-02T10:00:00.000Z","suspendTime":"2024-08-02T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-02T10:00:00.000Z","version":6051457220,"name":"1st Innings 50 Overs Line","eventName":"Warwickshire v Surrey"}}]}
+{"op":"mcm","clk":"11766316424","pt":1722604920953,"mc":[{"id":"1.231242815","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33455059","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_50_OVR_LINE","marketTime":"2024-08-02T10:00:00.000Z","suspendTime":"2024-08-02T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-02T13:21:13.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-02T10:00:00.000Z","version":6051458205,"name":"1st Innings 50 Overs Line","eventName":"Warwickshire v Surrey"}}]}

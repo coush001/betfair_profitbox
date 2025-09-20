@@ -1,0 +1,34 @@
+{"op":"mcm","clk":"11800163429","pt":1723196161066,"mc":[{"id":"1.231616278","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33480309","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"2_INN_25_BALL_LINE","marketTime":"2024-08-11T13:30:00.000Z","suspendTime":"2024-08-11T13:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-11T13:30:00.000Z","version":6062883821,"name":"2nd Innings 25 Balls Runs Line","eventName":"Oval Invincibles v London Spirit"}}]}
+{"op":"mcm","clk":"11818197767","pt":1723382998957,"mc":[{"id":"1.231616278","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33480309","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"2_INN_25_BALL_LINE","marketTime":"2024-08-11T13:30:00.000Z","suspendTime":"2024-08-11T13:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-11T13:30:00.000Z","version":6069536090,"name":"2nd Innings 25 Balls Runs Line","eventName":"Oval Invincibles v London Spirit"}}]}
+{"op":"mcm","clk":"11818763169","pt":1723386899009,"mc":[{"id":"1.231616278","rc":[{"ltp":32.5,"id":15316}]}]}
+{"op":"mcm","clk":"11818770484","pt":1723386945877,"mc":[{"id":"1.231616278","rc":[{"ltp":33.5,"id":15316}]}]}
+{"op":"mcm","clk":"11818780912","pt":1723387016543,"mc":[{"id":"1.231616278","rc":[{"ltp":32.5,"id":15316}]}]}
+{"op":"mcm","clk":"11818790573","pt":1723387078994,"mc":[{"id":"1.231616278","rc":[{"ltp":33.5,"id":15316}]}]}
+{"op":"mcm","clk":"11818800447","pt":1723387138787,"mc":[{"id":"1.231616278","rc":[{"ltp":32.5,"id":15316}]}]}
+{"op":"mcm","clk":"11818809223","pt":1723387195179,"mc":[{"id":"1.231616278","rc":[{"ltp":33.5,"id":15316}]}]}
+{"op":"mcm","clk":"11818817127","pt":1723387247027,"mc":[{"id":"1.231616278","rc":[{"ltp":32.5,"id":15316}]}]}
+{"op":"mcm","clk":"11818828456","pt":1723387318981,"mc":[{"id":"1.231616278","rc":[{"ltp":33.5,"id":15316}]}]}
+{"op":"mcm","clk":"11818836585","pt":1723387371156,"mc":[{"id":"1.231616278","rc":[{"ltp":32.5,"id":15316}]}]}
+{"op":"mcm","clk":"11818857226","pt":1723387438919,"mc":[{"id":"1.231616278","rc":[{"ltp":33.5,"id":15316}]}]}
+{"op":"mcm","clk":"11818895771","pt":1723387679009,"mc":[{"id":"1.231616278","rc":[{"ltp":32.5,"id":15316}]}]}
+{"op":"mcm","clk":"11818904145","pt":1723387738787,"mc":[{"id":"1.231616278","rc":[{"ltp":33.5,"id":15316}]}]}
+{"op":"mcm","clk":"11818911459","pt":1723387798921,"mc":[{"id":"1.231616278","rc":[{"ltp":32.5,"id":15316}]}]}
+{"op":"mcm","clk":"11818919071","pt":1723387859014,"mc":[{"id":"1.231616278","rc":[{"ltp":31.5,"id":15316}]}]}
+{"op":"mcm","clk":"11818933240","pt":1723387978976,"mc":[{"id":"1.231616278","rc":[{"ltp":33.5,"id":15316}]}]}
+{"op":"mcm","clk":"11818939820","pt":1723388038982,"mc":[{"id":"1.231616278","rc":[{"ltp":36.5,"id":15316}]}]}
+{"op":"mcm","clk":"11818946532","pt":1723388098965,"mc":[{"id":"1.231616278","rc":[{"ltp":35.5,"id":15316}]}]}
+{"op":"mcm","clk":"11818953719","pt":1723388159004,"mc":[{"id":"1.231616278","rc":[{"ltp":34.5,"id":15316}]}]}
+{"op":"mcm","clk":"11818960577","pt":1723388218307,"mc":[{"id":"1.231616278","rc":[{"ltp":33.5,"id":15316}]}]}
+{"op":"mcm","clk":"11818967124","pt":1723388278957,"mc":[{"id":"1.231616278","rc":[{"ltp":32.5,"id":15316}]}]}
+{"op":"mcm","clk":"11818973368","pt":1723388338853,"mc":[{"id":"1.231616278","rc":[{"ltp":31.5,"id":15316}]}]}
+{"op":"mcm","clk":"11818979388","pt":1723388398908,"mc":[{"id":"1.231616278","rc":[{"ltp":28.5,"id":15316}]}]}
+{"op":"mcm","clk":"11818986516","pt":1723388458963,"mc":[{"id":"1.231616278","rc":[{"ltp":27.5,"id":15316}]}]}
+{"op":"mcm","clk":"11818993737","pt":1723388518902,"mc":[{"id":"1.231616278","rc":[{"ltp":25.5,"id":15316}]}]}
+{"op":"mcm","clk":"11819001445","pt":1723388578738,"mc":[{"id":"1.231616278","rc":[{"ltp":22.5,"id":15316}]}]}
+{"op":"mcm","clk":"11819009441","pt":1723388638989,"mc":[{"id":"1.231616278","rc":[{"ltp":21.5,"id":15316}]}]}
+{"op":"mcm","clk":"11819024664","pt":1723388758948,"mc":[{"id":"1.231616278","rc":[{"ltp":19.5,"id":15316}]}]}
+{"op":"mcm","clk":"11819039850","pt":1723388879051,"mc":[{"id":"1.231616278","rc":[{"ltp":21.5,"id":15316}]}]}
+{"op":"mcm","clk":"11819047369","pt":1723388938987,"mc":[{"id":"1.231616278","rc":[{"ltp":20.5,"id":15316}]}]}
+{"op":"mcm","clk":"11819055218","pt":1723388998958,"mc":[{"id":"1.231616278","rc":[{"ltp":24.5,"id":15316}]}]}
+{"op":"mcm","clk":"11819064130","pt":1723389059030,"mc":[{"id":"1.231616278","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33480309","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"2_INN_25_BALL_LINE","marketTime":"2024-08-11T13:30:00.000Z","suspendTime":"2024-08-11T13:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-11T13:30:00.000Z","version":6069849237,"name":"2nd Innings 25 Balls Runs Line","eventName":"Oval Invincibles v London Spirit"}}]}
+{"op":"mcm","clk":"11819081374","pt":1723389179032,"mc":[{"id":"1.231616278","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33480309","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"2_INN_25_BALL_LINE","marketTime":"2024-08-11T13:30:00.000Z","suspendTime":"2024-08-11T13:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-11T15:12:40.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-11T13:30:00.000Z","version":6069857135,"name":"2nd Innings 25 Balls Runs Line","eventName":"Oval Invincibles v London Spirit"}}]}

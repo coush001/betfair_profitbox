@@ -1,0 +1,54 @@
+{"op":"mcm","clk":"11889084567","pt":1724168486196,"mc":[{"id":"1.232056654","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33511969","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-23T18:00:00.000Z","suspendTime":"2024-08-23T18:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-23T18:00:00.000Z","version":6087680329,"name":"Tied Match","eventName":"Netherlands v Canada"}}]}
+{"op":"mcm","clk":"11889105251","pt":1724168726975,"mc":[{"id":"1.232056654","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33511969","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-23T14:00:00.000Z","suspendTime":"2024-08-23T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-23T14:00:00.000Z","version":6087683658,"name":"Tied Match","eventName":"Netherlands v Canada"}}]}
+{"op":"mcm","clk":"11899875869","pt":1724297626075,"mc":[{"id":"1.232056654","rc":[{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11907010365","pt":1724388683987,"mc":[{"id":"1.232056654","rc":[{"ltp":44.0,"id":37302}]}]}
+{"op":"mcm","clk":"11907882119","pt":1724402541452,"mc":[{"id":"1.232056654","rc":[{"ltp":40.0,"id":37302}]}]}
+{"op":"mcm","clk":"11909207975","pt":1724417351922,"mc":[{"id":"1.232056654","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11909620500","pt":1724421324098,"mc":[{"id":"1.232056654","rc":[{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11909650797","pt":1724421624068,"mc":[{"id":"1.232056654","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33511969","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-23T14:00:00.000Z","suspendTime":"2024-08-23T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-23T14:00:00.000Z","version":6092295579,"name":"Tied Match","eventName":"Netherlands v Canada"}}]}
+{"op":"mcm","clk":"11909703987","pt":1724422164148,"mc":[{"id":"1.232056654","rc":[{"ltp":34.0,"id":37302},{"ltp":1.04,"id":37303}]}]}
+{"op":"mcm","clk":"11909715608","pt":1724422284163,"mc":[{"id":"1.232056654","rc":[{"ltp":40.0,"id":37302}]}]}
+{"op":"mcm","clk":"11909721367","pt":1724422344160,"mc":[{"id":"1.232056654","rc":[{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11909754180","pt":1724422704096,"mc":[{"id":"1.232056654","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11909759239","pt":1724422764093,"mc":[{"id":"1.232056654","rc":[{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11909770129","pt":1724422884123,"mc":[{"id":"1.232056654","rc":[{"ltp":34.0,"id":37302}]}]}
+{"op":"mcm","clk":"11909776518","pt":1724422944077,"mc":[{"id":"1.232056654","rc":[{"ltp":48.0,"id":37302},{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11909804723","pt":1724423244160,"mc":[{"id":"1.232056654","rc":[{"ltp":50.0,"id":37302}]}]}
+{"op":"mcm","clk":"11909855926","pt":1724423724133,"mc":[{"id":"1.232056654","rc":[{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11909862111","pt":1724423784066,"mc":[{"id":"1.232056654","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11909899427","pt":1724424144144,"mc":[{"id":"1.232056654","rc":[{"ltp":60.0,"id":37302}]}]}
+{"op":"mcm","clk":"11909922875","pt":1724424384153,"mc":[{"id":"1.232056654","rc":[{"ltp":75.0,"id":37302}]}]}
+{"op":"mcm","clk":"11909934859","pt":1724424504102,"mc":[{"id":"1.232056654","rc":[{"ltp":60.0,"id":37302}]}]}
+{"op":"mcm","clk":"11910009286","pt":1724425284144,"mc":[{"id":"1.232056654","rc":[{"ltp":65.0,"id":37302}]}]}
+{"op":"mcm","clk":"11910030006","pt":1724425464102,"mc":[{"id":"1.232056654","rc":[{"ltp":60.0,"id":37302}]}]}
+{"op":"mcm","clk":"11910136525","pt":1724426244110,"mc":[{"id":"1.232056654","rc":[{"ltp":55.0,"id":37302}]}]}
+{"op":"mcm","clk":"11910198358","pt":1724426783972,"mc":[{"id":"1.232056654","rc":[{"ltp":65.0,"id":37302}]}]}
+{"op":"mcm","clk":"11910206256","pt":1724426844156,"mc":[{"id":"1.232056654","rc":[{"ltp":50.0,"id":37302}]}]}
+{"op":"mcm","clk":"11910243446","pt":1724427136756,"mc":[{"id":"1.232056654","rc":[{"ltp":60.0,"id":37302}]}]}
+{"op":"mcm","clk":"11910252176","pt":1724427204121,"mc":[{"id":"1.232056654","rc":[{"ltp":50.0,"id":37302}]}]}
+{"op":"mcm","clk":"11910282868","pt":1724427444068,"mc":[{"id":"1.232056654","rc":[{"ltp":55.0,"id":37302}]}]}
+{"op":"mcm","clk":"11910330671","pt":1724427803950,"mc":[{"id":"1.232056654","rc":[{"ltp":50.0,"id":37302}]}]}
+{"op":"mcm","clk":"11910355346","pt":1724427983933,"mc":[{"id":"1.232056654","rc":[{"ltp":40.0,"id":37302}]}]}
+{"op":"mcm","clk":"11910370758","pt":1724428104001,"mc":[{"id":"1.232056654","rc":[{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11910437657","pt":1724428644146,"mc":[{"id":"1.232056654","rc":[{"ltp":44.0,"id":37302}]}]}
+{"op":"mcm","clk":"11910567617","pt":1724429424125,"mc":[{"id":"1.232056654","rc":[{"ltp":46.0,"id":37302}]}]}
+{"op":"mcm","clk":"11910602256","pt":1724429604165,"mc":[{"id":"1.232056654","rc":[{"ltp":44.0,"id":37302},{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11910612903","pt":1724429663882,"mc":[{"id":"1.232056654","rc":[{"ltp":50.0,"id":37302}]}]}
+{"op":"mcm","clk":"11910634347","pt":1724429784131,"mc":[{"id":"1.232056654","rc":[{"ltp":40.0,"id":37302}]}]}
+{"op":"mcm","clk":"11910644904","pt":1724429844095,"mc":[{"id":"1.232056654","rc":[{"ltp":42.0,"id":37302},{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11910666628","pt":1724429963797,"mc":[{"id":"1.232056654","rc":[{"ltp":34.0,"id":37302},{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11910677484","pt":1724430024019,"mc":[{"id":"1.232056654","rc":[{"ltp":40.0,"id":37302},{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11910688548","pt":1724430084148,"mc":[{"id":"1.232056654","rc":[{"ltp":48.0,"id":37302}]}]}
+{"op":"mcm","clk":"11910699247","pt":1724430144158,"mc":[{"id":"1.232056654","rc":[{"ltp":44.0,"id":37302}]}]}
+{"op":"mcm","clk":"11910710511","pt":1724430203986,"mc":[{"id":"1.232056654","rc":[{"ltp":34.0,"id":37302}]}]}
+{"op":"mcm","clk":"11910720968","pt":1724430264158,"mc":[{"id":"1.232056654","rc":[{"ltp":36.0,"id":37302}]}]}
+{"op":"mcm","clk":"11910731414","pt":1724430324107,"mc":[{"id":"1.232056654","rc":[{"ltp":50.0,"id":37302},{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11910752226","pt":1724430444139,"mc":[{"id":"1.232056654","rc":[{"ltp":100.0,"id":37302},{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11910772993","pt":1724430564097,"mc":[{"id":"1.232056654","rc":[{"ltp":80.0,"id":37302},{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11910783937","pt":1724430624093,"mc":[{"id":"1.232056654","rc":[{"ltp":100.0,"id":37302},{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11910794676","pt":1724430684103,"mc":[{"id":"1.232056654","rc":[{"ltp":110.0,"id":37302},{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11910805734","pt":1724430741753,"mc":[{"id":"1.232056654","rc":[{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11910862418","pt":1724431044144,"mc":[{"id":"1.232056654","rc":[{"ltp":140.0,"id":37302}]}]}
+{"op":"mcm","clk":"11910948831","pt":1724431397638,"mc":[{"id":"1.232056654","rc":[{"ltp":1000.0,"id":37302}]}]}
+{"op":"mcm","clk":"11911102329","pt":1724432295523,"mc":[{"id":"1.232056654","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33511969","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-23T14:00:00.000Z","suspendTime":"2024-08-23T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-23T14:00:00.000Z","version":6092551194,"name":"Tied Match","eventName":"Netherlands v Canada"}}]}
+{"op":"mcm","clk":"11911119840","pt":1724432403852,"mc":[{"id":"1.232056654","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33511969","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-23T14:00:00.000Z","suspendTime":"2024-08-23T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2024-08-23T17:00:00.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":37302,"name":"Yes"},{"status":"WINNER","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-23T14:00:00.000Z","version":6092557306,"name":"Tied Match","eventName":"Netherlands v Canada"}}]}

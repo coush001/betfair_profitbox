@@ -1,0 +1,20 @@
+{"op":"mcm","clk":"11947277172","pt":1724486394084,"mc":[{"id":"1.232082995","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33494708","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"B_1_INN_135_OVR_LINE","marketTime":"2024-08-24T04:45:00.000Z","suspendTime":"2024-08-24T04:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-24T04:45:00.000Z","version":6094074527,"name":"Bangladesh 1st Innings 135 Over Line","eventName":"Pakistan v Bangladesh"}}]}
+{"op":"mcm","clk":"11947531765","pt":1724488670239,"mc":[{"id":"1.232082995","rc":[{"ltp":441.5,"id":15316}]}]}
+{"op":"mcm","clk":"11947554554","pt":1724488793382,"mc":[{"id":"1.232082995","rc":[{"ltp":442.5,"id":15316}]}]}
+{"op":"mcm","clk":"11947564350","pt":1724488854025,"mc":[{"id":"1.232082995","rc":[{"ltp":443.5,"id":15316}]}]}
+{"op":"mcm","clk":"11947572184","pt":1724488914109,"mc":[{"id":"1.232082995","rc":[{"ltp":442.5,"id":15316}]}]}
+{"op":"mcm","clk":"11947585731","pt":1724489033765,"mc":[{"id":"1.232082995","rc":[{"ltp":441.5,"id":15316}]}]}
+{"op":"mcm","clk":"11947592444","pt":1724489094059,"mc":[{"id":"1.232082995","rc":[{"ltp":440.5,"id":15316}]}]}
+{"op":"mcm","clk":"11947598919","pt":1724489153915,"mc":[{"id":"1.232082995","rc":[{"ltp":439.5,"id":15316}]}]}
+{"op":"mcm","clk":"11947605510","pt":1724489213278,"mc":[{"id":"1.232082995","rc":[{"ltp":443.5,"id":15316}]}]}
+{"op":"mcm","clk":"11947610441","pt":1724489260619,"mc":[{"id":"1.232082995","rc":[{"ltp":442.5,"id":15316}]}]}
+{"op":"mcm","clk":"11947647762","pt":1724489574022,"mc":[{"id":"1.232082995","rc":[{"ltp":443.5,"id":15316}]}]}
+{"op":"mcm","clk":"11947654172","pt":1724489633764,"mc":[{"id":"1.232082995","rc":[{"ltp":444.5,"id":15316}]}]}
+{"op":"mcm","clk":"11947660908","pt":1724489693942,"mc":[{"id":"1.232082995","rc":[{"ltp":445.5,"id":15316}]}]}
+{"op":"mcm","clk":"11947667836","pt":1724489753350,"mc":[{"id":"1.232082995","rc":[{"ltp":443.5,"id":15316}]}]}
+{"op":"mcm","clk":"11947674644","pt":1724489814101,"mc":[{"id":"1.232082995","rc":[{"ltp":442.5,"id":15316}]}]}
+{"op":"mcm","clk":"11947681294","pt":1724489873394,"mc":[{"id":"1.232082995","rc":[{"ltp":443.5,"id":15316}]}]}
+{"op":"mcm","clk":"11947688535","pt":1724489933562,"mc":[{"id":"1.232082995","rc":[{"ltp":444.5,"id":15316}]}]}
+{"op":"mcm","clk":"11947695791","pt":1724489993824,"mc":[{"id":"1.232082995","rc":[{"ltp":443.5,"id":15316}]}]}
+{"op":"mcm","clk":"11947704408","pt":1724490053918,"mc":[{"id":"1.232082995","rc":[{"ltp":444.5,"id":15316}]}]}
+{"op":"mcm","clk":"11947729315","pt":1724490232813,"mc":[{"id":"1.232082995","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33494708","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"B_1_INN_135_OVR_LINE","marketTime":"2024-08-24T04:45:00.000Z","suspendTime":"2024-08-24T04:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-24T09:03:41.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-24T04:45:00.000Z","version":6094128488,"name":"Bangladesh 1st Innings 135 Over Line","eventName":"Pakistan v Bangladesh"}}]}

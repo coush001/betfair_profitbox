@@ -1,0 +1,33 @@
+{"op":"mcm","clk":"11790109439","pt":1723031431474,"mc":[{"id":"1.231545990","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33475215","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_25_BALL_LINE","marketTime":"2024-08-09T17:30:00.000Z","suspendTime":"2024-08-09T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-09T17:30:00.000Z","version":6060589996,"name":"1st Innings 25 Balls Runs Line","eventName":"London Spirit v Manchester Originals"}}]}
+{"op":"mcm","clk":"11799827066","pt":1723188568063,"mc":[{"id":"1.231545990","rc":[{"ltp":34.5,"id":15316}]}]}
+{"op":"mcm","clk":"11801447475","pt":1723212683465,"mc":[{"id":"1.231545990","rc":[{"ltp":32.5,"id":15316}]}]}
+{"op":"mcm","clk":"11801857369","pt":1723218608672,"mc":[{"id":"1.231545990","rc":[{"ltp":33.5,"id":15316}]}]}
+{"op":"mcm","clk":"11802381956","pt":1723222827460,"mc":[{"id":"1.231545990","rc":[{"ltp":32.5,"id":15316}]}]}
+{"op":"mcm","clk":"11802390185","pt":1723222887655,"mc":[{"id":"1.231545990","rc":[{"ltp":33.5,"id":15316}]}]}
+{"op":"mcm","clk":"11802458656","pt":1723223306514,"mc":[{"id":"1.231545990","rc":[{"ltp":32.5,"id":15316}]}]}
+{"op":"mcm","clk":"11802515090","pt":1723223607804,"mc":[{"id":"1.231545990","rc":[{"ltp":33.5,"id":15316}]}]}
+{"op":"mcm","clk":"11802526486","pt":1723223667893,"mc":[{"id":"1.231545990","rc":[{"ltp":32.5,"id":15316}]}]}
+{"op":"mcm","clk":"11802569298","pt":1723223908309,"mc":[{"id":"1.231545990","rc":[{"ltp":33.5,"id":15316}]}]}
+{"op":"mcm","clk":"11802578694","pt":1723223968374,"mc":[{"id":"1.231545990","rc":[{"ltp":32.5,"id":15316}]}]}
+{"op":"mcm","clk":"11802587810","pt":1723224028354,"mc":[{"id":"1.231545990","rc":[{"ltp":33.5,"id":15316}]}]}
+{"op":"mcm","clk":"11802596936","pt":1723224088315,"mc":[{"id":"1.231545990","rc":[{"ltp":32.5,"id":15316}]}]}
+{"op":"mcm","clk":"11802616791","pt":1723224208194,"mc":[{"id":"1.231545990","rc":[{"ltp":33.5,"id":15316}]}]}
+{"op":"mcm","clk":"11802635460","pt":1723224324934,"mc":[{"id":"1.231545990","rc":[{"ltp":32.5,"id":15316}]}]}
+{"op":"mcm","clk":"11802645935","pt":1723224388017,"mc":[{"id":"1.231545990","rc":[{"ltp":33.5,"id":15316}]}]}
+{"op":"mcm","clk":"11802687198","pt":1723224628365,"mc":[{"id":"1.231545990","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33475215","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_25_BALL_LINE","marketTime":"2024-08-09T17:30:00.000Z","suspendTime":"2024-08-09T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-09T17:30:00.000Z","version":6063640984,"name":"1st Innings 25 Balls Runs Line","eventName":"London Spirit v Manchester Originals"},"rc":[{"ltp":32.5,"id":15316}]}]}
+{"op":"mcm","clk":"11802698805","pt":1723224688385,"mc":[{"id":"1.231545990","rc":[{"ltp":33.5,"id":15316}]}]}
+{"op":"mcm","clk":"11802722448","pt":1723224808412,"mc":[{"id":"1.231545990","rc":[{"ltp":31.5,"id":15316}]}]}
+{"op":"mcm","clk":"11802734274","pt":1723224868439,"mc":[{"id":"1.231545990","rc":[{"ltp":29.5,"id":15316}]}]}
+{"op":"mcm","clk":"11802746277","pt":1723224928404,"mc":[{"id":"1.231545990","rc":[{"ltp":25.5,"id":15316}]}]}
+{"op":"mcm","clk":"11802758023","pt":1723224988360,"mc":[{"id":"1.231545990","rc":[{"ltp":27.5,"id":15316}]}]}
+{"op":"mcm","clk":"11802780825","pt":1723225108407,"mc":[{"id":"1.231545990","rc":[{"ltp":26.5,"id":15316}]}]}
+{"op":"mcm","clk":"11802792101","pt":1723225168453,"mc":[{"id":"1.231545990","rc":[{"ltp":27.5,"id":15316}]}]}
+{"op":"mcm","clk":"11802804354","pt":1723225228349,"mc":[{"id":"1.231545990","rc":[{"ltp":26.5,"id":15316}]}]}
+{"op":"mcm","clk":"11802817111","pt":1723225288364,"mc":[{"id":"1.231545990","rc":[{"ltp":28.5,"id":15316}]}]}
+{"op":"mcm","clk":"11802856914","pt":1723225408364,"mc":[{"id":"1.231545990","rc":[{"ltp":29.5,"id":15316}]}]}
+{"op":"mcm","clk":"11802868711","pt":1723225468443,"mc":[{"id":"1.231545990","rc":[{"ltp":30.5,"id":15316}]}]}
+{"op":"mcm","clk":"11802880445","pt":1723225528430,"mc":[{"id":"1.231545990","rc":[{"ltp":29.5,"id":15316}]}]}
+{"op":"mcm","clk":"11802891764","pt":1723225588443,"mc":[{"id":"1.231545990","rc":[{"ltp":28.5,"id":15316}]}]}
+{"op":"mcm","clk":"11802902792","pt":1723225648419,"mc":[{"id":"1.231545990","rc":[{"ltp":27.5,"id":15316}]}]}
+{"op":"mcm","clk":"11802913229","pt":1723225708442,"mc":[{"id":"1.231545990","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33475215","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_25_BALL_LINE","marketTime":"2024-08-09T17:30:00.000Z","suspendTime":"2024-08-09T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-09T17:30:00.000Z","version":6063696183,"name":"1st Innings 25 Balls Runs Line","eventName":"London Spirit v Manchester Originals"},"rc":[{"ltp":26.5,"id":15316}]}]}
+{"op":"mcm","clk":"11802923060","pt":1723225768437,"mc":[{"id":"1.231545990","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33475215","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_25_BALL_LINE","marketTime":"2024-08-09T17:30:00.000Z","suspendTime":"2024-08-09T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-09T17:49:05.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-09T17:30:00.000Z","version":6063700511,"name":"1st Innings 25 Balls Runs Line","eventName":"London Spirit v Manchester Originals"}}]}

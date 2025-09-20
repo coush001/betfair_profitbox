@@ -1,0 +1,61 @@
+{"op":"mcm","clk":"11757025490","pt":1722448133181,"mc":[{"id":"1.231295014","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33458989","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-02T13:45:00.000Z","suspendTime":"2024-08-02T13:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-02T13:45:00.000Z","version":6049191365,"name":"Tied Match","eventName":"Tiruppur Tamizhans v Dindigul Dragons"}}]}
+{"op":"mcm","clk":"11761928019","pt":1722525547760,"mc":[{"id":"1.231295014","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33458989","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-02T13:45:00.000Z","suspendTime":"2024-08-02T13:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-02T13:45:00.000Z","version":6049191365,"name":"Tied Match","eventName":"Tiruppur Tamizhans v Dindigul Dragons"}}]}
+{"op":"mcm","clk":"11765950551","pt":1722595213996,"mc":[{"id":"1.231295014","rc":[{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11766111283","pt":1722599375106,"mc":[{"id":"1.231295014","rc":[{"ltp":50.0,"id":37302},{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11766323369","pt":1722605090587,"mc":[{"id":"1.231295014","rc":[{"ltp":90.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766384866","pt":1722606351170,"mc":[{"id":"1.231295014","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33458989","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-02T13:45:00.000Z","suspendTime":"2024-08-02T13:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-02T13:45:00.000Z","version":6051496766,"name":"Tied Match","eventName":"Tiruppur Tamizhans v Dindigul Dragons"}}]}
+{"op":"mcm","clk":"11766394030","pt":1722606530741,"mc":[{"id":"1.231295014","rc":[{"ltp":55.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766404604","pt":1722606770927,"mc":[{"id":"1.231295014","rc":[{"ltp":60.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766409505","pt":1722606891106,"mc":[{"id":"1.231295014","rc":[{"ltp":90.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766411931","pt":1722606951090,"mc":[{"id":"1.231295014","rc":[{"ltp":60.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766444791","pt":1722607666955,"mc":[{"id":"1.231295014","rc":[{"ltp":70.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766461881","pt":1722608031130,"mc":[{"id":"1.231295014","rc":[{"ltp":55.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766464116","pt":1722608090998,"mc":[{"id":"1.231295014","rc":[{"ltp":50.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766469858","pt":1722608211112,"mc":[{"id":"1.231295014","rc":[{"ltp":65.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766480476","pt":1722608451114,"mc":[{"id":"1.231295014","rc":[{"ltp":55.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766492669","pt":1722608691050,"mc":[{"id":"1.231295014","rc":[{"ltp":60.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766506611","pt":1722608930738,"mc":[{"id":"1.231295014","rc":[{"ltp":100.0,"id":37302},{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11766515890","pt":1722609111168,"mc":[{"id":"1.231295014","rc":[{"ltp":85.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766518964","pt":1722609171157,"mc":[{"id":"1.231295014","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11766522992","pt":1722609231083,"mc":[{"id":"1.231295014","rc":[{"ltp":65.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766539285","pt":1722609530950,"mc":[{"id":"1.231295014","rc":[{"ltp":140.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766553536","pt":1722609831031,"mc":[{"id":"1.231295014","rc":[{"ltp":100.0,"id":37302},{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11766581539","pt":1722610431119,"mc":[{"id":"1.231295014","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11766584631","pt":1722610491103,"mc":[{"id":"1.231295014","rc":[{"ltp":55.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766587478","pt":1722610551047,"mc":[{"id":"1.231295014","rc":[{"ltp":60.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766590155","pt":1722610611137,"mc":[{"id":"1.231295014","rc":[{"ltp":65.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766593260","pt":1722610670183,"mc":[{"id":"1.231295014","rc":[{"ltp":60.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766603735","pt":1722610851133,"mc":[{"id":"1.231295014","rc":[{"ltp":90.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766607270","pt":1722610910424,"mc":[{"id":"1.231295014","rc":[{"ltp":70.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766610783","pt":1722610971001,"mc":[{"id":"1.231295014","rc":[{"ltp":75.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766613946","pt":1722611027550,"mc":[{"id":"1.231295014","rc":[{"ltp":80.0,"id":37302},{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11766625749","pt":1722611210707,"mc":[{"id":"1.231295014","rc":[{"ltp":110.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766629681","pt":1722611270995,"mc":[{"id":"1.231295014","rc":[{"ltp":150.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766660427","pt":1722611630969,"mc":[{"id":"1.231295014","rc":[{"ltp":120.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766683960","pt":1722612051100,"mc":[{"id":"1.231295014","rc":[{"ltp":110.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766690590","pt":1722612171062,"mc":[{"id":"1.231295014","rc":[{"ltp":100.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766693843","pt":1722612231100,"mc":[{"id":"1.231295014","rc":[{"ltp":160.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766700886","pt":1722612351150,"mc":[{"id":"1.231295014","rc":[{"ltp":100.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766704005","pt":1722612405916,"mc":[{"id":"1.231295014","rc":[{"ltp":140.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766707030","pt":1722612461973,"mc":[{"id":"1.231295014","rc":[{"ltp":100.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766713401","pt":1722612588086,"mc":[{"id":"1.231295014","rc":[{"ltp":190.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766717402","pt":1722612650984,"mc":[{"id":"1.231295014","rc":[{"ltp":100.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766721067","pt":1722612708450,"mc":[{"id":"1.231295014","rc":[{"ltp":110.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766759445","pt":1722613251079,"mc":[{"id":"1.231295014","rc":[{"ltp":190.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766763648","pt":1722613310970,"mc":[{"id":"1.231295014","rc":[{"ltp":100.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766767755","pt":1722613371005,"mc":[{"id":"1.231295014","rc":[{"ltp":90.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766772237","pt":1722613430975,"mc":[{"id":"1.231295014","rc":[{"ltp":65.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766787326","pt":1722613671149,"mc":[{"id":"1.231295014","rc":[{"ltp":75.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766791038","pt":1722613730928,"mc":[{"id":"1.231295014","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11766794945","pt":1722613790981,"mc":[{"id":"1.231295014","rc":[{"ltp":60.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766811933","pt":1722614031116,"mc":[{"id":"1.231295014","rc":[{"ltp":110.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766816050","pt":1722614090990,"mc":[{"id":"1.231295014","rc":[{"ltp":170.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766825657","pt":1722614211033,"mc":[{"id":"1.231295014","rc":[{"ltp":75.0,"id":37302},{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11766829904","pt":1722614270988,"mc":[{"id":"1.231295014","rc":[{"ltp":70.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766855517","pt":1722614571003,"mc":[{"id":"1.231295014","rc":[{"ltp":150.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766861306","pt":1722614629969,"mc":[{"id":"1.231295014","rc":[{"ltp":160.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766873161","pt":1722614749878,"mc":[{"id":"1.231295014","rc":[{"ltp":300.0,"id":37302}]}]}
+{"op":"mcm","clk":"11766905541","pt":1722615048457,"mc":[{"id":"1.231295014","rc":[{"ltp":220.0,"id":37302}]}]}
+{"op":"mcm","clk":"11767045242","pt":1722616203439,"mc":[{"id":"1.231295014","rc":[{"ltp":300.0,"id":37302}]}]}
+{"op":"mcm","clk":"11767067104","pt":1722616370335,"mc":[{"id":"1.231295014","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33458989","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-02T13:45:00.000Z","suspendTime":"2024-08-02T13:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-02T13:45:00.000Z","version":6051705297,"name":"Tied Match","eventName":"Tiruppur Tamizhans v Dindigul Dragons"}}]}
+{"op":"mcm","clk":"11767089349","pt":1722616521544,"mc":[{"id":"1.231295014","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33458989","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-02T13:45:00.000Z","suspendTime":"2024-08-02T13:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2024-08-02T16:35:05.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":37302,"name":"Yes"},{"status":"WINNER","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-02T13:45:00.000Z","version":6051711013,"name":"Tied Match","eventName":"Tiruppur Tamizhans v Dindigul Dragons"}}]}

@@ -1,0 +1,35 @@
+{"op":"mcm","clk":"11872407789","pt":1723927518877,"mc":[{"id":"1.231946361","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33504088","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_25_BALL_LINE","marketTime":"2024-08-18T17:00:00.000Z","suspendTime":"2024-08-18T17:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-18T17:00:00.000Z","version":6081919843,"name":"1st Innings 25 Balls Runs Line","eventName":"Oval Invincibles v Southern Brave"}}]}
+{"op":"mcm","clk":"11875096281","pt":1723971462061,"mc":[{"id":"1.231946361","rc":[{"ltp":33.5,"id":15316}]}]}
+{"op":"mcm","clk":"11876894712","pt":1723987903512,"mc":[{"id":"1.231946361","rc":[{"ltp":31.5,"id":15316}]}]}
+{"op":"mcm","clk":"11877499216","pt":1723991467816,"mc":[{"id":"1.231946361","rc":[{"ltp":33.5,"id":15316}]}]}
+{"op":"mcm","clk":"11878431281","pt":1723997834783,"mc":[{"id":"1.231946361","rc":[{"ltp":32.5,"id":15316}]}]}
+{"op":"mcm","clk":"11878478972","pt":1723998230778,"mc":[{"id":"1.231946361","rc":[{"ltp":31.5,"id":15316}]}]}
+{"op":"mcm","clk":"11878506532","pt":1723998494699,"mc":[{"id":"1.231946361","rc":[{"ltp":32.5,"id":15316}]}]}
+{"op":"mcm","clk":"11878552427","pt":1723998856912,"mc":[{"id":"1.231946361","rc":[{"ltp":31.5,"id":15316}]}]}
+{"op":"mcm","clk":"11878603839","pt":1723999229922,"mc":[{"id":"1.231946361","rc":[{"ltp":32.5,"id":15316}]}]}
+{"op":"mcm","clk":"11878700216","pt":1723999818935,"mc":[{"id":"1.231946361","rc":[{"ltp":31.5,"id":15316}]}]}
+{"op":"mcm","clk":"11878718575","pt":1723999938853,"mc":[{"id":"1.231946361","rc":[{"ltp":32.5,"id":15316}]}]}
+{"op":"mcm","clk":"11878744747","pt":1724000118582,"mc":[{"id":"1.231946361","rc":[{"ltp":31.5,"id":15316}]}]}
+{"op":"mcm","clk":"11878752369","pt":1724000178856,"mc":[{"id":"1.231946361","rc":[{"ltp":32.5,"id":15316}]}]}
+{"op":"mcm","clk":"11878774178","pt":1724000358865,"mc":[{"id":"1.231946361","rc":[{"ltp":31.5,"id":15316}]}]}
+{"op":"mcm","clk":"11878782149","pt":1724000418972,"mc":[{"id":"1.231946361","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33504088","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_25_BALL_LINE","marketTime":"2024-08-18T17:00:00.000Z","suspendTime":"2024-08-18T17:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-18T17:00:00.000Z","version":6084537785,"name":"1st Innings 25 Balls Runs Line","eventName":"Oval Invincibles v Southern Brave"},"rc":[{"ltp":32.5,"id":15316}]}]}
+{"op":"mcm","clk":"11878808305","pt":1724000598961,"mc":[{"id":"1.231946361","rc":[{"ltp":31.5,"id":15316}]}]}
+{"op":"mcm","clk":"11878818053","pt":1724000658562,"mc":[{"id":"1.231946361","rc":[{"ltp":32.5,"id":15316}]}]}
+{"op":"mcm","clk":"11878888873","pt":1724001078924,"mc":[{"id":"1.231946361","rc":[{"ltp":31.5,"id":15316}]}]}
+{"op":"mcm","clk":"11878899188","pt":1724001138968,"mc":[{"id":"1.231946361","rc":[{"ltp":29.5,"id":15316}]}]}
+{"op":"mcm","clk":"11878910319","pt":1724001198945,"mc":[{"id":"1.231946361","rc":[{"ltp":28.5,"id":15316}]}]}
+{"op":"mcm","clk":"11878930544","pt":1724001318933,"mc":[{"id":"1.231946361","rc":[{"ltp":32.5,"id":15316}]}]}
+{"op":"mcm","clk":"11878940185","pt":1724001378872,"mc":[{"id":"1.231946361","rc":[{"ltp":34.5,"id":15316}]}]}
+{"op":"mcm","clk":"11878959120","pt":1724001498920,"mc":[{"id":"1.231946361","rc":[{"ltp":33.5,"id":15316}]}]}
+{"op":"mcm","clk":"11878968440","pt":1724001558904,"mc":[{"id":"1.231946361","rc":[{"ltp":34.5,"id":15316}]}]}
+{"op":"mcm","clk":"11878977647","pt":1724001618823,"mc":[{"id":"1.231946361","rc":[{"ltp":33.5,"id":15316}]}]}
+{"op":"mcm","clk":"11878986784","pt":1724001678953,"mc":[{"id":"1.231946361","rc":[{"ltp":32.5,"id":15316}]}]}
+{"op":"mcm","clk":"11879005533","pt":1724001798947,"mc":[{"id":"1.231946361","rc":[{"ltp":31.5,"id":15316}]}]}
+{"op":"mcm","clk":"11879014532","pt":1724001858919,"mc":[{"id":"1.231946361","rc":[{"ltp":34.5,"id":15316}]}]}
+{"op":"mcm","clk":"11879023680","pt":1724001918865,"mc":[{"id":"1.231946361","rc":[{"ltp":36.5,"id":15316}]}]}
+{"op":"mcm","clk":"11879033198","pt":1724001978973,"mc":[{"id":"1.231946361","rc":[{"ltp":43.5,"id":15316}]}]}
+{"op":"mcm","clk":"11879042896","pt":1724002038959,"mc":[{"id":"1.231946361","rc":[{"ltp":44.5,"id":15316}]}]}
+{"op":"mcm","clk":"11879061751","pt":1724002158949,"mc":[{"id":"1.231946361","rc":[{"ltp":40.5,"id":15316}]}]}
+{"op":"mcm","clk":"11879071309","pt":1724002218873,"mc":[{"id":"1.231946361","rc":[{"ltp":39.5,"id":15316}]}]}
+{"op":"mcm","clk":"11879098885","pt":1724002398924,"mc":[{"id":"1.231946361","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33504088","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_25_BALL_LINE","marketTime":"2024-08-18T17:00:00.000Z","suspendTime":"2024-08-18T17:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-18T17:00:00.000Z","version":6084664471,"name":"1st Innings 25 Balls Runs Line","eventName":"Oval Invincibles v Southern Brave"}}]}
+{"op":"mcm","clk":"11879108919","pt":1724002458731,"mc":[{"id":"1.231946361","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33504088","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_25_BALL_LINE","marketTime":"2024-08-18T17:00:00.000Z","suspendTime":"2024-08-18T17:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-18T17:33:45.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-18T17:00:00.000Z","version":6084668769,"name":"1st Innings 25 Balls Runs Line","eventName":"Oval Invincibles v Southern Brave"}}]}

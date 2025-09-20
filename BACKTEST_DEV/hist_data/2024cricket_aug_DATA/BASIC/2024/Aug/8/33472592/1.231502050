@@ -1,0 +1,45 @@
+{"op":"mcm","clk":"11822857671","pt":1722941798058,"mc":[{"id":"1.231502050","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33472592","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS_LO_TIE","marketTime":"2024-08-08T17:30:00.000Z","suspendTime":"2024-08-08T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":3,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":26354923,"name":"Oval Invincibles"},{"status":"ACTIVE","sortPriority":2,"id":26354926,"name":"Southern Brave"},{"status":"ACTIVE","sortPriority":3,"id":2312392,"name":"Tie"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-08T17:30:00.000Z","version":6059508253,"name":"Match Odds Including Tie","eventName":"Oval Invincibles v Southern Brave"}}]}
+{"op":"mcm","clk":"11832975014","pt":1723103790581,"mc":[{"id":"1.231502050","rc":[{"ltp":2.2,"id":26354926},{"ltp":1.92,"id":26354923}]}]}
+{"op":"mcm","clk":"11833947340","pt":1723122831636,"mc":[{"id":"1.231502050","rc":[{"ltp":1.93,"id":26354923}]}]}
+{"op":"mcm","clk":"11834268622","pt":1723128815858,"mc":[{"id":"1.231502050","rc":[{"ltp":1.92,"id":26354923}]}]}
+{"op":"mcm","clk":"11835028085","pt":1723136495496,"mc":[{"id":"1.231502050","rc":[{"ltp":38.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11835272459","pt":1723138115814,"mc":[{"id":"1.231502050","rc":[{"ltp":1.99,"id":26354923}]}]}
+{"op":"mcm","clk":"11835281331","pt":1723138175776,"mc":[{"id":"1.231502050","rc":[{"ltp":1.92,"id":26354923}]}]}
+{"op":"mcm","clk":"11835290422","pt":1723138235132,"mc":[{"id":"1.231502050","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33472592","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS_LO_TIE","marketTime":"2024-08-08T17:30:00.000Z","suspendTime":"2024-08-08T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":3,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":26354923,"name":"Oval Invincibles"},{"status":"ACTIVE","sortPriority":2,"id":26354926,"name":"Southern Brave"},{"status":"ACTIVE","sortPriority":3,"id":2312392,"name":"Tie"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-08T17:30:00.000Z","version":6062048304,"name":"Match Odds Including Tie","eventName":"Oval Invincibles v Southern Brave"}}]}
+{"op":"mcm","clk":"11835309224","pt":1723138355969,"mc":[{"id":"1.231502050","rc":[{"ltp":1.87,"id":26354923}]}]}
+{"op":"mcm","clk":"11835385519","pt":1723138835960,"mc":[{"id":"1.231502050","rc":[{"ltp":1.88,"id":26354923}]}]}
+{"op":"mcm","clk":"11835424074","pt":1723139075915,"mc":[{"id":"1.231502050","rc":[{"ltp":2.28,"id":26354926},{"ltp":36.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11835557074","pt":1723139975987,"mc":[{"id":"1.231502050","rc":[{"ltp":1.85,"id":26354923}]}]}
+{"op":"mcm","clk":"11835741655","pt":1723140995988,"mc":[{"id":"1.231502050","rc":[{"ltp":2.88,"id":26354926}]}]}
+{"op":"mcm","clk":"11835775833","pt":1723141176038,"mc":[{"id":"1.231502050","rc":[{"ltp":1.5,"id":26354923}]}]}
+{"op":"mcm","clk":"11835988481","pt":1723142376025,"mc":[{"id":"1.231502050","rc":[{"ltp":5.3,"id":26354926}]}]}
+{"op":"mcm","clk":"11836410207","pt":1723145315733,"mc":[{"id":"1.231502050","rc":[{"ltp":42.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11836515210","pt":1723146155954,"mc":[{"id":"1.231502050","rc":[{"ltp":4.1,"id":26354926}]}]}
+{"op":"mcm","clk":"11836536148","pt":1723146335957,"mc":[{"id":"1.231502050","rc":[{"ltp":1.25,"id":26354923}]}]}
+{"op":"mcm","clk":"11836551534","pt":1723146456008,"mc":[{"id":"1.231502050","rc":[{"ltp":4.8,"id":26354926}]}]}
+{"op":"mcm","clk":"11836563785","pt":1723146575985,"mc":[{"id":"1.231502050","rc":[{"ltp":4.3,"id":26354926},{"ltp":1.2,"id":26354923},{"ltp":50.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11836570554","pt":1723146635966,"mc":[{"id":"1.231502050","rc":[{"ltp":7.6,"id":26354926}]}]}
+{"op":"mcm","clk":"11836609865","pt":1723146996036,"mc":[{"id":"1.231502050","rc":[{"ltp":3.8,"id":26354926}]}]}
+{"op":"mcm","clk":"11836626415","pt":1723147175969,"mc":[{"id":"1.231502050","rc":[{"ltp":25.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11836631867","pt":1723147235956,"mc":[{"id":"1.231502050","rc":[{"ltp":21.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11836642862","pt":1723147355952,"mc":[{"id":"1.231502050","rc":[{"ltp":2.14,"id":26354923}]}]}
+{"op":"mcm","clk":"11836648476","pt":1723147416005,"mc":[{"id":"1.231502050","rc":[{"ltp":18.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11836653913","pt":1723147475989,"mc":[{"id":"1.231502050","rc":[{"ltp":1.96,"id":26354926},{"ltp":2.28,"id":26354923},{"ltp":20.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11836658724","pt":1723147535941,"mc":[{"id":"1.231502050","rc":[{"ltp":2.6,"id":26354923}]}]}
+{"op":"mcm","clk":"11836663801","pt":1723147595950,"mc":[{"id":"1.231502050","rc":[{"ltp":2.38,"id":26354926},{"ltp":21.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11836669294","pt":1723147656037,"mc":[{"id":"1.231502050","rc":[{"ltp":2.46,"id":26354926}]}]}
+{"op":"mcm","clk":"11836674268","pt":1723147716014,"mc":[{"id":"1.231502050","rc":[{"ltp":1.5,"id":26354923},{"ltp":23.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11836678913","pt":1723147775992,"mc":[{"id":"1.231502050","rc":[{"ltp":1.51,"id":26354923}]}]}
+{"op":"mcm","clk":"11836682655","pt":1723147835983,"mc":[{"id":"1.231502050","rc":[{"ltp":1.63,"id":26354923}]}]}
+{"op":"mcm","clk":"11836704700","pt":1723148016016,"mc":[{"id":"1.231502050","rc":[{"ltp":20.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11836710903","pt":1723148135946,"mc":[{"id":"1.231502050","rc":[{"ltp":3.6,"id":26354926}]}]}
+{"op":"mcm","clk":"11836719499","pt":1723148316000,"mc":[{"id":"1.231502050","rc":[{"ltp":5.3,"id":26354926}]}]}
+{"op":"mcm","clk":"11836728208","pt":1723148495982,"mc":[{"id":"1.231502050","rc":[{"ltp":6.4,"id":26354926}]}]}
+{"op":"mcm","clk":"11836731621","pt":1723148555936,"mc":[{"id":"1.231502050","rc":[{"ltp":1.15,"id":26354923}]}]}
+{"op":"mcm","clk":"11836734803","pt":1723148616026,"mc":[{"id":"1.231502050","rc":[{"ltp":1.1,"id":26354923}]}]}
+{"op":"mcm","clk":"11836737345","pt":1723148675855,"mc":[{"id":"1.231502050","rc":[{"ltp":36.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11836740539","pt":1723148736031,"mc":[{"id":"1.231502050","rc":[{"ltp":1.04,"id":26354923}]}]}
+{"op":"mcm","clk":"11836744036","pt":1723148796025,"mc":[{"id":"1.231502050","rc":[{"ltp":1.01,"id":26354923}]}]}
+{"op":"mcm","clk":"11836747791","pt":1723148855981,"mc":[{"id":"1.231502050","rc":[{"ltp":1.02,"id":26354923}]}]}
+{"op":"mcm","clk":"11836771701","pt":1723149395982,"mc":[{"id":"1.231502050","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33472592","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS_LO_TIE","marketTime":"2024-08-08T17:30:00.000Z","suspendTime":"2024-08-08T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":3,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":26354923,"name":"Oval Invincibles"},{"status":"ACTIVE","sortPriority":2,"id":26354926,"name":"Southern Brave"},{"status":"ACTIVE","sortPriority":3,"id":2312392,"name":"Tie"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-08T17:30:00.000Z","version":6062467898,"name":"Match Odds Including Tie","eventName":"Oval Invincibles v Southern Brave"}}]}
+{"op":"mcm","clk":"11836775442","pt":1723149494439,"mc":[{"id":"1.231502050","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33472592","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS_LO_TIE","marketTime":"2024-08-08T17:30:00.000Z","suspendTime":"2024-08-08T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2024-08-08T20:38:10.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":26354923,"name":"Oval Invincibles"},{"status":"LOSER","sortPriority":2,"id":26354926,"name":"Southern Brave"},{"status":"LOSER","sortPriority":3,"id":2312392,"name":"Tie"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-08T17:30:00.000Z","version":6062469338,"name":"Match Odds Including Tie","eventName":"Oval Invincibles v Southern Brave"}}]}

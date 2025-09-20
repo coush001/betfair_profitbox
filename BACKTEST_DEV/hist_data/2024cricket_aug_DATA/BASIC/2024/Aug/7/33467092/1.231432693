@@ -1,0 +1,43 @@
+{"op":"mcm","clk":"11780580316","pt":1722764272393,"mc":[{"id":"1.231432693","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33467092","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS_LO_TIE","marketTime":"2024-08-07T17:30:00.000Z","suspendTime":"2024-08-07T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":3,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":26354925,"name":"Trent Rockets"},{"status":"ACTIVE","sortPriority":2,"id":26354928,"name":"London Spirit"},{"status":"ACTIVE","sortPriority":3,"id":2312392,"name":"Tie"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-07T17:30:00.000Z","version":6056069453,"name":"Match Odds Including Tie","eventName":"Trent Rockets v London Spirit"}}]}
+{"op":"mcm","clk":"11797431762","pt":1723024530288,"mc":[{"id":"1.231432693","rc":[{"ltp":2.38,"id":26354928},{"ltp":1.81,"id":26354925}]}]}
+{"op":"mcm","clk":"11798582491","pt":1723038647774,"mc":[{"id":"1.231432693","rc":[{"ltp":42.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11798834285","pt":1723042120715,"mc":[{"id":"1.231432693","rc":[{"ltp":1.79,"id":26354925}]}]}
+{"op":"mcm","clk":"11799459931","pt":1723048461213,"mc":[{"id":"1.231432693","rc":[{"ltp":1.77,"id":26354925}]}]}
+{"op":"mcm","clk":"11799575582","pt":1723049749056,"mc":[{"id":"1.231432693","rc":[{"ltp":1.76,"id":26354925}]}]}
+{"op":"mcm","clk":"11799616394","pt":1723050230221,"mc":[{"id":"1.231432693","rc":[{"ltp":2.4,"id":26354928}]}]}
+{"op":"mcm","clk":"11799774242","pt":1723051850293,"mc":[{"id":"1.231432693","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33467092","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS_LO_TIE","marketTime":"2024-08-07T17:30:00.000Z","suspendTime":"2024-08-07T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":3,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":26354925,"name":"Trent Rockets"},{"status":"ACTIVE","sortPriority":2,"id":26354928,"name":"London Spirit"},{"status":"ACTIVE","sortPriority":3,"id":2312392,"name":"Tie"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-07T17:30:00.000Z","version":6060908932,"name":"Match Odds Including Tie","eventName":"Trent Rockets v London Spirit"}}]}
+{"op":"mcm","clk":"11799944564","pt":1723053290327,"mc":[{"id":"1.231432693","rc":[{"ltp":2.66,"id":26354928}]}]}
+{"op":"mcm","clk":"11799971461","pt":1723053530331,"mc":[{"id":"1.231432693","rc":[{"ltp":2.6,"id":26354928}]}]}
+{"op":"mcm","clk":"11799978572","pt":1723053590342,"mc":[{"id":"1.231432693","rc":[{"ltp":2.72,"id":26354928}]}]}
+{"op":"mcm","clk":"11800001086","pt":1723053770313,"mc":[{"id":"1.231432693","rc":[{"ltp":1.66,"id":26354925}]}]}
+{"op":"mcm","clk":"11800152884","pt":1723054730308,"mc":[{"id":"1.231432693","rc":[{"ltp":1.37,"id":26354925}]}]}
+{"op":"mcm","clk":"11800336680","pt":1723055990380,"mc":[{"id":"1.231432693","rc":[{"ltp":3.5,"id":26354928}]}]}
+{"op":"mcm","clk":"11800419927","pt":1723056530335,"mc":[{"id":"1.231432693","rc":[{"ltp":3.65,"id":26354928}]}]}
+{"op":"mcm","clk":"11800561348","pt":1723057610357,"mc":[{"id":"1.231432693","rc":[{"ltp":1.25,"id":26354925},{"ltp":50.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11800603362","pt":1723057910345,"mc":[{"id":"1.231432693","rc":[{"ltp":3.35,"id":26354928}]}]}
+{"op":"mcm","clk":"11800612041","pt":1723057970290,"mc":[{"id":"1.231432693","rc":[{"ltp":3.0,"id":26354928}]}]}
+{"op":"mcm","clk":"11800670699","pt":1723058390378,"mc":[{"id":"1.231432693","rc":[{"ltp":1.44,"id":26354925}]}]}
+{"op":"mcm","clk":"11800678086","pt":1723058450364,"mc":[{"id":"1.231432693","rc":[{"ltp":3.75,"id":26354928}]}]}
+{"op":"mcm","clk":"11800720238","pt":1723058810349,"mc":[{"id":"1.231432693","rc":[{"ltp":75.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11800727544","pt":1723058870313,"mc":[{"id":"1.231432693","rc":[{"ltp":80.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11800742235","pt":1723058990293,"mc":[{"id":"1.231432693","rc":[{"ltp":11.0,"id":26354928},{"ltp":1.12,"id":26354925}]}]}
+{"op":"mcm","clk":"11800899813","pt":1723060190344,"mc":[{"id":"1.231432693","rc":[{"ltp":3.2,"id":26354928}]}]}
+{"op":"mcm","clk":"11800906158","pt":1723060250314,"mc":[{"id":"1.231432693","rc":[{"ltp":3.35,"id":26354928}]}]}
+{"op":"mcm","clk":"11800918524","pt":1723060370349,"mc":[{"id":"1.231432693","rc":[{"ltp":2.7,"id":26354928},{"ltp":1.68,"id":26354925}]}]}
+{"op":"mcm","clk":"11800924731","pt":1723060430327,"mc":[{"id":"1.231432693","rc":[{"ltp":1.16,"id":26354925}]}]}
+{"op":"mcm","clk":"11800930725","pt":1723060490318,"mc":[{"id":"1.231432693","rc":[{"ltp":1.17,"id":26354925}]}]}
+{"op":"mcm","clk":"11800974355","pt":1723060970319,"mc":[{"id":"1.231432693","rc":[{"ltp":26.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11800985295","pt":1723061090348,"mc":[{"id":"1.231432693","rc":[{"ltp":25.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11801014072","pt":1723061390333,"mc":[{"id":"1.231432693","rc":[{"ltp":1.08,"id":26354925}]}]}
+{"op":"mcm","clk":"11801019747","pt":1723061450283,"mc":[{"id":"1.231432693","rc":[{"ltp":65.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11801025521","pt":1723061510261,"mc":[{"id":"1.231432693","rc":[{"ltp":6.0,"id":26354928},{"ltp":34.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11801030702","pt":1723061570287,"mc":[{"id":"1.231432693","rc":[{"ltp":42.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11801036314","pt":1723061630351,"mc":[{"id":"1.231432693","rc":[{"ltp":1.15,"id":26354925},{"ltp":26.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11801041487","pt":1723061690381,"mc":[{"id":"1.231432693","rc":[{"ltp":42.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11801046538","pt":1723061750259,"mc":[{"id":"1.231432693","rc":[{"ltp":9.0,"id":26354928},{"ltp":36.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11801051548","pt":1723061810340,"mc":[{"id":"1.231432693","rc":[{"ltp":34.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11801055866","pt":1723061870287,"mc":[{"id":"1.231432693","rc":[{"ltp":1.08,"id":26354925},{"ltp":40.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11801060441","pt":1723061930303,"mc":[{"id":"1.231432693","rc":[{"ltp":1.04,"id":26354925}]}]}
+{"op":"mcm","clk":"11801064988","pt":1723061990366,"mc":[{"id":"1.231432693","rc":[{"ltp":1.02,"id":26354925}]}]}
+{"op":"mcm","clk":"11801074352","pt":1723062106261,"mc":[{"id":"1.231432693","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33467092","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS_LO_TIE","marketTime":"2024-08-07T17:30:00.000Z","suspendTime":"2024-08-07T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":3,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":26354925,"name":"Trent Rockets"},{"status":"ACTIVE","sortPriority":2,"id":26354928,"name":"London Spirit"},{"status":"ACTIVE","sortPriority":3,"id":2312392,"name":"Tie"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-07T17:30:00.000Z","version":6061201687,"name":"Match Odds Including Tie","eventName":"Trent Rockets v London Spirit"}}]}
+{"op":"mcm","clk":"11801083269","pt":1723062220499,"mc":[{"id":"1.231432693","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33467092","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS_LO_TIE","marketTime":"2024-08-07T17:30:00.000Z","suspendTime":"2024-08-07T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2024-08-07T20:23:16.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":26354925,"name":"Trent Rockets"},{"status":"LOSER","sortPriority":2,"id":26354928,"name":"London Spirit"},{"status":"LOSER","sortPriority":3,"id":2312392,"name":"Tie"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-07T17:30:00.000Z","version":6061203815,"name":"Match Odds Including Tie","eventName":"Trent Rockets v London Spirit"}}]}

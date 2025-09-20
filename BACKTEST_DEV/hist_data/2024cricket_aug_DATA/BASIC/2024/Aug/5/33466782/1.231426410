@@ -1,0 +1,54 @@
+{"op":"mcm","clk":"11771402115","pt":1722755882835,"mc":[{"id":"1.231426410","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33466782","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_20_OVR_LINE","marketTime":"2024-08-05T20:00:00.000Z","suspendTime":"2024-08-05T20:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-05T20:00:00.000Z","version":6055950748,"name":"1st Innings 20 Overs Line","eventName":"Toronto Nationals v Montreal Tigers"}}]}
+{"op":"mcm","clk":"11781928101","pt":1722887754058,"mc":[{"id":"1.231426410","rc":[{"ltp":133.5,"id":15316}]}]}
+{"op":"mcm","clk":"11781935776","pt":1722887880783,"mc":[{"id":"1.231426410","rc":[{"ltp":132.5,"id":15316}]}]}
+{"op":"mcm","clk":"11781939550","pt":1722887940752,"mc":[{"id":"1.231426410","rc":[{"ltp":130.5,"id":15316}]}]}
+{"op":"mcm","clk":"11781942590","pt":1722888000339,"mc":[{"id":"1.231426410","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33466782","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_20_OVR_LINE","marketTime":"2024-08-05T20:00:00.000Z","suspendTime":"2024-08-05T20:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-05T20:00:00.000Z","version":6059015497,"name":"1st Innings 20 Overs Line","eventName":"Toronto Nationals v Montreal Tigers"},"rc":[{"ltp":132.5,"id":15316}]}]}
+{"op":"mcm","clk":"11781949478","pt":1722888120785,"mc":[{"id":"1.231426410","rc":[{"ltp":133.5,"id":15316}]}]}
+{"op":"mcm","clk":"11781953240","pt":1722888180698,"mc":[{"id":"1.231426410","rc":[{"ltp":125.5,"id":15316}]}]}
+{"op":"mcm","clk":"11781957237","pt":1722888240701,"mc":[{"id":"1.231426410","rc":[{"ltp":114.5,"id":15316}]}]}
+{"op":"mcm","clk":"11781961028","pt":1722888299782,"mc":[{"id":"1.231426410","rc":[{"ltp":115.5,"id":15316}]}]}
+{"op":"mcm","clk":"11781964880","pt":1722888360741,"mc":[{"id":"1.231426410","rc":[{"ltp":114.5,"id":15316}]}]}
+{"op":"mcm","clk":"11781969115","pt":1722888420809,"mc":[{"id":"1.231426410","rc":[{"ltp":113.5,"id":15316}]}]}
+{"op":"mcm","clk":"11781973010","pt":1722888480784,"mc":[{"id":"1.231426410","rc":[{"ltp":118.5,"id":15316}]}]}
+{"op":"mcm","clk":"11781980643","pt":1722888600139,"mc":[{"id":"1.231426410","rc":[{"ltp":117.5,"id":15316}]}]}
+{"op":"mcm","clk":"11781984460","pt":1722888660798,"mc":[{"id":"1.231426410","rc":[{"ltp":118.5,"id":15316}]}]}
+{"op":"mcm","clk":"11781988688","pt":1722888720755,"mc":[{"id":"1.231426410","rc":[{"ltp":110.5,"id":15316}]}]}
+{"op":"mcm","clk":"11781993378","pt":1722888780531,"mc":[{"id":"1.231426410","rc":[{"ltp":104.5,"id":15316}]}]}
+{"op":"mcm","clk":"11781998170","pt":1722888840809,"mc":[{"id":"1.231426410","rc":[{"ltp":108.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782003068","pt":1722888900759,"mc":[{"id":"1.231426410","rc":[{"ltp":97.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782008097","pt":1722888960626,"mc":[{"id":"1.231426410","rc":[{"ltp":93.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782012041","pt":1722889020619,"mc":[{"id":"1.231426410","rc":[{"ltp":91.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782020067","pt":1722889140817,"mc":[{"id":"1.231426410","rc":[{"ltp":88.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782023858","pt":1722889200497,"mc":[{"id":"1.231426410","rc":[{"ltp":90.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782027675","pt":1722889260482,"mc":[{"id":"1.231426410","rc":[{"ltp":85.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782031265","pt":1722889320735,"mc":[{"id":"1.231426410","rc":[{"ltp":73.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782035022","pt":1722889380807,"mc":[{"id":"1.231426410","rc":[{"ltp":67.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782041819","pt":1722889500723,"mc":[{"id":"1.231426410","rc":[{"ltp":56.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782045034","pt":1722889560824,"mc":[{"id":"1.231426410","rc":[{"ltp":57.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782048067","pt":1722889620179,"mc":[{"id":"1.231426410","rc":[{"ltp":56.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782051757","pt":1722889680747,"mc":[{"id":"1.231426410","rc":[{"ltp":59.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782055161","pt":1722889740792,"mc":[{"id":"1.231426410","rc":[{"ltp":62.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782061951","pt":1722889860756,"mc":[{"id":"1.231426410","rc":[{"ltp":68.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782065225","pt":1722889920714,"mc":[{"id":"1.231426410","rc":[{"ltp":60.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782068440","pt":1722889979959,"mc":[{"id":"1.231426410","rc":[{"ltp":51.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782071390","pt":1722890040270,"mc":[{"id":"1.231426410","rc":[{"ltp":48.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782074402","pt":1722890100359,"mc":[{"id":"1.231426410","rc":[{"ltp":50.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782083992","pt":1722890280214,"mc":[{"id":"1.231426410","rc":[{"ltp":55.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782086883","pt":1722890340265,"mc":[{"id":"1.231426410","rc":[{"ltp":56.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782089816","pt":1722890400246,"mc":[{"id":"1.231426410","rc":[{"ltp":59.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782092717","pt":1722890457512,"mc":[{"id":"1.231426410","rc":[{"ltp":62.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782117399","pt":1722890820692,"mc":[{"id":"1.231426410","rc":[{"ltp":63.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782120595","pt":1722890880454,"mc":[{"id":"1.231426410","rc":[{"ltp":64.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782123953","pt":1722890940753,"mc":[{"id":"1.231426410","rc":[{"ltp":66.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782129715","pt":1722891060799,"mc":[{"id":"1.231426410","rc":[{"ltp":58.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782132117","pt":1722891120370,"mc":[{"id":"1.231426410","rc":[{"ltp":55.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782134810","pt":1722891180736,"mc":[{"id":"1.231426410","rc":[{"ltp":59.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782137453","pt":1722891240695,"mc":[{"id":"1.231426410","rc":[{"ltp":60.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782142357","pt":1722891360321,"mc":[{"id":"1.231426410","rc":[{"ltp":62.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782145152","pt":1722891419794,"mc":[{"id":"1.231426410","rc":[{"ltp":61.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782147768","pt":1722891480073,"mc":[{"id":"1.231426410","rc":[{"ltp":62.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782150508","pt":1722891540615,"mc":[{"id":"1.231426410","rc":[{"ltp":65.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782152997","pt":1722891600710,"mc":[{"id":"1.231426410","rc":[{"ltp":57.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782158517","pt":1722891720741,"mc":[{"id":"1.231426410","rc":[{"ltp":52.5,"id":15316}]}]}
+{"op":"mcm","clk":"11782161331","pt":1722891780686,"mc":[{"id":"1.231426410","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33466782","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_20_OVR_LINE","marketTime":"2024-08-05T20:00:00.000Z","suspendTime":"2024-08-05T20:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-05T20:00:00.000Z","version":6059066963,"name":"1st Innings 20 Overs Line","eventName":"Toronto Nationals v Montreal Tigers"}}]}
+{"op":"mcm","clk":"11782168493","pt":1722891921591,"mc":[{"id":"1.231426410","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33466782","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_20_OVR_LINE","marketTime":"2024-08-05T20:00:00.000Z","suspendTime":"2024-08-05T20:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-05T21:05:17.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-05T20:00:00.000Z","version":6059069919,"name":"1st Innings 20 Overs Line","eventName":"Toronto Nationals v Montreal Tigers"}}]}

@@ -1,0 +1,42 @@
+{"op":"mcm","clk":"11771954517","pt":1722764138125,"mc":[{"id":"1.231432445","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33467052","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_50_BALL_LINE","marketTime":"2024-08-06T17:30:00.000Z","suspendTime":"2024-08-06T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-06T17:30:00.000Z","version":6056067809,"name":"1st Innings 50 Balls Runs Line","eventName":"Birmingham Phoenix v Northern Superchargers"}}]}
+{"op":"mcm","clk":"11785801048","pt":1722964236038,"mc":[{"id":"1.231432445","rc":[{"ltp":73.5,"id":15316}]}]}
+{"op":"mcm","clk":"11785831694","pt":1722964476059,"mc":[{"id":"1.231432445","rc":[{"ltp":68.5,"id":15316}]}]}
+{"op":"mcm","clk":"11785847971","pt":1722964595960,"mc":[{"id":"1.231432445","rc":[{"ltp":71.5,"id":15316}]}]}
+{"op":"mcm","clk":"11785876568","pt":1722964836067,"mc":[{"id":"1.231432445","rc":[{"ltp":68.5,"id":15316}]}]}
+{"op":"mcm","clk":"11785891804","pt":1722964955646,"mc":[{"id":"1.231432445","rc":[{"ltp":69.5,"id":15316}]}]}
+{"op":"mcm","clk":"11785899249","pt":1722965016035,"mc":[{"id":"1.231432445","rc":[{"ltp":70.5,"id":15316}]}]}
+{"op":"mcm","clk":"11785906665","pt":1722965075668,"mc":[{"id":"1.231432445","rc":[{"ltp":72.5,"id":15316}]}]}
+{"op":"mcm","clk":"11785929994","pt":1722965256079,"mc":[{"id":"1.231432445","rc":[{"ltp":71.5,"id":15316}]}]}
+{"op":"mcm","clk":"11785955409","pt":1722965435998,"mc":[{"id":"1.231432445","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33467052","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_50_BALL_LINE","marketTime":"2024-08-06T17:30:00.000Z","suspendTime":"2024-08-06T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-06T17:30:00.000Z","version":6059800865,"name":"1st Innings 50 Balls Runs Line","eventName":"Birmingham Phoenix v Northern Superchargers"}}]}
+{"op":"mcm","clk":"11785981077","pt":1722965616054,"mc":[{"id":"1.231432445","rc":[{"ltp":66.5,"id":15316}]}]}
+{"op":"mcm","clk":"11785989763","pt":1722965676034,"mc":[{"id":"1.231432445","rc":[{"ltp":60.5,"id":15316}]}]}
+{"op":"mcm","clk":"11785998413","pt":1722965736017,"mc":[{"id":"1.231432445","rc":[{"ltp":61.5,"id":15316}]}]}
+{"op":"mcm","clk":"11786007630","pt":1722965796059,"mc":[{"id":"1.231432445","rc":[{"ltp":60.5,"id":15316}]}]}
+{"op":"mcm","clk":"11786016958","pt":1722965856009,"mc":[{"id":"1.231432445","rc":[{"ltp":56.5,"id":15316}]}]}
+{"op":"mcm","clk":"11786026554","pt":1722965916067,"mc":[{"id":"1.231432445","rc":[{"ltp":59.5,"id":15316}]}]}
+{"op":"mcm","clk":"11786035039","pt":1722965976037,"mc":[{"id":"1.231432445","rc":[{"ltp":57.5,"id":15316}]}]}
+{"op":"mcm","clk":"11786043112","pt":1722966036058,"mc":[{"id":"1.231432445","rc":[{"ltp":62.5,"id":15316}]}]}
+{"op":"mcm","clk":"11786051496","pt":1722966096045,"mc":[{"id":"1.231432445","rc":[{"ltp":60.5,"id":15316}]}]}
+{"op":"mcm","clk":"11786059935","pt":1722966156074,"mc":[{"id":"1.231432445","rc":[{"ltp":61.5,"id":15316}]}]}
+{"op":"mcm","clk":"11786076876","pt":1722966216091,"mc":[{"id":"1.231432445","rc":[{"ltp":53.5,"id":15316}]}]}
+{"op":"mcm","clk":"11786095139","pt":1722966336060,"mc":[{"id":"1.231432445","rc":[{"ltp":55.5,"id":15316}]}]}
+{"op":"mcm","clk":"11786104488","pt":1722966396042,"mc":[{"id":"1.231432445","rc":[{"ltp":53.5,"id":15316}]}]}
+{"op":"mcm","clk":"11786122703","pt":1722966516084,"mc":[{"id":"1.231432445","rc":[{"ltp":50.5,"id":15316}]}]}
+{"op":"mcm","clk":"11786132091","pt":1722966576058,"mc":[{"id":"1.231432445","rc":[{"ltp":51.5,"id":15316}]}]}
+{"op":"mcm","clk":"11786140765","pt":1722966636018,"mc":[{"id":"1.231432445","rc":[{"ltp":52.5,"id":15316}]}]}
+{"op":"mcm","clk":"11786149931","pt":1722966696060,"mc":[{"id":"1.231432445","rc":[{"ltp":51.5,"id":15316}]}]}
+{"op":"mcm","clk":"11786159056","pt":1722966755949,"mc":[{"id":"1.231432445","rc":[{"ltp":48.5,"id":15316}]}]}
+{"op":"mcm","clk":"11786167437","pt":1722966816095,"mc":[{"id":"1.231432445","rc":[{"ltp":49.5,"id":15316}]}]}
+{"op":"mcm","clk":"11786174799","pt":1722966876066,"mc":[{"id":"1.231432445","rc":[{"ltp":52.5,"id":15316}]}]}
+{"op":"mcm","clk":"11786182689","pt":1722966936026,"mc":[{"id":"1.231432445","rc":[{"ltp":51.5,"id":15316}]}]}
+{"op":"mcm","clk":"11786190629","pt":1722966996026,"mc":[{"id":"1.231432445","rc":[{"ltp":49.5,"id":15316}]}]}
+{"op":"mcm","clk":"11786205213","pt":1722967115920,"mc":[{"id":"1.231432445","rc":[{"ltp":46.5,"id":15316}]}]}
+{"op":"mcm","clk":"11786212356","pt":1722967175828,"mc":[{"id":"1.231432445","rc":[{"ltp":47.5,"id":15316}]}]}
+{"op":"mcm","clk":"11786220097","pt":1722967236019,"mc":[{"id":"1.231432445","rc":[{"ltp":45.5,"id":15316}]}]}
+{"op":"mcm","clk":"11786227644","pt":1722967296080,"mc":[{"id":"1.231432445","rc":[{"ltp":43.5,"id":15316}]}]}
+{"op":"mcm","clk":"11786235333","pt":1722967356039,"mc":[{"id":"1.231432445","rc":[{"ltp":41.5,"id":15316}]}]}
+{"op":"mcm","clk":"11786242583","pt":1722967416057,"mc":[{"id":"1.231432445","rc":[{"ltp":38.5,"id":15316}]}]}
+{"op":"mcm","clk":"11786250238","pt":1722967476079,"mc":[{"id":"1.231432445","rc":[{"ltp":37.5,"id":15316}]}]}
+{"op":"mcm","clk":"11786258084","pt":1722967536057,"mc":[{"id":"1.231432445","rc":[{"ltp":36.5,"id":15316}]}]}
+{"op":"mcm","clk":"11786266562","pt":1722967596042,"mc":[{"id":"1.231432445","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33467052","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_50_BALL_LINE","marketTime":"2024-08-06T17:30:00.000Z","suspendTime":"2024-08-06T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-06T17:30:00.000Z","version":6059868649,"name":"1st Innings 50 Balls Runs Line","eventName":"Birmingham Phoenix v Northern Superchargers"}}]}
+{"op":"mcm","clk":"11786275193","pt":1722967656009,"mc":[{"id":"1.231432445","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33467052","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_50_BALL_LINE","marketTime":"2024-08-06T17:30:00.000Z","suspendTime":"2024-08-06T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-06T18:07:15.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-06T17:30:00.000Z","version":6059871225,"name":"1st Innings 50 Balls Runs Line","eventName":"Birmingham Phoenix v Northern Superchargers"}}]}

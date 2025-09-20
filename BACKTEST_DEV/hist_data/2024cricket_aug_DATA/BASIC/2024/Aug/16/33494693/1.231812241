@@ -1,0 +1,47 @@
+{"op":"mcm","clk":"11876645851","pt":1723644458135,"mc":[{"id":"1.231812241","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33494693","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_10_OVR_LINE","marketTime":"2024-08-16T10:00:00.000Z","suspendTime":"2024-08-16T03:42:04.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-16T10:00:00.000Z","version":6074331920,"name":"1st Innings 10 Overs Line","eventName":"Ireland Women v Sri Lanka Women"}}]}
+{"op":"mcm","clk":"11880044946","pt":1723689022870,"mc":[{"id":"1.231812241","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33494693","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_10_OVR_LINE","marketTime":"2024-08-16T09:45:00.000Z","suspendTime":"2024-08-16T09:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-16T09:45:00.000Z","version":6075330532,"name":"1st Innings 10 Overs Line","eventName":"Ireland Women v Sri Lanka Women"}}]}
+{"op":"mcm","clk":"11884341628","pt":1723744766393,"mc":[{"id":"1.231812241","rc":[{"ltp":21.5,"id":15316}]}]}
+{"op":"mcm","clk":"11884350280","pt":1723744824179,"mc":[{"id":"1.231812241","rc":[{"ltp":57.5,"id":15316}]}]}
+{"op":"mcm","clk":"11887916502","pt":1723788418783,"mc":[{"id":"1.231812241","rc":[{"ltp":23.5,"id":15316}]}]}
+{"op":"mcm","clk":"11887918464","pt":1723788512121,"mc":[{"id":"1.231812241","rc":[{"ltp":24.5,"id":15316}]}]}
+{"op":"mcm","clk":"11887919221","pt":1723788545190,"mc":[{"id":"1.231812241","rc":[{"ltp":56.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888612883","pt":1723801056048,"mc":[{"id":"1.231812241","rc":[{"ltp":44.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888622585","pt":1723801174206,"mc":[{"id":"1.231812241","rc":[{"ltp":45.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888633111","pt":1723801295668,"mc":[{"id":"1.231812241","rc":[{"ltp":44.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888638660","pt":1723801355839,"mc":[{"id":"1.231812241","rc":[{"ltp":45.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888668120","pt":1723801534672,"mc":[{"id":"1.231812241","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33494693","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_10_OVR_LINE","marketTime":"2024-08-16T09:45:00.000Z","suspendTime":"2024-08-16T09:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-16T09:45:00.000Z","version":6076612038,"name":"1st Innings 10 Overs Line","eventName":"Ireland Women v Sri Lanka Women"}}]}
+{"op":"mcm","clk":"11888691269","pt":1723801836074,"mc":[{"id":"1.231812241","rc":[{"ltp":44.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888695969","pt":1723801896074,"mc":[{"id":"1.231812241","rc":[{"ltp":43.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888700856","pt":1723801956076,"mc":[{"id":"1.231812241","rc":[{"ltp":41.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888710710","pt":1723802076005,"mc":[{"id":"1.231812241","rc":[{"ltp":40.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888721481","pt":1723802196110,"mc":[{"id":"1.231812241","rc":[{"ltp":38.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888732692","pt":1723802315899,"mc":[{"id":"1.231812241","rc":[{"ltp":37.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888744934","pt":1723802435857,"mc":[{"id":"1.231812241","rc":[{"ltp":35.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888756952","pt":1723802555976,"mc":[{"id":"1.231812241","rc":[{"ltp":34.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888762482","pt":1723802616066,"mc":[{"id":"1.231812241","rc":[{"ltp":33.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888768139","pt":1723802674319,"mc":[{"id":"1.231812241","rc":[{"ltp":32.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888774216","pt":1723802736114,"mc":[{"id":"1.231812241","rc":[{"ltp":35.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888779983","pt":1723802794006,"mc":[{"id":"1.231812241","rc":[{"ltp":36.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888786058","pt":1723802855959,"mc":[{"id":"1.231812241","rc":[{"ltp":35.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888791444","pt":1723802915844,"mc":[{"id":"1.231812241","rc":[{"ltp":34.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888797057","pt":1723802975779,"mc":[{"id":"1.231812241","rc":[{"ltp":35.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888802466","pt":1723803035599,"mc":[{"id":"1.231812241","rc":[{"ltp":34.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888813326","pt":1723803155946,"mc":[{"id":"1.231812241","rc":[{"ltp":33.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888818426","pt":1723803211205,"mc":[{"id":"1.231812241","rc":[{"ltp":34.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888824655","pt":1723803276034,"mc":[{"id":"1.231812241","rc":[{"ltp":33.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888830721","pt":1723803332907,"mc":[{"id":"1.231812241","rc":[{"ltp":37.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888837500","pt":1723803395957,"mc":[{"id":"1.231812241","rc":[{"ltp":40.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888843862","pt":1723803455848,"mc":[{"id":"1.231812241","rc":[{"ltp":44.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888850231","pt":1723803516037,"mc":[{"id":"1.231812241","rc":[{"ltp":43.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888865845","pt":1723803695419,"mc":[{"id":"1.231812241","rc":[{"ltp":45.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888871006","pt":1723803756062,"mc":[{"id":"1.231812241","rc":[{"ltp":43.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888876074","pt":1723803815739,"mc":[{"id":"1.231812241","rc":[{"ltp":42.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888881032","pt":1723803875835,"mc":[{"id":"1.231812241","rc":[{"ltp":41.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888886165","pt":1723803935688,"mc":[{"id":"1.231812241","rc":[{"ltp":40.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888891351","pt":1723803995972,"mc":[{"id":"1.231812241","rc":[{"ltp":43.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888896606","pt":1723804056037,"mc":[{"id":"1.231812241","rc":[{"ltp":46.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888901453","pt":1723804115637,"mc":[{"id":"1.231812241","rc":[{"ltp":45.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888906373","pt":1723804175311,"mc":[{"id":"1.231812241","rc":[{"ltp":46.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888916581","pt":1723804295230,"mc":[{"id":"1.231812241","rc":[{"ltp":49.5,"id":15316}]}]}
+{"op":"mcm","clk":"11888961542","pt":1723804775776,"mc":[{"id":"1.231812241","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33494693","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_10_OVR_LINE","marketTime":"2024-08-16T09:45:00.000Z","suspendTime":"2024-08-16T09:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-16T09:45:00.000Z","version":6076652772,"name":"1st Innings 10 Overs Line","eventName":"Ireland Women v Sri Lanka Women"}}]}
+{"op":"mcm","clk":"11888966542","pt":1723804835716,"mc":[{"id":"1.231812241","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33494693","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_10_OVR_LINE","marketTime":"2024-08-16T09:45:00.000Z","suspendTime":"2024-08-16T09:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-16T10:40:03.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-16T09:45:00.000Z","version":6076652816,"name":"1st Innings 10 Overs Line","eventName":"Ireland Women v Sri Lanka Women"}}]}

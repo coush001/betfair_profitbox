@@ -1,0 +1,46 @@
+{"op":"mcm","clk":"11945679234","pt":1724459457303,"mc":[{"id":"1.232209556","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33522302","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"COMPLETED_MATCH","marketTime":"2024-08-25T19:00:00.000Z","suspendTime":"2024-08-25T19:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-25T19:00:00.000Z","version":6093737331,"name":"Completed Match","eventName":"West Indies v South Africa"}}]}
+{"op":"mcm","clk":"11955568529","pt":1724534350583,"mc":[{"id":"1.232209556","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33522302","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"COMPLETED_MATCH","marketTime":"2024-08-25T19:00:00.000Z","suspendTime":"2024-08-25T19:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-25T19:00:00.000Z","version":6093737331,"name":"Completed Match","eventName":"West Indies v South Africa"}}]}
+{"op":"mcm","clk":"11962463943","pt":1724598527713,"mc":[{"id":"1.232209556","rc":[{"ltp":1.07,"id":37302}]}]}
+{"op":"mcm","clk":"11963664281","pt":1724603717924,"mc":[{"id":"1.232209556","rc":[{"ltp":1.05,"id":37302}]}]}
+{"op":"mcm","clk":"11963928780","pt":1724605164160,"mc":[{"id":"1.232209556","rc":[{"ltp":1.06,"id":37302},{"ltp":17.5,"id":37303}]}]}
+{"op":"mcm","clk":"11964014797","pt":1724605704138,"mc":[{"id":"1.232209556","rc":[{"ltp":1.07,"id":37302}]}]}
+{"op":"mcm","clk":"11964202251","pt":1724606629826,"mc":[{"id":"1.232209556","rc":[{"ltp":1.06,"id":37302}]}]}
+{"op":"mcm","clk":"11964225000","pt":1724606753760,"mc":[{"id":"1.232209556","rc":[{"ltp":1.04,"id":37302}]}]}
+{"op":"mcm","clk":"11964234261","pt":1724606803119,"mc":[{"id":"1.232209556","rc":[{"ltp":1.05,"id":37302}]}]}
+{"op":"mcm","clk":"11964309344","pt":1724607189544,"mc":[{"id":"1.232209556","rc":[{"ltp":1.04,"id":37302}]}]}
+{"op":"mcm","clk":"11964359722","pt":1724607430302,"mc":[{"id":"1.232209556","rc":[{"ltp":1.03,"id":37302}]}]}
+{"op":"mcm","clk":"11964420951","pt":1724607714071,"mc":[{"id":"1.232209556","rc":[{"ltp":1.04,"id":37302}]}]}
+{"op":"mcm","clk":"11964616043","pt":1724608768944,"mc":[{"id":"1.232209556","rc":[{"ltp":1.05,"id":37302}]}]}
+{"op":"mcm","clk":"11964660155","pt":1724609024193,"mc":[{"id":"1.232209556","rc":[{"ltp":1.02,"id":37302}]}]}
+{"op":"mcm","clk":"11964692912","pt":1724609203968,"mc":[{"id":"1.232209556","rc":[{"ltp":1.04,"id":37302}]}]}
+{"op":"mcm","clk":"11964726315","pt":1724609393433,"mc":[{"id":"1.232209556","rc":[{"ltp":1.03,"id":37302}]}]}
+{"op":"mcm","clk":"11964790890","pt":1724609753908,"mc":[{"id":"1.232209556","rc":[{"ltp":1.04,"id":37302}]}]}
+{"op":"mcm","clk":"11964801032","pt":1724609813647,"mc":[{"id":"1.232209556","rc":[{"ltp":1.03,"id":37302}]}]}
+{"op":"mcm","clk":"11964811089","pt":1724609874226,"mc":[{"id":"1.232209556","rc":[{"ltp":34.0,"id":37303}]}]}
+{"op":"mcm","clk":"11964820501","pt":1724609927666,"mc":[{"id":"1.232209556","rc":[{"ltp":1.05,"id":37302},{"ltp":21.0,"id":37303}]}]}
+{"op":"mcm","clk":"11964831825","pt":1724609993785,"mc":[{"id":"1.232209556","rc":[{"ltp":1.02,"id":37302}]}]}
+{"op":"mcm","clk":"11964844826","pt":1724610068733,"mc":[{"id":"1.232209556","rc":[{"ltp":1.03,"id":37302}]}]}
+{"op":"mcm","clk":"11964967977","pt":1724610832813,"mc":[{"id":"1.232209556","rc":[{"ltp":1.01,"id":37302}]}]}
+{"op":"mcm","clk":"11964999770","pt":1724611014178,"mc":[{"id":"1.232209556","rc":[{"ltp":1.03,"id":37302}]}]}
+{"op":"mcm","clk":"11965089760","pt":1724611421881,"mc":[{"id":"1.232209556","rc":[{"ltp":1.01,"id":37302}]}]}
+{"op":"mcm","clk":"11965103619","pt":1724611493895,"mc":[{"id":"1.232209556","rc":[{"ltp":1.04,"id":37302},{"ltp":26.0,"id":37303}]}]}
+{"op":"mcm","clk":"11965159877","pt":1724611792822,"mc":[{"id":"1.232209556","rc":[{"ltp":1.01,"id":37302},{"ltp":50.0,"id":37303}]}]}
+{"op":"mcm","clk":"11965168845","pt":1724611847254,"mc":[{"id":"1.232209556","rc":[{"ltp":100.0,"id":37303}]}]}
+{"op":"mcm","clk":"11965252030","pt":1724612394182,"mc":[{"id":"1.232209556","rc":[{"ltp":1.04,"id":37302}]}]}
+{"op":"mcm","clk":"11965262523","pt":1724612454298,"mc":[{"id":"1.232209556","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33522302","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"COMPLETED_MATCH","marketTime":"2024-08-25T19:00:00.000Z","suspendTime":"2024-08-25T19:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-25T19:00:00.000Z","version":6100143735,"name":"Completed Match","eventName":"West Indies v South Africa"}}]}
+{"op":"mcm","clk":"11965273605","pt":1724612514247,"mc":[{"id":"1.232209556","rc":[{"ltp":1.03,"id":37302}]}]}
+{"op":"mcm","clk":"11965284192","pt":1724612574047,"mc":[{"id":"1.232209556","rc":[{"ltp":1.01,"id":37302}]}]}
+{"op":"mcm","clk":"11965551554","pt":1724614074245,"mc":[{"id":"1.232209556","rc":[{"ltp":1.02,"id":37302},{"ltp":50.0,"id":37303}]}]}
+{"op":"mcm","clk":"11965585258","pt":1724614314278,"mc":[{"id":"1.232209556","rc":[{"ltp":1.03,"id":37302}]}]}
+{"op":"mcm","clk":"11965736181","pt":1724615394269,"mc":[{"id":"1.232209556","rc":[{"ltp":1.02,"id":37302}]}]}
+{"op":"mcm","clk":"11965770643","pt":1724615694232,"mc":[{"id":"1.232209556","rc":[{"ltp":1.03,"id":37302},{"ltp":34.0,"id":37303}]}]}
+{"op":"mcm","clk":"11965777050","pt":1724615754221,"mc":[{"id":"1.232209556","rc":[{"ltp":1.02,"id":37302},{"ltp":50.0,"id":37303}]}]}
+{"op":"mcm","clk":"11965814018","pt":1724616114225,"mc":[{"id":"1.232209556","rc":[{"ltp":1.01,"id":37302}]}]}
+{"op":"mcm","clk":"11966105314","pt":1724618573136,"mc":[{"id":"1.232209556","rc":[{"ltp":100.0,"id":37303}]}]}
+{"op":"mcm","clk":"11966110838","pt":1724618634277,"mc":[{"id":"1.232209556","rc":[{"ltp":1.04,"id":37302},{"ltp":34.0,"id":37303}]}]}
+{"op":"mcm","clk":"11966116375","pt":1724618694230,"mc":[{"id":"1.232209556","rc":[{"ltp":1.09,"id":37302},{"ltp":12.0,"id":37303}]}]}
+{"op":"mcm","clk":"11966121194","pt":1724618752742,"mc":[{"id":"1.232209556","rc":[{"ltp":11.0,"id":37303}]}]}
+{"op":"mcm","clk":"11966126598","pt":1724618814215,"mc":[{"id":"1.232209556","rc":[{"ltp":1.08,"id":37302}]}]}
+{"op":"mcm","clk":"11966131510","pt":1724618874082,"mc":[{"id":"1.232209556","rc":[{"ltp":1.01,"id":37302}]}]}
+{"op":"mcm","clk":"11966228988","pt":1724620194218,"mc":[{"id":"1.232209556","rc":[{"ltp":100.0,"id":37303}]}]}
+{"op":"mcm","clk":"11966374442","pt":1724622174097,"mc":[{"id":"1.232209556","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33522302","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"COMPLETED_MATCH","marketTime":"2024-08-25T19:00:00.000Z","suspendTime":"2024-08-25T19:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2024-08-25T21:42:41.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":37302,"name":"Yes"},{"status":"LOSER","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-25T19:00:00.000Z","version":6100653019,"name":"Completed Match","eventName":"West Indies v South Africa"}}]}

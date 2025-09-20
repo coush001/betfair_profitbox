@@ -1,0 +1,71 @@
+{"op":"mcm","clk":"11777158713","pt":1722333538282,"mc":[{"id":"1.231243116","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33455129","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_100_BALL_LINE","marketTime":"2024-08-02T14:00:00.000Z","suspendTime":"2024-08-02T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-02T14:00:00.000Z","version":6047222338,"name":"1st Innings 100 Balls Runs Line","eventName":"Oval Invincibles W v Northern Superchargers W"}}]}
+{"op":"mcm","clk":"11777175698","pt":1722333720636,"mc":[{"id":"1.231243116","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33455129","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_100_BALL_LINE","marketTime":"2024-08-02T12:00:00.000Z","suspendTime":"2024-08-02T12:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-02T12:00:00.000Z","version":6047223157,"name":"1st Innings 100 Balls Runs Line","eventName":"Oval Invincibles W v Northern Superchargers W"}}]}
+{"op":"mcm","clk":"11795433825","pt":1722597605907,"mc":[{"id":"1.231243116","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33455129","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_100_BALL_LINE","marketTime":"2024-08-02T14:00:00.000Z","suspendTime":"2024-08-02T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-02T14:00:00.000Z","version":6051332996,"name":"1st Innings 100 Balls Runs Line","eventName":"Oval Invincibles W v Northern Superchargers W"}}]}
+{"op":"mcm","clk":"11795937553","pt":1722603805966,"mc":[{"id":"1.231243116","rc":[{"ltp":136.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796078879","pt":1722605696104,"mc":[{"id":"1.231243116","rc":[{"ltp":127.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796102656","pt":1722605996071,"mc":[{"id":"1.231243116","rc":[{"ltp":125.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796114330","pt":1722606175769,"mc":[{"id":"1.231243116","rc":[{"ltp":124.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796117998","pt":1722606236262,"mc":[{"id":"1.231243116","rc":[{"ltp":123.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796129927","pt":1722606415760,"mc":[{"id":"1.231243116","rc":[{"ltp":124.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796142982","pt":1722606595951,"mc":[{"id":"1.231243116","rc":[{"ltp":125.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796167069","pt":1722606953108,"mc":[{"id":"1.231243116","rc":[{"ltp":126.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796170741","pt":1722607005949,"mc":[{"id":"1.231243116","rc":[{"ltp":125.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796175428","pt":1722607075405,"mc":[{"id":"1.231243116","rc":[{"ltp":126.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796179581","pt":1722607135280,"mc":[{"id":"1.231243116","rc":[{"ltp":125.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796188889","pt":1722607256145,"mc":[{"id":"1.231243116","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33455129","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_100_BALL_LINE","marketTime":"2024-08-02T14:00:00.000Z","suspendTime":"2024-08-02T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-02T14:00:00.000Z","version":6051504302,"name":"1st Innings 100 Balls Runs Line","eventName":"Oval Invincibles W v Northern Superchargers W"},"rc":[{"ltp":122.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796193346","pt":1722607316209,"mc":[{"id":"1.231243116","rc":[{"ltp":126.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796197746","pt":1722607376258,"mc":[{"id":"1.231243116","rc":[{"ltp":125.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796202354","pt":1722607436208,"mc":[{"id":"1.231243116","rc":[{"ltp":127.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796207024","pt":1722607495923,"mc":[{"id":"1.231243116","rc":[{"ltp":122.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796210937","pt":1722607556081,"mc":[{"id":"1.231243116","rc":[{"ltp":123.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796215176","pt":1722607616266,"mc":[{"id":"1.231243116","rc":[{"ltp":121.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796219327","pt":1722607676146,"mc":[{"id":"1.231243116","rc":[{"ltp":122.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796223820","pt":1722607736216,"mc":[{"id":"1.231243116","rc":[{"ltp":120.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796228528","pt":1722607796278,"mc":[{"id":"1.231243116","rc":[{"ltp":123.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796238626","pt":1722607916279,"mc":[{"id":"1.231243116","rc":[{"ltp":130.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796255020","pt":1722607976265,"mc":[{"id":"1.231243116","rc":[{"ltp":129.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796263620","pt":1722608096262,"mc":[{"id":"1.231243116","rc":[{"ltp":130.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796272829","pt":1722608216129,"mc":[{"id":"1.231243116","rc":[{"ltp":133.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796277925","pt":1722608276200,"mc":[{"id":"1.231243116","rc":[{"ltp":129.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796282855","pt":1722608336268,"mc":[{"id":"1.231243116","rc":[{"ltp":130.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796292547","pt":1722608456209,"mc":[{"id":"1.231243116","rc":[{"ltp":128.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796297452","pt":1722608516182,"mc":[{"id":"1.231243116","rc":[{"ltp":123.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796302562","pt":1722608576196,"mc":[{"id":"1.231243116","rc":[{"ltp":125.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796307771","pt":1722608636275,"mc":[{"id":"1.231243116","rc":[{"ltp":124.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796319231","pt":1722608756240,"mc":[{"id":"1.231243116","rc":[{"ltp":128.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796324120","pt":1722608816190,"mc":[{"id":"1.231243116","rc":[{"ltp":133.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796334173","pt":1722608936226,"mc":[{"id":"1.231243116","rc":[{"ltp":132.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796338937","pt":1722608996162,"mc":[{"id":"1.231243116","rc":[{"ltp":134.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796344103","pt":1722609056117,"mc":[{"id":"1.231243116","rc":[{"ltp":133.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796352930","pt":1722609176181,"mc":[{"id":"1.231243116","rc":[{"ltp":134.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796357891","pt":1722609236244,"mc":[{"id":"1.231243116","rc":[{"ltp":133.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796363068","pt":1722609296208,"mc":[{"id":"1.231243116","rc":[{"ltp":134.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796367584","pt":1722609356153,"mc":[{"id":"1.231243116","rc":[{"ltp":131.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796371989","pt":1722609416187,"mc":[{"id":"1.231243116","rc":[{"ltp":132.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796376458","pt":1722609476264,"mc":[{"id":"1.231243116","rc":[{"ltp":136.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796395957","pt":1722609776227,"mc":[{"id":"1.231243116","rc":[{"ltp":140.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796399897","pt":1722609836197,"mc":[{"id":"1.231243116","rc":[{"ltp":141.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796403570","pt":1722609896195,"mc":[{"id":"1.231243116","rc":[{"ltp":142.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796412030","pt":1722610016092,"mc":[{"id":"1.231243116","rc":[{"ltp":141.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796416229","pt":1722610076264,"mc":[{"id":"1.231243116","rc":[{"ltp":137.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796425338","pt":1722610196246,"mc":[{"id":"1.231243116","rc":[{"ltp":135.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796429769","pt":1722610256203,"mc":[{"id":"1.231243116","rc":[{"ltp":136.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796433919","pt":1722610316069,"mc":[{"id":"1.231243116","rc":[{"ltp":135.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796438102","pt":1722610376236,"mc":[{"id":"1.231243116","rc":[{"ltp":139.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796442466","pt":1722610436190,"mc":[{"id":"1.231243116","rc":[{"ltp":140.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796446757","pt":1722610496246,"mc":[{"id":"1.231243116","rc":[{"ltp":146.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796451109","pt":1722610556221,"mc":[{"id":"1.231243116","rc":[{"ltp":148.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796455028","pt":1722610616276,"mc":[{"id":"1.231243116","rc":[{"ltp":147.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796463578","pt":1722610736176,"mc":[{"id":"1.231243116","rc":[{"ltp":149.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796467914","pt":1722610796265,"mc":[{"id":"1.231243116","rc":[{"ltp":153.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796477333","pt":1722610916277,"mc":[{"id":"1.231243116","rc":[{"ltp":148.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796481729","pt":1722610976227,"mc":[{"id":"1.231243116","rc":[{"ltp":151.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796485912","pt":1722611036210,"mc":[{"id":"1.231243116","rc":[{"ltp":150.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796490837","pt":1722611096260,"mc":[{"id":"1.231243116","rc":[{"ltp":148.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796495594","pt":1722611156270,"mc":[{"id":"1.231243116","rc":[{"ltp":146.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796503985","pt":1722611276087,"mc":[{"id":"1.231243116","rc":[{"ltp":145.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796515790","pt":1722611456222,"mc":[{"id":"1.231243116","rc":[{"ltp":144.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796523641","pt":1722611576189,"mc":[{"id":"1.231243116","rc":[{"ltp":147.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796527910","pt":1722611636280,"mc":[{"id":"1.231243116","rc":[{"ltp":146.5,"id":15316}]}]}
+{"op":"mcm","clk":"11796536816","pt":1722611756257,"mc":[{"id":"1.231243116","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33455129","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_100_BALL_LINE","marketTime":"2024-08-02T14:00:00.000Z","suspendTime":"2024-08-02T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-02T14:00:00.000Z","version":6051575887,"name":"1st Innings 100 Balls Runs Line","eventName":"Oval Invincibles Women v Northern Superchargers Wo"}}]}
+{"op":"mcm","clk":"11796544435","pt":1722611876042,"mc":[{"id":"1.231243116","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33455129","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_100_BALL_LINE","marketTime":"2024-08-02T14:00:00.000Z","suspendTime":"2024-08-02T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-02T15:17:14.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-02T14:00:00.000Z","version":6051578706,"name":"1st Innings 100 Balls Runs Line","eventName":"Oval Invincibles Women v Northern Superchargers Wo"}}]}

@@ -1,0 +1,22 @@
+{"op":"mcm","clk":"11843752027","pt":1723743487647,"mc":[{"id":"1.231845622","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33477015","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"A_1_INN_5_OVR_LINE","marketTime":"2024-08-15T14:00:00.000Z","suspendTime":"2024-08-15T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-15T14:00:00.000Z","version":6075839281,"name":"West Indies 1st Innings 5 Over Line","eventName":"West Indies v South Africa"}}]}
+{"op":"mcm","clk":"11844347819","pt":1723748706891,"mc":[{"id":"1.231845622","rc":[{"ltp":10.5,"id":15316}]}]}
+{"op":"mcm","clk":"11844371390","pt":1723748946705,"mc":[{"id":"1.231845622","rc":[{"ltp":13.5,"id":15316}]}]}
+{"op":"mcm","clk":"11844430614","pt":1723749367553,"mc":[{"id":"1.231845622","rc":[{"ltp":11.5,"id":15316}]}]}
+{"op":"mcm","clk":"11844436649","pt":1723749427190,"mc":[{"id":"1.231845622","rc":[{"ltp":12.5,"id":15316}]}]}
+{"op":"mcm","clk":"11844441824","pt":1723749487338,"mc":[{"id":"1.231845622","rc":[{"ltp":13.5,"id":15316}]}]}
+{"op":"mcm","clk":"11844447229","pt":1723749547613,"mc":[{"id":"1.231845622","rc":[{"ltp":12.5,"id":15316}]}]}
+{"op":"mcm","clk":"11844452879","pt":1723749606868,"mc":[{"id":"1.231845622","rc":[{"ltp":13.5,"id":15316}]}]}
+{"op":"mcm","clk":"11844458394","pt":1723749667533,"mc":[{"id":"1.231845622","rc":[{"ltp":11.5,"id":15316}]}]}
+{"op":"mcm","clk":"11844464186","pt":1723749727469,"mc":[{"id":"1.231845622","rc":[{"ltp":12.5,"id":15316}]}]}
+{"op":"mcm","clk":"11844485401","pt":1723749967316,"mc":[{"id":"1.231845622","rc":[{"ltp":11.5,"id":15316}]}]}
+{"op":"mcm","clk":"11844490761","pt":1723750027383,"mc":[{"id":"1.231845622","rc":[{"ltp":10.5,"id":15316}]}]}
+{"op":"mcm","clk":"11844496250","pt":1723750087070,"mc":[{"id":"1.231845622","rc":[{"ltp":11.5,"id":15316}]}]}
+{"op":"mcm","clk":"11844501883","pt":1723750147646,"mc":[{"id":"1.231845622","rc":[{"ltp":8.5,"id":15316}]}]}
+{"op":"mcm","clk":"11844507941","pt":1723750207516,"mc":[{"id":"1.231845622","rc":[{"ltp":9.5,"id":15316}]}]}
+{"op":"mcm","clk":"11844519532","pt":1723750327410,"mc":[{"id":"1.231845622","rc":[{"ltp":7.5,"id":15316}]}]}
+{"op":"mcm","clk":"11844532733","pt":1723750447390,"mc":[{"id":"1.231845622","rc":[{"ltp":6.5,"id":15316}]}]}
+{"op":"mcm","clk":"11844538790","pt":1723750507636,"mc":[{"id":"1.231845622","rc":[{"ltp":7.5,"id":15316}]}]}
+{"op":"mcm","clk":"11844548452","pt":1723750627623,"mc":[{"id":"1.231845622","rc":[{"ltp":8.5,"id":15316}]}]}
+{"op":"mcm","clk":"11844565106","pt":1723750807567,"mc":[{"id":"1.231845622","rc":[{"ltp":9.5,"id":15316}]}]}
+{"op":"mcm","clk":"11844570680","pt":1723750867655,"mc":[{"id":"1.231845622","rc":[{"ltp":8.5,"id":15316}]}]}
+{"op":"mcm","clk":"11844581563","pt":1723750987663,"mc":[{"id":"1.231845622","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33477015","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"A_1_INN_5_OVR_LINE","marketTime":"2024-08-15T14:00:00.000Z","suspendTime":"2024-08-15T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-15T19:43:02.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-15T14:00:00.000Z","version":6076125819,"name":"West Indies 1st Innings 5 Over Line","eventName":"West Indies v South Africa"}}]}

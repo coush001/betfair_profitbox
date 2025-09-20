@@ -1,0 +1,57 @@
+{"op":"mcm","clk":"11742740173","pt":1722416209415,"mc":[{"id":"1.231282340","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33457836","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_20_OVR_LINE","marketTime":"2024-08-03T15:00:00.000Z","suspendTime":"2024-08-03T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-03T15:00:00.000Z","version":6048540594,"name":"1st Innings 20 Overs Line","eventName":"Brampton Wolves v Mississauga Bangla Tigers"}}]}
+{"op":"mcm","clk":"11766137260","pt":1722697246117,"mc":[{"id":"1.231282340","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33457836","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_20_OVR_LINE","marketTime":"2024-08-03T15:00:00.000Z","suspendTime":"2024-08-03T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-03T15:00:00.000Z","version":6053914219,"name":"1st Innings 20 Overs Line","eventName":"Brampton Wolves v Mississauga Bangla Tigers"}}]}
+{"op":"mcm","clk":"11766233755","pt":1722697724146,"mc":[{"id":"1.231282340","rc":[{"ltp":148.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766307427","pt":1722698064801,"mc":[{"id":"1.231282340","rc":[{"ltp":144.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766339027","pt":1722698207310,"mc":[{"id":"1.231282340","rc":[{"ltp":140.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766364697","pt":1722698326948,"mc":[{"id":"1.231282340","rc":[{"ltp":143.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766391035","pt":1722698447401,"mc":[{"id":"1.231282340","rc":[{"ltp":138.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766430353","pt":1722698627312,"mc":[{"id":"1.231282340","rc":[{"ltp":130.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766456760","pt":1722698747378,"mc":[{"id":"1.231282340","rc":[{"ltp":123.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766481382","pt":1722698867187,"mc":[{"id":"1.231282340","rc":[{"ltp":121.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766530028","pt":1722699107205,"mc":[{"id":"1.231282340","rc":[{"ltp":120.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766542785","pt":1722699167374,"mc":[{"id":"1.231282340","rc":[{"ltp":119.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766555489","pt":1722699227393,"mc":[{"id":"1.231282340","rc":[{"ltp":109.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766568297","pt":1722699287080,"mc":[{"id":"1.231282340","rc":[{"ltp":111.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766581342","pt":1722699347335,"mc":[{"id":"1.231282340","rc":[{"ltp":109.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766607424","pt":1722699467361,"mc":[{"id":"1.231282340","rc":[{"ltp":105.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766620012","pt":1722699527199,"mc":[{"id":"1.231282340","rc":[{"ltp":96.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766632930","pt":1722699587353,"mc":[{"id":"1.231282340","rc":[{"ltp":97.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766646149","pt":1722699647096,"mc":[{"id":"1.231282340","rc":[{"ltp":102.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766658486","pt":1722699707090,"mc":[{"id":"1.231282340","rc":[{"ltp":97.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766683340","pt":1722699827255,"mc":[{"id":"1.231282340","rc":[{"ltp":96.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766707236","pt":1722699947181,"mc":[{"id":"1.231282340","rc":[{"ltp":98.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766718148","pt":1722700006737,"mc":[{"id":"1.231282340","rc":[{"ltp":100.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766745624","pt":1722700187347,"mc":[{"id":"1.231282340","rc":[{"ltp":99.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766754106","pt":1722700247264,"mc":[{"id":"1.231282340","rc":[{"ltp":107.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766762983","pt":1722700307312,"mc":[{"id":"1.231282340","rc":[{"ltp":111.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766771136","pt":1722700367333,"mc":[{"id":"1.231282340","rc":[{"ltp":114.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766779124","pt":1722700426885,"mc":[{"id":"1.231282340","rc":[{"ltp":115.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766786834","pt":1722700487158,"mc":[{"id":"1.231282340","rc":[{"ltp":104.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766795412","pt":1722700547401,"mc":[{"id":"1.231282340","rc":[{"ltp":103.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766803058","pt":1722700607032,"mc":[{"id":"1.231282340","rc":[{"ltp":102.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766818839","pt":1722700727193,"mc":[{"id":"1.231282340","rc":[{"ltp":109.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766826894","pt":1722700787366,"mc":[{"id":"1.231282340","rc":[{"ltp":108.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766835405","pt":1722700847244,"mc":[{"id":"1.231282340","rc":[{"ltp":106.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766844114","pt":1722700907216,"mc":[{"id":"1.231282340","rc":[{"ltp":107.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766853770","pt":1722700967380,"mc":[{"id":"1.231282340","rc":[{"ltp":105.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766862818","pt":1722701027024,"mc":[{"id":"1.231282340","rc":[{"ltp":104.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766872058","pt":1722701087329,"mc":[{"id":"1.231282340","rc":[{"ltp":98.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766881347","pt":1722701147387,"mc":[{"id":"1.231282340","rc":[{"ltp":81.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766890176","pt":1722701206738,"mc":[{"id":"1.231282340","rc":[{"ltp":82.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766900220","pt":1722701267294,"mc":[{"id":"1.231282340","rc":[{"ltp":86.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766910279","pt":1722701327402,"mc":[{"id":"1.231282340","rc":[{"ltp":81.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766920567","pt":1722701387373,"mc":[{"id":"1.231282340","rc":[{"ltp":72.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766930855","pt":1722701447124,"mc":[{"id":"1.231282340","rc":[{"ltp":73.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766951043","pt":1722701567345,"mc":[{"id":"1.231282340","rc":[{"ltp":72.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766971352","pt":1722701627315,"mc":[{"id":"1.231282340","rc":[{"ltp":74.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766981158","pt":1722701687368,"mc":[{"id":"1.231282340","rc":[{"ltp":75.5,"id":15316}]}]}
+{"op":"mcm","clk":"11766991139","pt":1722701747147,"mc":[{"id":"1.231282340","rc":[{"ltp":77.5,"id":15316}]}]}
+{"op":"mcm","clk":"11767001020","pt":1722701806949,"mc":[{"id":"1.231282340","rc":[{"ltp":78.5,"id":15316}]}]}
+{"op":"mcm","clk":"11767011314","pt":1722701867396,"mc":[{"id":"1.231282340","rc":[{"ltp":80.5,"id":15316}]}]}
+{"op":"mcm","clk":"11767020486","pt":1722701927339,"mc":[{"id":"1.231282340","rc":[{"ltp":84.5,"id":15316}]}]}
+{"op":"mcm","clk":"11767030224","pt":1722701987315,"mc":[{"id":"1.231282340","rc":[{"ltp":79.5,"id":15316}]}]}
+{"op":"mcm","clk":"11767039976","pt":1722702047281,"mc":[{"id":"1.231282340","rc":[{"ltp":73.5,"id":15316}]}]}
+{"op":"mcm","clk":"11767049420","pt":1722702107309,"mc":[{"id":"1.231282340","rc":[{"ltp":81.5,"id":15316}]}]}
+{"op":"mcm","clk":"11767058126","pt":1722702167078,"mc":[{"id":"1.231282340","rc":[{"ltp":78.5,"id":15316}]}]}
+{"op":"mcm","clk":"11767066048","pt":1722702220342,"mc":[{"id":"1.231282340","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33457836","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_20_OVR_LINE","marketTime":"2024-08-03T15:00:00.000Z","suspendTime":"2024-08-03T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-03T15:00:00.000Z","version":6054334285,"name":"1st Innings 20 Overs Line","eventName":"Brampton Wolves v Mississauga Bangla Tigers"}}]}
+{"op":"mcm","clk":"11767084156","pt":1722702347023,"mc":[{"id":"1.231282340","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33457836","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_20_OVR_LINE","marketTime":"2024-08-03T15:00:00.000Z","suspendTime":"2024-08-03T15:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-03T16:25:13.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-03T15:00:00.000Z","version":6054340299,"name":"1st Innings 20 Overs Line","eventName":"Brampton Wolves v Mississauga Bangla Tigers"}}]}

@@ -1,0 +1,33 @@
+{"op":"mcm","clk":"11760663484","pt":1722505387958,"mc":[{"id":"1.231314283","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33460486","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"2_INN_25_BALL_LINE","marketTime":"2024-08-03T10:00:00.000Z","suspendTime":"2024-08-03T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-03T10:00:00.000Z","version":6050174847,"name":"2nd Innings 25 Balls Runs Line","eventName":"Birmingham Phoenix Women v Southern Brave Women"}}]}
+{"op":"mcm","clk":"11771844322","pt":1722679205776,"mc":[{"id":"1.231314283","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33460486","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"2_INN_25_BALL_LINE","marketTime":"2024-08-03T10:00:00.000Z","suspendTime":"2024-08-03T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-03T10:00:00.000Z","version":6052960495,"name":"2nd Innings 25 Balls Runs Line","eventName":"Birmingham Phoenix Women v Southern Brave Women"}}]}
+{"op":"mcm","clk":"11772254130","pt":1722682925884,"mc":[{"id":"1.231314283","rc":[{"ltp":25.5,"id":15316}]}]}
+{"op":"mcm","clk":"11772361608","pt":1722683765847,"mc":[{"id":"1.231314283","rc":[{"ltp":31.5,"id":15316}]}]}
+{"op":"mcm","clk":"11772370885","pt":1722683825848,"mc":[{"id":"1.231314283","rc":[{"ltp":33.5,"id":15316}]}]}
+{"op":"mcm","clk":"11772380030","pt":1722683885921,"mc":[{"id":"1.231314283","rc":[{"ltp":32.5,"id":15316}]}]}
+{"op":"mcm","clk":"11772388757","pt":1722683945581,"mc":[{"id":"1.231314283","rc":[{"ltp":33.5,"id":15316}]}]}
+{"op":"mcm","clk":"11772438633","pt":1722684305809,"mc":[{"id":"1.231314283","rc":[{"ltp":32.5,"id":15316}]}]}
+{"op":"mcm","clk":"11772446268","pt":1722684365774,"mc":[{"id":"1.231314283","rc":[{"ltp":33.5,"id":15316}]}]}
+{"op":"mcm","clk":"11772453577","pt":1722684425855,"mc":[{"id":"1.231314283","rc":[{"ltp":32.5,"id":15316}]}]}
+{"op":"mcm","clk":"11772460668","pt":1722684485877,"mc":[{"id":"1.231314283","rc":[{"ltp":33.5,"id":15316}]}]}
+{"op":"mcm","clk":"11772482100","pt":1722684665841,"mc":[{"id":"1.231314283","rc":[{"ltp":32.5,"id":15316}]}]}
+{"op":"mcm","clk":"11772488929","pt":1722684725906,"mc":[{"id":"1.231314283","rc":[{"ltp":33.5,"id":15316}]}]}
+{"op":"mcm","clk":"11772504493","pt":1722684845847,"mc":[{"id":"1.231314283","rc":[{"ltp":36.5,"id":15316}]}]}
+{"op":"mcm","clk":"11772512052","pt":1722684905884,"mc":[{"id":"1.231314283","rc":[{"ltp":38.5,"id":15316}]}]}
+{"op":"mcm","clk":"11772519779","pt":1722684965903,"mc":[{"id":"1.231314283","rc":[{"ltp":36.5,"id":15316}]}]}
+{"op":"mcm","clk":"11772527659","pt":1722685025850,"mc":[{"id":"1.231314283","rc":[{"ltp":37.5,"id":15316}]}]}
+{"op":"mcm","clk":"11772535349","pt":1722685085860,"mc":[{"id":"1.231314283","rc":[{"ltp":35.5,"id":15316}]}]}
+{"op":"mcm","clk":"11772543241","pt":1722685145882,"mc":[{"id":"1.231314283","rc":[{"ltp":34.5,"id":15316}]}]}
+{"op":"mcm","clk":"11772550781","pt":1722685205903,"mc":[{"id":"1.231314283","rc":[{"ltp":33.5,"id":15316}]}]}
+{"op":"mcm","clk":"11772558629","pt":1722685265844,"mc":[{"id":"1.231314283","rc":[{"ltp":31.5,"id":15316}]}]}
+{"op":"mcm","clk":"11772566913","pt":1722685325868,"mc":[{"id":"1.231314283","rc":[{"ltp":30.5,"id":15316}]}]}
+{"op":"mcm","clk":"11772583261","pt":1722685445864,"mc":[{"id":"1.231314283","rc":[{"ltp":31.5,"id":15316}]}]}
+{"op":"mcm","clk":"11772591740","pt":1722685505872,"mc":[{"id":"1.231314283","rc":[{"ltp":30.5,"id":15316}]}]}
+{"op":"mcm","clk":"11772600430","pt":1722685565919,"mc":[{"id":"1.231314283","rc":[{"ltp":28.5,"id":15316}]}]}
+{"op":"mcm","clk":"11772608877","pt":1722685625871,"mc":[{"id":"1.231314283","rc":[{"ltp":29.5,"id":15316}]}]}
+{"op":"mcm","clk":"11772616689","pt":1722685685931,"mc":[{"id":"1.231314283","rc":[{"ltp":28.5,"id":15316}]}]}
+{"op":"mcm","clk":"11772624907","pt":1722685745838,"mc":[{"id":"1.231314283","rc":[{"ltp":32.5,"id":15316}]}]}
+{"op":"mcm","clk":"11772632560","pt":1722685805906,"mc":[{"id":"1.231314283","rc":[{"ltp":31.5,"id":15316}]}]}
+{"op":"mcm","clk":"11772639976","pt":1722685865748,"mc":[{"id":"1.231314283","rc":[{"ltp":30.5,"id":15316}]}]}
+{"op":"mcm","clk":"11772653552","pt":1722685985851,"mc":[{"id":"1.231314283","rc":[{"ltp":35.5,"id":15316}]}]}
+{"op":"mcm","clk":"11772665911","pt":1722686105794,"mc":[{"id":"1.231314283","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33460486","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"2_INN_25_BALL_LINE","marketTime":"2024-08-03T10:00:00.000Z","suspendTime":"2024-08-03T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-03T10:00:00.000Z","version":6053204514,"name":"2nd Innings 25 Balls Runs Line","eventName":"Birmingham Phoenix Women v Southern Brave Women"}}]}
+{"op":"mcm","clk":"11772672276","pt":1722686165867,"mc":[{"id":"1.231314283","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33460486","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"2_INN_25_BALL_LINE","marketTime":"2024-08-03T10:00:00.000Z","suspendTime":"2024-08-03T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-03T11:55:23.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-03T10:00:00.000Z","version":6053206448,"name":"2nd Innings 25 Balls Runs Line","eventName":"Birmingham Phoenix Women v Southern Brave Women"}}]}

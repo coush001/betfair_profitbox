@@ -1,0 +1,28 @@
+{"op":"mcm","clk":"11954754455","pt":1724917380005,"mc":[{"id":"1.232419613","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33537100","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"2_INNING_10_OVR_LINE","marketTime":"2024-08-30T23:00:00.000Z","suspendTime":"2024-08-30T23:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-30T23:00:00.000Z","version":6106094333,"name":"2nd Innings 10 Overs Line","eventName":"Antigua And Barbuda Falcons v Guyana Amazon Warrio"}}]}
+{"op":"mcm","clk":"11969175311","pt":1725058857901,"mc":[{"id":"1.232419613","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33537100","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"2_INNING_10_OVR_LINE","marketTime":"2024-08-30T23:00:00.000Z","suspendTime":"2024-08-30T23:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-30T23:00:00.000Z","version":6109069052,"name":"2nd Innings 10 Overs Line","eventName":"Antigua And Barbuda Falcons v Guyana Amazon Warrio"}}]}
+{"op":"mcm","clk":"11969532745","pt":1725065637827,"mc":[{"id":"1.232419613","rc":[{"ltp":78.5,"id":15316}]}]}
+{"op":"mcm","clk":"11969535280","pt":1725065697897,"mc":[{"id":"1.232419613","rc":[{"ltp":74.5,"id":15316}]}]}
+{"op":"mcm","clk":"11969537799","pt":1725065757970,"mc":[{"id":"1.232419613","rc":[{"ltp":72.5,"id":15316}]}]}
+{"op":"mcm","clk":"11969543321","pt":1725065877912,"mc":[{"id":"1.232419613","rc":[{"ltp":79.5,"id":15316}]}]}
+{"op":"mcm","clk":"11969549399","pt":1725065997826,"mc":[{"id":"1.232419613","rc":[{"ltp":71.5,"id":15316}]}]}
+{"op":"mcm","clk":"11969552611","pt":1725066057973,"mc":[{"id":"1.232419613","rc":[{"ltp":74.5,"id":15316}]}]}
+{"op":"mcm","clk":"11969558626","pt":1725066177917,"mc":[{"id":"1.232419613","rc":[{"ltp":70.5,"id":15316}]}]}
+{"op":"mcm","clk":"11969571460","pt":1725066477908,"mc":[{"id":"1.232419613","rc":[{"ltp":67.5,"id":15316}]}]}
+{"op":"mcm","clk":"11969579695","pt":1725066657910,"mc":[{"id":"1.232419613","rc":[{"ltp":71.5,"id":15316}]}]}
+{"op":"mcm","clk":"11969585265","pt":1725066777972,"mc":[{"id":"1.232419613","rc":[{"ltp":88.5,"id":15316}]}]}
+{"op":"mcm","clk":"11969604484","pt":1725067197992,"mc":[{"id":"1.232419613","rc":[{"ltp":84.5,"id":15316}]}]}
+{"op":"mcm","clk":"11969613209","pt":1725067377907,"mc":[{"id":"1.232419613","rc":[{"ltp":71.5,"id":15316}]}]}
+{"op":"mcm","clk":"11969615945","pt":1725067437986,"mc":[{"id":"1.232419613","rc":[{"ltp":70.5,"id":15316}]}]}
+{"op":"mcm","clk":"11969618865","pt":1725067497766,"mc":[{"id":"1.232419613","rc":[{"ltp":74.5,"id":15316}]}]}
+{"op":"mcm","clk":"11969622009","pt":1725067557926,"mc":[{"id":"1.232419613","rc":[{"ltp":71.5,"id":15316}]}]}
+{"op":"mcm","clk":"11969631136","pt":1725067737930,"mc":[{"id":"1.232419613","rc":[{"ltp":70.5,"id":15316}]}]}
+{"op":"mcm","clk":"11969634127","pt":1725067797939,"mc":[{"id":"1.232419613","rc":[{"ltp":75.5,"id":15316}]}]}
+{"op":"mcm","clk":"11969637983","pt":1725067857916,"mc":[{"id":"1.232419613","rc":[{"ltp":77.5,"id":15316}]}]}
+{"op":"mcm","clk":"11969641383","pt":1725067917959,"mc":[{"id":"1.232419613","rc":[{"ltp":75.5,"id":15316}]}]}
+{"op":"mcm","clk":"11969644591","pt":1725067977929,"mc":[{"id":"1.232419613","rc":[{"ltp":73.5,"id":15316}]}]}
+{"op":"mcm","clk":"11969647671","pt":1725068037993,"mc":[{"id":"1.232419613","rc":[{"ltp":72.5,"id":15316}]}]}
+{"op":"mcm","clk":"11969650730","pt":1725068097971,"mc":[{"id":"1.232419613","rc":[{"ltp":73.5,"id":15316}]}]}
+{"op":"mcm","clk":"11969654123","pt":1725068157933,"mc":[{"id":"1.232419613","rc":[{"ltp":71.5,"id":15316}]}]}
+{"op":"mcm","clk":"11969660505","pt":1725068277960,"mc":[{"id":"1.232419613","rc":[{"ltp":69.5,"id":15316}]}]}
+{"op":"mcm","clk":"11969663734","pt":1725068337934,"mc":[{"id":"1.232419613","rc":[{"ltp":68.5,"id":15316}]}]}
+{"op":"mcm","clk":"11969705117","pt":1725068757990,"mc":[{"id":"1.232419613","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33537100","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"2_INNING_10_OVR_LINE","marketTime":"2024-08-30T23:00:00.000Z","suspendTime":"2024-08-30T23:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-31T01:45:15.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-30T23:00:00.000Z","version":6109202836,"name":"2nd Innings 10 Overs Line","eventName":"Antigua And Barbuda Falcons v Guyana Amazon Warrio"}}]}

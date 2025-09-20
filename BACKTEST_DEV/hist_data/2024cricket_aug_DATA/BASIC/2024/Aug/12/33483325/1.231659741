@@ -1,0 +1,26 @@
+{"op":"mcm","clk":"11819318076","pt":1723293576929,"mc":[{"id":"1.231659741","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33483325","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"2_INN_50_BALL_LINE","marketTime":"2024-08-12T14:00:00.000Z","suspendTime":"2024-08-12T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-12T14:00:00.000Z","version":6065767216,"name":"2nd Innings 50 Balls Runs Line","eventName":"Birmingham Phoenix Women v Trent Rockets Women"}}]}
+{"op":"mcm","clk":"11836998540","pt":1723471233852,"mc":[{"id":"1.231659741","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33483325","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"2_INN_50_BALL_LINE","marketTime":"2024-08-12T14:00:00.000Z","suspendTime":"2024-08-12T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-12T14:00:00.000Z","version":6071808858,"name":"2nd Innings 50 Balls Runs Line","eventName":"Birmingham Phoenix Women v Trent Rockets Women"}}]}
+{"op":"mcm","clk":"11837026416","pt":1723471893907,"mc":[{"id":"1.231659741","rc":[{"ltp":42.5,"id":15316}]}]}
+{"op":"mcm","clk":"11837028660","pt":1723471953855,"mc":[{"id":"1.231659741","rc":[{"ltp":68.5,"id":15316}]}]}
+{"op":"mcm","clk":"11837197611","pt":1723476333854,"mc":[{"id":"1.231659741","rc":[{"ltp":59.5,"id":15316}]}]}
+{"op":"mcm","clk":"11837205895","pt":1723476513903,"mc":[{"id":"1.231659741","rc":[{"ltp":67.5,"id":15316}]}]}
+{"op":"mcm","clk":"11837218939","pt":1723476813895,"mc":[{"id":"1.231659741","rc":[{"ltp":61.5,"id":15316}]}]}
+{"op":"mcm","clk":"11837221438","pt":1723476873821,"mc":[{"id":"1.231659741","rc":[{"ltp":58.5,"id":15316}]}]}
+{"op":"mcm","clk":"11837223833","pt":1723476933891,"mc":[{"id":"1.231659741","rc":[{"ltp":59.5,"id":15316}]}]}
+{"op":"mcm","clk":"11837228957","pt":1723477053831,"mc":[{"id":"1.231659741","rc":[{"ltp":58.5,"id":15316}]}]}
+{"op":"mcm","clk":"11837241622","pt":1723477353819,"mc":[{"id":"1.231659741","rc":[{"ltp":51.5,"id":15316}]}]}
+{"op":"mcm","clk":"11837243905","pt":1723477413899,"mc":[{"id":"1.231659741","rc":[{"ltp":53.5,"id":15316}]}]}
+{"op":"mcm","clk":"11837246556","pt":1723477473854,"mc":[{"id":"1.231659741","rc":[{"ltp":55.5,"id":15316}]}]}
+{"op":"mcm","clk":"11837249344","pt":1723477533829,"mc":[{"id":"1.231659741","rc":[{"ltp":54.5,"id":15316}]}]}
+{"op":"mcm","clk":"11837259932","pt":1723477773819,"mc":[{"id":"1.231659741","rc":[{"ltp":60.5,"id":15316}]}]}
+{"op":"mcm","clk":"11837262447","pt":1723477833820,"mc":[{"id":"1.231659741","rc":[{"ltp":59.5,"id":15316}]}]}
+{"op":"mcm","clk":"11837264906","pt":1723477893902,"mc":[{"id":"1.231659741","rc":[{"ltp":61.5,"id":15316}]}]}
+{"op":"mcm","clk":"11837267647","pt":1723477953865,"mc":[{"id":"1.231659741","rc":[{"ltp":59.5,"id":15316}]}]}
+{"op":"mcm","clk":"11837273162","pt":1723478073822,"mc":[{"id":"1.231659741","rc":[{"ltp":58.5,"id":15316}]}]}
+{"op":"mcm","clk":"11837282256","pt":1723478253509,"mc":[{"id":"1.231659741","rc":[{"ltp":59.5,"id":15316}]}]}
+{"op":"mcm","clk":"11837285617","pt":1723478313890,"mc":[{"id":"1.231659741","rc":[{"ltp":55.5,"id":15316}]}]}
+{"op":"mcm","clk":"11837289032","pt":1723478373738,"mc":[{"id":"1.231659741","rc":[{"ltp":56.5,"id":15316}]}]}
+{"op":"mcm","clk":"11837292659","pt":1723478433828,"mc":[{"id":"1.231659741","rc":[{"ltp":55.5,"id":15316}]}]}
+{"op":"mcm","clk":"11837296248","pt":1723478493898,"mc":[{"id":"1.231659741","rc":[{"ltp":56.5,"id":15316}]}]}
+{"op":"mcm","clk":"11837299038","pt":1723478553752,"mc":[{"id":"1.231659741","rc":[{"ltp":58.5,"id":15316}]}]}
+{"op":"mcm","clk":"11837302066","pt":1723478613880,"mc":[{"id":"1.231659741","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33483325","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"2_INN_50_BALL_LINE","marketTime":"2024-08-12T14:00:00.000Z","suspendTime":"2024-08-12T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-12T16:03:03.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-12T14:00:00.000Z","version":6071879293,"name":"2nd Innings 50 Balls Runs Line","eventName":"Birmingham Phoenix Women v Trent Rockets Women"}}]}

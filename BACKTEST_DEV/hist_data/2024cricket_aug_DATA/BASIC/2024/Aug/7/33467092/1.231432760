@@ -1,0 +1,48 @@
+{"op":"mcm","clk":"11780580316","pt":1722764272393,"mc":[{"id":"1.231432760","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33467092","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"2_INN_100_BALL_LINE","marketTime":"2024-08-07T17:30:00.000Z","suspendTime":"2024-08-07T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-07T17:30:00.000Z","version":6056069446,"name":"2nd Innings 100 Balls Runs Line","eventName":"Trent Rockets v London Spirit"}}]}
+{"op":"mcm","clk":"11799774242","pt":1723051850293,"mc":[{"id":"1.231432760","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33467092","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"2_INN_100_BALL_LINE","marketTime":"2024-08-07T17:30:00.000Z","suspendTime":"2024-08-07T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-07T17:30:00.000Z","version":6060908983,"name":"2nd Innings 100 Balls Runs Line","eventName":"Trent Rockets v London Spirit"}}]}
+{"op":"mcm","clk":"11799944564","pt":1723053290327,"mc":[{"id":"1.231432760","rc":[{"ltp":155.5,"id":15316}]}]}
+{"op":"mcm","clk":"11799957623","pt":1723053410288,"mc":[{"id":"1.231432760","rc":[{"ltp":150.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800043675","pt":1723054070302,"mc":[{"id":"1.231432760","rc":[{"ltp":149.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800125604","pt":1723054550350,"mc":[{"id":"1.231432760","rc":[{"ltp":152.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800143981","pt":1723054670360,"mc":[{"id":"1.231432760","rc":[{"ltp":154.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800152884","pt":1723054730308,"mc":[{"id":"1.231432760","rc":[{"ltp":163.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800161676","pt":1723054790298,"mc":[{"id":"1.231432760","rc":[{"ltp":169.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800170766","pt":1723054850377,"mc":[{"id":"1.231432760","rc":[{"ltp":170.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800179234","pt":1723054910071,"mc":[{"id":"1.231432760","rc":[{"ltp":153.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800419927","pt":1723056530335,"mc":[{"id":"1.231432760","rc":[{"ltp":149.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800428100","pt":1723056590375,"mc":[{"id":"1.231432760","rc":[{"ltp":146.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800435786","pt":1723056650364,"mc":[{"id":"1.231432760","rc":[{"ltp":149.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800444041","pt":1723056710326,"mc":[{"id":"1.231432760","rc":[{"ltp":150.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800452089","pt":1723056770296,"mc":[{"id":"1.231432760","rc":[{"ltp":149.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800503697","pt":1723057190320,"mc":[{"id":"1.231432760","rc":[{"ltp":146.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800519897","pt":1723057310178,"mc":[{"id":"1.231432760","rc":[{"ltp":144.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800528301","pt":1723057370251,"mc":[{"id":"1.231432760","rc":[{"ltp":146.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800544862","pt":1723057490334,"mc":[{"id":"1.231432760","rc":[{"ltp":133.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800553697","pt":1723057550315,"mc":[{"id":"1.231432760","rc":[{"ltp":147.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800569511","pt":1723057670299,"mc":[{"id":"1.231432760","rc":[{"ltp":149.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800603362","pt":1723057910345,"mc":[{"id":"1.231432760","rc":[{"ltp":150.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800620188","pt":1723058030379,"mc":[{"id":"1.231432760","rc":[{"ltp":154.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800727544","pt":1723058870313,"mc":[{"id":"1.231432760","rc":[{"ltp":131.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800742235","pt":1723058990293,"mc":[{"id":"1.231432760","rc":[{"ltp":135.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800756972","pt":1723059110361,"mc":[{"id":"1.231432760","rc":[{"ltp":114.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800802736","pt":1723059470337,"mc":[{"id":"1.231432760","rc":[{"ltp":135.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800827187","pt":1723059650312,"mc":[{"id":"1.231432760","rc":[{"ltp":150.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800893224","pt":1723060130356,"mc":[{"id":"1.231432760","rc":[{"ltp":152.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800924731","pt":1723060430327,"mc":[{"id":"1.231432760","rc":[{"ltp":143.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800936501","pt":1723060550312,"mc":[{"id":"1.231432760","rc":[{"ltp":149.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800942006","pt":1723060610266,"mc":[{"id":"1.231432760","rc":[{"ltp":145.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800947487","pt":1723060670184,"mc":[{"id":"1.231432760","rc":[{"ltp":148.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800962744","pt":1723060850322,"mc":[{"id":"1.231432760","rc":[{"ltp":156.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800968540","pt":1723060910300,"mc":[{"id":"1.231432760","rc":[{"ltp":150.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800980084","pt":1723061030184,"mc":[{"id":"1.231432760","rc":[{"ltp":154.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800990608","pt":1723061150380,"mc":[{"id":"1.231432760","rc":[{"ltp":151.5,"id":15316}]}]}
+{"op":"mcm","clk":"11800996517","pt":1723061210330,"mc":[{"id":"1.231432760","rc":[{"ltp":149.5,"id":15316}]}]}
+{"op":"mcm","clk":"11801002301","pt":1723061270293,"mc":[{"id":"1.231432760","rc":[{"ltp":151.5,"id":15316}]}]}
+{"op":"mcm","clk":"11801008090","pt":1723061330338,"mc":[{"id":"1.231432760","rc":[{"ltp":150.5,"id":15316}]}]}
+{"op":"mcm","clk":"11801014072","pt":1723061390333,"mc":[{"id":"1.231432760","rc":[{"ltp":152.5,"id":15316}]}]}
+{"op":"mcm","clk":"11801019747","pt":1723061450283,"mc":[{"id":"1.231432760","rc":[{"ltp":154.5,"id":15316}]}]}
+{"op":"mcm","clk":"11801036314","pt":1723061630351,"mc":[{"id":"1.231432760","rc":[{"ltp":155.5,"id":15316}]}]}
+{"op":"mcm","clk":"11801060441","pt":1723061930303,"mc":[{"id":"1.231432760","rc":[{"ltp":147.5,"id":15316}]}]}
+{"op":"mcm","clk":"11801064988","pt":1723061990366,"mc":[{"id":"1.231432760","rc":[{"ltp":148.5,"id":15316}]}]}
+{"op":"mcm","clk":"11801074352","pt":1723062106261,"mc":[{"id":"1.231432760","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33467092","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"2_INN_100_BALL_LINE","marketTime":"2024-08-07T17:30:00.000Z","suspendTime":"2024-08-07T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-07T17:30:00.000Z","version":6061201683,"name":"2nd Innings 100 Balls Runs Line","eventName":"Trent Rockets v London Spirit"},"rc":[{"ltp":144.5,"id":15316}]}]}
+{"op":"mcm","clk":"11801087406","pt":1723062279617,"mc":[{"id":"1.231432760","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33467092","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"2_INN_100_BALL_LINE","marketTime":"2024-08-07T17:30:00.000Z","suspendTime":"2024-08-07T17:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-07T20:24:19.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-07T17:30:00.000Z","version":6061204324,"name":"2nd Innings 100 Balls Runs Line","eventName":"Trent Rockets v London Spirit"}}]}

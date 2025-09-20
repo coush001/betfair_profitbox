@@ -1,0 +1,42 @@
+{"op":"mcm","clk":"11946637891","pt":1724794050819,"mc":[{"id":"1.232358073","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33527290","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNINGS_RUNS_LINE","marketTime":"2024-08-27T19:00:00.000Z","suspendTime":"2024-08-27T19:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-27T19:00:00.000Z","version":6104211250,"name":"1st Innings 13 Overs Line","eventName":"West Indies v South Africa"}}]}
+{"op":"mcm","clk":"11946663325","pt":1724794354166,"mc":[{"id":"1.232358073","rc":[{"ltp":99.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946668030","pt":1724794414134,"mc":[{"id":"1.232358073","rc":[{"ltp":97.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946672878","pt":1724794474255,"mc":[{"id":"1.232358073","rc":[{"ltp":95.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946677452","pt":1724794534231,"mc":[{"id":"1.232358073","rc":[{"ltp":88.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946682065","pt":1724794594170,"mc":[{"id":"1.232358073","rc":[{"ltp":86.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946686809","pt":1724794654255,"mc":[{"id":"1.232358073","rc":[{"ltp":91.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946691689","pt":1724794714236,"mc":[{"id":"1.232358073","rc":[{"ltp":93.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946696648","pt":1724794774174,"mc":[{"id":"1.232358073","rc":[{"ltp":94.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946701752","pt":1724794834230,"mc":[{"id":"1.232358073","rc":[{"ltp":92.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946706406","pt":1724794893904,"mc":[{"id":"1.232358073","rc":[{"ltp":93.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946710802","pt":1724794954216,"mc":[{"id":"1.232358073","rc":[{"ltp":95.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946715452","pt":1724795014217,"mc":[{"id":"1.232358073","rc":[{"ltp":99.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946719954","pt":1724795074182,"mc":[{"id":"1.232358073","rc":[{"ltp":98.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946724994","pt":1724795134201,"mc":[{"id":"1.232358073","rc":[{"ltp":97.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946730084","pt":1724795194257,"mc":[{"id":"1.232358073","rc":[{"ltp":100.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946735118","pt":1724795254143,"mc":[{"id":"1.232358073","rc":[{"ltp":101.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946740297","pt":1724795314035,"mc":[{"id":"1.232358073","rc":[{"ltp":106.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946745488","pt":1724795374187,"mc":[{"id":"1.232358073","rc":[{"ltp":108.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946750388","pt":1724795434099,"mc":[{"id":"1.232358073","rc":[{"ltp":107.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946755293","pt":1724795494262,"mc":[{"id":"1.232358073","rc":[{"ltp":102.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946759709","pt":1724795554247,"mc":[{"id":"1.232358073","rc":[{"ltp":103.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946764371","pt":1724795614106,"mc":[{"id":"1.232358073","rc":[{"ltp":106.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946768713","pt":1724795674211,"mc":[{"id":"1.232358073","rc":[{"ltp":102.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946773059","pt":1724795734094,"mc":[{"id":"1.232358073","rc":[{"ltp":100.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946777630","pt":1724795794252,"mc":[{"id":"1.232358073","rc":[{"ltp":101.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946782547","pt":1724795854184,"mc":[{"id":"1.232358073","rc":[{"ltp":100.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946786823","pt":1724795914258,"mc":[{"id":"1.232358073","rc":[{"ltp":98.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946791660","pt":1724795974209,"mc":[{"id":"1.232358073","rc":[{"ltp":96.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946796857","pt":1724796034261,"mc":[{"id":"1.232358073","rc":[{"ltp":103.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946801995","pt":1724796094215,"mc":[{"id":"1.232358073","rc":[{"ltp":106.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946812389","pt":1724796214252,"mc":[{"id":"1.232358073","rc":[{"ltp":107.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946817656","pt":1724796274255,"mc":[{"id":"1.232358073","rc":[{"ltp":103.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946822756","pt":1724796334156,"mc":[{"id":"1.232358073","rc":[{"ltp":105.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946827984","pt":1724796393908,"mc":[{"id":"1.232358073","rc":[{"ltp":104.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946833373","pt":1724796453814,"mc":[{"id":"1.232358073","rc":[{"ltp":106.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946838438","pt":1724796514164,"mc":[{"id":"1.232358073","rc":[{"ltp":111.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946843090","pt":1724796574234,"mc":[{"id":"1.232358073","rc":[{"ltp":110.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946848127","pt":1724796634266,"mc":[{"id":"1.232358073","rc":[{"ltp":109.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946852826","pt":1724796694249,"mc":[{"id":"1.232358073","rc":[{"ltp":108.5,"id":15316}]}]}
+{"op":"mcm","clk":"11946862404","pt":1724796814169,"mc":[{"id":"1.232358073","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33527290","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNINGS_RUNS_LINE","marketTime":"2024-08-27T19:00:00.000Z","suspendTime":"2024-08-27T19:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-27T19:00:00.000Z","version":6104252736,"name":"1st Innings 13 Overs Line","eventName":"West Indies v South Africa"}}]}
+{"op":"mcm","clk":"11946867236","pt":1724796872355,"mc":[{"id":"1.232358073","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33527290","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNINGS_RUNS_LINE","marketTime":"2024-08-27T19:00:00.000Z","suspendTime":"2024-08-27T19:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-27T22:13:46.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-27T19:00:00.000Z","version":6104253952,"name":"1st Innings 13 Overs Line","eventName":"West Indies v South Africa"}}]}

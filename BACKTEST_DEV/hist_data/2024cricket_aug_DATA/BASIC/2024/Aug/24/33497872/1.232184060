@@ -1,0 +1,38 @@
+{"op":"mcm","clk":"11908799637","pt":1724413449758,"mc":[{"id":"1.232184060","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33497872","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"B_2_INN_20_OVR_LINE","marketTime":"2024-08-23T10:00:00.000Z","suspendTime":"2024-08-23T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-23T10:00:00.000Z","version":6092146369,"name":"Sri Lanka 2nd Innings 20 Over Line","eventName":"England v Sri Lanka"}}]}
+{"op":"mcm","clk":"11909121220","pt":1724416450039,"mc":[{"id":"1.232184060","rc":[{"ltp":63.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909302260","pt":1724418310454,"mc":[{"id":"1.232184060","rc":[{"ltp":69.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909384146","pt":1724419137919,"mc":[{"id":"1.232184060","rc":[{"ltp":57.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909464430","pt":1724419930327,"mc":[{"id":"1.232184060","rc":[{"ltp":72.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909490679","pt":1724420170121,"mc":[{"id":"1.232184060","rc":[{"ltp":67.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909496715","pt":1724420229690,"mc":[{"id":"1.232184060","rc":[{"ltp":70.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909502797","pt":1724420286673,"mc":[{"id":"1.232184060","rc":[{"ltp":73.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909508949","pt":1724420350337,"mc":[{"id":"1.232184060","rc":[{"ltp":74.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909514865","pt":1724420409996,"mc":[{"id":"1.232184060","rc":[{"ltp":76.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909520286","pt":1724420470465,"mc":[{"id":"1.232184060","rc":[{"ltp":77.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909553042","pt":1724420650082,"mc":[{"id":"1.232184060","rc":[{"ltp":78.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909558285","pt":1724420709538,"mc":[{"id":"1.232184060","rc":[{"ltp":77.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909580887","pt":1724420950461,"mc":[{"id":"1.232184060","rc":[{"ltp":72.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909587237","pt":1724421010229,"mc":[{"id":"1.232184060","rc":[{"ltp":73.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909600266","pt":1724421130260,"mc":[{"id":"1.232184060","rc":[{"ltp":75.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909612778","pt":1724421250238,"mc":[{"id":"1.232184060","rc":[{"ltp":73.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909618773","pt":1724421310435,"mc":[{"id":"1.232184060","rc":[{"ltp":75.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909625705","pt":1724421370385,"mc":[{"id":"1.232184060","rc":[{"ltp":76.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909637849","pt":1724421489529,"mc":[{"id":"1.232184060","rc":[{"ltp":83.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909643513","pt":1724421550215,"mc":[{"id":"1.232184060","rc":[{"ltp":85.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909649494","pt":1724421610465,"mc":[{"id":"1.232184060","rc":[{"ltp":87.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909660412","pt":1724421729271,"mc":[{"id":"1.232184060","rc":[{"ltp":88.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909665905","pt":1724421790188,"mc":[{"id":"1.232184060","rc":[{"ltp":89.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909677978","pt":1724421909545,"mc":[{"id":"1.232184060","rc":[{"ltp":88.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909690050","pt":1724422030273,"mc":[{"id":"1.232184060","rc":[{"ltp":87.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909696283","pt":1724422090178,"mc":[{"id":"1.232184060","rc":[{"ltp":85.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909702440","pt":1724422149430,"mc":[{"id":"1.232184060","rc":[{"ltp":84.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909731322","pt":1724422450489,"mc":[{"id":"1.232184060","rc":[{"ltp":83.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909742320","pt":1724422570374,"mc":[{"id":"1.232184060","rc":[{"ltp":82.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909763164","pt":1724422810147,"mc":[{"id":"1.232184060","rc":[{"ltp":81.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909768768","pt":1724422869812,"mc":[{"id":"1.232184060","rc":[{"ltp":82.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909780616","pt":1724422990370,"mc":[{"id":"1.232184060","rc":[{"ltp":80.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909786245","pt":1724423050230,"mc":[{"id":"1.232184060","rc":[{"ltp":82.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909791861","pt":1724423110138,"mc":[{"id":"1.232184060","rc":[{"ltp":84.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909803395","pt":1724423230354,"mc":[{"id":"1.232184060","rc":[{"ltp":83.5,"id":15316}]}]}
+{"op":"mcm","clk":"11909822637","pt":1724423410081,"mc":[{"id":"1.232184060","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33497872","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"B_2_INN_20_OVR_LINE","marketTime":"2024-08-23T10:00:00.000Z","suspendTime":"2024-08-23T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-23T10:00:00.000Z","version":6092313329,"name":"Sri Lanka 2nd Innings 20 Over Line","eventName":"England v Sri Lanka"}}]}
+{"op":"mcm","clk":"11909835820","pt":1724423529458,"mc":[{"id":"1.232184060","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33497872","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"B_2_INN_20_OVR_LINE","marketTime":"2024-08-23T10:00:00.000Z","suspendTime":"2024-08-23T10:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-23T14:31:19.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-23T10:00:00.000Z","version":6092313846,"name":"Sri Lanka 2nd Innings 20 Over Line","eventName":"England v Sri Lanka"}}]}

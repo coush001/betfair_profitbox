@@ -1,0 +1,30 @@
+{"op":"mcm","clk":"11838972511","pt":1723659693518,"mc":[{"id":"1.231818135","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33495342","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_25_BALL_LINE","marketTime":"2024-08-17T13:15:00.000Z","suspendTime":"2024-08-17T13:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-17T13:15:00.000Z","version":6074812021,"name":"1st Innings 25 Balls Runs Line","eventName":"Oval Invincibles Women v London Spirit Women"}}]}
+{"op":"mcm","clk":"11845863400","pt":1723781326220,"mc":[{"id":"1.231818135","rc":[{"ltp":25.5,"id":15316}]}]}
+{"op":"mcm","clk":"11856198394","pt":1723893211188,"mc":[{"id":"1.231818135","rc":[{"ltp":29.5,"id":15316}]}]}
+{"op":"mcm","clk":"11856638362","pt":1723895339905,"mc":[{"id":"1.231818135","rc":[{"ltp":28.5,"id":15316}]}]}
+{"op":"mcm","clk":"11857336985","pt":1723899211168,"mc":[{"id":"1.231818135","rc":[{"ltp":29.5,"id":15316}]}]}
+{"op":"mcm","clk":"11857378061","pt":1723899450737,"mc":[{"id":"1.231818135","rc":[{"ltp":30.5,"id":15316}]}]}
+{"op":"mcm","clk":"11857398484","pt":1723899570740,"mc":[{"id":"1.231818135","rc":[{"ltp":29.5,"id":15316}]}]}
+{"op":"mcm","clk":"11857446654","pt":1723899811344,"mc":[{"id":"1.231818135","rc":[{"ltp":30.5,"id":15316}]}]}
+{"op":"mcm","clk":"11857459080","pt":1723899871429,"mc":[{"id":"1.231818135","rc":[{"ltp":29.5,"id":15316}]}]}
+{"op":"mcm","clk":"11857470870","pt":1723899926302,"mc":[{"id":"1.231818135","rc":[{"ltp":30.5,"id":15316}]}]}
+{"op":"mcm","clk":"11857485285","pt":1723899991495,"mc":[{"id":"1.231818135","rc":[{"ltp":29.5,"id":15316}]}]}
+{"op":"mcm","clk":"11857533420","pt":1723900231360,"mc":[{"id":"1.231818135","rc":[{"ltp":30.5,"id":15316}]}]}
+{"op":"mcm","clk":"11857545987","pt":1723900291219,"mc":[{"id":"1.231818135","rc":[{"ltp":29.5,"id":15316}]}]}
+{"op":"mcm","clk":"11857585286","pt":1723900410607,"mc":[{"id":"1.231818135","rc":[{"ltp":30.5,"id":15316}]}]}
+{"op":"mcm","clk":"11857597634","pt":1723900471161,"mc":[{"id":"1.231818135","rc":[{"ltp":29.5,"id":15316}]}]}
+{"op":"mcm","clk":"11857609816","pt":1723900531419,"mc":[{"id":"1.231818135","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33495342","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_25_BALL_LINE","marketTime":"2024-08-17T13:15:00.000Z","suspendTime":"2024-08-17T13:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-17T13:15:00.000Z","version":6079513394,"name":"1st Innings 25 Balls Runs Line","eventName":"Oval Invincibles Women v London Spirit Women"}}]}
+{"op":"mcm","clk":"11857622050","pt":1723900591264,"mc":[{"id":"1.231818135","rc":[{"ltp":30.5,"id":15316}]}]}
+{"op":"mcm","clk":"11857633031","pt":1723900651500,"mc":[{"id":"1.231818135","rc":[{"ltp":31.5,"id":15316}]}]}
+{"op":"mcm","clk":"11857643580","pt":1723900711412,"mc":[{"id":"1.231818135","rc":[{"ltp":29.5,"id":15316}]}]}
+{"op":"mcm","clk":"11857653459","pt":1723900771365,"mc":[{"id":"1.231818135","rc":[{"ltp":30.5,"id":15316}]}]}
+{"op":"mcm","clk":"11857674680","pt":1723900891496,"mc":[{"id":"1.231818135","rc":[{"ltp":35.5,"id":15316}]}]}
+{"op":"mcm","clk":"11857684880","pt":1723900951459,"mc":[{"id":"1.231818135","rc":[{"ltp":39.5,"id":15316}]}]}
+{"op":"mcm","clk":"11857695097","pt":1723901011482,"mc":[{"id":"1.231818135","rc":[{"ltp":35.5,"id":15316}]}]}
+{"op":"mcm","clk":"11857717112","pt":1723901131416,"mc":[{"id":"1.231818135","rc":[{"ltp":38.5,"id":15316}]}]}
+{"op":"mcm","clk":"11857728333","pt":1723901191398,"mc":[{"id":"1.231818135","rc":[{"ltp":36.5,"id":15316}]}]}
+{"op":"mcm","clk":"11857738782","pt":1723901251357,"mc":[{"id":"1.231818135","rc":[{"ltp":35.5,"id":15316}]}]}
+{"op":"mcm","clk":"11857759281","pt":1723901371458,"mc":[{"id":"1.231818135","rc":[{"ltp":37.5,"id":15316}]}]}
+{"op":"mcm","clk":"11857770464","pt":1723901431430,"mc":[{"id":"1.231818135","rc":[{"ltp":35.5,"id":15316}]}]}
+{"op":"mcm","clk":"11857792099","pt":1723901551423,"mc":[{"id":"1.231818135","rc":[{"ltp":34.5,"id":15316}]}]}
+{"op":"mcm","clk":"11857802412","pt":1723901611378,"mc":[{"id":"1.231818135","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33495342","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_25_BALL_LINE","marketTime":"2024-08-17T13:15:00.000Z","suspendTime":"2024-08-17T13:15:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-17T13:33:24.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-17T13:15:00.000Z","version":6079610373,"name":"1st Innings 25 Balls Runs Line","eventName":"Oval Invincibles Women v London Spirit Women"}}]}

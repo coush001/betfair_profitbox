@@ -1,0 +1,47 @@
+{"op":"mcm","clk":"11916065113","pt":1724473816258,"mc":[{"id":"1.232215549","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33522475","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-24T21:00:00.000Z","suspendTime":"2024-08-24T21:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-24T21:00:00.000Z","version":6093992527,"name":"Tied Match","eventName":"Grand Cayman Stingrays v Boca Raton Trailblazers"}}]}
+{"op":"mcm","clk":"11923214340","pt":1724521533964,"mc":[{"id":"1.232215549","rc":[{"ltp":50.0,"id":37302},{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11924755306","pt":1724531884887,"mc":[{"id":"1.232215549","rc":[{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11924763573","pt":1724531949148,"mc":[{"id":"1.232215549","rc":[{"ltp":60.0,"id":37302}]}]}
+{"op":"mcm","clk":"11924826740","pt":1724532550127,"mc":[{"id":"1.232215549","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11924875752","pt":1724533209965,"mc":[{"id":"1.232215549","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33522475","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-24T21:00:00.000Z","suspendTime":"2024-08-24T21:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-24T21:00:00.000Z","version":6097251092,"name":"Tied Match","eventName":"Grand Cayman Stingrays v Boca Raton Trailblazers"}}]}
+{"op":"mcm","clk":"11924905214","pt":1724533570093,"mc":[{"id":"1.232215549","rc":[{"ltp":55.0,"id":37302}]}]}
+{"op":"mcm","clk":"11924974934","pt":1724534169799,"mc":[{"id":"1.232215549","rc":[{"ltp":100.0,"id":37302}]}]}
+{"op":"mcm","clk":"11924980599","pt":1724534230218,"mc":[{"id":"1.232215549","rc":[{"ltp":50.0,"id":37302}]}]}
+{"op":"mcm","clk":"11925015999","pt":1724534590206,"mc":[{"id":"1.232215549","rc":[{"ltp":100.0,"id":37302}]}]}
+{"op":"mcm","clk":"11925040464","pt":1724534890166,"mc":[{"id":"1.232215549","rc":[{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11925049579","pt":1724535010103,"mc":[{"id":"1.232215549","rc":[{"ltp":70.0,"id":37302}]}]}
+{"op":"mcm","clk":"11925070121","pt":1724535250179,"mc":[{"id":"1.232215549","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11925084878","pt":1724535430152,"mc":[{"id":"1.232215549","rc":[{"ltp":75.0,"id":37302}]}]}
+{"op":"mcm","clk":"11925089269","pt":1724535488476,"mc":[{"id":"1.232215549","rc":[{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11925094078","pt":1724535550151,"mc":[{"id":"1.232215549","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11925103599","pt":1724535669169,"mc":[{"id":"1.232215549","rc":[{"ltp":50.0,"id":37302}]}]}
+{"op":"mcm","clk":"11925114207","pt":1724535790001,"mc":[{"id":"1.232215549","rc":[{"ltp":55.0,"id":37302}]}]}
+{"op":"mcm","clk":"11925119729","pt":1724535849571,"mc":[{"id":"1.232215549","rc":[{"ltp":40.0,"id":37302},{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11925125281","pt":1724535910139,"mc":[{"id":"1.232215549","rc":[{"ltp":80.0,"id":37302},{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11925130414","pt":1724535970037,"mc":[{"id":"1.232215549","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11925150312","pt":1724536210033,"mc":[{"id":"1.232215549","rc":[{"ltp":40.0,"id":37302}]}]}
+{"op":"mcm","clk":"11925154899","pt":1724536270021,"mc":[{"id":"1.232215549","rc":[{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11925167767","pt":1724536450180,"mc":[{"id":"1.232215549","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11925171571","pt":1724536509731,"mc":[{"id":"1.232215549","rc":[{"ltp":42.0,"id":37302}]}]}
+{"op":"mcm","clk":"11925175520","pt":1724536570207,"mc":[{"id":"1.232215549","rc":[{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11925179187","pt":1724536630168,"mc":[{"id":"1.232215549","rc":[{"ltp":50.0,"id":37302}]}]}
+{"op":"mcm","clk":"11925182459","pt":1724536689810,"mc":[{"id":"1.232215549","rc":[{"ltp":48.0,"id":37302}]}]}
+{"op":"mcm","clk":"11925196777","pt":1724536930043,"mc":[{"id":"1.232215549","rc":[{"ltp":42.0,"id":37302}]}]}
+{"op":"mcm","clk":"11925223591","pt":1724537410123,"mc":[{"id":"1.232215549","rc":[{"ltp":34.0,"id":37302}]}]}
+{"op":"mcm","clk":"11925237328","pt":1724537650130,"mc":[{"id":"1.232215549","rc":[{"ltp":36.0,"id":37302},{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11925243717","pt":1724537769842,"mc":[{"id":"1.232215549","rc":[{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11925247469","pt":1724537850251,"mc":[{"id":"1.232215549","rc":[{"ltp":34.0,"id":37302}]}]}
+{"op":"mcm","clk":"11925266813","pt":1724538250069,"mc":[{"id":"1.232215549","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11925269849","pt":1724538310228,"mc":[{"id":"1.232215549","rc":[{"ltp":38.0,"id":37302}]}]}
+{"op":"mcm","clk":"11925278786","pt":1724538489853,"mc":[{"id":"1.232215549","rc":[{"ltp":48.0,"id":37302},{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11925281709","pt":1724538550140,"mc":[{"id":"1.232215549","rc":[{"ltp":40.0,"id":37302}]}]}
+{"op":"mcm","clk":"11925288152","pt":1724538670149,"mc":[{"id":"1.232215549","rc":[{"ltp":36.0,"id":37302},{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11925291200","pt":1724538730193,"mc":[{"id":"1.232215549","rc":[{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11925294247","pt":1724538790162,"mc":[{"id":"1.232215549","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11925300409","pt":1724538909818,"mc":[{"id":"1.232215549","rc":[{"ltp":1.03,"id":37303}]}]}
+{"op":"mcm","clk":"11925306712","pt":1724539030125,"mc":[{"id":"1.232215549","rc":[{"ltp":55.0,"id":37302},{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11925309931","pt":1724539090216,"mc":[{"id":"1.232215549","rc":[{"ltp":1.02,"id":37303}]}]}
+{"op":"mcm","clk":"11925313163","pt":1724539150177,"mc":[{"id":"1.232215549","rc":[{"ltp":1.01,"id":37303}]}]}
+{"op":"mcm","clk":"11925319186","pt":1724539270203,"mc":[{"id":"1.232215549","rc":[{"ltp":100.0,"id":37302}]}]}
+{"op":"mcm","clk":"11925467252","pt":1724541666510,"mc":[{"id":"1.232215549","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33522475","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-24T21:00:00.000Z","suspendTime":"2024-08-24T21:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":2,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":37302,"name":"Yes"},{"status":"ACTIVE","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-24T21:00:00.000Z","version":6097460815,"name":"Tied Match","eventName":"Grand Cayman Stingrays v Boca Raton Trailblazers"}}]}
+{"op":"mcm","clk":"11925470188","pt":1724541717848,"mc":[{"id":"1.232215549","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33522475","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"TIED_MATCH","marketTime":"2024-08-24T21:00:00.000Z","suspendTime":"2024-08-24T21:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2024-08-24T23:21:35.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":37302,"name":"Yes"},{"status":"WINNER","sortPriority":2,"id":37303,"name":"No"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-24T21:00:00.000Z","version":6097461407,"name":"Tied Match","eventName":"Grand Cayman Stingrays v Boca Raton Trailblazers"}}]}

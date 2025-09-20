@@ -1,0 +1,128 @@
+{"asctime": "2025-09-03 13:46:45,637", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232019003", "price": 3.85, "event_name": "New York Strikers v Grand Cayman Stingrays", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:45,731", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232019003", "price": 4, "event_name": "New York Strikers v Grand Cayman Stingrays", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:45,737", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232019003", "price": 5.3, "event_name": "New York Strikers v Grand Cayman Stingrays", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:45,742", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232019003", "price": 5.3, "event_name": "New York Strikers v Grand Cayman Stingrays", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:45,765", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232019003", "price": 5.5, "event_name": "New York Strikers v Grand Cayman Stingrays", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:45,881", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232019003", "price": 6.4, "event_name": "New York Strikers v Grand Cayman Stingrays", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:46,001", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232019003", "price": 7.6, "event_name": "New York Strikers v Grand Cayman Stingrays", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:46,006", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232019003", "price": 7.6, "event_name": "New York Strikers v Grand Cayman Stingrays", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:46,014", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232019003", "price": 8, "event_name": "New York Strikers v Grand Cayman Stingrays", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:46,236", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232019003", "price": 6.2, "event_name": "New York Strikers v Grand Cayman Stingrays", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:46,263", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232019003", "price": 14.5, "event_name": "New York Strikers v Grand Cayman Stingrays", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:46,268", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232019003", "price": 14.5, "event_name": "New York Strikers v Grand Cayman Stingrays", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:46,296", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232019003", "price": 14.5, "event_name": "New York Strikers v Grand Cayman Stingrays", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:46,302", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232019003", "price": 14.5, "event_name": "New York Strikers v Grand Cayman Stingrays", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:46,311", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232019003", "price": 14.5, "event_name": "New York Strikers v Grand Cayman Stingrays", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:46,324", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232019003", "price": 15, "event_name": "New York Strikers v Grand Cayman Stingrays", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:46,336", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232019003", "price": 16, "event_name": "New York Strikers v Grand Cayman Stingrays", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:46,340", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232019003", "price": 17.5, "event_name": "New York Strikers v Grand Cayman Stingrays", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:46,345", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232019003", "price": 17.5, "event_name": "New York Strikers v Grand Cayman Stingrays", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:46,349", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232019003", "price": 17.5, "event_name": "New York Strikers v Grand Cayman Stingrays", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:46,425", "levelname": "INFO", "message": "", "evt": "MARKET_PNL", "event_name": "New York Strikers v Grand Cayman Stingrays", "market": "1.232019003", "sel": 67083366, "pnl": 23.67, "end": "\n\n", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:46,828", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 4.9, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:46,909", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 4.2, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:46,921", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 4.3, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:46,935", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 8, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:46,952", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 5.2, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:46,960", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 4.3, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:46,971", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 3.25, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:46,999", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 1.58, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,026", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 3.1, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,077", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 3.45, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,091", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 1.58, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,094", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 3.1, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,109", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 3, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,113", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 3.25, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,118", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 3.5, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,146", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 1.93, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,150", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 1.88, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,153", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 3, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,247", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 2.48, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,255", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 3, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,283", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 2.14, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,291", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 2.26, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,319", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 4.3, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,325", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 4.3, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,334", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 5, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,352", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 1.47, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,356", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 3.9, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,372", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 6.4, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,384", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 6.4, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,387", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 6.4, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,399", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 6.4, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,407", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 4.3, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,411", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 30, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,419", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 7.2, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,429", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 1.36, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,441", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 30, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,447", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 6, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,450", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 50, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,461", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 100, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,466", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 300, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,468", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 500, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,481", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 1000, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,486", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 1000, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,504", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 90, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,582", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 1000, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,590", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 17.5, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,595", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 17.5, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,603", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 17.5, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,614", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 14, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,622", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 17.5, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,630", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 17.5, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,636", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 17.5, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,649", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 17.5, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,674", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 17.5, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,677", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 16.5, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,689", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 9.8, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,781", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 17.5, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,807", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 300, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,811", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 500, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,818", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 21, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,826", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 27, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,829", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 27, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,841", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 24, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,858", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 21, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,862", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 270, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,866", "levelname": "INFO", "message": "", "PLACE ORDER": "1.231541189", "price": 1000, "event_name": "Munster Reds v Leinster Lightning", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,940", "levelname": "INFO", "message": "", "evt": "MARKET_PNL", "event_name": "Munster Reds v Leinster Lightning", "market": "1.231541189", "sel": 19587212, "pnl": -4.01, "end": "\n\n", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:47,941", "levelname": "INFO", "message": "", "evt": "MARKET_PNL", "event_name": "Munster Reds v Leinster Lightning", "market": "1.231541189", "sel": 19587555, "pnl": 0.0, "end": "\n\n", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:48,110", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 3.85, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:48,132", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 5.5, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:48,136", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 6, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:48,142", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 7.2, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:48,150", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 7.2, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:48,177", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 6.6, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:48,221", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 12, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:48,225", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 12, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:48,232", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 7.2, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:48,241", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 7.6, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:48,265", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 5.1, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:48,269", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 5, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:48,274", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 7.2, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:48,278", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 6.4, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:48,298", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 6, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:48,418", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 4, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:48,429", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 5, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:48,440", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 6, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:48,449", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 7, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:48,627", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 7.2, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:48,816", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 4.4, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:48,841", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 4.4, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:48,844", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 8.8, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:48,848", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 6.6, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:48,892", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 8.8, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:48,895", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 12, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:48,954", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 15, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:48,958", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 19.5, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:48,962", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 23, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:48,966", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 24, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:48,975", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 19.5, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:49,017", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 12.5, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:49,059", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 28, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:49,063", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 28, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:49,069", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 29, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:49,113", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 60, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:49,122", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 21, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:49,129", "levelname": "INFO", "message": "", "PLACE ORDER": "1.232245129", "price": 60, "event_name": "Caribbean Tigers v New York Strikers", "taskName": "Task-2"}
+{"asctime": "2025-09-03 13:46:49,200", "levelname": "INFO", "message": "", "evt": "MARKET_PNL", "event_name": "Caribbean Tigers v New York Strikers", "market": "1.232245129", "sel": 67083366, "pnl": 6.98, "end": "\n\n", "taskName": "Task-2"}

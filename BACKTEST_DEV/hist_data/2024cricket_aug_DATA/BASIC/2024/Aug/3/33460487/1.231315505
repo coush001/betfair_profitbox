@@ -1,0 +1,51 @@
+{"op":"mcm","clk":"11790001792","pt":1722507844655,"mc":[{"id":"1.231315505","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33460487","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS_LO_TIE","marketTime":"2024-08-03T13:30:00.000Z","suspendTime":"2024-08-03T13:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":3,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":26354921,"name":"Birmingham Phoenix"},{"status":"ACTIVE","sortPriority":2,"id":26354926,"name":"Southern Brave"},{"status":"ACTIVE","sortPriority":3,"id":2312392,"name":"Tie"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-03T13:30:00.000Z","version":6050191013,"name":"Match Odds Including Tie","eventName":"Birmingham Phoenix v Southern Brave"}}]}
+{"op":"mcm","clk":"11801295112","pt":1722674786093,"mc":[{"id":"1.231315505","rc":[{"ltp":1.89,"id":26354926}]}]}
+{"op":"mcm","clk":"11801642168","pt":1722678777214,"mc":[{"id":"1.231315505","rc":[{"ltp":1.88,"id":26354926}]}]}
+{"op":"mcm","clk":"11803262767","pt":1722689877286,"mc":[{"id":"1.231315505","rc":[{"ltp":50.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11803591555","pt":1722691801566,"mc":[{"id":"1.231315505","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33460487","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS_LO_TIE","marketTime":"2024-08-03T13:30:00.000Z","suspendTime":"2024-08-03T13:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":3,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":26354921,"name":"Birmingham Phoenix"},{"status":"ACTIVE","sortPriority":2,"id":26354926,"name":"Southern Brave"},{"status":"ACTIVE","sortPriority":3,"id":2312392,"name":"Tie"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-03T13:30:00.000Z","version":6053496665,"name":"Match Odds Including Tie","eventName":"Birmingham Phoenix v Southern Brave"}}]}
+{"op":"mcm","clk":"11803846710","pt":1722693301630,"mc":[{"id":"1.231315505","rc":[{"ltp":1.68,"id":26354926}]}]}
+{"op":"mcm","clk":"11803864979","pt":1722693421628,"mc":[{"id":"1.231315505","rc":[{"ltp":1.65,"id":26354926}]}]}
+{"op":"mcm","clk":"11803873222","pt":1722693481618,"mc":[{"id":"1.231315505","rc":[{"ltp":1.5,"id":26354926}]}]}
+{"op":"mcm","clk":"11803892221","pt":1722693601570,"mc":[{"id":"1.231315505","rc":[{"ltp":1.39,"id":26354926}]}]}
+{"op":"mcm","clk":"11804207325","pt":1722694681612,"mc":[{"id":"1.231315505","rc":[{"ltp":55.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11804224207","pt":1722694741560,"mc":[{"id":"1.231315505","rc":[{"ltp":1.32,"id":26354926}]}]}
+{"op":"mcm","clk":"11804240396","pt":1722694801550,"mc":[{"id":"1.231315505","rc":[{"ltp":1.35,"id":26354926},{"ltp":3.95,"id":26354921}]}]}
+{"op":"mcm","clk":"11804307940","pt":1722695041618,"mc":[{"id":"1.231315505","rc":[{"ltp":1.29,"id":26354926}]}]}
+{"op":"mcm","clk":"11804395541","pt":1722695341527,"mc":[{"id":"1.231315505","rc":[{"ltp":4.0,"id":26354921}]}]}
+{"op":"mcm","clk":"11804720279","pt":1722696421033,"mc":[{"id":"1.231315505","rc":[{"ltp":1.42,"id":26354926}]}]}
+{"op":"mcm","clk":"11804733037","pt":1722696473103,"mc":[{"id":"1.231315505","rc":[{"ltp":75.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11804820164","pt":1722696961574,"mc":[{"id":"1.231315505","rc":[{"ltp":3.0,"id":26354921}]}]}
+{"op":"mcm","clk":"11804829356","pt":1722697021531,"mc":[{"id":"1.231315505","rc":[{"ltp":2.66,"id":26354921}]}]}
+{"op":"mcm","clk":"11804849019","pt":1722697141579,"mc":[{"id":"1.231315505","rc":[{"ltp":2.38,"id":26354921}]}]}
+{"op":"mcm","clk":"11804886894","pt":1722697321614,"mc":[{"id":"1.231315505","rc":[{"ltp":2.28,"id":26354921}]}]}
+{"op":"mcm","clk":"11804917065","pt":1722697441607,"mc":[{"id":"1.231315505","rc":[{"ltp":2.7,"id":26354921}]}]}
+{"op":"mcm","clk":"11804933588","pt":1722697501550,"mc":[{"id":"1.231315505","rc":[{"ltp":2.76,"id":26354921}]}]}
+{"op":"mcm","clk":"11805061471","pt":1722697921604,"mc":[{"id":"1.231315505","rc":[{"ltp":2.0,"id":26354921},{"ltp":50.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11805080452","pt":1722697981533,"mc":[{"id":"1.231315505","rc":[{"ltp":1.72,"id":26354921}]}]}
+{"op":"mcm","clk":"11805099530","pt":1722698041584,"mc":[{"id":"1.231315505","rc":[{"ltp":1.79,"id":26354921}]}]}
+{"op":"mcm","clk":"11805118387","pt":1722698101593,"mc":[{"id":"1.231315505","rc":[{"ltp":1.83,"id":26354921}]}]}
+{"op":"mcm","clk":"11805155246","pt":1722698221612,"mc":[{"id":"1.231315505","rc":[{"ltp":1.59,"id":26354921}]}]}
+{"op":"mcm","clk":"11805247994","pt":1722698521568,"mc":[{"id":"1.231315505","rc":[{"ltp":1.5,"id":26354921}]}]}
+{"op":"mcm","clk":"11805340168","pt":1722698821628,"mc":[{"id":"1.231315505","rc":[{"ltp":1.25,"id":26354921}]}]}
+{"op":"mcm","clk":"11805373841","pt":1722698941546,"mc":[{"id":"1.231315505","rc":[{"ltp":5.0,"id":26354926},{"ltp":1.26,"id":26354921}]}]}
+{"op":"mcm","clk":"11805423980","pt":1722699121588,"mc":[{"id":"1.231315505","rc":[{"ltp":1.57,"id":26354921}]}]}
+{"op":"mcm","clk":"11805477327","pt":1722699301614,"mc":[{"id":"1.231315505","rc":[{"ltp":2.48,"id":26354926}]}]}
+{"op":"mcm","clk":"11805495508","pt":1722699361575,"mc":[{"id":"1.231315505","rc":[{"ltp":44.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11805551008","pt":1722699541541,"mc":[{"id":"1.231315505","rc":[{"ltp":1.89,"id":26354926}]}]}
+{"op":"mcm","clk":"11805569184","pt":1722699601567,"mc":[{"id":"1.231315505","rc":[{"ltp":1.8,"id":26354926}]}]}
+{"op":"mcm","clk":"11805588060","pt":1722699661622,"mc":[{"id":"1.231315505","rc":[{"ltp":1.62,"id":26354926}]}]}
+{"op":"mcm","clk":"11805636511","pt":1722699781548,"mc":[{"id":"1.231315505","rc":[{"ltp":1.3,"id":26354926},{"ltp":48.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11805655216","pt":1722699841581,"mc":[{"id":"1.231315505","rc":[{"ltp":1.32,"id":26354926},{"ltp":4.2,"id":26354921}]}]}
+{"op":"mcm","clk":"11805672964","pt":1722699901551,"mc":[{"id":"1.231315505","rc":[{"ltp":1.3,"id":26354926}]}]}
+{"op":"mcm","clk":"11805704550","pt":1722700021050,"mc":[{"id":"1.231315505","rc":[{"ltp":1.13,"id":26354926},{"ltp":9.4,"id":26354921}]}]}
+{"op":"mcm","clk":"11805732770","pt":1722700141573,"mc":[{"id":"1.231315505","rc":[{"ltp":1.17,"id":26354926}]}]}
+{"op":"mcm","clk":"11805745658","pt":1722700201616,"mc":[{"id":"1.231315505","rc":[{"ltp":1.09,"id":26354926},{"ltp":13.5,"id":26354921}]}]}
+{"op":"mcm","clk":"11805757835","pt":1722700261586,"mc":[{"id":"1.231315505","rc":[{"ltp":150.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11805769576","pt":1722700321612,"mc":[{"id":"1.231315505","rc":[{"ltp":50.0,"id":26354921}]}]}
+{"op":"mcm","clk":"11805780548","pt":1722700381589,"mc":[{"id":"1.231315505","rc":[{"ltp":1.03,"id":26354926}]}]}
+{"op":"mcm","clk":"11805841280","pt":1722700741556,"mc":[{"id":"1.231315505","rc":[{"ltp":1.02,"id":26354926}]}]}
+{"op":"mcm","clk":"11805850919","pt":1722700801622,"mc":[{"id":"1.231315505","rc":[{"ltp":250.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11805882013","pt":1722700981475,"mc":[{"id":"1.231315505","rc":[{"ltp":130.0,"id":26354921}]}]}
+{"op":"mcm","clk":"11805892512","pt":1722701041562,"mc":[{"id":"1.231315505","rc":[{"ltp":250.0,"id":26354921}]}]}
+{"op":"mcm","clk":"11805997051","pt":1722701638298,"mc":[{"id":"1.231315505","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33460487","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS_LO_TIE","marketTime":"2024-08-03T13:30:00.000Z","suspendTime":"2024-08-03T13:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":3,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":26354921,"name":"Birmingham Phoenix"},{"status":"ACTIVE","sortPriority":2,"id":26354926,"name":"Southern Brave"},{"status":"ACTIVE","sortPriority":3,"id":2312392,"name":"Tie"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-03T13:30:00.000Z","version":6054296589,"name":"Match Odds Including Tie","eventName":"Birmingham Phoenix v Southern Brave"}}]}
+{"op":"mcm","clk":"11806027284","pt":1722701798890,"mc":[{"id":"1.231315505","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33460487","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS_LO_TIE","marketTime":"2024-08-03T13:30:00.000Z","suspendTime":"2024-08-03T13:30:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2024-08-03T16:16:34.000Z","runners":[{"status":"LOSER","sortPriority":1,"id":26354921,"name":"Birmingham Phoenix"},{"status":"WINNER","sortPriority":2,"id":26354926,"name":"Southern Brave"},{"status":"LOSER","sortPriority":3,"id":2312392,"name":"Tie"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-03T13:30:00.000Z","version":6054306829,"name":"Match Odds Including Tie","eventName":"Birmingham Phoenix v Southern Brave"}}]}

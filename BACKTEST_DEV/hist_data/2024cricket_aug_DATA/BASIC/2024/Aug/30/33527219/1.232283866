@@ -1,0 +1,41 @@
+{"op":"mcm","clk":"11966477860","pt":1724623579968,"mc":[{"id":"1.232283866","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33527219","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_20_OVR_LINE","marketTime":"2024-08-30T06:00:00.000Z","suspendTime":"2024-08-30T06:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-30T06:00:00.000Z","version":6100687001,"name":"1st Innings 20 Overs Line","eventName":"Kuwait v Mongolia"}}]}
+{"op":"mcm","clk":"11967309257","pt":1724647522384,"mc":[{"id":"1.232283866","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33527219","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_20_OVR_LINE","marketTime":"2024-08-30T05:45:00.000Z","suspendTime":"2024-08-30T05:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-30T05:45:00.000Z","version":6101005075,"name":"1st Innings 20 Overs Line","eventName":"Kuwait v Mongolia"}}]}
+{"op":"mcm","clk":"11992609896","pt":1724996627693,"mc":[{"id":"1.232283866","rc":[{"ltp":200.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992615055","pt":1724996718119,"mc":[{"id":"1.232283866","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33527219","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_20_OVR_LINE","marketTime":"2024-08-30T05:45:00.000Z","suspendTime":"2024-08-30T05:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-30T05:45:00.000Z","version":6107514629,"name":"1st Innings 20 Overs Line","eventName":"Kuwait v Mongolia"}}]}
+{"op":"mcm","clk":"11992634239","pt":1724997078660,"mc":[{"id":"1.232283866","rc":[{"ltp":212.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992657435","pt":1724997557892,"mc":[{"id":"1.232283866","rc":[{"ltp":211.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992668494","pt":1724997796735,"mc":[{"id":"1.232283866","rc":[{"ltp":220.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992676296","pt":1724997977639,"mc":[{"id":"1.232283866","rc":[{"ltp":219.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992678922","pt":1724998038522,"mc":[{"id":"1.232283866","rc":[{"ltp":220.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992689527","pt":1724998278568,"mc":[{"id":"1.232283866","rc":[{"ltp":224.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992694940","pt":1724998396718,"mc":[{"id":"1.232283866","rc":[{"ltp":229.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992703975","pt":1724998570619,"mc":[{"id":"1.232283866","rc":[{"ltp":235.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992707125","pt":1724998638301,"mc":[{"id":"1.232283866","rc":[{"ltp":237.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992751487","pt":1724999530342,"mc":[{"id":"1.232283866","rc":[{"ltp":228.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992756568","pt":1724999645871,"mc":[{"id":"1.232283866","rc":[{"ltp":234.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992759452","pt":1724999713759,"mc":[{"id":"1.232283866","rc":[{"ltp":224.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992768718","pt":1724999897436,"mc":[{"id":"1.232283866","rc":[{"ltp":228.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992771665","pt":1724999956217,"mc":[{"id":"1.232283866","rc":[{"ltp":226.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992778282","pt":1725000078534,"mc":[{"id":"1.232283866","rc":[{"ltp":229.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992780854","pt":1725000133992,"mc":[{"id":"1.232283866","rc":[{"ltp":227.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992799091","pt":1725000196786,"mc":[{"id":"1.232283866","rc":[{"ltp":226.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992801399","pt":1725000253763,"mc":[{"id":"1.232283866","rc":[{"ltp":224.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992803668","pt":1725000308726,"mc":[{"id":"1.232283866","rc":[{"ltp":214.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992808453","pt":1725000420128,"mc":[{"id":"1.232283866","rc":[{"ltp":216.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992812150","pt":1725000492877,"mc":[{"id":"1.232283866","rc":[{"ltp":228.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992817893","pt":1725000617249,"mc":[{"id":"1.232283866","rc":[{"ltp":215.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992831492","pt":1725000918486,"mc":[{"id":"1.232283866","rc":[{"ltp":214.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992837940","pt":1725001073178,"mc":[{"id":"1.232283866","rc":[{"ltp":215.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992843151","pt":1725001212648,"mc":[{"id":"1.232283866","rc":[{"ltp":214.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992852159","pt":1725001396650,"mc":[{"id":"1.232283866","rc":[{"ltp":211.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992855589","pt":1725001458244,"mc":[{"id":"1.232283866","rc":[{"ltp":214.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992858907","pt":1725001518412,"mc":[{"id":"1.232283866","rc":[{"ltp":216.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992862048","pt":1725001574878,"mc":[{"id":"1.232283866","rc":[{"ltp":225.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992865006","pt":1725001630211,"mc":[{"id":"1.232283866","rc":[{"ltp":223.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992868531","pt":1725001697705,"mc":[{"id":"1.232283866","rc":[{"ltp":226.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992871322","pt":1725001750670,"mc":[{"id":"1.232283866","rc":[{"ltp":214.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992880953","pt":1725001936556,"mc":[{"id":"1.232283866","rc":[{"ltp":219.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992886545","pt":1725002057669,"mc":[{"id":"1.232283866","rc":[{"ltp":214.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992889026","pt":1725002107759,"mc":[{"id":"1.232283866","rc":[{"ltp":207.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992892664","pt":1725002176105,"mc":[{"id":"1.232283866","rc":[{"ltp":212.5,"id":15316}]}]}
+{"op":"mcm","clk":"11992918168","pt":1725002632257,"mc":[{"id":"1.232283866","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33527219","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INNING_20_OVR_LINE","marketTime":"2024-08-30T05:45:00.000Z","suspendTime":"2024-08-30T05:45:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-30T07:23:49.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-30T05:45:00.000Z","version":6107536898,"name":"1st Innings 20 Overs Line","eventName":"Kuwait v Mongolia"}}]}

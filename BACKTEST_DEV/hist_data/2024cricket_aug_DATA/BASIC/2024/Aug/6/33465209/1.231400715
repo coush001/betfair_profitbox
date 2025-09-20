@@ -1,0 +1,26 @@
+{"op":"mcm","clk":"11802156205","pt":1722682620880,"mc":[{"id":"1.231400715","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33465209","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_25_BALL_LINE","marketTime":"2024-08-06T14:00:00.000Z","suspendTime":"2024-08-06T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-06T14:00:00.000Z","version":6053065158,"name":"1st Innings 25 Balls Runs Line","eventName":"Birmingham Phoenix W v Northern Superchargers W"}}]}
+{"op":"mcm","clk":"11822187232","pt":1722931685091,"mc":[{"id":"1.231400715","rc":[{"ltp":31.5,"id":15316}]}]}
+{"op":"mcm","clk":"11823526113","pt":1722950897938,"mc":[{"id":"1.231400715","rc":[{"ltp":29.5,"id":15316}]}]}
+{"op":"mcm","clk":"11823571919","pt":1722951538739,"mc":[{"id":"1.231400715","rc":[{"ltp":30.5,"id":15316}]}]}
+{"op":"mcm","clk":"11823588049","pt":1722951778604,"mc":[{"id":"1.231400715","rc":[{"ltp":29.5,"id":15316}]}]}
+{"op":"mcm","clk":"11823592217","pt":1722951838800,"mc":[{"id":"1.231400715","rc":[{"ltp":30.5,"id":15316}]}]}
+{"op":"mcm","clk":"11823596313","pt":1722951898757,"mc":[{"id":"1.231400715","rc":[{"ltp":29.5,"id":15316}]}]}
+{"op":"mcm","clk":"11823615821","pt":1722952198536,"mc":[{"id":"1.231400715","rc":[{"ltp":28.5,"id":15316}]}]}
+{"op":"mcm","clk":"11823628119","pt":1722952377572,"mc":[{"id":"1.231400715","rc":[{"ltp":29.5,"id":15316}]}]}
+{"op":"mcm","clk":"11823640468","pt":1722952558309,"mc":[{"id":"1.231400715","rc":[{"ltp":28.5,"id":15316}]}]}
+{"op":"mcm","clk":"11823650121","pt":1722952678544,"mc":[{"id":"1.231400715","rc":[{"ltp":29.5,"id":15316}]}]}
+{"op":"mcm","clk":"11823666005","pt":1722952858841,"mc":[{"id":"1.231400715","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33465209","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_25_BALL_LINE","marketTime":"2024-08-06T14:00:00.000Z","suspendTime":"2024-08-06T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":1,"betDelay":3,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-06T14:00:00.000Z","version":6059593992,"name":"1st Innings 25 Balls Runs Line","eventName":"Birmingham Phoenix W v Northern Superchargers W"}}]}
+{"op":"mcm","clk":"11823670641","pt":1722952918791,"mc":[{"id":"1.231400715","rc":[{"ltp":25.5,"id":15316}]}]}
+{"op":"mcm","clk":"11823680219","pt":1722953038819,"mc":[{"id":"1.231400715","rc":[{"ltp":27.5,"id":15316}]}]}
+{"op":"mcm","clk":"11823689410","pt":1722953158817,"mc":[{"id":"1.231400715","rc":[{"ltp":25.5,"id":15316}]}]}
+{"op":"mcm","clk":"11823694347","pt":1722953218796,"mc":[{"id":"1.231400715","rc":[{"ltp":24.5,"id":15316}]}]}
+{"op":"mcm","clk":"11823704021","pt":1722953338751,"mc":[{"id":"1.231400715","rc":[{"ltp":27.5,"id":15316}]}]}
+{"op":"mcm","clk":"11823709480","pt":1722953398819,"mc":[{"id":"1.231400715","rc":[{"ltp":29.5,"id":15316}]}]}
+{"op":"mcm","clk":"11823714324","pt":1722953458772,"mc":[{"id":"1.231400715","rc":[{"ltp":26.5,"id":15316}]}]}
+{"op":"mcm","clk":"11823735236","pt":1722953638591,"mc":[{"id":"1.231400715","rc":[{"ltp":31.5,"id":15316}]}]}
+{"op":"mcm","clk":"11823740347","pt":1722953698656,"mc":[{"id":"1.231400715","rc":[{"ltp":29.5,"id":15316}]}]}
+{"op":"mcm","clk":"11823745749","pt":1722953758805,"mc":[{"id":"1.231400715","rc":[{"ltp":30.5,"id":15316}]}]}
+{"op":"mcm","clk":"11823751163","pt":1722953818692,"mc":[{"id":"1.231400715","rc":[{"ltp":27.5,"id":15316}]}]}
+{"op":"mcm","clk":"11823756590","pt":1722953878639,"mc":[{"id":"1.231400715","rc":[{"ltp":26.5,"id":15316}]}]}
+{"op":"mcm","clk":"11823762128","pt":1722953938840,"mc":[{"id":"1.231400715","rc":[{"ltp":25.5,"id":15316}]}]}
+{"op":"mcm","clk":"11823775576","pt":1722954118820,"mc":[{"id":"1.231400715","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33465209","eventTypeId":"4","numberOfWinners":0,"bettingType":"LINE","marketType":"1_INN_25_BALL_LINE","marketTime":"2024-08-06T14:00:00.000Z","suspendTime":"2024-08-06T14:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":3,"status":"CLOSED","settledTime":"2024-08-06T14:21:38.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":15316,"name":"Total Runs"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-06T14:00:00.000Z","version":6059607618,"name":"1st Innings 25 Balls Runs Line","eventName":"Birmingham Phoenix W v Northern Superchargers W"}}]}

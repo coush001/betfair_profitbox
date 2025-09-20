@@ -1,0 +1,50 @@
+{"op":"mcm","clk":"11945679234","pt":1724459457303,"mc":[{"id":"1.232209558","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33522302","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS_LO_TIE","marketTime":"2024-08-25T19:00:00.000Z","suspendTime":"2024-08-25T19:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":false,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":3,"betDelay":0,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":235,"name":"West Indies"},{"status":"ACTIVE","sortPriority":2,"id":349,"name":"South Africa"},{"status":"ACTIVE","sortPriority":3,"id":2312392,"name":"Tie"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-25T19:00:00.000Z","version":6093737335,"name":"Match Odds Including Tie","eventName":"West Indies v South Africa"}}]}
+{"op":"mcm","clk":"11961793037","pt":1724595162512,"mc":[{"id":"1.232209558","rc":[{"ltp":1.71,"id":235}]}]}
+{"op":"mcm","clk":"11963157371","pt":1724601630527,"mc":[{"id":"1.232209558","rc":[{"ltp":1.75,"id":235}]}]}
+{"op":"mcm","clk":"11963214924","pt":1724601875684,"mc":[{"id":"1.232209558","rc":[{"ltp":1.73,"id":235}]}]}
+{"op":"mcm","clk":"11964570771","pt":1724608493685,"mc":[{"id":"1.232209558","rc":[{"ltp":1.7,"id":235}]}]}
+{"op":"mcm","clk":"11964967977","pt":1724610832813,"mc":[{"id":"1.232209558","rc":[{"ltp":1.78,"id":235}]}]}
+{"op":"mcm","clk":"11964988624","pt":1724610953022,"mc":[{"id":"1.232209558","rc":[{"ltp":50.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11965150214","pt":1724611733364,"mc":[{"id":"1.232209558","rc":[{"ltp":2.4,"id":349}]}]}
+{"op":"mcm","clk":"11965262523","pt":1724612454298,"mc":[{"id":"1.232209558","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33522302","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS_LO_TIE","marketTime":"2024-08-25T19:00:00.000Z","suspendTime":"2024-08-25T19:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":3,"betDelay":5,"status":"OPEN","runners":[{"status":"ACTIVE","sortPriority":1,"id":235,"name":"West Indies"},{"status":"ACTIVE","sortPriority":2,"id":349,"name":"South Africa"},{"status":"ACTIVE","sortPriority":3,"id":2312392,"name":"Tie"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-25T19:00:00.000Z","version":6100143711,"name":"Match Odds Including Tie","eventName":"West Indies v South Africa"}}]}
+{"op":"mcm","clk":"11965304973","pt":1724612694289,"mc":[{"id":"1.232209558","rc":[{"ltp":1.9,"id":235}]}]}
+{"op":"mcm","clk":"11965443379","pt":1724613414280,"mc":[{"id":"1.232209558","rc":[{"ltp":2.58,"id":349}]}]}
+{"op":"mcm","clk":"11965795125","pt":1724615934298,"mc":[{"id":"1.232209558","rc":[{"ltp":2.42,"id":349}]}]}
+{"op":"mcm","clk":"11965895700","pt":1724616774275,"mc":[{"id":"1.232209558","rc":[{"ltp":3.3,"id":349}]}]}
+{"op":"mcm","clk":"11966136640","pt":1724618934165,"mc":[{"id":"1.232209558","rc":[{"ltp":3.0,"id":349}]}]}
+{"op":"mcm","clk":"11966184282","pt":1724619594282,"mc":[{"id":"1.232209558","rc":[{"ltp":2.26,"id":235},{"ltp":40.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11966188756","pt":1724619654227,"mc":[{"id":"1.232209558","rc":[{"ltp":1.59,"id":349}]}]}
+{"op":"mcm","clk":"11966192931","pt":1724619714275,"mc":[{"id":"1.232209558","rc":[{"ltp":1.57,"id":349}]}]}
+{"op":"mcm","clk":"11966197170","pt":1724619774260,"mc":[{"id":"1.232209558","rc":[{"ltp":1.62,"id":349},{"ltp":2.66,"id":235}]}]}
+{"op":"mcm","clk":"11966205694","pt":1724619894294,"mc":[{"id":"1.232209558","rc":[{"ltp":2.82,"id":235}]}]}
+{"op":"mcm","clk":"11966210351","pt":1724619954239,"mc":[{"id":"1.232209558","rc":[{"ltp":1.49,"id":349},{"ltp":4.0,"id":235}]}]}
+{"op":"mcm","clk":"11966215101","pt":1724620014205,"mc":[{"id":"1.232209558","rc":[{"ltp":1.32,"id":349},{"ltp":4.6,"id":235}]}]}
+{"op":"mcm","clk":"11966219644","pt":1724620074263,"mc":[{"id":"1.232209558","rc":[{"ltp":5.3,"id":235}]}]}
+{"op":"mcm","clk":"11966228988","pt":1724620194218,"mc":[{"id":"1.232209558","rc":[{"ltp":1.2,"id":349}]}]}
+{"op":"mcm","clk":"11966254978","pt":1724620554225,"mc":[{"id":"1.232209558","rc":[{"ltp":5.0,"id":235}]}]}
+{"op":"mcm","clk":"11966267056","pt":1724620734240,"mc":[{"id":"1.232209558","rc":[{"ltp":1.84,"id":349}]}]}
+{"op":"mcm","clk":"11966275341","pt":1724620854284,"mc":[{"id":"1.232209558","rc":[{"ltp":30.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11966291123","pt":1724621094141,"mc":[{"id":"1.232209558","rc":[{"ltp":1.32,"id":349}]}]}
+{"op":"mcm","clk":"11966308611","pt":1724621334221,"mc":[{"id":"1.232209558","rc":[{"ltp":1.6,"id":349},{"ltp":2.96,"id":235}]}]}
+{"op":"mcm","clk":"11966342579","pt":1724621754154,"mc":[{"id":"1.232209558","rc":[{"ltp":2.98,"id":235}]}]}
+{"op":"mcm","clk":"11966351915","pt":1724621874146,"mc":[{"id":"1.232209558","rc":[{"ltp":1.35,"id":349}]}]}
+{"op":"mcm","clk":"11966361246","pt":1724621994116,"mc":[{"id":"1.232209558","rc":[{"ltp":4.8,"id":235}]}]}
+{"op":"mcm","clk":"11966401918","pt":1724622414075,"mc":[{"id":"1.232209558","rc":[{"ltp":1.58,"id":349}]}]}
+{"op":"mcm","clk":"11966429450","pt":1724622834015,"mc":[{"id":"1.232209558","rc":[{"ltp":7.0,"id":235}]}]}
+{"op":"mcm","clk":"11966433067","pt":1724622894180,"mc":[{"id":"1.232209558","rc":[{"ltp":1.2,"id":349}]}]}
+{"op":"mcm","clk":"11966450478","pt":1724623194240,"mc":[{"id":"1.232209558","rc":[{"ltp":3.25,"id":235}]}]}
+{"op":"mcm","clk":"11966466278","pt":1724623434287,"mc":[{"id":"1.232209558","rc":[{"ltp":2.16,"id":235}]}]}
+{"op":"mcm","clk":"11966471016","pt":1724623494259,"mc":[{"id":"1.232209558","rc":[{"ltp":2.3,"id":235}]}]}
+{"op":"mcm","clk":"11966475884","pt":1724623554298,"mc":[{"id":"1.232209558","rc":[{"ltp":2.44,"id":235}]}]}
+{"op":"mcm","clk":"11966480629","pt":1724623614292,"mc":[{"id":"1.232209558","rc":[{"ltp":18.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11966484853","pt":1724623674229,"mc":[{"id":"1.232209558","rc":[{"ltp":2.12,"id":235}]}]}
+{"op":"mcm","clk":"11966494015","pt":1724623794199,"mc":[{"id":"1.232209558","rc":[{"ltp":1.99,"id":235}]}]}
+{"op":"mcm","clk":"11966498666","pt":1724623854261,"mc":[{"id":"1.232209558","rc":[{"ltp":4.5,"id":349},{"ltp":1.35,"id":235}]}]}
+{"op":"mcm","clk":"11966503298","pt":1724623914215,"mc":[{"id":"1.232209558","rc":[{"ltp":4.4,"id":349},{"ltp":21.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11966508032","pt":1724623974285,"mc":[{"id":"1.232209558","rc":[{"ltp":4.2,"id":349},{"ltp":22.0,"id":2312392}]}]}
+{"op":"mcm","clk":"11966512940","pt":1724624034285,"mc":[{"id":"1.232209558","rc":[{"ltp":4.7,"id":349}]}]}
+{"op":"mcm","clk":"11966517347","pt":1724624094277,"mc":[{"id":"1.232209558","rc":[{"ltp":5.0,"id":349}]}]}
+{"op":"mcm","clk":"11966534781","pt":1724624334237,"mc":[{"id":"1.232209558","rc":[{"ltp":1.02,"id":235}]}]}
+{"op":"mcm","clk":"11966538651","pt":1724624393917,"mc":[{"id":"1.232209558","rc":[{"ltp":1.01,"id":235}]}]}
+{"op":"mcm","clk":"11966572971","pt":1724625053695,"mc":[{"id":"1.232209558","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33522302","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS_LO_TIE","marketTime":"2024-08-25T19:00:00.000Z","suspendTime":"2024-08-25T19:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":true,"runnersVoidable":false,"numberOfActiveRunners":3,"betDelay":5,"status":"SUSPENDED","runners":[{"status":"ACTIVE","sortPriority":1,"id":235,"name":"West Indies"},{"status":"ACTIVE","sortPriority":2,"id":349,"name":"South Africa"},{"status":"ACTIVE","sortPriority":3,"id":2312392,"name":"Tie"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-25T19:00:00.000Z","version":6100722715,"name":"Match Odds Including Tie","eventName":"West Indies v South Africa"}}]}
+{"op":"mcm","clk":"11966589652","pt":1724625393395,"mc":[{"id":"1.232209558","marketDefinition":{"bspMarket":false,"turnInPlayEnabled":true,"persistenceEnabled":true,"marketBaseRate":5.0,"eventId":"33522302","eventTypeId":"4","numberOfWinners":1,"bettingType":"ODDS","marketType":"MATCH_ODDS_LO_TIE","marketTime":"2024-08-25T19:00:00.000Z","suspendTime":"2024-08-25T19:00:00.000Z","bspReconciled":false,"complete":true,"inPlay":true,"crossMatching":false,"runnersVoidable":false,"numberOfActiveRunners":0,"betDelay":5,"status":"CLOSED","settledTime":"2024-08-25T22:36:31.000Z","runners":[{"status":"WINNER","sortPriority":1,"id":235,"name":"West Indies"},{"status":"LOSER","sortPriority":2,"id":349,"name":"South Africa"},{"status":"LOSER","sortPriority":3,"id":2312392,"name":"Tie"}],"regulators":["MR_INT"],"countryCode":"GB","discountAllowed":true,"timezone":"GMT","openDate":"2024-08-25T19:00:00.000Z","version":6100728739,"name":"Match Odds Including Tie","eventName":"West Indies v South Africa"}}]}

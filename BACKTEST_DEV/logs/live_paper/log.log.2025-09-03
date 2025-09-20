@@ -1,0 +1,6 @@
+{"asctime": "2025-09-03 14:10:40,313", "levelname": "INFO", "message": "", "PLACE ORDER": "1.247342615", "price": 8, "event_name": "Uganda W v Kenya W", "taskName": "Task-4"}
+{"asctime": "2025-09-03 14:12:20,864", "levelname": "INFO", "message": "", "PLACE ORDER": "1.247342615", "price": 1.46, "event_name": "Uganda W v Kenya W", "taskName": "Task-2"}
+{"asctime": "2025-09-03 14:13:24,598", "levelname": "INFO", "message": "", "PLACE ORDER": "1.247325747", "price": 1.49, "event_name": "Zimbabwe v Sri Lanka", "taskName": "Task-2"}
+{"asctime": "2025-09-03 14:13:31,121", "levelname": "INFO", "message": "", "PLACE ORDER": "1.247325747", "price": 1.59, "event_name": "Zimbabwe v Sri Lanka", "taskName": "Task-2"}
+{"asctime": "2025-09-03 14:13:55,770", "levelname": "INFO", "message": "", "PLACE ORDER": "1.247342625", "price": 11, "event_name": "Bangladesh v Netherlands", "taskName": "Task-2"}
+{"asctime": "2025-09-03 14:13:59,505", "levelname": "INFO", "message": "", "PLACE ORDER": "1.247342615", "price": 7, "event_name": "Uganda W v Kenya W", "taskName": "Task-2"}
