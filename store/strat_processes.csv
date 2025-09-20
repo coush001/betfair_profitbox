@@ -1,0 +1,5 @@
+date,process_start,strat_running
+2025-09-18T00:49:59Z,Thu Sep 18 00:38:53 2025,/root/betting/betenv/bin/python3 /root/betting/2strat.py
+2025-09-18T00:51:48Z,Thu Sep 18 00:38:53 2025,/root/betting/betenv/bin/python3 /root/betting/2strat.py
+2025-09-19T02:05:13Z,Fri Sep 19 02:04:59 2025,/root/betting/betenv/bin/python3 /root/betting/2strat.py
+2025-09-19T03:30:39Z,Fri Sep 19 03:30:34 2025,/root/betting/betenv/bin/python3 ./2strat.py
