@@ -3,3 +3,8 @@ certs/
 .ipynb_checkpoints/
 logs/
 __pycache__/
+betenv/
+.venv/
+__pycache__/
+*.pyc
+.env
