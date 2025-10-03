@@ -8,3 +8,8 @@ betenv/
 __pycache__/
 *.pyc
 .env
+betenv/
+.venv/
+__pycache__/
+*.pyc
+.env
