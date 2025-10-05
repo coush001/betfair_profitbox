@@ -1,8 +1,9 @@
-#!/root/betting/betenv/bin/python3
-import os
+#!/root/betting/.venv/bin/python
+# -*- coding: utf-8 -*-import os
 from datetime import datetime, timedelta, timezone
 import betfairlightweight as bflw
 from dotenv import load_dotenv
+import os
 
 load_dotenv()
 
