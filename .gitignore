@@ -11,3 +11,4 @@ __pycache__/
 *.pyc
 .env
 jobs/__pycache__/
+.vscode/
