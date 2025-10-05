@@ -1,4 +1,3 @@
-#!/root/betting/betenv/bin/python3
 import warnings
 import sys
 import pandas as pd
