@@ -1,8 +1,0 @@
-{"asctime": "2025-09-02 22:30:05,526", "levelname": "INFO", "message": "", "evt": "MARKET_PNL", "market": "1.232019003", "sel": 67083366, "pnl": 23.67, "taskName": "Task-2"}
-{"asctime": "2025-09-02 22:30:07,165", "levelname": "INFO", "message": "", "evt": "MARKET_PNL", "market": "1.231541189", "sel": 19587212, "pnl": -4.01, "taskName": "Task-2"}
-{"asctime": "2025-09-02 22:30:07,166", "levelname": "INFO", "message": "", "evt": "MARKET_PNL", "market": "1.231541189", "sel": 19587555, "pnl": 0.0, "taskName": "Task-2"}
-{"asctime": "2025-09-02 22:30:08,712", "levelname": "INFO", "message": "", "evt": "MARKET_PNL", "market": "1.232245129", "sel": 67083366, "pnl": 6.98, "taskName": "Task-2"}
-{"asctime": "2025-09-03 12:40:55,729", "levelname": "INFO", "message": "", "evt": "MARKET_PNL", "market": "1.232019003", "sel": 67083366, "pnl": 23.67, "taskName": "Task-2"}
-{"asctime": "2025-09-03 12:40:57,391", "levelname": "INFO", "message": "", "evt": "MARKET_PNL", "market": "1.231541189", "sel": 19587212, "pnl": -4.01, "taskName": "Task-2"}
-{"asctime": "2025-09-03 12:40:57,393", "levelname": "INFO", "message": "", "evt": "MARKET_PNL", "market": "1.231541189", "sel": 19587555, "pnl": 0.0, "taskName": "Task-2"}
-{"asctime": "2025-09-03 12:40:59,131", "levelname": "INFO", "message": "", "evt": "MARKET_PNL", "market": "1.232245129", "sel": 67083366, "pnl": 6.98, "taskName": "Task-2"}
