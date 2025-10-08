@@ -1,0 +1,11 @@
+[Unit]
+Description=Daily restart for md_recorder.service
+
+[Timer]
+# Local server time (Europe/London on your host)
+OnCalendar=*-*-* 03:15:00
+Persistent=true
+Unit=md_recorder-restart.service
+
+[Install]
+WantedBy=timers.target

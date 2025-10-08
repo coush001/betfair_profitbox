@@ -1,0 +1,6 @@
+[Unit]
+Description=Restart md_recorder.service
+
+[Service]
+Type=oneshot
+ExecStart=/bin/systemctl restart md_recorder.service

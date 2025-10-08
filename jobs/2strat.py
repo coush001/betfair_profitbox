@@ -124,10 +124,10 @@ class FlumineStrat(BaseStrategy):
                 self.log.info(f"Hedge failed : no average back odds returned - potentially no back bets, or if there are they are placed in different runtime ?")   
                 return
             hsize = (av*stake - stake) / best_lay
-            self.log.info(f"Closing risk : runner {r.selection_id}, hedge size {round(hsize,2)} @  hedge price {best_lay}")
             if hsize <= 0:
                 self.log.info(f"Hedge canceled: hedge size less than 0")
                 return
+            self.log.info(f"Closing risk : runner {r.selection_id}, hedge size {round(hsize,2)} @  hedge price {best_lay}")
             trade = Trade(market_book.market_id, r.selection_id, r.handicap, self)
             order = trade.create_order("LAY", LimitOrder(best_lay + 3, round(hsize,2),  persistence_type="LAPSE"))
             market.place_order(order)
@@ -135,24 +135,11 @@ class FlumineStrat(BaseStrategy):
         except Exception as e:
             self.log.info(f"Failed to hedge because : {str(e)}") 
 
- 
     def process_orders(self, market, orders):
         for order in orders:
             if order.status == OrderStatus.EXECUTABLE:
                 if order.elapsed_seconds and order.elapsed_seconds > self.order_hold:
                      market.cancel_order(order)
-
-    def process_order(self, order):
-        if order.status == OrderStatus.EXECUTION_COMPLETE:
-            a = {"Order fully matched": order.selection_id,"avg_px":order.average_price_matched,
-                 "size":order.size_matched}
-            self.log.info(a)
-        elif order.size_matched and order.size_remaining:
-            a = {"Partial match":order.selection_id,
-                 "matched":order.size_matched,
-                 "remaining":order.size_remaining,
-                 "avg_px":order.average_price_matched}
-            self.log.info(a)
 
     def process_closed_market(self, market, market_book):
         self.pnl = 0.0
