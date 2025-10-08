@@ -1,0 +1,29 @@
+[Unit]
+Description=Betfair in-play market recorder (per-market gzip JSONL)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=root
+# pass env to control compression/log level if you like
+Environment=RECORDER_GZIP_LEVEL=6
+WorkingDirectory=/root
+
+
+ExecStart=/root/betting/.venv/bin/python -u /root/betting/tools_project/md_recorder.py
+# Send SIGINT so the script's try/finally runs and gzip closes
+KillSignal=SIGINT
+ExecStop=/bin/kill -s SIGINT $MAINPID
+TimeoutStopSec=30s
+Restart=always
+RestartSec=10s
+# Optional: auto-bounce if process runs > 23h (safety net)
+RuntimeMaxSec=23h
+
+# Journald logs
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target
