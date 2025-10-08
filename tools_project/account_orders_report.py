@@ -55,7 +55,7 @@ client = bflw.APIClient(
     os.getenv("BETFAIR_USERNAME"),
     os.getenv("BETFAIR_PASSWORD"),
     app_key=os.getenv("BETFAIR_APP_KEY"),
-    cert_files=("certs/client-2048.crt", "certs/client-2048.key"),
+    cert_files=("/root/betting/certs/client-2048.crt", "/root/betting/certs/client-2048.key"),
 )
 client.login()
 

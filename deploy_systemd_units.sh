@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # deploy_systemd_units.sh
 # Sync unit files from /root/betting/systemd_files/ to /etc/systemd/system/,
-# then daemon-reload and enable/start them.
+# then daemon-reload and enable/start them. Finally, print next run for each timer.
 
 set -euo pipefail
 
@@ -51,5 +51,50 @@ for unit in "${UNITS[@]}"; do
   fi
 done
 
-echo "✅ Done."
+# --- Helper: print next run for a timer ---
+print_next_for_timer() {
+  local t="$1"
 
+  # Prefer precise realtime timestamp from systemd (microseconds since epoch)
+  local raw
+  raw="$(systemctl show "$t" -p NextElapseUSecRealtime --value 2>/dev/null || true)"
+
+  if [[ -n "${raw:-}" && "$raw" != "0" && "$raw" =~ ^[0-9]+$ ]]; then
+    # Convert µs → seconds, then format in UTC
+    local sec=$(( raw / 1000000 ))
+    local human
+    human="$(date -u -d "@$sec" '+%a %Y-%m-%d %H:%M:%S UTC')"
+    echo "  - $t → $human"
+    return
+  fi
+
+  # Fallback: parse from list-timers line
+  local line
+  line="$(systemctl list-timers --all --no-legend 2>/dev/null | awk -v u="$t" '$(NF-1)==u {print; exit}')"
+  if [[ -n "${line:-}" ]]; then
+    # Print the NEXT column (everything up to the UNIT column is hard to parse generically),
+    # so show the whole line for visibility.
+    echo "  - $t → $line"
+  else
+    echo "  - $t → (no schedule found)"
+  fi
+}
+
+# Collect timers we just deployed
+TIMERS=()
+for unit in "${UNITS[@]}"; do
+  if [[ "$unit" == *.timer ]]; then
+    TIMERS+=("$unit")
+  fi
+done
+
+if (( ${#TIMERS[@]} > 0 )); then
+  echo "⏰ Next scheduled runs for timers:"
+  for t in "${TIMERS[@]}"; do
+    print_next_for_timer "$t"
+  done
+else
+  echo "⏰ No timer units in this deployment."
+fi
+
+echo "✅ Done."
