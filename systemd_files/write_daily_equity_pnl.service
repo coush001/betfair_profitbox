@@ -1,0 +1,7 @@
+[Unit]
+Description=Write daily Betfair equity/PnL snapshot
+
+[Service]
+Type=oneshot
+WorkingDirectory=/root
+ExecStart=/root/betting/.venv/bin/python -u /root/betting/jobs/write_daily_equity_pnl.py

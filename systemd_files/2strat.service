@@ -1,0 +1,26 @@
+# /etc/systemd/system/2strat.service
+[Unit]
+Description=Always-on 2strat (package mode)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/root
+# Drop the file dependency unless you actually use it
+# EnvironmentFile=-/root/betting/.env
+# Inline what you need:
+Environment="PYTHONUNBUFFERED=1" "PYTHONPATH=/root"
+# RUN AS MODULE so absolute imports work
+ExecStart=/root/betting/.venv/bin/python -u -m betting.jobs.2strat
+Restart=always
+RestartSec=5
+KillSignal=SIGINT
+TimeoutStopSec=30
+StandardOutput=journal
+StandardError=inherit
+
+[Install]
+WantedBy=multi-user.target
+

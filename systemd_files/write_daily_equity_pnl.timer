@@ -1,0 +1,10 @@
+[Unit]
+Description=Run write_daily_equity_pnl.service every 2 hours
+
+[Timer]
+OnBootSec=5min
+OnUnitActiveSec=2h
+Persistent=true
+
+[Install]
+WantedBy=timers.target

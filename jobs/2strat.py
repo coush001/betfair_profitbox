@@ -11,7 +11,7 @@ from flumine.order.trade import Trade
 from flumine.order.order import OrderStatus
 from flumine.order.ordertype import LimitOrder
 from flumine.utils import get_price
-from betting.setup_logging import build_logger
+from betting.tools_strategy.setup_logging import build_logger
 import time
 from datetime import timedelta, datetime, timezone
 import betfairlightweight as bflw
