@@ -1,48 +1,107 @@
 #!/root/betting/betenv/bin/python3
-import os, subprocess, smtplib
+import os, sys, subprocess, smtplib, ssl, mimetypes
 from email.message import EmailMessage
 from datetime import datetime, timezone
 from pathlib import Path
 from dotenv import load_dotenv
 
-BASE = Path(__file__).resolve().parent
-load_dotenv(BASE / ".env")
+# --- Config / Env ---
+ENV_PATH = "/root/betting/.env"
+load_dotenv(ENV_PATH)
 
-host = os.getenv("SMTP_HOST"); port = int(os.getenv("SMTP_PORT", "587"))
-user = os.getenv("SMTP_USER");  pwd  = os.getenv("SMTP_PASS")
-to   = os.getenv("MAIL_TO")
+def require(name: str) -> str:
+    v = os.getenv(name)
+    if not v or not v.strip():
+        print(f"❌ Missing required env var: {name}", file=sys.stderr)
+        sys.exit(2)
+    return v.strip()
 
-##########################
+host = require("SMTP_HOST")
+port = int(os.getenv("SMTP_PORT", "587"))
+user = require("SMTP_USER")
+pwd  = require("SMTP_PASS")
+to   = require("MAIL_TO")
+mail_from = os.getenv("MAIL_FROM", user).strip() or user
+smtp_debug = int(os.getenv("SMTP_DEBUG", "0"))
 
-SNAPSHOT = str("/root/betting/account_orders_report.py")
-run = subprocess.run([SNAPSHOT], capture_output=True, text=True)
-body = (run.stdout or "") + (f"\n[stderr]\n{run.stderr}" if run.stderr else "")
-if not body.strip(): body = "(no output)"
+print(f"ℹ️ Loaded .env from: {ENV_PATH}")
+print(f"ℹ️ SMTP_HOST={host}  SMTP_PORT={port}")
+print(f"ℹ️ SMTP_USER={user}  MAIL_FROM={mail_from}")
+print(f"ℹ️ MAIL_TO={to}")
+print(f"ℹ️ SMTP_DEBUG={smtp_debug}")
 
-msg = EmailMessage()
-msg["From"] = user
-msg["To"] = to+",mccoussens@gmail.com"
-msg["Subject"] = f"Betfair trading report {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}"
-msg.set_content(body)
+# Permissive TLS context to mirror your working behavior (no hostname/cert checks)
+perm_context = ssl.SSLContext(ssl.PROTOCOL_TLS_CLIENT)
+perm_context.check_hostname = False
+perm_context.verify_mode = ssl.CERT_NONE
 
-with smtplib.SMTP(host, port) as s:
-    s.starttls()
-    s.login(user, pwd)
-    s.send_message(msg)
+# --- Helpers ---
+def run_script(path: str) -> str:
+    print(f"↪️ Running: {path}")
+    run = subprocess.run([path], capture_output=True, text=True)
+    print(f"   returncode={run.returncode}")
+    body = (run.stdout or "") + (f"\n[stderr]\n{run.stderr}" if run.stderr else "")
+    return body if body.strip() else "(no output)"
 
-#############################
+def attach_file(msg: EmailMessage, file_path: Path):
+    if not file_path.is_file():
+        return False
+    mime_type, _ = mimetypes.guess_type(file_path)
+    maintype, subtype = (mime_type.split("/", 1) if mime_type else ("application", "octet-stream"))
+    with open(file_path, "rb") as f:
+        msg.add_attachment(f.read(), maintype=maintype, subtype=subtype, filename=file_path.name)
+    print(f"📎 Attached: {file_path}")
+    return True
 
-markets = str("/root/betting/next_24h_cricket_markets.py")
-run = subprocess.run([markets], capture_output=True, text=True)
-body = (run.stdout or "") + (f"\n[stderr]\n{run.stderr}" if run.stderr else "")
-if not body.strip(): body = "(no output)"
-msg = EmailMessage()
-msg["From"] = user
-msg["To"] = to
-msg["Subject"] = f"Next 24hr Markets {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}"
-msg.set_content(body)
+def send_email(subject: str, body: str, attachments: list[Path] | None = None):
+    msg = EmailMessage()
+    msg["From"] = mail_from
+    msg["To"] = to
+    msg["Subject"] = subject
+    msg.set_content(body)
 
-with smtplib.SMTP(host, port) as s:
-    s.starttls()
-    s.login(user, pwd)
-    s.send_message(msg)
+    # Add attachments (if any)
+    if attachments:
+        for p in attachments:
+            attach_file(msg, p)
+
+    try:
+        with smtplib.SMTP(host, port, timeout=30) as s:
+            s.set_debuglevel(smtp_debug)
+            s.ehlo()
+            s.starttls(context=perm_context)   # permissive TLS, like your working script
+            s.ehlo()
+            s.login(user, pwd)
+            s.send_message(msg)
+        print(f"✅ Sent: {subject}")
+    except Exception as e:
+        print(f"❌ Failed to send '{subject}': {e}")
+        sys.exit(1)
+
+# --- Main ---
+now_utc = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
+
+# 1) Trading report + optional PNG attachment
+SNAPSHOT = "/root/betting/tools_project/account_orders_report.py"
+body1 = run_script(SNAPSHOT)
+
+refresh_chart = "/root/betting/tools_project/pnl_chart.py"
+body1 = run_script(refresh_chart)
+
+chart_path = Path("/root/betting/store/date_equity_pnl.png")
+if chart_path.is_file():
+    body1 += "\n\n📈 Attached: daily PnL chart (date_equity_pnl.png)"
+
+send_email(
+    subject=f"Betfair trading report {now_utc}",
+    body=body1,
+    attachments=[chart_path] if chart_path.is_file() else None
+)
+
+# 2) Next 24h markets (no attachment)
+# MARKETS = "/root/betting/tools_project/next_24h_cricket_markets.py"
+# body2 = run_script(MARKETS)
+# send_email(
+#     subject=f"Next 24hr Markets {now_utc}",
+#     body=body2
+# )
