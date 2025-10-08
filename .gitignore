@@ -12,3 +12,4 @@ __pycache__/
 .env
 jobs/__pycache__/
 .vscode/
+poetry.toml
