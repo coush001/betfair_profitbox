@@ -1,0 +1,11 @@
+[Unit]
+Description=Write daily trades per strat to store/report file
+
+[Service]
+Type=oneshot
+WorkingDirectory=/root
+ExecStart=/root/betting/.venv/bin/python -u /root/betting/jobs/eod_dump_trades.py
+ExecStart=/root/betting/.venv/bin/python -u /root/betting/jobs/eod_gen_trade_charts.py
+
+[Install]
+WantedBy=multi-user.target

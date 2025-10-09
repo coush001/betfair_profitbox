@@ -82,20 +82,30 @@ def send_email(subject: str, body: str, attachments: list[Path] | None = None):
 now_utc = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
 
 # 1) Trading report + optional PNG attachment
-SNAPSHOT = "/root/betting/tools_project/account_orders_report.py"
-body1 = run_script(SNAPSHOT)
+run_this = "/root/betting/jobs/eod_dump_trades.py"
+body1 = run_script(run_this)
+run_this = "/root/betting/jobs/eod_gen_trade_charts.py"
+_null = run_script(run_this)
 
 refresh_chart = "/root/betting/tools_project/pnl_chart.py"
-body1 = run_script(refresh_chart)
+body1 += run_script(refresh_chart)
 
 chart_path = Path("/root/betting/store/date_equity_pnl.png")
 if chart_path.is_file():
     body1 += "\n\n📈 Attached: daily PnL chart (date_equity_pnl.png)"
 
+
+TODAY = datetime.utcnow().strftime("%Y-%m-%d")
+CSV_PATH = f"/root/betting/store/reports/pnl_per_trade_{TODAY}.csv"
+OUT_DIR = "/root/betting/store/reports/trade_charts"
+OUT_IMG = Path(os.path.join(OUT_DIR, f"trade_charts_{TODAY}.png"))
+if OUT_IMG.is_file():
+    body1 += "\n📈 Attached: daily PnL chart" + f"trade_charts_{TODAY}.png"
+
 send_email(
     subject=f"Betfair trading report {now_utc}",
     body=body1,
-    attachments=[chart_path] if chart_path.is_file() else None
+    attachments=[chart_path, OUT_IMG] if chart_path.is_file() else None
 )
 
 # 2) Next 24h markets (no attachment)
