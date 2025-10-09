@@ -146,7 +146,7 @@ class FlumineStrat(BaseStrategy):
                                 \n back_total:{back_total}, avg_back:{avg_back}, lay_total:{lay_total}, avg_lay:{avg_lay}.\
                         \n Loss Cover Ratio:{lay_total}/{back_total} = {loss_on_loss_covered_prc} : Hedging as ratio < {cover_ratio} \
                         \n Bestback : {bestb} , bestlay : {bestl}")
-                                self.hedge_selection(r, market, market_book, p, context, size=2, price=bestl)
+                                self.hedge_selection(r, market, market_book, p, context, size=2, price=bestl+2)
                                 
         except Exception as e:
             self.log.warning(f"Failed to process market book : {str(e)}")
@@ -233,10 +233,10 @@ strategy = FlumineStrat(
         market_filter=stream_filter,             # use streaming filter (time window, IN+GB)
         market_data_filter=stream_data,          # include EX_MARKET_DEF
         max_order_exposure=30,
-        max_selection_exposure=90,
+        max_selection_exposure=30,
         context={"stake": 2},
         enter_threshold=1.2,
-        exit_threshold=2.5,
+        exit_threshold=6.5,
         order_hold=17,
         price_add=0.01,
         log_root="./logs/live_prod/",
