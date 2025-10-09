@@ -63,77 +63,104 @@ class FlumineStrat(BaseStrategy):
             if t <= cutoff:
                 return p
         return None
+
+    def matched_summary(self, r, market):
+        back_total = lay_total = 0.0
+        back_weighted = lay_weighted = 0.0
+    
+        for o in market.blotter:
+            if o.selection_id != r.selection_id:
+                continue
+            m = float(getattr(o, "size_matched", 0) or 0)
+            if m <= 0:
+                continue
+            p = float(getattr(o, "average_price_matched", 0) or 0)
+            side = str(getattr(o, "side", "")).upper()
+            if "BACK" in side:
+                back_total += m
+                back_weighted += m * p
+            elif "LAY" in side:
+                lay_total += m
+                lay_weighted += m * p
+    
+        avg_back = back_weighted / back_total if back_total else 0.0
+        avg_lay = lay_weighted / lay_total if lay_total else 0.0
+        return back_total, avg_back, lay_total, avg_lay
+
+    def best_prices_for_runner(self, r):
+        ex = getattr(r, "ex", None)
+        atb = getattr(ex, "available_to_back", []) or []
+        atl = getattr(ex, "available_to_lay", []) or []
+    
+        def _extract(item):
+            # handle dict or PriceSize
+            if isinstance(item, dict):
+                return item.get("price"), item.get("size")
+            return getattr(item, "price", None), getattr(item, "size", None)
+            
+        bb_price, bb_size = _extract(atb[0]) if atb else (None, None)
+        bl_price, bl_size = _extract(atl[0]) if atl else (None, None)
+        return bb_price, bb_size, bl_price, bl_size
+
     
     def process_market_book(self, market, market_book):
-        if not self.startdt: self.startdt = market_book.publish_time
-        elapsed = market_book.publish_time.timestamp() - self.startdt.timestamp()
-        self.log.debug(f"process_market_book: {market.event_name}, time elapse {elapsed},  publishtime:{market_book.publish_time}")
-
-        if elapsed > 1:
-            for r in market_book.runners:
-                now_dt = market_book.publish_time
-                key = (market.market_id, r.selection_id)
-                p = self._price_now(r)
-                # self.log.info(f"market tick for {market.market_id}, price {p}")
-                if p and p < self.enter_threshold:
-                    # self.log.info(f"{r} price {p}")
-                    runner_context = self.get_runner_context(market.market_id, r.selection_id, r.handicap)
-                    # self.log.info(f"{runner_context}.  {runner_context.live_trade_count}")
-                    if runner_context.live_trade_count == 0:
-                        self.log.info(f"price less than thresh, no live trades, placing order: {market.market_id} {r.selection_id}")
-                        back = round(get_price(r.ex.available_to_lay, 0) + self.price_add,2)
-                        trade = Trade(market_book.market_id, r.selection_id, r.handicap, self, notes={"entry_px": back})
-                        order = trade.create_order(side="BACK", 
-                                                   order_type=LimitOrder(back, self.context["stake"])
-                                                   )
-                        # --- add Betfair-visible tags AFTER creation ---
-                        try:
-                            market.place_order(order)
-                        except Exception as e:
-                            self.log.info(str(e)) 
-
-                        self.log.info({"ORDER PLACED":market.market_id,"price":back,"event_name":market.event_name})
-
-                if not p : return
-
-                if p > self.exit_threshold:
-                    self.hedge_selection(r, market, market_book)
-
-    def avg_back_odds(self, market, selection_id):
-        total_stake, weighted = 0, 0
-        for order in market.blotter:
-            if order.selection_id == selection_id and order.side == "BACK":
-                matched = order.size_matched
-                if matched > 0:
-                    total_stake += matched
-                    weighted += matched * order.average_price_matched
-        self.log.info(f"weighted back odds : {weighted}  / total stake {total_stake}")
-        return weighted / total_stake if total_stake else None
-    
-    def hedge_selection(self,r, market, market_book):
         try:
-            self.log.info(f"Attepting to hedge selection {r}, {market_book.market_id} event :{market.event_name}")   
-            backs = [o for o in market.blotter if o.selection_id==r.selection_id and o.side=="BACK" and o.size_matched>0]
-            stake = sum(o.size_matched for o in backs)
-            best_lay = get_price(r.ex.available_to_lay, 0)
-            if not best_lay: 
-                self.log.info(f"Hedge failed : no best_lay ")   
-                return
-            av = self.avg_back_odds(market, r.selection_id)
-            if not av: 
-                self.log.info(f"Hedge failed : no average back odds returned - potentially no back bets, or if there are they are placed in different runtime ?")   
-                return
-            hsize = (av*stake - stake) / best_lay
-            if hsize <= 0:
-                self.log.info(f"Hedge canceled: hedge size less than 0")
-                return
-            self.log.info(f"Closing risk : runner {r.selection_id}, hedge size {round(hsize,2)} @  hedge price {best_lay}")
-            trade = Trade(market_book.market_id, r.selection_id, r.handicap, self)
-            order = trade.create_order("LAY", LimitOrder(best_lay + 3, round(hsize,2),  persistence_type="LAPSE"))
-            market.place_order(order)
-            self.log.info(f"Hedged selection {r}, {market_book.market_id} " )
+            if not self.startdt: self.startdt = market_book.publish_time
+            elapsed = market_book.publish_time.timestamp() - self.startdt.timestamp()
+            # self.log.debug(f"Process_market_book: {market.event_name} {market.market_id}, time elapsed {elapsed},  publishtime:{market_book.publish_time}")
+    
+            if elapsed > 1:
+                for r in market_book.runners:
+                    now_dt = market_book.publish_time
+                    #+str(int(now_dt.microsecond/100000)
+                    context = f"->{market.market_id} {r.selection_id} "
+                    back_total, avg_back, lay_total, avg_lay = self.matched_summary(r,market)
+                    runner_context = self.get_runner_context(market.market_id, r.selection_id, r.handicap)
+
+                    key = (market.market_id, r.selection_id)
+                    p = self._price_now(r)
+                    if not p : return
+                    self.log.debug(f"Market tick for {context}, price {p}")
+                    
+                    if p and p < self.enter_threshold:
+                        if runner_context.live_trade_count == 0:
+                            self.log.info(f"Trigger back trade: {context} placing order, price {p}")
+                            back = round(get_price(r.ex.available_to_lay, 0) + self.price_add,2)
+                            trade = Trade(market_book.market_id, r.selection_id, r.handicap, self, notes={"entry_px": back})
+                            order = trade.create_order(side="BACK", 
+                                                       order_type=LimitOrder(back, self.context["stake"])
+                                                       )
+                            try:
+                                market.place_order(order)
+                            except Exception as e:
+                                self.log.warning(str(e)) 
+                            self.log.info({"ORDER PLACED": context, "price":back})
+    
+                    if p > self.exit_threshold and back_total:
+                        bestb, _ , bestl ,_ = self.best_prices_for_runner(r)
+                        loss_on_loss_covered_prc = round(lay_total / back_total,2)
+                        cover_ratio = 0.3
+                        if loss_on_loss_covered_prc < cover_ratio:
+                            if runner_context.live_trade_count == 0:
+                                self.log.warning(f"Seeing reason to hedge: {context}, ltp {p} \
+                                \n back_total:{back_total}, avg_back:{avg_back}, lay_total:{lay_total}, avg_lay:{avg_lay}.\
+                        \n Loss Cover Ratio:{lay_total}/{back_total} = {loss_on_loss_covered_prc} : Hedging as ratio < {cover_ratio} \
+                        \n Bestback : {bestb} , bestlay : {bestl}")
+                                self.hedge_selection(r, market, market_book, p, context, size=2, price=bestl)
+                                
         except Exception as e:
-            self.log.info(f"Failed to hedge because : {str(e)}") 
+            self.log.warning(f"Failed to process market book : {str(e)}")
+            
+    def hedge_selection(self,r, market, market_book, p, context, size, price):
+        try:
+            self.log.warning(f"LAY order pre send : {r.selection_id}, hedge size {size}@ hedge price {price}")
+            trade = Trade(market_book.market_id, r.selection_id, r.handicap, self)
+            order = trade.create_order("LAY", order_type=LimitOrder(price, size))
+            market.place_order(order)
+            self.log.warning(f"LAY order placed : {context} " )
+        except Exception as e:
+            self.log.warning(f"Failed send LAY order  : {str(e)}")
+            
 
     def process_orders(self, market, orders):
         for order in orders:
@@ -146,7 +173,7 @@ class FlumineStrat(BaseStrategy):
         self.log.info(f"Processing closed market: {market.event_name}, {market.market_id}")
         for order in market.blotter:
             self.pnl += order.profit
-            self.log.info(f"Order PNL {order.profit}, av size matched: {order.size_matched} av price matched: {order.average_price_matched}, date_time_created: {order.date_time_created}")
+            self.log.warning(f"Order PNL {order.profit}, av size matched: {order.size_matched} av price matched: {order.average_price_matched}, date_time_created: {order.date_time_created}")
         self.log.warning(f"Total pnl for market:{market.event_name}, {market.market_id}, : PNL :: {self.pnl}")
 
 # load .env
