@@ -13,3 +13,4 @@ __pycache__/
 jobs/__pycache__/
 .vscode/
 poetry.toml
+anaconda*
