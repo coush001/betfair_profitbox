@@ -11,7 +11,7 @@ Environment=RECORDER_GZIP_LEVEL=6
 WorkingDirectory=/root
 
 
-ExecStart=/root/betting/.venv/bin/python -u /root/betting/tools_project/md_recorder.py
+ExecStart=/root/betting/.venv/bin/python -u /root/betting/jobs/md_recorder.py
 # Send SIGINT so the script's try/finally runs and gzip closes
 KillSignal=SIGINT
 ExecStop=/bin/kill -s SIGINT $MAINPID

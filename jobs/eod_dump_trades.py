@@ -32,7 +32,8 @@ from dotenv import load_dotenv
 load_dotenv()
 import pandas as pd
 from betfairlightweight import APIClient, filters
-
+import warnings
+warnings.filterwarnings("ignore", category=FutureWarning, message=".*.DataFrame concatenation*")
 
 # ---------------- Config ----------------
 CERT_CRT = "/root/betting/certs/client-2048.crt"
