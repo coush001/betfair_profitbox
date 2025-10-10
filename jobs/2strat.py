@@ -23,7 +23,7 @@ from flumine import Flumine, clients
 import os
 from dotenv import load_dotenv
 from pathlib import Path
-
+import traceback
 
 
 print("strat start")
@@ -149,7 +149,8 @@ class FlumineStrat(BaseStrategy):
                                 self.hedge_selection(r, market, market_book, p, context, size=2, price=bestl+2)
                                 
         except Exception as e:
-            self.log.warning(f"Failed to process market book : {str(e)}")
+            tb = traceback.format_exc()
+            self.log.warning(f"Failed to process market book: {e}\n{tb}")
             
     def hedge_selection(self,r, market, market_book, p, context, size, price):
         try:

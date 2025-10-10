@@ -1,11 +1,11 @@
 [Unit]
-Description=Run strat_trades_report.service daily at 22:30 UTC
+Description=Run eod_jobs.service daily at 22:30 UTC
 
 [Timer]
 # Run every day at 22:30 UTC (explicit UTC so DST/local TZ don't affect it)
 OnCalendar=*-*-* 22:30:00 UTC
 Persistent=true
-Unit=strat_trades_report.service
+Unit=eod_jobs.service
 # Optional jitter / precision:
 # RandomizedDelaySec=2min
 # AccuracySec=1s
