@@ -7,6 +7,7 @@ WorkingDirectory=/root
 ExecStart=/root/betting/.venv/bin/python -u /root/betting/jobs/eod_dump_trades.py
 ExecStart=/root/betting/.venv/bin/python -u /root/betting/jobs/eod_gen_trade_charts.py
 ExecStart=/root/betting/jobs/eod_archive_md.sh
+ExecStart=/root/betting/.venv/bin/python ./betting/tools_project/send_report_mail.py
 
 [Install]
 WantedBy=multi-user.target

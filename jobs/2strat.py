@@ -146,7 +146,7 @@ class FlumineStrat(BaseStrategy):
                                 \n back_total:{back_total}, avg_back:{avg_back}, lay_total:{lay_total}, avg_lay:{avg_lay}.\
                         \n Loss Cover Ratio:{lay_total}/{back_total} = {loss_on_loss_covered_prc} : Hedging as ratio < {cover_ratio} \
                         \n Bestback : {bestb} , bestlay : {bestl}")
-                                self.hedge_selection(r, market, market_book, p, context, size=2, price=bestl+2)
+                                self.hedge_selection(r, market, market_book, p, context, size=2, price=10)
                                 
         except Exception as e:
             tb = traceback.format_exc()
