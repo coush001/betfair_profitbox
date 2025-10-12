@@ -5,6 +5,7 @@ plot_market_ltp_and_runner_volume.py
 Top subplot:
   • LTP (last traded price, log scale), per runner.
   • Runners with fewer than --min-ticks (default 40) raw LTP ticks are removed.
+  • NEW: --every-ltp plots every raw LTP tick (no 1s resample).
 
 Bottom subplot:
   • Per-runner matched amounts (same colors as top):
@@ -65,7 +66,14 @@ def parse_stream(path: str, skip_lines: int = 50):
 
 # ---------- LTP series ----------
 
-def build_ltp_series(path: str, skip_lines: int = 50, min_ticks: int = 40):
+def build_ltp_series(path: str, skip_lines: int = 50, min_ticks: int = 40, every_ltp: bool = False):
+    """
+    Returns:
+      market_id, dict(selection_id -> DataFrame[time, ltp])
+
+    If every_ltp=True: plot raw ticks (no 1s resample).
+    Else: resample to 1s (default behaviour).
+    """
     raw_points = defaultdict(list)
     market_id = None
     for ts, mid, _mc, rcs in parse_stream(path, skip_lines=skip_lines):
@@ -83,9 +91,14 @@ def build_ltp_series(path: str, skip_lines: int = 50, min_ticks: int = 40):
             dropped.append((sid, len(rows)))
             continue
         df = pd.DataFrame(rows).sort_values("time")
-        df = df.drop_duplicates(subset=["time"]).set_index("time")
-        df = df.resample("1S").last().dropna(subset=["ltp"])
-        kept[sid] = df.reset_index()
+        if every_ltp:
+            # Keep every raw tick; drop exact-duplicate timestamps only
+            df = df.drop_duplicates(subset=["time"]).reset_index(drop=True)
+        else:
+            # 1-second resample (previous behaviour)
+            df = df.drop_duplicates(subset=["time"]).set_index("time")
+            df = df.resample("1S").last().dropna(subset=["ltp"]).reset_index()
+        kept[sid] = df
 
     if dropped:
         info = ", ".join(f"{sid}({n})" for sid, n in sorted(dropped))
@@ -194,10 +207,9 @@ def plot_market(market_id, data_by_sel, per_runner_volume, out_path, market_name
 
     # --- Bottom: per-runner matched amounts ---
     any_volume = False
-    # Bar width for 10-minute bars in "days" (Matplotlib date units)
-    bar_width_days = 10.0 / (24.0 * 60.0)  # 10 minutes
+    bar_width_days = 10.0 / (24.0 * 60.0)  # 10 minutes in Matplotlib date units
     for sid in sorted(per_runner_volume.keys()):
-        if sid not in data_by_sel:  # remain consistent with top filter
+        if sid not in data_by_sel:  # stay consistent with top filter
             continue
         vol_df = per_runner_volume[sid]
         if vol_df is None or vol_df.empty:
@@ -208,7 +220,7 @@ def plot_market(market_id, data_by_sel, per_runner_volume, out_path, market_name
         # Cumulative line
         ax_vol.plot(vol_df.index, vol_df["total_matched"], lw=1.5, label=f"Runner {sid} cum", color=c)
 
-        # 10-minute bucket bars (semi-transparent to reduce overlap)
+        # 10-minute bucket bars
         bucket = vol_df["bucket_10min"].dropna()
         if not bucket.empty:
             ax_vol.bar(bucket.index, bucket.values, width=bar_width_days, align="center",
@@ -247,6 +259,8 @@ def main():
     ap.add_argument("--skip", type=int, default=50, help="Lines to skip (default 50)")
     ap.add_argument("--min-ticks", type=int, default=40,
                     help="Minimum LTP/matched ticks required per runner (default 40)")
+    ap.add_argument("--every-ltp", action="store_true",
+                    help="Plot every raw LTP tick (no 1-second resample).")
     args = ap.parse_args()
 
     if not os.path.isfile(args.path):
@@ -255,8 +269,12 @@ def main():
     base = args.path[:-3] if args.path.endswith(".gz") else args.path
     out = args.out or f"{base}_ltp_runner_volume_plot.png"
 
-    mid, ltp_data = build_ltp_series(args.path, skip_lines=args.skip, min_ticks=args.min_ticks)
-    per_runner_vol = build_runner_matched_series(args.path, skip_lines=args.skip, min_ticks=args.min_ticks)
+    mid, ltp_data = build_ltp_series(
+        args.path, skip_lines=args.skip, min_ticks=args.min_ticks, every_ltp=args.every_ltp
+    )
+    per_runner_vol = build_runner_matched_series(
+        args.path, skip_lines=args.skip, min_ticks=args.min_ticks
+    )
     plot_market(mid, ltp_data, per_runner_vol, out, args.market_name)
 
 

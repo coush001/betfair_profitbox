@@ -12,16 +12,16 @@ command -v aws >/dev/null 2>&1 || { echo "ERROR: aws CLI not found"; exit 1; }
 [ -d "$BASE_DIR" ] || { echo "ERROR: BASE_DIR not found: $BASE_DIR"; exit 1; }
 mkdir -p "$(dirname "$LOG_FILE")"
 
-today="$(date +%F)"   # e.g., 2025-10-11
 
 log() {
   echo "[$(date -Iseconds)] $*" | tee -a "$LOG_FILE"
 }
 
-# Find top-level day folders like YYYY-MM-DD (exclude today)
+cutoff_date="$(date -d '5 days ago' +%F)"  # only archive strictly older than this
+
 mapfile -t days < <(find "$BASE_DIR" -mindepth 1 -maxdepth 1 -type d -printf '%f\n' \
   | grep -E '^[0-9]{4}-[0-9]{2}-[0-9]{2}$' \
-  | grep -v "^${today}$" \
+  | awk -v cutoff="$cutoff_date" '$0 < cutoff' \
   | sort)
 
 if [ "${#days[@]}" -eq 0 ]; then
