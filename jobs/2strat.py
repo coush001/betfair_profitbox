@@ -12,7 +12,7 @@ from flumine.order.trade import Trade
 from flumine.order.order import OrderStatus
 from flumine.order.ordertype import LimitOrder
 from flumine.utils import get_price
-from betting.tools_strategy.setup_logging import build_logger
+from betting.strat_utils.setup_logging import build_logger
 from uuid import uuid4
 import time
 from datetime import timedelta, datetime, timezone
@@ -118,14 +118,21 @@ class FlumineStrat(BaseStrategy):
                     runner_context = self.get_runner_context(market.market_id, r.selection_id, r.handicap)
 
                     key = (market.market_id, r.selection_id)
-                    p = self._price_now(r)
-                    if not p : return
-                    self.log.debug(f"Market tick for {context}, price {p}")
+                    ltp = self._price_now(r)
+                    if not ltp : return
+                    self.log.debug(f"Market tick for {context}, price {ltp}")
                     
-                    if p and p < self.enter_threshold:
+                    if ltp and ltp < self.enter_threshold:
                         if runner_context.live_trade_count == 0:
-                            self.log.info(f"Trigger back trade: {context} placing order, price {p}")
-                            back = round(get_price(r.ex.available_to_lay, 0) + self.price_add,2)
+                            self.log.info(f"Trigger back trade: {context} placing order, price {ltp}")
+                            back0 = get_price(r.ex.available_to_lay, 0)          # best lay to hit your BACK
+                            if back0 is None:
+                                # choose a policy: skip, or fallback to LTP/best back
+                                back0 = ltp or (get_price(r.ex.available_to_back, 0))
+                            if back0 is None: # still nothing -> skip this runner safely
+                                return  # or `continue` inside a loop
+                            back = round(back0 + self.price_add, 2)
+
                             trade = Trade(market_book.market_id, r.selection_id, r.handicap, self, notes={"entry_px": back})
                             order = trade.create_order(side="BACK", 
                                                        order_type=LimitOrder(back, self.context["stake"])
@@ -136,23 +143,23 @@ class FlumineStrat(BaseStrategy):
                                 self.log.warning(str(e)) 
                             self.log.info({"ORDER PLACED": context, "price":back})
     
-                    if p > self.exit_threshold and back_total:
+                    if ltp > self.exit_threshold and back_total:
                         bestb, _ , bestl ,_ = self.best_prices_for_runner(r)
                         loss_on_loss_covered_prc = round(lay_total / back_total,2)
                         cover_ratio = 0.3
                         if loss_on_loss_covered_prc < cover_ratio:
                             if runner_context.live_trade_count == 0:
-                                self.log.warning(f"Seeing reason to hedge: {context}, ltp {p} \
+                                self.log.warning(f"Seeing reason to hedge: {context}, ltp {ltp} \
                                 \n back_total:{back_total}, avg_back:{avg_back}, lay_total:{lay_total}, avg_lay:{avg_lay}.\
                         \n Loss Cover Ratio:{lay_total}/{back_total} = {loss_on_loss_covered_prc} : Hedging as ratio < {cover_ratio} \
                         \n Bestback : {bestb} , bestlay : {bestl}")
-                                self.hedge_selection(r, market, market_book, p, context, size=2, price=10)
+                                self.hedge_selection(r, market, market_book, ltp, context, size=2, price=10)
                                 
         except Exception as e:
             tb = traceback.format_exc()
             self.log.warning(f"Failed to process market book: {e}\n{tb}")
             
-    def hedge_selection(self,r, market, market_book, p, context, size, price):
+    def hedge_selection(self,r, market, market_book, ltp, context, size, price):
         try:
             self.log.warning(f"LAY order pre send : {r.selection_id}, hedge size {size}@ hedge price {price}")
             trade = Trade(market_book.market_id, r.selection_id, r.handicap, self)

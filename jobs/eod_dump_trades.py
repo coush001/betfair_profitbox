@@ -1,5 +1,5 @@
 #!/root/betting/.venv/bin/python
-# /root/betting/tools_project/strat_trades_report.py
+# /root/betting/tools/strat_trades_report.py
 """
 Rolling 7-day per-trade dump (Betfair):
 - Settled bets → file dated by their settled_date (UTC)
@@ -13,7 +13,7 @@ Certs:
   /root/betting/certs/client-2048.key
 
 Usage:
-  cd /root/betting/tools_project/
+  cd /root/betting/tools/
   python strat_trades_report.py
   # Optional: --outdir /root/betting/store/trade_csv
 Output:

@@ -87,7 +87,7 @@ body1 = run_script(run_this)
 run_this = "/root/betting/jobs/eod_gen_trade_charts.py"
 _null = run_script(run_this)
 
-refresh_chart = "/root/betting/tools_project/pnl_chart.py"
+refresh_chart = "/root/betting/tools/pnl_chart.py"
 body1 += run_script(refresh_chart)
 
 chart_path = Path("/root/betting/store/account_stats/date_equity_pnl.png")
@@ -109,7 +109,7 @@ send_email(
 )
 
 # 2) Next 24h markets (no attachment)
-# MARKETS = "/root/betting/tools_project/next_24h_cricket_markets.py"
+# MARKETS = "/root/betting/tools/next_24h_cricket_markets.py"
 # body2 = run_script(MARKETS)
 # send_email(
 #     subject=f"Next 24hr Markets {now_utc}",
