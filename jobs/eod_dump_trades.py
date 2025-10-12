@@ -20,7 +20,7 @@ Usage:
   # If --date omitted, uses TODAY (UTC)
 
 Output:
-  CSV → /root/betting/store/reports/pnl_per_trade_YYYY-MM-DD.csv
+  CSV → /root/betting/store/trade_csv/YYYY-MM-DD.csv
   Plus a per-strategy summary printed to stdout.
 """
 import os
@@ -38,7 +38,7 @@ warnings.filterwarnings("ignore", category=FutureWarning) #, message=".*.DataFra
 # ---------------- Config ----------------
 CERT_CRT = "/root/betting/certs/client-2048.crt"
 CERT_KEY = "/root/betting/certs/client-2048.key"
-DEFAULT_OUTDIR = "/root/betting/store/reports"
+DEFAULT_OUTDIR = "/root/betting/store/trade_csv"
 
 
 # ---------------- Helpers ----------------
@@ -236,7 +236,7 @@ def main():
     start_utc, end_utc = utc_bounds(day)
 
     os.makedirs(args.outdir, exist_ok=True)
-    out_csv = os.path.join(args.outdir, f"pnl_per_trade_{day.isoformat()}.csv")
+    out_csv = os.path.join(args.outdir, f"{day.isoformat()}.csv")
 
     client = client_login()
 

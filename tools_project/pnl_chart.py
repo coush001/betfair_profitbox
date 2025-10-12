@@ -18,7 +18,7 @@ import re
 
 # --- Paths ---
 BASE = Path("/root/betting")
-CSV_PATH = BASE / "store/date_equity_pnl.csv"
+CSV_PATH = BASE / "store/account_stats/date_equity_pnl.csv"
 PNG_PATH = CSV_PATH.with_suffix(".png")
 README_PATH = BASE / "README.md"
 

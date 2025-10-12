@@ -19,7 +19,7 @@ import betfairlightweight as bflw
 from betfairlightweight.filters import time_range
 
 # --------------------------------------------------------------------
-CSV_PATH = Path("/root/betting/store/date_equity_pnl.csv")
+CSV_PATH = Path("/root/betting/store/account_stats/date_equity_pnl.csv")
 CERTS    = ("/root/betting/certs/client-2048.crt",
             "/root/betting/certs/client-2048.key")
 TZ_LOCAL = ZoneInfo("UTC")   # daily PnL window in UTC

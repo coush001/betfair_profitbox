@@ -9,9 +9,9 @@ from collections import defaultdict
 
 # ===== CONFIG =====
 TODAY = datetime.utcnow().strftime("%Y-%m-%d")
-CSV_PATH = f"/root/betting/store/reports/pnl_per_trade_{TODAY}.csv"
-OUT_DIR = "/root/betting/store/reports/trade_charts"
-OUT_IMG = os.path.join(OUT_DIR, f"trade_charts_{TODAY}.png")
+CSV_PATH = f"/root/betting/store/trade_csv/{TODAY}.csv"
+OUT_DIR = "/root/betting/store/trade_chart"
+OUT_IMG = os.path.join(OUT_DIR, f"{TODAY}.png")
 CACHE_JSON = "/root/betting/store/cache/market_selection_names.json"
 
 CATALOGUE_CSV_CANDIDATES = [

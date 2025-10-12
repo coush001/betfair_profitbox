@@ -90,17 +90,17 @@ _null = run_script(run_this)
 refresh_chart = "/root/betting/tools_project/pnl_chart.py"
 body1 += run_script(refresh_chart)
 
-chart_path = Path("/root/betting/store/date_equity_pnl.png")
+chart_path = Path("/root/betting/store/account_stats/date_equity_pnl.png")
 if chart_path.is_file():
     body1 += "\n\n📈 Attached: daily PnL chart (date_equity_pnl.png)"
 
 
 TODAY = datetime.utcnow().strftime("%Y-%m-%d")
-CSV_PATH = f"/root/betting/store/reports/pnl_per_trade_{TODAY}.csv"
-OUT_DIR = "/root/betting/store/reports/trade_charts"
-OUT_IMG = Path(os.path.join(OUT_DIR, f"trade_charts_{TODAY}.png"))
+CSV_PATH = f"/root/betting/store/trade_csv/{TODAY}.csv"
+OUT_DIR = "/root/betting/store/trade_chart"
+OUT_IMG = Path(os.path.join(OUT_DIR, f"{TODAY}.png"))
 if OUT_IMG.is_file():
-    body1 += "\n📈 Attached: daily PnL chart" + f"trade_charts_{TODAY}.png"
+    body1 += "\n📈 Attached: daily PnL chart" + f"{TODAY}.png"
 
 send_email(
     subject=f"Betfair trading report {now_utc}",
