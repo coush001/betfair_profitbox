@@ -1,1 +1,1 @@
-![PnL chart](store/date_equity_pnl.png)
+![PnL chart](store/account_stats/date_equity_pnl.png)

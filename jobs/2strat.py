@@ -40,7 +40,7 @@ class FlumineStrat(BaseStrategy):
         self.order_hold = order_hold
         self.price_add = price_add
         self.startdt = None
-        self._last = {}    # order_id -> last size_matched
+        self._last_matched = {}    # order_id -> last size_matched
         self.rows = []     # collected fills: [market_id, selection_id, time, size, price, side, order_id]
         self.pnl = 0.0     
 
@@ -124,7 +124,7 @@ class FlumineStrat(BaseStrategy):
                     
                     if ltp and ltp < self.enter_threshold:
                         if runner_context.live_trade_count == 0:
-                            self.log.info(f"Trigger back trade: {context} placing order, price {ltp}")
+                            self.log.info(f"Trigger back trade: {context} placing order, ltp price {ltp}")
                             back0 = get_price(r.ex.available_to_lay, 0)          # best lay to hit your BACK
                             if back0 is None:
                                 # choose a policy: skip, or fallback to LTP/best back
@@ -134,14 +134,12 @@ class FlumineStrat(BaseStrategy):
                             back = round(back0 + self.price_add, 2)
 
                             trade = Trade(market_book.market_id, r.selection_id, r.handicap, self, notes={"entry_px": back})
-                            order = trade.create_order(side="BACK", 
-                                                       order_type=LimitOrder(back, self.context["stake"])
-                                                       )
+                            order = trade.create_order(side="BACK", order_type=LimitOrder(back, self.context["stake"]))
                             try:
                                 market.place_order(order)
                             except Exception as e:
                                 self.log.warning(str(e)) 
-                            self.log.info({"ORDER PLACED": context, "price":back})
+                            self.log.info({"ORDER PLACED": context, "order placed at back price : ":back})
     
                     if ltp > self.exit_threshold and back_total:
                         bestb, _ , bestl ,_ = self.best_prices_for_runner(r)
@@ -153,7 +151,9 @@ class FlumineStrat(BaseStrategy):
                                 \n back_total:{back_total}, avg_back:{avg_back}, lay_total:{lay_total}, avg_lay:{avg_lay}.\
                         \n Loss Cover Ratio:{lay_total}/{back_total} = {loss_on_loss_covered_prc} : Hedging as ratio < {cover_ratio} \
                         \n Bestback : {bestb} , bestlay : {bestl}")
-                                self.hedge_selection(r, market, market_book, ltp, context, size=2, price=10)
+                                lay_price = 10
+                                if lay_price > bestl: self.log.warning(f"{context }layprice {lay_price} > bestlay, so expecting a FILL! ")
+                                self.hedge_selection(r, market, market_book, ltp, context, size=2, price=lay_price)
                                 
         except Exception as e:
             tb = traceback.format_exc()
@@ -175,14 +175,31 @@ class FlumineStrat(BaseStrategy):
             if order.status == OrderStatus.EXECUTABLE:
                 if order.elapsed_seconds and order.elapsed_seconds > self.order_hold:
                      market.cancel_order(order)
-
+        try:
+            for o in orders:
+                prev = self._last_matched.get(o.id, 0)
+                curr = o.size_matched or 0
+                if curr > prev:
+                    inc = curr - prev
+                    side = o.side
+                    mid  = market.market_id
+                    sid  = getattr(o.trade, "selection_id", None)
+                    print(f"⚡⚡ Order FILL | {side:<4} | runner={sid} | market={mid} | {inc:.2f} matched @ {o.average_price_matched:.2f} ({curr:.2f} total)")
+                self._last_matched[o.id] = curr
+        except Exception as e:
+            tb = traceback.format_exc()
+            self.log.warning(f"Failed to print order fill state: {e}\n{tb}")
+    
     def process_closed_market(self, market, market_book):
         self.pnl = 0.0
         self.log.info(f"Processing closed market: {market.event_name}, {market.market_id}")
         for order in market.blotter:
             self.pnl += order.profit
-            self.log.warning(f"Order PNL {order.profit}, av size matched: {order.size_matched} av price matched: {order.average_price_matched}, date_time_created: {order.date_time_created}")
+            self.log.info(f"Order PNL {order.profit}, av size matched: {order.size_matched} av price matched: {order.average_price_matched}, date_time_created: {order.date_time_created}")
         self.log.warning(f"Total pnl for market:{market.event_name}, {market.market_id}, : PNL :: {self.pnl}")
+
+
+#=========================
 
 # load .env
 load_dotenv()
