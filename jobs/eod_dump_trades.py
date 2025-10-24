@@ -1,5 +1,5 @@
-#!/root/betting/.venv/bin/python
-# /root/betting/tools/strat_trades_report.py
+#!/root/betfair_profitbox/.venv/bin/python
+# /root/betfair_profitbox/tools/strat_trades_report.py
 """
 Rolling 7-day per-trade dump (Betfair):
 - Settled bets → file dated by their settled_date (UTC)
@@ -9,15 +9,15 @@ Rolling 7-day per-trade dump (Betfair):
 Auth env:
   BETFAIR_USERNAME, BETFAIR_PASSWORD, BETFAIR_APP_KEY
 Certs:
-  /root/betting/certs/client-2048.crt
-  /root/betting/certs/client-2048.key
+  /root/betfair_profitbox/certs/client-2048.crt
+  /root/betfair_profitbox/certs/client-2048.key
 
 Usage:
-  cd /root/betting/tools/
+  cd /root/betfair_profitbox/tools/
   python strat_trades_report.py
-  # Optional: --outdir /root/betting/store/trade_csv
+  # Optional: --outdir /root/betfair_profitbox/store/trade_csv
 Output:
-  CSVs → /root/betting/store/trade_csv/YYYY-MM-DD.csv
+  CSVs → /root/betfair_profitbox/store/trade_csv/YYYY-MM-DD.csv
 """
 import os, sys, argparse, datetime as dt, warnings, shutil, tempfile
 from collections import defaultdict
@@ -28,9 +28,9 @@ from betfairlightweight import APIClient, filters
 warnings.filterwarnings("ignore", category=FutureWarning)
 
 # -------- Config --------
-CERT_CRT = "/root/betting/certs/client-2048.crt"
-CERT_KEY = "/root/betting/certs/client-2048.key"
-DEFAULT_OUTDIR = "/root/betting/store/trade_csv"
+CERT_CRT = "/root/betfair_profitbox/certs/client-2048.crt"
+CERT_KEY = "/root/betfair_profitbox/certs/client-2048.key"
+DEFAULT_OUTDIR = "/root/betfair_profitbox/store/trade_csv"
 ROLLING_DAYS = 7  # last N days window (inclusive of today)
 
 # -------- Helpers --------

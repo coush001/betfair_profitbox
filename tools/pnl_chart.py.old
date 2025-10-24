@@ -1,9 +1,9 @@
-#!/root/betting/.venv/bin/python
+#!/root/betfair_profitbox/.venv/bin/python
 # -*- coding: utf-8 -*-
 
 """
 Plot account equity, balances, exposure, and PnL from:
-  /root/betting/store/date_equity_pnl.csv
+  /root/betfair_profitbox/store/date_equity_pnl.csv
 
 Then save plot as PNG and update README.md to embed the image.
 
@@ -17,7 +17,7 @@ from pathlib import Path
 import re
 
 # --- Paths ---
-BASE = Path("/root/betting")
+BASE = Path("/root/betfair_profitbox")
 CSV_PATH = BASE / "store/account_stats/date_equity_pnl.csv"
 PNG_PATH = CSV_PATH.with_suffix(".png")
 README_PATH = BASE / "README.md"

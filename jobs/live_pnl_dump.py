@@ -1,6 +1,6 @@
-#!/root/betting/betenv/bin/python3
+#!/root/betfair_profitbox/betenv/bin/python3
 """
-Append a line to /root/betting/store/date_equity_pnl.csv
+Append a line to /root/betfair_profitbox/store/date_equity_pnl.csv
 
 Columns (in order):
     timestamp_utc, total_equity, available_balance,
@@ -19,9 +19,9 @@ import betfairlightweight as bflw
 from betfairlightweight.filters import time_range
 
 # --------------------------------------------------------------------
-CSV_PATH = Path("/root/betting/store/account_stats/date_equity_pnl.csv")
-CERTS    = ("/root/betting/certs/client-2048.crt",
-            "/root/betting/certs/client-2048.key")
+CSV_PATH = Path("/root/betfair_profitbox/store/account_stats/date_equity_pnl.csv")
+CERTS    = ("/root/betfair_profitbox/certs/client-2048.crt",
+            "/root/betfair_profitbox/certs/client-2048.key")
 TZ_LOCAL = ZoneInfo("UTC")   # daily PnL window in UTC
 
 def ts() -> str:

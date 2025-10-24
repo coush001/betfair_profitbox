@@ -1,4 +1,4 @@
-#!/root/betting/.venv/bin/python
+#!/root/betfair_profitbox/.venv/bin/python
 # md_recorder_v5.py — per-market raw mcm recorder (in-play only), crash-safe with .part + finalize
 import os, gzip, json, logging, datetime as dt, shutil
 
@@ -7,7 +7,7 @@ from betfairlightweight import filters
 from dotenv import load_dotenv
 
 # -------- settings --------
-BASE = "/root/betting/research/hist_data/self_recorded"
+BASE = "/root/betfair_profitbox/research/hist_data/self_recorded"
 EVENT_TYPE_IDS = ["4"]   # e.g. 1=soccer, 4=tennis, 7=horse racing
 LOOKAHEAD_HOURS = 24
 MAX_MARKETS = 200
@@ -260,7 +260,7 @@ if __name__ == "__main__":
 
     c = bflw.APIClient(
         username=USERNAME, app_key=APP_KEY, password=PASSWORD,
-        cert_files=("/root/betting/certs/client-2048.crt", "/root/betting/certs/client-2048.key"),
+        cert_files=("/root/betfair_profitbox/certs/client-2048.crt", "/root/betfair_profitbox/certs/client-2048.key"),
     )
     c.login()
     log.info("✅ REST login OK")

@@ -9,11 +9,11 @@ Type=simple
 User=root
 WorkingDirectory=/root
 # Drop the file dependency unless you actually use it
-# EnvironmentFile=-/root/betting/.env
+# EnvironmentFile=-/root/betfair_profitbox/.env
 # Inline what you need:
 Environment="PYTHONUNBUFFERED=1" "PYTHONPATH=/root"
 # RUN AS MODULE so absolute imports work
-ExecStart=/root/betting/.venv/bin/python -u -m betting.jobs.2strat
+ExecStart=/root/betfair_profitbox/.venv/bin/python -u -m betting.jobs.2strat
 Restart=always
 RestartSec=5
 KillSignal=SIGINT

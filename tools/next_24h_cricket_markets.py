@@ -1,4 +1,4 @@
-#!/root/betting/.venv/bin/python
+#!/root/betfair_profitbox/.venv/bin/python
 # -*- coding: utf-8 -*-import os
 from datetime import datetime, timedelta, timezone
 import betfairlightweight as bflw

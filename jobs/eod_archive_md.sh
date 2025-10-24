@@ -2,7 +2,7 @@
 set -euo pipefail
 
 # === Config ===
-BASE_DIR="/root/betting/research/hist_data/self_recorded"
+BASE_DIR="/root/betfair_profitbox/research/hist_data/self_recorded"
 S3_PREFIX="s3://s3-betbucket/self_recorded"   # change if you want a different prefix in the bucket
 DRY_RUN="${DRY_RUN:-0}"                       # set DRY_RUN=1 to simulate
 LOG_FILE="${LOG_FILE:-/var/log/s3-archive-md.log}"

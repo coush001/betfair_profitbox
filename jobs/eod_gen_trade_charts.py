@@ -1,4 +1,4 @@
-#!/root/betting/.venv/bin/python
+#!/root/betfair_profitbox/.venv/bin/python
 # plot_trades_grid.py — plot (market_id, selection_id) that settled today; include all their trades from last 7d
 # Names populated via Betfair API **list_cleared_orders(includeItemDescription=True)** with very verbose logging.
 # Winners populated via Betfair API **list_market_book** (runner.status == "WINNER").
@@ -14,11 +14,11 @@ from collections import defaultdict
 TODAY_DT = datetime.now(timezone.utc).date()
 TODAY = TODAY_DT.strftime("%Y-%m-%d")
 
-CSV_DIR = "/root/betting/store/trade_csv"
-OUT_DIR = "/root/betting/store/trade_chart"
+CSV_DIR = "/root/betfair_profitbox/store/trade_csv"
+OUT_DIR = "/root/betfair_profitbox/store/trade_chart"
 OUT_IMG = os.path.join(OUT_DIR, f"{TODAY}.png")
 
-CACHE_JSON = "/root/betting/store/cache/market_selection_names.json"
+CACHE_JSON = "/root/betfair_profitbox/store/cache/market_selection_names.json"
 LOOKBACK_DAYS = 7  # scan last N days of CSVs for trades
 
 VERBOSE = True
@@ -186,10 +186,10 @@ def api_fill_names_from_cleared_orders(market_to_selids, lookback_days=7):
             log("❌ Missing BETFAIR_* env vars. Skipping API enrichment.")
             return
 
-        log("Logging in to Betfair API for cleared orders (cert files expected in /root/betting/certs/...)")
+        log("Logging in to Betfair API for cleared orders (cert files expected in /root/betfair_profitbox/certs/...)")
         trading = bflw.APIClient(
             user, pwd, appk,
-            cert_files=("/root/betting/certs/client-2048.crt", "/root/betting/certs/client-2048.key"),
+            cert_files=("/root/betfair_profitbox/certs/client-2048.crt", "/root/betfair_profitbox/certs/client-2048.key"),
         )
         trading.login()
         log("✅ Betfair REST login OK (cleared orders)")
@@ -285,7 +285,7 @@ def api_mark_winners_via_marketbook(market_ids):
         log("Logging in to Betfair API for MarketBook winners...")
         trading = bflw.APIClient(
             user, pwd, appk,
-            cert_files=("/root/betting/certs/client-2048.crt", "/root/betting/certs/client-2048.key"),
+            cert_files=("/root/betfair_profitbox/certs/client-2048.crt", "/root/betfair_profitbox/certs/client-2048.key"),
         )
         trading.login()
         log("✅ Betfair REST login OK (market book)")

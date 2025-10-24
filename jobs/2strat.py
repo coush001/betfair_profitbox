@@ -1,4 +1,4 @@
-#!/root/betting/.venv/bin/python
+#!/root/betfair_profitbox/.venv/bin/python
 import warnings
 import sys
 import pandas as pd
@@ -209,7 +209,7 @@ PASSWORD = os.getenv("BETFAIR_PASSWORD")
 
 trading = bflw.APIClient(
     USERNAME, app_key=APP_KEY, password=PASSWORD,
-    cert_files=("/root/betting/certs/client-2048.crt", "/root/betting/certs/client-2048.key")
+    cert_files=("/root/betfair_profitbox/certs/client-2048.crt", "/root/betfair_profitbox/certs/client-2048.key")
 )
 trading.login()
 

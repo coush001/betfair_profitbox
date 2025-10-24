@@ -4,10 +4,10 @@ Description=Write daily trades per strat to store/report file
 [Service]
 Type=oneshot
 WorkingDirectory=/root
-ExecStart=/root/betting/.venv/bin/python -u /root/betting/jobs/eod_dump_trades.py
-ExecStart=/root/betting/.venv/bin/python -u /root/betting/jobs/eod_gen_trade_charts.py
-ExecStart=/root/betting/jobs/eod_archive_md.sh
-ExecStart=/root/betting/.venv/bin/python -u /root/betting/tools/send_report_mail.py
+ExecStart=/root/betfair_profitbox/.venv/bin/python -u /root/betfair_profitbox/jobs/eod_dump_trades.py
+ExecStart=/root/betfair_profitbox/.venv/bin/python -u /root/betfair_profitbox/jobs/eod_gen_trade_charts.py
+ExecStart=/root/betfair_profitbox/jobs/eod_archive_md.sh
+ExecStart=/root/betfair_profitbox/.venv/bin/python -u /root/betfair_profitbox/tools/send_report_mail.py
 
 [Install]
 WantedBy=multi-user.target

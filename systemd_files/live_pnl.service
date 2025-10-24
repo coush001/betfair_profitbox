@@ -4,4 +4,4 @@ Description=Write daily Betfair equity/PnL snapshot
 [Service]
 Type=oneshot
 WorkingDirectory=/root
-ExecStart=/root/betting/.venv/bin/python -u /root/betting/jobs/live_pnl_dump.py
+ExecStart=/root/betfair_profitbox/.venv/bin/python -u /root/betfair_profitbox/jobs/live_pnl_dump.py
