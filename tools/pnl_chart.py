@@ -1,16 +1,16 @@
-#!/root/betting/.venv/bin/python
+#!/root/betfair_profitbox/.venv/bin/python
 # -*- coding: utf-8 -*-
 
 """
 Plots:
   1) Account equity / exposure
   2) Daily PnL
-  3) Cumulative gross PnL per strategy (from /root/betting/store/trade_csv/*.csv)
+  3) Cumulative gross PnL per strategy (from /root/betfair_profitbox/store/trade_csv/*.csv)
 And draws a table (inside the PNG) showing current cumulative PnL per strategy + total.
 
 Inputs:
-  /root/betting/store/account_stats/date_equity_pnl.csv
-  /root/betting/store/trade_csv/*.csv  (needs: settled_date, gross_profit, customer_strategy_ref)
+  /root/betfair_profitbox/store/account_stats/date_equity_pnl.csv
+  /root/betfair_profitbox/store/trade_csv/*.csv  (needs: settled_date, gross_profit, customer_strategy_ref)
 """
 
 import pandas as pd
@@ -19,7 +19,7 @@ from pathlib import Path
 import re
 
 # --- Paths ---
-BASE = Path("/root/betting")
+BASE = Path("/root/betfair_profitbox")
 CSV_PATH = BASE / "store/account_stats/date_equity_pnl.csv"
 TRADES_DIR = BASE / "store/trade_csv"
 PNG_PATH = CSV_PATH.with_suffix(".png")

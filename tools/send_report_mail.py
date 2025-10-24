@@ -1,4 +1,4 @@
-#!/root/betting/betenv/bin/python3
+#!/root/betfair_profitbox/betenv/bin/python3
 import os, sys, subprocess, smtplib, ssl, mimetypes
 from email.message import EmailMessage
 from datetime import datetime, timezone
@@ -6,7 +6,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 # --- Config / Env ---
-ENV_PATH = "/root/betting/.env"
+ENV_PATH = "/root/betfair_profitbox/.env"
 load_dotenv(ENV_PATH)
 
 def require(name: str) -> str:
@@ -82,22 +82,22 @@ def send_email(subject: str, body: str, attachments: list[Path] | None = None):
 now_utc = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
 
 # 1) Trading report + optional PNG attachment
-run_this = "/root/betting/jobs/eod_dump_trades.py"
+run_this = "/root/betfair_profitbox/jobs/eod_dump_trades.py"
 body1 = run_script(run_this)
-run_this = "/root/betting/jobs/eod_gen_trade_charts.py"
+run_this = "/root/betfair_profitbox/jobs/eod_gen_trade_charts.py"
 _null = run_script(run_this)
 
-refresh_chart = "/root/betting/tools/pnl_chart.py"
+refresh_chart = "/root/betfair_profitbox/tools/pnl_chart.py"
 body1 += run_script(refresh_chart)
 
-chart_path = Path("/root/betting/store/account_stats/date_equity_pnl.png")
+chart_path = Path("/root/betfair_profitbox/store/account_stats/date_equity_pnl.png")
 if chart_path.is_file():
     body1 += "\n\n📈 Attached: daily PnL chart (date_equity_pnl.png)"
 
 
 TODAY = datetime.utcnow().strftime("%Y-%m-%d")
-CSV_PATH = f"/root/betting/store/trade_csv/{TODAY}.csv"
-OUT_DIR = "/root/betting/store/trade_chart"
+CSV_PATH = f"/root/betfair_profitbox/store/trade_csv/{TODAY}.csv"
+OUT_DIR = "/root/betfair_profitbox/store/trade_chart"
 OUT_IMG = Path(os.path.join(OUT_DIR, f"{TODAY}.png"))
 if OUT_IMG.is_file():
     body1 += "\n📈 Attached: daily PnL chart" + f"{TODAY}.png"
@@ -109,7 +109,7 @@ send_email(
 )
 
 # 2) Next 24h markets (no attachment)
-# MARKETS = "/root/betting/tools/next_24h_cricket_markets.py"
+# MARKETS = "/root/betfair_profitbox/tools/next_24h_cricket_markets.py"
 # body2 = run_script(MARKETS)
 # send_email(
 #     subject=f"Next 24hr Markets {now_utc}",

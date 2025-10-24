@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
-# check_unit_logs.sh — show last 15 journal lines for each .service defined in /root/betting/systemd_files
+# check_unit_logs.sh — show last 15 journal lines for each .service defined in /root/betfair_profitbox/systemd_files
 # Usage: ./check_unit_logs.sh
 
 set -euo pipefail
 
-DIR="/root/betting/systemd_files"
+DIR="/root/betfair_profitbox/systemd_files"
 LINES=15
 
 if [[ ! -d "$DIR" ]]; then

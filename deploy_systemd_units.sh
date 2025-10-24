@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 # deploy_systemd_units.sh
-# Sync unit files from /root/betting/systemd_files/ to /etc/systemd/system/,
+# Sync unit files from /root/betfair_profitbox/systemd_files/ to /etc/systemd/system/
 # then daemon-reload and enable/start them. Finally, print next run for each timer.
 
 set -euo pipefail
 
-SRC_DIR="/root/betting/systemd_files"
+SRC_DIR="/root/betfair_profitbox/systemd_files"
 DEST_DIR="/etc/systemd/system"
 
 # Must be root
@@ -49,6 +49,7 @@ for unit in "${UNITS[@]}"; do
   else
     echo "  ❗ could not start: $unit (check: systemctl status $unit)"
   fi
+
 done
 
 # --- Helper: print next run for a timer ---
