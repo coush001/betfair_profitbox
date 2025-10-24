@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 # deploy_systemd_units.sh
-# Sync unit files from /root/betting/systemd_files/ to /etc/systemd/system/,
+# Sync unit files from /root/betfair_profitbox/systemd_files/ to /etc/systemd/system/
 # then daemon-reload and enable/start them. Finally, print next run for each timer.
 
 set -euo pipefail
 
-SRC_DIR="/root/betting/systemd_files"
+SRC_DIR="/root/betfair_profitbox/systemd_files"
 DEST_DIR="/etc/systemd/system"
 
 # Must be root
@@ -22,7 +22,7 @@ fi
 
 # Find unit files (service/timer/path/socket/target)
 mapfile -t UNITS < <(find "$SRC_DIR" -maxdepth 1 -type f \
-  -regex '.*\.\(service\|timer\|path\|socket\|target\)$' \
+  -regex '.*\.(service|timer|path|socket|target)$' \
   -printf '%f\n' | sort)
 
 if [[ ${#UNITS[@]} -eq 0 ]]; then
@@ -49,6 +49,7 @@ for unit in "${UNITS[@]}"; do
   else
     echo "  ❗ could not start: $unit (check: systemctl status $unit)"
   fi
+
 done
 
 # --- Helper: print next run for a timer ---
