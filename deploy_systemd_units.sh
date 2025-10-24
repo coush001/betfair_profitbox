@@ -22,7 +22,7 @@ fi
 
 # Find unit files (service/timer/path/socket/target)
 mapfile -t UNITS < <(find "$SRC_DIR" -maxdepth 1 -type f \
-  -regex '.*\.(service|timer|path|socket|target)$' \
+  -regex '.*\.\(service\|timer\|path\|socket\|target\)$' \
   -printf '%f\n' | sort)
 
 if [[ ${#UNITS[@]} -eq 0 ]]; then
