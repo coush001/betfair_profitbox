@@ -13,7 +13,7 @@ WorkingDirectory=/root
 # Inline what you need:
 Environment="PYTHONUNBUFFERED=1" "PYTHONPATH=/root"
 # RUN AS MODULE so absolute imports work
-ExecStart=/root/betfair_profitbox/.venv/bin/python -u -m betting.jobs.2strat
+ExecStart=/root/betfair_profitbox/.venv/bin/python -u -m betfair_profitbox.jobs.2strat
 Restart=always
 RestartSec=5
 KillSignal=SIGINT

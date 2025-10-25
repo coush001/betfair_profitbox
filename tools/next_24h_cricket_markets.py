@@ -6,7 +6,9 @@ from dotenv import load_dotenv
 import os
 
 load_dotenv()
-
+print(os.getenv("BETFAIR_USERNAME"),
+    os.getenv("BETFAIR_PASSWORD"),)
+    
 client = bflw.APIClient(
     os.getenv("BETFAIR_USERNAME"),
     os.getenv("BETFAIR_PASSWORD"),

@@ -12,7 +12,7 @@ from flumine.order.trade import Trade
 from flumine.order.order import OrderStatus
 from flumine.order.ordertype import LimitOrder
 from flumine.utils import get_price
-from betting.strat_utils.setup_logging import build_logger
+from betfair_profitbox.strat_utils.setup_logging import build_logger
 from uuid import uuid4
 import time
 from datetime import timedelta, datetime, timezone

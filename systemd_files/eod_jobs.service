@@ -1,5 +1,5 @@
 [Unit]
-Description=Write daily trades per strat to store/report file
+Description=dump trades to csv;  gen daily trade charts;  archive md;  send email report.
 
 [Service]
 Type=oneshot
