@@ -16,3 +16,4 @@ poetry.toml
 anaconda*
 research/hist_data/self_recorded/
 research/hist_data
+aws

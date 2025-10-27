@@ -1,4 +1,4 @@
-#!/root/betfair_profitbox/betenv/bin/python3
+#!/root/betfair_profitbox/.venv/bin/python3
 import os, sys, subprocess, smtplib, ssl, mimetypes
 from email.message import EmailMessage
 from datetime import datetime, timezone
