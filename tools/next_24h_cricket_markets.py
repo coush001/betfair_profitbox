@@ -28,8 +28,8 @@ def ensure_utc(dt: datetime) -> datetime:
         return dt.replace(tzinfo=timezone.utc)
     return dt.astimezone(timezone.utc)
 
-now_utc   = datetime.now(timezone.utc)
-later_utc = now_utc + timedelta(hours=24)
+now_utc   = datetime.now(timezone.utc) - timedelta(hours=24)
+later_utc = now_utc + timedelta(hours=48)
 
 # --- REST filter: UTC window (Z-suffixed ISO strings) ---
 market_filter_raw = {

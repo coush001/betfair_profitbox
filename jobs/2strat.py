@@ -28,9 +28,6 @@ import traceback
 
 print("strat start")
 class FlumineStrat(BaseStrategy):
-    """
-    Example strateg
-    """
     def __init__(self, enter_threshold, exit_threshold, order_hold, price_add, log_root, log_level, *a, **k):
         self.log = build_logger(log_root,log_level)  # logs/trades.log, rotated nightly
         super().__init__(name="risk_backfave",*a, **k)
@@ -43,10 +40,10 @@ class FlumineStrat(BaseStrategy):
         self._last_matched = {}    # order_id -> last size_matched
         self.rows = []     # collected fills: [market_id, selection_id, time, size, price, side, order_id]
         self.pnl = 0.0     
-
+        print('its all innited')
 
     def add_market(self, market):
-        self.log.info("ADD", market.market_id, market.event_name, market.event_type_id)
+        self.log.info("ADDING MARKET :", market.market_id, market.event_name, market.event_type_id)
     
     def check_market_book(self, market, market_book):
         if market_book.status == "OPEN" and market_book.inplay:
@@ -105,6 +102,8 @@ class FlumineStrat(BaseStrategy):
     
     def process_market_book(self, market, market_book):
         try:
+
+
             if not self.startdt: self.startdt = market_book.publish_time
             elapsed = market_book.publish_time.timestamp() - self.startdt.timestamp()
             # self.log.debug(f"Process_market_book: {market.event_name} {market.market_id}, time elapsed {elapsed},  publishtime:{market_book.publish_time}")
@@ -216,8 +215,8 @@ trading.login()
 # ====== MINIMAL CHANGE: use a STREAMING filter with a tight rolling window ======
 
 
-now_utc = datetime.now(timezone.utc)
-to_utc  = now_utc + timedelta(hours=24)
+now_utc = datetime.now(timezone.utc) - timedelta(hours=24)
+to_utc  = now_utc + timedelta(hours=48)
 
 stream_filter = market_filter(
     event_type_ids=["4"],                # Cricket
@@ -268,6 +267,5 @@ strategy = FlumineStrat(
         log_level="I")
 
 framework.add_strategy(strategy)
+print("just framework.run is left ..")
 framework.run()
-
-

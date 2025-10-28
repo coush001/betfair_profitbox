@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 
 # -------- settings --------
 BASE = "/root/betfair_profitbox/research/hist_data/self_recorded"
-EVENT_TYPE_IDS = ["4"]   # e.g. 1=soccer, 4=tennis, 7=horse racing
+EVENT_TYPE_IDS = ["4", "7522", "2", "3"]   # e.g. 1=soccer, 4=tennis, 7=horse racing
 LOOKAHEAD_HOURS = 24
 MAX_MARKETS = 200
 GZIP_LEVEL = int(os.getenv("RECORDER_GZIP_LEVEL", "6"))  # 1=fast … 9=max compression
