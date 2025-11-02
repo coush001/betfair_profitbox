@@ -102,8 +102,6 @@ class FlumineStrat(BaseStrategy):
     
     def process_market_book(self, market, market_book):
         try:
-
-
             if not self.startdt: self.startdt = market_book.publish_time
             elapsed = market_book.publish_time.timestamp() - self.startdt.timestamp()
             # self.log.debug(f"Process_market_book: {market.event_name} {market.market_id}, time elapsed {elapsed},  publishtime:{market_book.publish_time}")
@@ -197,7 +195,6 @@ class FlumineStrat(BaseStrategy):
             self.log.info(f"Order PNL {order.profit}, av size matched: {order.size_matched} av price matched: {order.average_price_matched}, date_time_created: {order.date_time_created}")
         self.log.warning(f"Total pnl for market:{market.event_name}, {market.market_id}, : PNL :: {self.pnl}")
 
-
 #=========================
 
 # load .env
@@ -214,12 +211,11 @@ trading.login()
 
 # ====== MINIMAL CHANGE: use a STREAMING filter with a tight rolling window ======
 
-
-now_utc = datetime.now(timezone.utc) - timedelta(hours=24)
+now_utc = datetime.now(timezone.utc) - timedelta(hours=8)
 to_utc  = now_utc + timedelta(hours=48)
 
 stream_filter = market_filter(
-    event_type_ids=["4"],                # Cricket
+    event_type_ids=["1"],                # Cricket
     market_type_codes=["MATCH_ODDS"],
     market_countries=["IN", "AU", "GB"],
     market_start_time={
@@ -248,13 +244,12 @@ print(f"Markets matching filter (UTC window {now_utc} – {to_utc}):\n")
 for m in catalogues:
     print(f"{m.market_id}  {m.event.name}  {m.market_start_time.astimezone(timezone.utc)}")
 
-
 client  = clients.BetfairClient(trading, paper_trade=False)
 framework = Flumine(client)
 
 # ====== MINIMAL CHANGE: pass the streaming filter & data to the strategy ======
 strategy = FlumineStrat(   
-        market_filter=stream_filter,             # use streaming filter (time window, IN+GB)
+        market_filter=stream_filter,    # use streaming filter (time window, IN+GB)
         market_data_filter=stream_data,          # include EX_MARKET_DEF
         max_order_exposure=30,
         max_selection_exposure=30,
