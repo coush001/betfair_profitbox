@@ -259,7 +259,7 @@ strategy = FlumineStrat(
         order_hold=17,
         price_add=0.01,
         log_root="./logs/live_prod/",
-        log_level="I")
+        log_level="D")
 
 framework.add_strategy(strategy)
 print("just framework.run is left ..")
