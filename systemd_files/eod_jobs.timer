@@ -1,9 +1,9 @@
 [Unit]
-Description=Run eod_jobs.service daily at 22:30 UTC
+Description=Run eod_jobs.service daily at 23:50 UTC
 
 [Timer]
-# Run every day at 22:30 UTC (explicit UTC so DST/local TZ don't affect it)
-OnCalendar=*-*-* 22:30:00 UTC
+# Run every day at 23:50 UTC (explicit UTC so DST/local TZ don't affect it)
+OnCalendar=*-*-* 23:50:00 UTC
 Persistent=true
 Unit=eod_jobs.service
 # Optional jitter / precision:

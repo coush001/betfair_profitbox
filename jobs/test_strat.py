@@ -46,7 +46,7 @@ class FlumineStrat(BaseStrategy):
         # For debugging: accept ALL open books (pre-off + in-play)
         msg = f"[check_market_book] {market.market_id} status={market_book.status} inplay={market_book.inplay}"
         self.log.debug(msg)
-        return market_book.status == "OPEN" and market_book.inplay
+        return market_book.status == "OPEN"
 
     def _price_now(self, r):
         return r.last_price_traded
@@ -90,7 +90,7 @@ class FlumineStrat(BaseStrategy):
 
     def process_market_book(self, market, market_book):
         try:
-            self.log.info(
+            self.log.warning(
                 f"[process_market_book] {market.market_id} @ {market_market_time(market_book)} "
                 f"inplay={market_book.inplay}"
             )
@@ -270,14 +270,14 @@ trading = bflw.APIClient(
 trading.login()
 
 # ====== Time window ======
-now_utc = datetime.now(timezone.utc) - timedelta(hours=24)
-to_utc = now_utc + timedelta(hours=48)
+now_utc = datetime.now(timezone.utc) - timedelta(hours=1)
+to_utc = now_utc + timedelta(hours=24)
 
 # REST filter (for list_market_catalogue) – SIMPLE and RELAXED for debugging
 catalogue_filter = market_filter(
     event_type_ids=["4"],       # 1 = Soccer (change to 4 for Cricket)
     market_type_codes=["MATCH_ODDS"],
-    market_countries=["GB", "AU"],
+    market_countries=["GB"],
     market_start_time={
         "from": now_utc.isoformat(),
         "to": to_utc.isoformat(),
@@ -332,7 +332,7 @@ strategy = FlumineStrat(
     order_hold=17,
     price_add=0.01,
     log_root="./logs/live_prod/",
-    log_level="I",
+    log_level="D",
 )
 
 framework.add_strategy(strategy)

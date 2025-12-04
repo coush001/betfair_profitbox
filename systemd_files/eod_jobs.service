@@ -4,6 +4,7 @@ Description=dump trades to csv;  gen daily trade charts;  archive md;  send emai
 [Service]
 Type=oneshot
 WorkingDirectory=/root
+ExecStart=/bin/systemctl restart 2strat.service
 ExecStart=/root/betfair_profitbox/.venv/bin/python -u /root/betfair_profitbox/jobs/eod_dump_trades.py
 ExecStart=/root/betfair_profitbox/.venv/bin/python -u /root/betfair_profitbox/jobs/eod_gen_trade_charts.py
 ExecStart=/root/betfair_profitbox/jobs/eod_archive_md.sh
