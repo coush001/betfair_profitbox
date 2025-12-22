@@ -325,12 +325,12 @@ strategy = FlumineStrat(
     market_filter=streaming_filter,      # << IMPORTANT: dict with marketIds
     market_data_filter=stream_data,
     max_order_exposure=30,
-    max_selection_exposure=30,
+    max_selection_exposure=20,
     context={"stake": 2},
     enter_threshold=1.2,
     exit_threshold=6.5,
     order_hold=17,
-    price_add=0.01,
+    price_add=0.00,
     log_root="./logs/live_prod/",
     log_level="I",
 )
