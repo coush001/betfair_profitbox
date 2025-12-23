@@ -56,7 +56,9 @@ def attach_file(msg: EmailMessage, file_path: Path):
 def send_email(subject: str, body: str, attachments: list[Path] | None = None):
     msg = EmailMessage()
     msg["From"] = mail_from
-    msg["To"] = to+",mccoussens@gmail.com"+"Matthew.westby@allenovery.com"+"Matthew.westby@aoshearman.com"
+    recipients = [to, "mccoussens@gmail.com", "Matthew.westby@allenovery.com", "Matthew.westby@aoshearman.com"]
+    msg['To'] = ", ".join(recipients)
+    print(msg['To'])
     msg["Subject"] = subject
     msg.set_content(body)
 
