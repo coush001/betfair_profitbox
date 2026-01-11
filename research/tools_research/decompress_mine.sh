@@ -13,7 +13,7 @@
 
 set -euo pipefail
 
-BASE_DIR="/Users/hugocoussens/git/betfair_profitbox/research/hist_data/self_recorded"
+BASE_DIR="/Users/hcoussens/git/s3_data/"
 N_PREV=""
 SPORT_FILTER=""
 
