@@ -1,0 +1,4 @@
+status,bet_id,market_id,selection_id,handicap,side,avg_price_matched,size_matched,size_remaining,gross_profit,commission,net_pnl,mtm_green_pnl,placed_date,settled_date,customer_order_ref,customer_strategy_ref
+SETTLED,413630242682,1.252111716,51635549,0.0,BACK,1.07,2.0,0.0,0.14,0.0,0.14,,2025-12-30 17:01:30+00:00,2025-12-30 18:14:09+00:00,bcd7950339dcf-139864068902977582,risk_backfave
+SETTLED,413630339019,1.252111716,51635549,0.0,BACK,1.07,2.0,0.0,0.14,0.0,0.14,,2025-12-30 17:03:24+00:00,2025-12-30 18:14:09+00:00,bcd7950339dcf-139864070041435207,risk_backfave
+SETTLED,413624143813,1.252187948,26633413,0.0,BACK,4.0,1.0,0.0,3.0,0.0,3.0,,2025-12-30 15:28:28+00:00,2025-12-30 16:27:45+00:00,,
