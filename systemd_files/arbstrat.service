@@ -1,0 +1,22 @@
+# /etc/systemd/system/arbstrat.service
+[Unit]
+Description=Always-on arbstrat market scanner and execution service
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/root
+# EnvironmentFile=-/root/betfair_profitbox/.env
+Environment="PYTHONUNBUFFERED=1" "PYTHONPATH=/root"
+ExecStart=/root/betfair_profitbox/.venv/bin/python -u -m betfair_profitbox.jobs.arbstrat
+Restart=always
+RestartSec=30
+KillSignal=SIGINT
+TimeoutStopSec=30
+StandardOutput=journal
+StandardError=inherit
+
+[Install]
+WantedBy=multi-user.target

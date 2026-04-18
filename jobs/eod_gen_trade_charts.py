@@ -7,6 +7,7 @@ import os, json, math, tempfile, time, sys
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
+from matplotlib.lines import Line2D
 from datetime import datetime, timedelta, timezone
 from collections import defaultdict
 
@@ -364,9 +365,46 @@ except Exception as e:
     log(f"Cache write failed: {e}")
 
 # ========== PLOT ==========
-groups = list(df.groupby(["market_id", "selection_id"]))
+if "customer_strategy_ref" not in df.columns:
+    df["customer_strategy_ref"] = "UNKNOWN"
+else:
+    df["customer_strategy_ref"] = df["customer_strategy_ref"].fillna("UNKNOWN").astype(str)
+
+strategy_summary = {}
+strategy_order = []
+for strat, strat_df in df.groupby("customer_strategy_ref", sort=False):
+    bets = len(strat_df)
+    total_pnl = strat_df["net_pnl"].sum() if "net_pnl" in strat_df.columns else 0.0
+    markets = strat_df["market_id"].nunique()
+    total_exposure = strat_df["size_matched"].fillna(0.0).abs().sum() if "size_matched" in strat_df.columns else 0.0
+    avg_exposure = total_exposure / markets if markets else 0.0
+    strategy_summary[strat] = {
+        "bets": bets,
+        "total_pnl": total_pnl,
+        "markets": markets,
+        "total_exposure": total_exposure,
+        "avg_exposure": avg_exposure,
+    }
+    strategy_order.append(strat)
+
+strategy_labels = [str(s) for s in strategy_order if str(s).strip()]
+strategy_label = ", ".join(strategy_labels) if strategy_labels else "UNKNOWN"
+
+strategy_pairs = []
+for strat in strategy_order:
+    strat_df = df[df["customer_strategy_ref"] == strat]
+    pairs = sorted({
+        (mid, int(sel))
+        for mid, sel in strat_df.groupby(["market_id", "selection_id"]).groups.keys()
+    })
+    for mid, sid in pairs:
+        strategy_pairs.append((strat, mid, sid))
+
+groups = [((strat, mid, sid), df[(df["customer_strategy_ref"] == strat) & (df["market_id"] == mid) & (df["selection_id"] == sid)])
+          for strat, mid, sid in strategy_pairs]
+
 n = len(groups)
-log(f"Preparing plot panels: {n}")
+log(f"Preparing plot panels: {n} (grouped by strategy)")
 if n == 0:
     raise SystemExit("No qualifying trades to plot.")
 
@@ -375,7 +413,10 @@ nrows = math.ceil(n / ncols)
 fig, axes = plt.subplots(nrows=nrows, ncols=ncols, figsize=(6*ncols, 3.8*nrows), squeeze=False)
 axes = axes.flatten()
 
-fig.suptitle(f"Trades for Runners Settled on {TODAY}", y=0.995)
+fig.suptitle(
+    f"Trades for Runners Settled on {TODAY} · strategies: {strategy_label}",
+    y=0.995,
+)
 
 major_locator = mdates.AutoDateLocator(minticks=4, maxticks=8)
 major_formatter = mdates.ConciseDateFormatter(major_locator)
@@ -385,7 +426,14 @@ if span_hours <= 900:
     target_minor_ticks = 200
     minor_hour_interval = max(1, int(math.ceil(span_hours / target_minor_ticks)))
 
-for idx, ((mid, sid), g) in enumerate(groups):
+strategy_start_indices = {}
+prev_strategy = None
+for idx, ((strategy, mid, sid), g) in enumerate(groups):
+    if strategy != prev_strategy:
+        strategy_start_indices[strategy] = idx
+        prev_strategy = strategy
+
+for idx, ((strategy, mid, sid), g) in enumerate(groups):
     ax = axes[idx]
     backs = g[g["side"].str.upper() == "BACK"]
     lays  = g[g["side"].str.upper() == "LAY"]
@@ -409,6 +457,24 @@ for idx, ((mid, sid), g) in enumerate(groups):
     mid_s, sid_i = norm_mid(mid), int(sid)
     event_nm  = market_event_name.get(mid_s, "Unknown Event")
     runner_nm = market_runner_name.get(mid_s, {}).get(sid_i, f"Selection {sid_i}")
+
+    if strategy_start_indices.get(strategy) == idx:
+        strategy_text = (
+            f"Strategy: {strategy}\n"
+            f"bets={strategy_summary[strategy]['bets']}, pnl={strategy_summary[strategy]['total_pnl']:.2f}\n"
+            f"markets={strategy_summary[strategy]['markets']}, total exp={strategy_summary[strategy]['total_exposure']:.2f}\n"
+            f"avg exp/market={strategy_summary[strategy]['avg_exposure']:.2f}"
+        )
+        ax.text(
+            0.01,
+            0.98,
+            strategy_text,
+            transform=ax.transAxes,
+            ha="left",
+            va="top",
+            fontsize=7,
+            bbox={"facecolor": "white", "alpha": 0.85, "edgecolor": "black", "boxstyle": "round,pad=0.3"},
+        )
 
     # Winner badge & color
     winners = market_winners.get(mid_s, set())
@@ -436,7 +502,7 @@ for idx, ((mid, sid), g) in enumerate(groups):
     ax.grid(True, alpha=0.3, which="both")
 
     ax.set_title(
-        f"{event_nm}\n{runner_nm} {badge}\nmarket_id={mid_s} (trades={trades_ct}, net_pnl={total_net:.2f})",
+        f"{event_nm}\n{runner_nm} {badge}\nstrategy={strategy}\nmarket_id={mid_s} (trades={trades_ct}, net_pnl={total_net:.2f})",
         fontsize=9, **title_kwargs
     )
     ax.legend(loc="best", fontsize=8)
@@ -446,6 +512,14 @@ for j in range(idx + 1, len(axes)):
     axes[j].set_visible(False)
 
 plt.tight_layout(rect=[0, 0, 1, 0.97])
+fig.canvas.draw()
+for strategy, start_idx in strategy_start_indices.items():
+    if start_idx == 0:
+        continue
+    if start_idx < len(axes):
+        y = axes[start_idx].get_position().y1 + 0.005
+        line = Line2D([0.01, 0.99], [y, y], transform=fig.transFigure, color="black", linewidth=1, alpha=0.6)
+        fig.add_artist(line)
 fig.savefig(OUT_IMG, dpi=150)
 log(f"Saved figure → {OUT_IMG}")
 print(f"✅ Saved figure: {OUT_IMG}")

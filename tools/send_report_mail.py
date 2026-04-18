@@ -56,7 +56,10 @@ def attach_file(msg: EmailMessage, file_path: Path):
 def send_email(subject: str, body: str, attachments: list[Path] | None = None):
     msg = EmailMessage()
     msg["From"] = mail_from
-    recipients = [to, "mccoussens@gmail.com"]
+    recipients = [to]
+    now_hour = datetime.now(timezone.utc).hour
+    if 23 <= now_hour or now_hour < 3:
+        recipients.append("mccoussens@gmail.com")
     msg['To'] = ", ".join(recipients)
     print(msg['To'])
     msg["Subject"] = subject
