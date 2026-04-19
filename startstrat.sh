@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-SERVICE_ACTIONS=(start stop restart status enable disable)
 DEFAULT_PROMPT_STRAT="2strat"
 
 function prompt_choice() {
@@ -46,30 +45,28 @@ function print_service_info() {
 function run_action() {
   local service="$1"
   local action="$2"
-  local cmd
-  if [[ $(id -u) -ne 0 ]]; then
-    cmd=(sudo systemctl "$action" "$service")
+  if [[ "$action" == "on" ]]; then
+    echo
+    echo ">>> Enabling and starting: $service"
+    if [[ $(id -u) -ne 0 ]]; then
+      sudo systemctl enable "$service" && sudo systemctl start "$service"
+    else
+      systemctl enable "$service" && systemctl start "$service"
+    fi
+  elif [[ "$action" == "off" ]]; then
+    echo
+    echo ">>> Disabling and stopping: $service"
+    if [[ $(id -u) -ne 0 ]]; then
+      sudo systemctl stop "$service" && sudo systemctl disable "$service"
+    else
+      systemctl stop "$service" && systemctl disable "$service"
+    fi
   else
-    cmd=(systemctl "$action" "$service")
-  fi
-
-  echo
-  echo ">>> Running: ${cmd[*]}"
-  if ! "${cmd[@]}"; then
-    echo "Warning: command failed: ${cmd[*]}"
+    echo "Invalid action: $action (use 'on' or 'off')"
+    return 1
   fi
   echo
   print_service_info "$service"
-}
-
-function valid_action() {
-  local action="$1"
-  for a in "${SERVICE_ACTIONS[@]}"; do
-    if [[ "$a" == "$action" ]]; then
-      return 0
-    fi
-  done
-  return 1
 }
 
 while true; do
@@ -80,16 +77,20 @@ while true; do
 
   action=""
   while [[ -z "$action" ]]; do
-    action=$(prompt_choice "Action (${SERVICE_ACTIONS[*]})? " "")
-    if ! valid_action "$action"; then
-      echo "Invalid action: $action"
-      action=""
-    fi
+    action=$(prompt_choice "Turn [on], [off], or check [status]? (on/off/status) " "")
+    case "$action" in
+      on|off|status ) ;;
+      * ) echo "Invalid action: $action"; action="";;
+    esac
   done
 
-  run_action "$service_name" "$action"
+  if [[ "$action" == "status" ]]; then
+    print_service_info "$service_name"
+  else
+    run_action "$service_name" "$action"
+  fi
 
-  again=$(prompt_choice "Do another action? (y/N) " "N")
+  again=$(prompt_choice "Do another strat? (y/N) " "N")
   case "$again" in
     [Yy]* ) continue;;
     * ) echo "Exiting."; break;;

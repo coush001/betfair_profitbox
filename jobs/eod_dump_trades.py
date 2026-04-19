@@ -19,11 +19,12 @@ Usage:
 Output:
   CSVs → /root/betfair_profitbox/store/trade_csv/YYYY-MM-DD.csv
 """
-import os, sys, argparse, datetime as dt, warnings, shutil, tempfile
+import os, sys, argparse, datetime as dt, warnings, shutil, tempfile, time
 from collections import defaultdict
 import pandas as pd
 from dotenv import load_dotenv
 from betfairlightweight import APIClient, filters
+from betfairlightweight.exceptions import APIError
 
 warnings.filterwarnings("ignore", category=FutureWarning)
 
@@ -81,7 +82,7 @@ def fetch_settled(client, start_utc, end_utc) -> pd.DataFrame:
             "placed_date": getattr(o, "placed_date", None),
             "settled_date": getattr(o, "settled_date", None),
             "customer_order_ref": getattr(o, "customer_order_ref", None),
-            "customer_strategy_ref": getattr(o, "customer_strategy_ref", None),
+            "customer_strategy_ref": normalise_strategy_ref(getattr(o, "customer_strategy_ref", None)),
             "gross_profit": getattr(o, "profit", 0.0) or 0.0,
             "commission": getattr(o, "commission", 0.0) or 0.0,
         })
@@ -89,6 +90,13 @@ def fetch_settled(client, start_utc, end_utc) -> pd.DataFrame:
     if not df.empty:
         df["net_pnl"] = df["gross_profit"] - df["commission"]
     return df
+
+def normalise_strategy_ref(value):
+    if value is None:
+        return "MISSING_TAG_STRAT"
+    value = str(value).strip()
+    return value if value else "MISSING_TAG_STRAT"
+
 
 def _iter_current_orders(resp):
     if resp is None: return []
@@ -131,7 +139,7 @@ def fetch_current_matched(client, start_utc, end_utc) -> pd.DataFrame:
             "placed_date": getattr(o, "placed_date", None),
             "settled_date": None,
             "customer_order_ref": getattr(o, "customer_order_ref", None),
-            "customer_strategy_ref": getattr(o, "customer_strategy_ref", None),
+            "customer_strategy_ref": normalise_strategy_ref(getattr(o, "customer_strategy_ref", None)),
             "gross_profit": None,
             "commission": None,
             "net_pnl": None,
@@ -143,10 +151,32 @@ def market_price_map(client, market_ids):
     out = defaultdict(dict)
     if not market_ids: return out
     price_proj = filters.price_projection(price_data=["EX_BEST_OFFERS", "EX_TRADED"])
-    MID_CHUNK = 20
+    MID_CHUNK = 12
+    MAX_RETRIES = 3
     for i in range(0, len(market_ids), MID_CHUNK):
         mids = market_ids[i:i+MID_CHUNK]
-        books = client.betting.list_market_book(market_ids=mids, price_projection=price_proj)
+        retries = 0
+        while True:
+            try:
+                books = client.betting.list_market_book(market_ids=mids, price_projection=price_proj)
+                break
+            except APIError as e:
+                retries += 1
+                err = getattr(e, 'error', None) or {}
+                code = err.get('code') if isinstance(err, dict) else None
+                data = err.get('data') if isinstance(err, dict) else None
+                error_code = None
+                if isinstance(data, dict):
+                    aping = data.get('APINGException') or {}
+                    error_code = aping.get('errorCode')
+                if error_code == 'TOO_MUCH_DATA' and retries < MAX_RETRIES:
+                    wait = 2 ** retries
+                    print(f"TOO_MUCH_DATA on market chunk {i}:{i+MID_CHUNK}, retrying in {wait}s...")
+                    time.sleep(wait)
+                    continue
+                print(f"list_market_book failed for chunk {i}:{i+MID_CHUNK}: {e}")
+                books = []
+                break
         for mb in (books or []):
             mid = mb.market_id
             for r in (mb.runners or []):
