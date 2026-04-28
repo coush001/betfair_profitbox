@@ -1,6 +1,6 @@
-# /etc/systemd/system/4strat.service
+# /etc/systemd/system/strat_arb.service
 [Unit]
-Description=Always-on 4strat (latent microstructure anomaly strategy)
+Description=Always-on strat_arb market scanner and execution service
 After=network-online.target
 Wants=network-online.target
 
@@ -10,9 +10,9 @@ User=root
 WorkingDirectory=/root
 # EnvironmentFile=-/root/betfair_profitbox/.env
 Environment="PYTHONUNBUFFERED=1" "PYTHONPATH=/root"
-ExecStart=/root/betfair_profitbox/.venv/bin/python -u -m betfair_profitbox.jobs.4strat
+ExecStart=/root/betfair_profitbox/.venv/bin/python -u -m betfair_profitbox.jobs.strat_arb
 Restart=always
-RestartSec=5
+RestartSec=30
 KillSignal=SIGINT
 TimeoutStopSec=30
 StandardOutput=journal

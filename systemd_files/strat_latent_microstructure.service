@@ -1,6 +1,6 @@
-# /etc/systemd/system/2strat.service
+# /etc/systemd/system/strat_latent_microstructure.service
 [Unit]
-Description=Always-on 2strat (package mode)
+Description=Always-on strat_latent_microstructure (latent microstructure anomaly strategy)
 After=network-online.target
 Wants=network-online.target
 
@@ -8,12 +8,9 @@ Wants=network-online.target
 Type=simple
 User=root
 WorkingDirectory=/root
-# Drop the file dependency unless you actually use it
 # EnvironmentFile=-/root/betfair_profitbox/.env
-# Inline what you need:
 Environment="PYTHONUNBUFFERED=1" "PYTHONPATH=/root"
-# RUN AS MODULE so absolute imports work
-ExecStart=/root/betfair_profitbox/.venv/bin/python -u -m betfair_profitbox.jobs.2strat
+ExecStart=/root/betfair_profitbox/.venv/bin/python -u -m betfair_profitbox.jobs.strat_latent_microstructure
 Restart=always
 RestartSec=5
 KillSignal=SIGINT
@@ -23,4 +20,3 @@ StandardError=inherit
 
 [Install]
 WantedBy=multi-user.target
-

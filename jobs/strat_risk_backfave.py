@@ -20,7 +20,7 @@ from betfair_profitbox.strat_utils.setup_logging import build_logger
 
 print("Strat imports done")
 
-class FlumineStrat(BaseStrategy):
+class RiskBackfave(BaseStrategy):
     def __init__(self, enter_threshold, exit_threshold, order_hold, price_add,
                  log_root, log_level, *a, **k):
         self.log = build_logger(log_root, log_level)
@@ -46,7 +46,7 @@ class FlumineStrat(BaseStrategy):
         # For debugging: accept ALL open books (pre-off + in-play)
         msg = f"[check_market_book] {market.market_id} status={market_book.status} inplay={market_book.inplay}"
         self.log.debug(msg)
-        return market_book.status == "OPEN"
+        return market_book.status == "OPEN" and market_book.inplay
 
     def _price_now(self, r):
         return r.last_price_traded
@@ -90,7 +90,7 @@ class FlumineStrat(BaseStrategy):
 
     def process_market_book(self, market, market_book):
         try:
-            self.log.warning(
+            self.log.info(
                 f"[process_market_book] {market.market_id} @ {market_market_time(market_book)} "
                 f"inplay={market_book.inplay}"
             )
@@ -270,14 +270,14 @@ trading = bflw.APIClient(
 trading.login()
 
 # ====== Time window ======
-now_utc = datetime.now(timezone.utc) - timedelta(hours=1)
-to_utc = now_utc + timedelta(hours=24)
+now_utc = datetime.now(timezone.utc) - timedelta(hours=24)
+to_utc = now_utc + timedelta(hours=48)
 
 # REST filter (for list_market_catalogue) – SIMPLE and RELAXED for debugging
 catalogue_filter = market_filter(
     event_type_ids=["4"],       # 1 = Soccer (change to 4 for Cricket)
     market_type_codes=["MATCH_ODDS"],
-    market_countries=["GB"],
+    market_countries=["GB", "AU"],
     market_start_time={
         "from": now_utc.isoformat(),
         "to": to_utc.isoformat(),
@@ -321,18 +321,18 @@ stream_data = streaming_market_data_filter(
 client = clients.BetfairClient(trading, paper_trade=False)
 framework = Flumine(client)
 
-strategy = FlumineStrat(
+strategy = RiskBackfave(
     market_filter=streaming_filter,      # << IMPORTANT: dict with marketIds
     market_data_filter=stream_data,
     max_order_exposure=30,
-    max_selection_exposure=30,
+    max_selection_exposure=20,
     context={"stake": 2},
     enter_threshold=1.2,
     exit_threshold=6.5,
     order_hold=17,
-    price_add=0.01,
+    price_add=0.00,
     log_root="./logs/live_prod/",
-    log_level="D",
+    log_level="I",
 )
 
 framework.add_strategy(strategy)

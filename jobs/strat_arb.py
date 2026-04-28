@@ -13,7 +13,7 @@ from dotenv import load_dotenv
 
 
 def build_logger():
-    logger = logging.getLogger("arbstrat")
+    logger = logging.getLogger("strat_arb")
     logger.setLevel(logging.INFO)
     handler = logging.StreamHandler(sys.stdout)
     handler.setFormatter(logging.Formatter("%(asctime)s | %(levelname)s | %(message)s"))
@@ -36,7 +36,7 @@ class ArbStrat:
     HIGH_ACTIVITY_SCAN_SECONDS = 10
     DAILY_LOOKBACK_HOURS = 24
     WEEK_LOOKBACK_DAYS = 7
-    CUSTOMER_STRATEGY_REF = "arbstrat"
+    CUSTOMER_STRATEGY_REF = "strat_arb"
     ARB_SPORTS_PATH = Path("/root/betfair_profitbox/arb_sports.csv")
     ARB_SPORTS_FIELDS = [
         "timestamp",
@@ -71,7 +71,7 @@ class ArbStrat:
         }
 
     def run(self):
-        self.logger.info("Starting arbstrat scanner")
+        self.logger.info("Starting strat_arb scanner")
         while True:
             now_utc = datetime.now(timezone.utc)
             due_event_types = [
@@ -401,7 +401,7 @@ class ArbStrat:
                 },
             })
 
-        customer_ref = f"arbstrat-multi-{market_id}-{int(time.time())}"
+        customer_ref = f"strat_arb-multi-{market_id}-{int(time.time())}"
         self.logger.warning(
             "Placing multi-outcome arb in market %s (%s): edge=%s profit=%s",
             market_id,
@@ -446,7 +446,7 @@ class ArbStrat:
                 },
             },
         ]
-        customer_ref = f"arbstrat-{market_id}-{int(time.time())}"
+        customer_ref = f"strat_arb-{market_id}-{int(time.time())}"
         try:
             self.logger.info(
                 "Placing arb orders for market %s (%s): back %s @%s, lay %s @%s",
@@ -608,7 +608,7 @@ class ArbStrat:
             result = self.api_client.betting.place_orders(
                 market_id=market_id,
                 instructions=instructions,
-                customer_ref=f"arbstrat-hedge-{market_id}-{selection_id}-{int(time.time())}",
+                customer_ref=f"strat_arb-hedge-{market_id}-{selection_id}-{int(time.time())}",
                 customer_strategy_ref=self.CUSTOMER_STRATEGY_REF,
             )
             self.logger.info("Placed hedge order for market %s runner %s: %s", market_id, selection_id, result)

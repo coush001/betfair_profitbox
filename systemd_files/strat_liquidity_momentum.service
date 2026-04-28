@@ -1,6 +1,6 @@
-# /etc/systemd/system/arbstrat.service
+# /etc/systemd/system/strat_liquidity_momentum.service
 [Unit]
-Description=Always-on arbstrat market scanner and execution service
+Description=Always-on strat_liquidity_momentum (liquidity momentum strategy)
 After=network-online.target
 Wants=network-online.target
 
@@ -10,9 +10,9 @@ User=root
 WorkingDirectory=/root
 # EnvironmentFile=-/root/betfair_profitbox/.env
 Environment="PYTHONUNBUFFERED=1" "PYTHONPATH=/root"
-ExecStart=/root/betfair_profitbox/.venv/bin/python -u -m betfair_profitbox.jobs.arbstrat
+ExecStart=/root/betfair_profitbox/.venv/bin/python -u -m betfair_profitbox.jobs.strat_liquidity_momentum
 Restart=always
-RestartSec=30
+RestartSec=5
 KillSignal=SIGINT
 TimeoutStopSec=30
 StandardOutput=journal

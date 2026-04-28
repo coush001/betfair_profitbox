@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-DEFAULT_PROMPT_STRAT="2strat"
+DEFAULT_PROMPT_STRAT="strat_risk_backfave"
 
 function prompt_choice() {
   local prompt="$1"
@@ -71,7 +71,7 @@ function run_action() {
 
 while true; do
   echo
-  echo "Available strategies: 2strat, 3strat, 4strat, arbstrat"
+  echo "Available strategies: strat_risk_backfave, strat_liquidity_momentum, strat_latent_microstructure, strat_arb"
   strat=$(prompt_choice "Which strat? [default: $DEFAULT_PROMPT_STRAT] " "$DEFAULT_PROMPT_STRAT")
   service_name=$(normalize_service_name "$strat")
 
